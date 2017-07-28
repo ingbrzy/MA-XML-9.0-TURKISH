@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="Add_More_Ringtones">Fazla Zil Sesi...</string>
+  <string name="app_label">Medya Depolaması</string>
+  <string name="artist_label">Sanatçı</string>
+  <string name="drm_licensed_message">Zil sesi veya bildirim uyarısı olarak DRM korumalı içeriği ayarlamak için açılamıyor</string>
+  <string name="root_audio">Ses</string>
+  <string name="root_images">Resimler</string>
+  <string name="root_videos">Videolar</string>
+  <string name="uid_label">Medya</string>
+  <string name="upgrade_msg">Medya veritabanı güncelleniyor.</string>
+</resources>

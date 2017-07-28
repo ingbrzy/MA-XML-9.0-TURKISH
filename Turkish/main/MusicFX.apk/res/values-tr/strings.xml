@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">MusicFX</string>
+  <string name="bass_boost_strength">Bası Güçlendir</string>
+  <string name="ci_extreme">Elektronik</string>
+  <string name="classical">Klasik</string>
+  <string name="combo_device">Etkiler sadece kulaklık oynatmada desteklendi.</string>
+  <string name="dance">Dans</string>
+  <string name="eq_custom">Özel seçeneğini kişiselleştirin</string>
+  <string name="eq_dialog_title">Snapdragon Audio+</string>
+  <string name="flat">Düz</string>
+  <string name="folk">Folk</string>
+  <string name="headset_plug">Bu etkiler için kulaklık takın.</string>
+  <string name="heavy_metal">Heavy Metal</string>
+  <string name="hip_hop">Hip Hop</string>
+  <string name="jazz">Caz</string>
+  <string name="largehall">Büyük Salon</string>
+  <string name="largeroom">Büyük Oda</string>
+  <string name="main_toggle_effects_title">Ses Efekleri</string>
+  <string name="mediumhall">Orta Salon</string>
+  <string name="mediumroom">Orta Oda</string>
+  <string name="no_effects">Efektler mevcut değil.</string>
+  <string name="none">Yok</string>
+  <string name="normal">Normal</string>
+  <string name="picker_title">Müzik Efekti Denetimleri</string>
+  <string name="plate">Plaka</string>
+  <string name="pop">Pop</string>
+  <string name="power_on_prompt">Sağ üst güç düğmesine basın.</string>
+  <string name="pr_dialog_title">Yankı Ayarı</string>
+  <string name="pr_summary">Ek Oda Yankı Efektleri</string>
+  <string name="pr_title">Yankı:</string>
+  <string name="rock">Rock</string>
+  <string name="setup">Yükle</string>
+  <string name="smallroom">Küçük Oda</string>
+  <string name="toggle_button_off">Kapat</string>
+  <string name="toggle_button_on">Aç</string>
+  <string name="user">Özel</string>
+  <string name="virtualizer_strength">Çevresel Ses</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_theme_setting">
+        <item>Beyaz</item>
+        <item>Sarı</item>
+        <item>Gri</item>
+        <item>Kahverengi</item>
+        <item>Yeşil</item>
+        <item>Mavi</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_gesture_entries">
+        <item>Önceki Sayfa</item>
+        <item>Sekmeye Geç</item>
+        <item>Yok</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>Başlangıç Sayfası</item>
+        <item>Özel</item>
+        </string-array>
+        <string-array name="pref_nav_mode_summary">
+        <item>Telefon</item>
+        <item>Pad</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>Çok Küçük</item>
+        <item>Küçük</item>
+        <item>Normal</item>
+        <item>Büyük</item>
+        <item>Çok Büyük</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>Masaüstü</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="shortcut_dialog_delete">
+        <item>Sil</item>
+        <item>Hayır, teşekkürler</item>
+        </string-array>
+    <string-array name="shortcut_dialog_keep">
+        <item>Tamam</item>
+        <item>Takip et</item>
+    </string-array>
+    <string-array name="shortcut_dialog_title">
+        <item>Tarayıcının Mesajı</item>
+        <item>Mi ile Olypmpics Takibi</item>
+    </string-array>
+</resources>

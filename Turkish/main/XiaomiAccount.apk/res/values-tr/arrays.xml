@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="passport_alphabet_table">
+        <item>\#</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Erkek</item>
+        <item>Kadın</item>
+    </string-array>
+    <string-array name="education">
+        <item>Ortaokul</item>
+        <item>Hazırlık Okulu</item>
+        <item>Yüksek Okul</item>
+        <item>Meslek Yüksek Okulu</item>
+        <item>Kolej</item>
+        <item>Yüksek Lisans</item>
+        <item>Doktora Derecesi</item>
+    </string-array>
+    <string-array name="income">
+        <item>&lt; 2000</item>
+        <item>2001~4000</item>
+        <item>4001~6000</item>
+        <item>6001~8000</item>
+        <item>8001~12000</item>
+        <item>> 12000</item>
+    </string-array>
+    <string-array name="question_no1">
+        <item>Aile</item>
+        <item>Annenin Kızlık Soyadı</item>
+        <item>Büyükbabanızın adı</item>
+        <item>Babanızın Mesleği</item>
+        <item>Anneannenizin Adı</item>
+        <item>"Babanın Doğum Günü"</item>
+        <item>Annenin Doğum Günü</item>
+        <item>Eşinizin Doğum Tarihi  (Yıl ve ay)</item>
+    </string-array>
+    <string-array name="question_no2">
+        <item>Eğitim</item>
+        <item>En sevdiğiniz öğretmenin adı neydi?</item>
+        <item>İlkokulu nerede okudunuz?</item>
+        <item>Üniversitedeki öğrenci kimlik numaranız neydi?</item>
+        <item>Üniversitedeki oda arkadaşının adı nedir?</item>
+        <item>Üniversitenin rektörünün adı nedir?</item>
+    </string-array>
+    <string-array name="question_no3">
+        <item>Kişisel Bilgi</item>
+        <item>Aile arasında lakabınız nedir?</item>
+        <item>Pasaport numaranızın son 6 hanesi nedir?</item>
+        <item>Hangi ilçede doğdunuz?</item>
+        <item>En iyi arkadaşının adı nedir?</item>
+    </string-array>
+    <string-array name="question_no4">
+        <item>İlk kez</item>
+        <item>İlk evcil hayvanınızın adı nedir?</item>
+        <item>İlk arkadaşınızın adı nedir?</item>
+        <item>İlk çalıştığınız şirketin adı neydi?</item>
+    </string-array>
+    <string-array name="question_no5">
+        <item>Evlilik</item>
+        <item>Hangi yıl evlendin?</item>
+        <item>Eşinizin adı nedir?</item>
+        <item>Eşinizin doğum günü hangi tarihtir?</item>
+    </string-array>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stat_volume_button_behaviors">
+        <item>Yok</item>
+        <item>Sonraya Ertele</item>
+        <item>Kapalı</item>
+    </string-array>
+    <string-array name="alarm_in_furture">
+        <item>Alarma 1 dakikadan az kaldı</item>
+        <item>Alarma %1$s kaldı</item>
+        <item>Alarma %2$s kaldı</item>
+        <item>Alarma %1$s %2$s kaldı</item>
+        <item>Alarma %3$s kaldı</item>
+        <item>Alarma %1$s %3$s kaldı</item>
+        <item>Alarma %2$s %3$s kaldı</item>
+        <item>Alarma %1$s %2$s %3$s kaldı</item>
+    </string-array>
+    <string-array name="days">
+        <item>Dün</item>
+        <item>Bugün</item>
+        <item>Yarın</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Birkez</item>
+        <item>Günlük</item>
+        <item>Mesai Günleri</item>
+        <item>Tatil Günleri</item>
+        <item>Pazartesi-Cuma</item>
+        <item>Özel</item>
+    </string-array>
+	<string-array name="alarm_repeat_type_no_workdays">
+        <item>Birkez</item>
+        <item>Günlük</item>
+        <item>Pazartesi-Cuma</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Alarm 1 dak. az süre içinde kapatılacak.</item>
+        <item>Alarm %1$s sonra kapatılacak.</item>
+        <item>Alarm %2$s sonra kapatılacak.</item>
+        <item>Alarm %1$s %2$s sonra kapatılacak.</item>
+        <item>Alarm %3$s sonra kapatılacak.</item>
+        <item>Alarm %1$s %3$s sonra kapatılacak.</item>
+        <item>Alarm %2$s %3$s sonra kapatılacak.</item>
+        <item>Alarm %1$s %2$s %3$s sonra kapatılacak.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>15 dakika</item>
+        <item>20 dakika</item>
+        <item>25 dakika</item>
+        <item>30 dakika</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Asla</item>
+        <item>1 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>15 dakika</item>
+        <item>20 dakika</item>
+        <item>25 dakika</item>
+        <item>30 dakika</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Birşey yapma</item>
+        <item>Ertele</item>
+        <item>Kapat</item>
+    </string-array>
+</resources>

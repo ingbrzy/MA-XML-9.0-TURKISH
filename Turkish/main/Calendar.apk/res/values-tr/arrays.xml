@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_labels">
+        <item>Marshall Adaları</item>
+        <item>Midway Adası</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Pasifik Zamanı</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Mountain Zamanı</item>
+        <item>Orta Amerika</item>
+        <item>Merkez Zamanı</item>
+        <item>Meksika City</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Ortadoğu Zamanı</item>
+        <item>Venezuela</item>
+        <item>Atlantik Zamanı (Barbados)</item>
+        <item>Atlantik Zamanı (Canada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brezilya</item>
+        <item>Buenos Aires</item>
+        <item>Greenland</item>
+        <item>Montevideo</item>
+        <item>Mid-Atlantik</item>
+        <item>Azores</item>
+        <item>Cape Verde Islands</item>
+        <item>Casablanca</item>
+        <item>London, Dublin</item>
+        <item>Amsterdam, Berlin</item>
+        <item>Belgrade</item>
+        <item>Brüksel</item>
+        <item>Saraybosna</item>
+        <item>Windhoek</item>
+        <item>W. Africa Zamanı</item>
+        <item>Amman, Ürdün</item>
+        <item>Atina, Istanbul</item>
+        <item>Beyrut, Lübnan</item>
+        <item>Kahire</item>
+        <item>Helsinki</item>
+        <item>Küdüs</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bağdat</item>
+        <item>Moskava</item>
+        <item>Kuveyt</item>
+        <item>Nairobi</item>
+        <item>Tahran</item>
+        <item>Bakü</item>
+        <item>Tiflis</item>
+        <item>Erivan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>İslamabad, Karaçi</item>
+        <item>"Ural'sk"</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Beijing</item>
+        <item>Hong Kong</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seul</item>
+        <item>Tokyo, Osaka</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney, Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="reminder_methods_labels">
+        <item>Bildirim</item>
+        <item>E-posta</item>
+        <item>SMS</item>
+        <item>Alarm</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>Hatırlatıcısız</item>
+        <item>0 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>15 dakika</item>
+        <item>30 dakika</item>
+        <item>1 saat</item>
+        <item>1 gün</item>
+        <item>2 gün</item>
+        <item>1 hafta</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Meşgul</item>
+        <item>Uygun</item>
+        <item>Belirsiz</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Varsayılan</item>
+        <item>Özel</item>
+        <item>Genel</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>Son</item>
+    </string-array>
+        <string-array name="response_labels1">
+        <item>(Cevapsız)</item>
+        <item>Evet</item>
+        <item>Belki</item>
+        <item>Hayır</item>
+    </string-array>
+     <string-array name="delete_repeating_labels">
+        <item>Sadece bu faaliyette</item>
+        <item>Bu ve gelecek faaliyetlerde</item>
+        <item>Tüm faaliyetlerde</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Sadece bu faaliyette</item>
+        <item>Tüm faaliyetler esnasında</item>
+    </string-array>
+    <string-array name="fortune_gender">
+        <item>Erkek</item>
+        <item>Kadın</item>
+    </string-array>
+    <string-array name="summary_card_text_chain">
+        <item>【Kanala Abone Ol】Hizmetler veya takvim özelliklerine abone et</item>
+        <item>【Abone】Takvimi isteğinize göre özelleştirin</item>
+        <item>【Kanala Abone Ol】Hizmetler veya takvim özelliklerine abone et</item>
+        <item>【Kanala Abone Ol】Farklı hizmetler veya takvim özelliklerini bul</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Şeffaf</item>
+        <item>Beyaz Arkaplan</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Varsayılan Bölge</item>
+        <item>Cumartesi</item>
+        <item>Pazar</item>
+        <item>Pazartesi</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Daima</item>
+        <item>Sadece zil sessizde iken</item>
+        <item>Asla</item>
+    </string-array>
+    <string-array name="travel_reminder_minutes_labels">
+        <item>3 saat önce</item>
+        <item>4 saat önce</item>
+        <item>5 saat önce</item>
+        <item>6 saat önce</item>
+        <item>1 gün önce</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>gün</item>
+        <item>hafta</item>
+        <item>ay</item>
+        <item>yıl</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner_plural">
+        <item>gün</item>
+        <item>hafta</item>
+        <item>ay</item>
+        <item>yıl</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>10.</item>
+        <item>11.</item>
+        <item>12.</item>
+        <item>13.</item>
+        <item>14.</item>
+        <item>15.</item>
+        <item>16.</item>
+        <item>17.</item>
+        <item>18.</item>
+        <item>19.</item>
+        <item>20.</item>
+        <item>21.</item>
+        <item>22.</item>
+        <item>23.</item>
+        <item>24.</item>
+        <item>25.</item>
+        <item>26.</item>
+        <item>27.</item>
+        <item>28.</item>
+        <item>29.</item>
+        <item>30.</item>
+        <item>31.</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Ptesi</item>
+        <item>Salı</item>
+        <item>Çrş</item>
+        <item>Per</item>
+        <item>Cum</item>
+        <item>Ctesi</item>
+        <item>Pzr</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Ocak</item>
+        <item>Şubat</item>
+        <item>Mart</item>
+        <item>Nisan</item>
+        <item>Mayıs</item>
+        <item>Haziran</item>
+        <item>Temmuz</item>
+        <item>Ağustos</item>
+        <item>Eylül</item>
+        <item>Ekim</item>
+        <item>Kasım</item>
+        <item>Aralık</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>Son</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Ptesi - Cuma</item>
+        <item>Haftasonu</item>
+        <item>Tüm Hafta</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Asla</item>
+        <item>Zaman</item>
+        <item>Say</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>Asla</item>
+        <item>Aylık</item>
+        <item>Yıllık</item>
+    </string-array>
+	<string-array name="global_criket_match">
+        <item>IPL</item>
+        <item>Uluslararası</item>
+        <item>Yerli</item>
+        <item>T20 Ligi</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Sonraki</item>
+        <item>Önceki</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>PZR</item>
+        <item>PTESİ</item>
+        <item>SAL</item>
+        <item>ÇAR</item>
+        <item>PER</item>
+        <item>CUM</item>
+        <item>CTESİ</item>
+    </string-array>
+</resources>

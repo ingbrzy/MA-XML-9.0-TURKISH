@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Seçili %1$s içerik silinsin mi?</item>
+        <item quantity="one">Seçilen %1$s içerik silinsin mi?</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%d saniye</item>
+        <item quantity="one">%d saniye</item>
+        <item quantity="few">%d saniye</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%d saniye</item>
+        <item quantity="one">%d saniye</item>
+        <item quantity="few">%d saniye</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">\"%2$s\ için %1$s sonuç"</item>
+        <item quantity="one">\"%2$s\ için %1$s sonuç"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s kişi</item>
+        <item quantity="one">%1$s kişi</item>
+    </plurals>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">%1$s silinsin mi?</item>
+        <item quantity="one">%1$s silinsin mi?</item>
+    </plurals>
+    <plurals name="hint_search_sms">
+        <item quantity="other">%d mesaj</item>
+        <item quantity="zero">%d mesaj</item>
+        <item quantity="one">%d mesaj</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d mesaj</item>
+        <item quantity="zero">%d mesaj</item>
+        <item quantity="one">%d mesaj</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">"%d mesaj eşitlenemedi"</item>
+        <item quantity="one">"%d mesaj eşitlenemedi"</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s mesaj</item>
+        <item quantity="one">%1$s mesaj</item>
+    </plurals>
+	<plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d seçildi</item>
+        <item quantity="zero">Öğeleri seç</item>
+		<item quantity="one">%d seçildi</item>
+    </plurals>
+</resources>

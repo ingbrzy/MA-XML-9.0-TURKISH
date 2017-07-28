@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hot_city">
+        <item>Beijing</item>
+        <item>Şangay</item>
+        <item>Hong Kong</item>
+        <item>Taipei City</item>
+        <item>Jakarta</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Moskova</item>
+        <item>Haydarabad</item>
+        <item>Chennai</item>
+        <item>İstanbul</item>
+        <item>Rio de Janeiro</item>
+        <item>Singapur</item>
+        <item>Berlin</item>
+        <item>Roma</item>
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Şikago</item>
+        <item>Tokyo</item>
+        <item>Paris</item>
+        <item>Bangkok</item>
+        <item>Seul</item>
+        <item>Kuala Lumpur</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>HKE %1$s</item>
+        <item>HKE %1$s</item>
+        <item>HKE %1$s</item>
+        <item>HKE %1$s</item>
+        <item>HKE %1$s</item>
+        <item>HKE %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_detail_title">
+        <item>İyi</item>
+        <item>Makul</item>
+        <item>Hassas Gruplar İçin Sağlıksız</item>
+        <item>Sağlıksız</item>
+        <item>Çok Sağlıksız</item>
+        <item>Tehlikeli</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Açık</item>
+        <item>Bulutlu</item>
+        <item>Kapalı Bulutlu</item>
+        <item>Sisli</item>
+        <item>Yoğun Sağanak Yağışlı</item>
+        <item>Şiddetli Yağmur</item>
+        <item>Sağnak Yağmurlu</item>
+        <item>Gök Gürültülü Yağmurlu</item>
+        <item>Kısa Süreli Yağmur</item>
+        <item>Ağır Yağmurlu</item>
+        <item>Orta Dereceli Yağmurlu</item>
+        <item>Hafif Yağmurlu</item>
+        <item>Karla Karışık Yağmur</item>
+        <item>Kar Fırtınası/Tipi</item>
+        <item>Karlı</item>
+        <item>Ağır Karlı</item>
+        <item>Orta Derecede Karlı</item>
+        <item>Hafif Karlı</item>
+        <item>Kuvvetli Kum Fırtınası</item>
+        <item>Kum Fırtınalı</item>
+        <item>Kumlu</item>
+        <item>Rüzgarlı</item>
+        <item>Dolu</item>
+        <item>Tozlu</item>
+        <item>Puslu</item>
+        <item>Dondurucu Yağmurlu</item>
+        <item></item>
+    </string-array>
+    <string-array name="indices_uv_level">
+        <item>Zayıf</item>
+        <item>Orta Menzilli</item>
+        <item>Güçlü</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Elverişli</item>
+        <item>Elverişsiz</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Elverişli</item>
+        <item>Elverişsiz</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Kuzey</item>
+        <item>Kuzeybatı</item>
+        <item>Doğu</item>
+        <item>Güneydoğu</item>
+        <item>Güney</item>
+        <item>Güneybatı</item>
+        <item>Batı</item>
+        <item>Kuzeybatı</item>
+    </string-array>
+    <string-array name="wind_direction_simple">
+        <item>K</item>
+        <item>KD</item>
+        <item>D</item>
+        <item>GD</item>
+        <item>G</item>
+        <item>GB</item>
+        <item>B</item>
+        <item>KB</item>
+    </string-array>
+	<string-array name="wind_power">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="wind_unit_simple">
+        <item>Beaufort ölçeği</item>
+        <item>km/s</item>
+        <item>mt/sn</item>
+        <item>mps</item>
+        <item>kn</item>
+    </string-array>
+    <string-array name="breeze">
+        <item>&lt;Beaufort Numarası 2</item>
+        <item>&lt;6.0km/s</item>
+        <item>&lt;1.7mt/sn</item>
+        <item>&lt;3.7mps</item>
+        <item>&lt;3.2kn</item>
+    </string-array>
+    <string-array name="wind_unit_detail">
+        <item>Beaufort ölçeği</item>
+        <item>Saatte kilometre (km/s)</item>
+        <item>Saniyede metre (mt/sn)</item>
+        <item>Saatte mil (mph)</item>
+        <item>Knot (kn)</item>
+    </string-array>
+    <string-array name="wind_unit_replace">
+        <item>Beaufort Numarası %1$s</item>
+        <item>%1$skm/s</item>
+        <item>%1$smt/sn</item>
+        <item>%1$smps</item>
+        <item>%1$skn</item>
+    </string-array>
+	<string-array name="minute_rain_array">
+        <item>Şiddetli</item>
+        <item>Orta</item>
+        <item>Hafif</item>
+    </string-array>
+</resources>

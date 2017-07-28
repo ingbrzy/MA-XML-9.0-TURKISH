@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="clock_settings">Kutupsal Saat Ayarları</string>
+  <string name="palette">Renk Paleti</string>
+  <string name="palette_black_c">Kara Delik (Dinamik)</string>
+  <string name="palette_gray">Demir</string>
+  <string name="palette_halloween">Kabak Pastası</string>
+  <string name="palette_matrix">Yeşil Ekran</string>
+  <string name="palette_oceanic">Mavi Lazer</string>
+  <string name="palette_violet">Gece Yarısı</string>
+  <string name="palette_white_c">Kutup Ayısı (Dinamik)</string>
+  <string name="palette_zenburn">Yaratık Meyva Salatası</string>
+  <string name="show_seconds">Saniyeyi göster</string>
+  <string name="variable_line_width">Değişken Halka Kalınlıkları</string>
+  <string name="wallpaper_clock">Kutupsal Saat</string>
+  <string name="wallpaper_clock_author">Google</string>
+  <string name="wallpaper_clock_desc">Saat yönünde yay olarak tarih ve saati gösterir: ay, gün, saat, dakika ve saniye</string>
+  <string name="wallpaper_fall">Su</string>
+  <string name="wallpaper_fall_author">Google</string>
+  <string name="wallpaper_fall_desc">Sonbahar aşağıdaki dalgalanan su birikintisi içine damlalar bırakır.</string>
+  <string name="wallpaper_galaxy">Galaksi</string>
+  <string name="wallpaper_galaxy_author">Google</string>
+  <string name="wallpaper_galaxy_desc">Yavaş yavaş dönen yıldızlı yapılmış bir galaksi.</string>
+  <string name="wallpaper_grass">Çimler</string>
+  <string name="wallpaper_grass_author">Google</string>
+  <string name="wallpaper_grass_desc">Çim yaprakları gündüz ve gece gökyüzünün önünde hafifçe sallanmakta.</string>
+  <string name="wallpaper_nexus">Nexus</string>
+  <string name="wallpaper_nexus_author">Google</string>
+  <string name="wallpaper_nexus_desc">Sinir ağının içine bir bakış.</string>
+  <string name="wallpaper_walkaround">Şeffaf</string>
+  <string name="wallpaper_walkaround_author">Google</string>
+  <string name="wallpaper_walkaround_desc">Telefonunuzun arkasını görün ve kaza riskine girmeden gezinin.</string>
+  <string name="wallpapers">Android Canlı Duvar Kağıtları</string>
+</resources>

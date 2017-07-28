@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group_name_translate">
+        <item>Varsayılan</item>
+        <item>Gizli Mod</item>
+        <item>Okuyucu Modu</item>
+        <item>Ortam Modu</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>Önplanda çalışan uygulama</item>
+        <item>Ekran Açık</item>
+        <item>Ekran Kapalı</item>
+        <item>10 dakika boyunca ekran kapalı</item>
+        <item>Tam Ekran</item>
+        <item>Tam Ekrandan çık</item>
+        <item>Arkaplanda çalışan uygulama</item>
+        <item>Telefon şarj ediliyor</item>
+        <item>"Telefon şarj edilmiyor"</item>
+        <item>Telefon boşta</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>Azami ekran parlaklığı</item>
+        <item>Azami CPU Frekansı</item>
+        <item>Ekran Modu</item>
+        <item>CPU Kullanımı</item>
+        <item>Veri Bağlantısı</item>
+        <item>Konum</item>
+        <item>İlk Bildirim</item>
+        <item>Kilit ekranı bildirimleri</item>
+        <item>Arkaplan veri bağlantılarını kısıtla</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>Yok</item>
+        <item>Varsayılan</item>
+        <item>Resim</item>
+        <item>Film</item>
+        <item>Pil Tasarrufu</item>
+        <item>Dengeli</item>
+        <item>Performans</item>
+        <item>Aç</item>
+        <item>Kapat</item>
+        <item>Hemen</item>
+        <item>10 dakika sonra</item>
+        <item>30 dakika sonra</item>
+        <item>Ekran kapalı olduğunda</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>Bu modda</item>
+        <item>Seçilmedi</item>
+        <item>Diğer modlar seçildi</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>Özel</item>
+        <item>Pil Tasarrufu</item>
+    </string-array>
+    <string-array name="power_checker_group_prefix">
+        <item>Şimdi</item>
+        <item>Arkaplan</item>
+        <item>En Son</item>
+    </string-array>
+    <string-array name="power_checker_running_group_titles">
+        <item>Derin Uyku Modu Kilitlemesi</item>
+        <item>Uyku Modu Kilitlemesi</item>
+        <item>WLAN tara</item>
+        <item>GPS Kullanımı</item>
+        <item>CPU Yoğunluğu</item>
+        <item>Sıklıkla Uyanma</item>
+    </string-array>
+    <string-array name="power_checker_recent_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>Uyku Kilidi</item>
+        <item>WIFI tara</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>Uyan</item>
+    </string-array>
+    <string-array name="power_checker_group_suffix">
+        <item></item>
+        <item>şu anda çok fazla</item>
+        <item>bu gün çok</item>
+    </string-array>
+    <string-array name="invisible_app_groups">
+        <item>seçildi</item>
+        <item>seçilmedi</item>
+        </string-array>
+	<string-array name="thermal_entries">
+        <item>Varsayılan Sıcaklık Kontrol Modu</item>
+        <item>Öncelikli Performans Modu</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>Mevcut sıcaklık kontrol modu, sıcaklığın durumuna göre hareket eder</item>
+        <item>Mevcut performans modeli, performans deneyimi için tercih edilir, sıcaklık artabilir</item>
+    </string-array>
+</resources>

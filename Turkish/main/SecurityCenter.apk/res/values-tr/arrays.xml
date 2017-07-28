@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_memory_clean">
+        <item>1 dakika içinde</item>
+        <item>5 dakika içinde</item>
+        <item>10 dakika içinde</item>
+        <item>30 dakika içinde</item>
+        <item>Asla</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Bu hafta "</item>
+        <item>"Bugün "</item>
+        <item>"Bu ay "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Dün "</item>
+        <item>"Bugün "</item>
+        <item>"Bu ay "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Bu hafta: "</item>
+        <item>"Bugün: "</item>
+        <item>"Bu ay: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Dün: "</item>
+        <item>"Bugün: "</item>
+        <item>"Bu ay: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Dün (veri)</item>
+        <item>Bugün (veri)</item>
+        <item>Bu ay (veri)</item>
+        <item>Dün WLAN</item>
+        <item>Bugün WLAN</item>
+        <item>Bu ay WLAN</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Dün (veri)</item>
+        <item>Bugün (veri)</item>
+        <item>Bu ay (veri)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 san</item>
+        <item>4 san</item>
+        <item>5 san</item>
+        <item>6 san</item>
+        <item>7 san</item>
+        <item>8 san</item>
+        <item>9 san</item>
+    </string-array>
+     <string-array name="traffic_type">
+        <item>"Mobil Kullan "</item>
+        <item>"WLAN Kullan "</item>
+     <item>"Veri Tasarrufu "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Mobil Kullan "</item>
+        <item>"WLAN Kullan "</item>
+    </string-array>
+     <string-array name="traffic_sort_type">
+        <item>"Mobil Veri Kullanımı "</item>
+        <item>"WLAN Kullan "</item>
+     <item>"Veri Tasarrufu "</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Otomataik Olarak Al</item>
+        <item>Elle Al</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Uyarıyı Göster</item>
+        <item>Uyar ve mobil veriyi kapat</item>
+    </string-array>
+    <string-array name="roaming_apps_sorted_type">
+        <item>Sıkça Kullanılan</item>
+        <item>Adı</item>
+    </string-array>
+    <string-array name="traffic_saving_compress_level_string_array">
+        <item>Yok</item>
+        <item>Düşük</item>
+        <item>Orta</item>
+        <item>Yüksek</item>
+    </string-array>
+     <string-array name="roaming_network_type">
+        <item>Daima</item>
+        <item>Sadece istisnalar</item>
+        <item>Asla</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Cihaz kilitlendiğinde</item>
+        <item>Cihaz kilitlendiğinde veya uygulamadan çıkıldığında</item>
+        <item>Cihaz kilitlendiğinden veya uygulamadan çıkıldıktan 1 dakika sonra</item>
+    </string-array>
+    <string-array name="long_add_menu">
+        <item>İstisnalara ekle</item>
+    </string-array>
+    <string-array name="sort_type">
+        <item>Durum</item>
+        <item>Uygulama Adı</item>
+        <item>Kullanım Sıklığı</item>
+        <item>Depolama Kullanımı</item>
+        <item>Veri Kullanımı</item>
+        <item>Pil Kullanımı</item>
+    </string-array>
+    <string-array name="sort_title">
+        <item>Durumuna göre sırala</item>
+        <item>Uygulama adına göre sırala</item>
+        <item>Kul. sıklığına göre sırala</item>
+        <item>Depolama kul. alanına göre sırala</item>
+        <item>Veri kullanımına göre sırala</item>
+        <item>Pil kullanımına göre sırala</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Veri Kullanımı</item>
+        <item>Telefon Bakiyesi</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>1 dakika sonra</item>
+        <item>5 dakika sonra</item>
+        <item>10 dakika sonra</item>
+        <item>30 dakika sonra</item>
+        <item>Asla</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 Saniye</item>
+        <item>30 Saniye</item>
+        <item>1 Dakika</item>
+        <item>2 Dakika</item>
+        <item>5 Dakika</item>
+        <item>10 Dakika</item>
+        <item>Asla</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Yüksek Performans</item>
+        <item>Dengeli</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Kapalı</item>
+        <item>Açık</item>
+        <item>Standart</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Titreşim yok</item>
+        <item>Sessizken titret</item>
+        <item>Daima titreşimli</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Birkez</item>
+        <item>Hergün</item>
+        <item>İş Saatlerinde</item>
+        <item>Haftanın Her Günü</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Birkez</item>
+        <item>Hergün</item>
+        <item>Haftaiçi</item>
+        <item>Özel</item>
+    </string-array>
+</resources>

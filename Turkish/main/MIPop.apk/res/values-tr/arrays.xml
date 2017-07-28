@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mipop_first_key_entries">
+        <item>Geri Tuşu</item>
+        <item>Ana Ekran Tuşu</item>
+    </string-array>
+    <string-array name="mi_fristkey_entries">
+        <item>Geri (Varsayılan)</item>
+        <item>Ana Ekran</item>
+    </string-array>
+    <string-array name="mi_theme_entries">
+        <item>Tema 1</item>
+        <item>Tema 2</item>
+    </string-array>
+    <string-array name="mi_lc_entries">
+        <item>Yok</item>
+        <item>Ekran Kilidi</item>
+        <item>Geçerli uygulamayı kapat</item>
+        <item>Sesi aç</item>
+        <item>Sesi kıs</item>
+        <item>Belirtilen yazılımı başlat</item>
+        <item>El fenerini aç/kapat</item>
+        <item>Ekran Görüntüsü al</item>
+        <item>Akıllı ekranı aç/kapat</item>
+        <item>Ekran filtresini aç/kapat</item>
+        <item>Tek El Kullanım Modunu aç</item>
+    </string-array>
+</resources>

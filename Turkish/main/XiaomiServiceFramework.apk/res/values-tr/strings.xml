@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="accept">Tamam</string>
+  <string name="app_name">Xiaomi Framework Hizmetleri</string>
+  <string name="error_device_id_message">"Cihaz Kimliği geçersiz: %s
+Cihaz kimliği geçerli IMEI veya MAC adresi olması gerekir. Cihaz kimliği olmadan, bazı hesap ve bulut özellikleri kullanılamaz."</string>
+  <string name="error_device_id_title">"Geçerli Cihaz Kimliği alınamıyor"</string>
+  <string name="explain_send_sms_permission_button">Doğrula</string>
+  <string name="explain_send_sms_permission_msg">%s açmak için, Xiaomi Hizmet Çerçevesi telefon numarasını doğrulamak için SMS gönderir. Bu işlem sonucunda operatör sizden SMS ücreti alabilir.</string>
+  <string name="explain_send_sms_permission_title">Telefon numarasını doğrula</string>
+  <string name="sync_notification_title_format">Geçerli eşitleme öğesi: %1$s</string>
+  <string name="xiaomi_cloud_service">Mi Bulut</string>
+  <string name="xmsf_activate_info">XMSF Etkinleştirme Bilgisi</string>
+</resources>
