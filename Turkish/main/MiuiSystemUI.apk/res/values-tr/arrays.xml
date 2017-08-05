@@ -172,34 +172,6 @@
         <item>%50</item>
         <item>%100</item>
     </string-array>
-    <integer-array name="vibration_torch_on">
-        <item>0</item>
-        <item>0</item>
-        <item>5</item>
-        <item>90</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>150</item>
-        <item>50</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-    </integer-array>
-    <integer-array name="vibration_torch_off">
-        <item>0</item>
-        <item>0</item>
-        <item>5</item>
-        <item>120</item>
-        <item>8</item>
-        <item>-5</item>
-        <item>5</item>
-        <item>0</item>
-        <item>5</item>
-    </integer-array>
     <string-array name="duration_entries">
         <item>0</item>
         <item>1</item>

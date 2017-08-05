@@ -2244,7 +2244,6 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="st_antispam_mode_only_whitelist">Sadece istisnalara izin ver</string>
   <string name="st_antispam_mode_only_whitelist_sum">Sadece istisnalar listesindeki numaraların mesaj ve çağrılarına izin ver</string>
   <string name="st_antispam_mode_smart">Raporlu numaralar</string>
-  <string name="st_antispam_mode_smart_state">11111111</string>
   <string name="st_antispam_mode_smart_sum">"Diğer kullanıcılar ve sizin eklediğiniz numaraları engelle"</string>
   <string name="st_antispam_notification_sum">Engellenmiş numaradan gelen çağrı veya mesaj için bildirim göster</string>
   <string name="st_antispam_title_anoy_incoming">Yabancılardan gelen çağrılar</string>
