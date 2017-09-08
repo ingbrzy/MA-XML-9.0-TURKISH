@@ -151,7 +151,7 @@
   <string name="cloud_sync_closed_toast">"Eşitleme devre dışı olduğundan güncellenemiyor"</string>
   <string name="cloud_sync_failed_toast">"Güncellenemedi"</string>
   <string name="cloud_tab">Bulut sekmeleri</string>
-  <string name="cloud_time_tips">Son Eşitleme</string>
+  <string name="cloud_time_tips">Son Eşitleme: </string>
   <string name="cloud_up_to_loading_tips">Eşitlemeyi başlatın</string>
   <string name="color_picker_button_black">Siyah</string>
   <string name="color_picker_button_blue">Mavi</string>
@@ -172,8 +172,15 @@
   <string name="comment_hint">Yorum</string>
   <string name="comment_menu">Yorum</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.tr</string>
+  <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
+  <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
+  <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
+  <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
+  <string name="common_use_phrase_bottom_bar_point_txt">.</string>
+  <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
   <string name="common_use_phrase_bottom_bar_text_next">Sonraki</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Önceki</string>
+  <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
   <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
   <string name="contextmenu_add_contact">Kişi Ekle</string>
   <string name="contextmenu_copy">Kopyala</string>
@@ -181,6 +188,7 @@
   <string name="contextmenu_dial_dot">Ara…</string>
   <string name="contextmenu_download_image">Resmi kaydet</string>
   <string name="contextmenu_download_image_as">Resmi kaydet</string>
+  <string name="contextmenu_manually_block_ad">Reklam olarak işaretle</string>
   <string name="contextmenu_map">Harita</string>
   <string name="contextmenu_openlink">Bağlantıyı Aç</string>
   <string name="contextmenu_openlink_newwindow">Yeni sekmede aç</string>
@@ -244,7 +252,7 @@
   <string name="dont_remind_again">Bu seçimi hatırla</string>
   <string name="download_btn_select_all">Hepsi</string>
   <string name="download_btn_select_none">Vazgeç</string>
-  <string name="download_complete">İndirme tamamlandı</string>
+  <string name="download_complete">Başarıyla indirildi</string>
   <string name="download_completed">İndirildi</string>
   <string name="download_default_path_txt">Tercihimi hatırla</string>
   <string name="download_dialog_default_path_invalid">"Seçtiğiniz indirme konumu geçersiz. Varsayılan yere kaydediliyor..."</string>
@@ -421,6 +429,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="miuichromium_error_page_btn_close">Kapat</string>
   <string name="miuichromium_error_page_btn_refresh">Yenile</string>
   <string name="miuichromium_error_page_btn_report_issue">Sorunu bildir</string>
+  <string name="miuichromium_error_page_description_no_connection" formatted="false">"Zayıf sinyal veya yanlış ağ ayarlarından dolayı bağlantı sağlanamadı. %s1ağ ayarlarını%s2 kontrol edin ve yeniden deneyin."</string>
   <string name="miuichromium_error_page_diagnose">Ağı Teşhisi</string>
   <string name="miuichromium_error_page_diagnose_banner">Ağ Teşhisi</string>
   <string name="miuichromium_error_page_diagnose_certificate">"Ağ protokolü doğrulanamadı"</string>
@@ -437,11 +446,59 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="miuichromium_error_page_network_hijack">Geçerli ağ güvenli değil</string>
   <string name="miuichromium_error_page_network_off">Wi-Fi/Mobil Veriyi aç</string>
   <string name="miuichromium_error_page_no_network">"Ağa bağlanamıyor"</string>
-  <string name="miuichromium_error_page_reason_network">Ağ ayarlarını denetle</string>
-  <string name="miuichromium_error_page_reason_server">Sayfa yüklenemedi</string>
+  <string name="miuichromium_error_page_problem_access_denied">%s0 erişimedi</string>
+  <string name="miuichromium_error_page_problem_cache_miss">Bu sayfa önbelleğe yüklenemiyor</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page">"Sayfa açılamadı"</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site">"Siteye erişilemiyor"</string>
+  <string name="miuichromium_error_page_problem_connection_interrupted">Bağlantı kesintiye uğradı</string>
+  <string name="miuichromium_error_page_problem_file_not_found">"Dosya bulunamadı"</string>
+  <string name="miuichromium_error_page_problem_gateway_timed_out">%s0 zamandan beri cevap vermesi bekleniyor</string>
+  <string name="miuichromium_error_page_problem_network_access_denied">Ağ erişimi kısıtlı</string>
+  <string name="miuichromium_error_page_problem_no_internet_connection">İnternete bağlanamadı</string>
+  <string name="miuichromium_error_page_problem_page_moved">Bu sayfadaki %s0 taşınmış veya silnmiş</string>
+  <string name="miuichromium_error_page_problem_page_not_found">"Sayfadaki %s0 bulunamadı"</string>
+  <string name="miuichromium_error_page_problem_page_not_working">"Bu sayfa çalışmıyor"</string>
+  <string name="miuichromium_error_page_problem_security_error">Bu site güvenli bağlantıyı sağlayamıyor"</string>
+  <string name="miuichromium_error_page_problem_server_fault">%s0 mevcut isteğinizi sağlıyamıyor</string>
+  <string name="miuichromium_error_page_reason_bad_client_cert">" çünkü %s0 sertifikanızı kabul etmiyor"</string>
+  <string name="miuichromium_error_page_reason_bad_server_cert">". %s0 reklam güvenlik standartlarını karşılamıyor"</string>
+  <string name="miuichromium_error_page_reason_blocked_by_response">. %s0 tarafından erişim engellendi</string>
+  <string name="miuichromium_error_page_reason_connection_closed">. %s0 bağlantı kesildi</string>
+  <string name="miuichromium_error_page_reason_connection_refused">. %s0 bağlantı karıştı</string>
+  <string name="miuichromium_error_page_reason_connection_reset">. Bağlantı sıfırlandı</string>
+  <string name="miuichromium_error_page_reason_device_slept">" cihaz uykuya geçtiğinde"</string>
+  <string name="miuichromium_error_page_reason_empty_response">" çünkü %s0 hiçbir veri gönderemedi"</string>
+  <string name="miuichromium_error_page_reason_invalid_address">. IP adresi veya port numarası geçersiz</string>
+  <string name="miuichromium_error_page_reason_invalid_response">" çünkü %s0 gönderime cevap vermedi"</string>
+  <string name="miuichromium_error_page_reason_invalid_url">" çünkü adres yanlış"</string>
+  <string name="miuichromium_error_page_reason_moved_or_deleted">. Taşınmış veya silinmiş olabilir</string>
+  <string name="miuichromium_error_page_reason_name_collision">. Bu site itranette, benzer adrese sahip harici bir site</string>
+  <string name="miuichromium_error_page_reason_name_not_resolved">". %s0 DNS adresi bulunamadı"</string>
+  <string name="miuichromium_error_page_reason_network_changed">" bir ağ değişikliğiyle"</string>
+  <string name="miuichromium_error_page_reason_proxy_error">. Bazı proxy sunucusu yanlış veya proxy adresi geçersiz</string>
+  <string name="miuichromium_error_page_reason_site_unreachable">. %s0 erişilemiyor</string>
+  <string name="miuichromium_error_page_reason_timed_out">". %s0 uzun zamandır cevap vermedi"</string>
+  <string name="miuichromium_error_page_reason_too_many_redirects">" çünkü %s0 birden fazla yeniden erişti"</string>
+  <string name="miuichromium_error_page_reason_unsafe_port">. %s0 güvensiz prot numarası kullanıyor</string>
+  <string name="miuichromium_error_page_reason_unsafe_redirect">. %s0 güvensiz bir yolla yeniden erişiyor</string>
+  <string name="miuichromium_error_page_reason_unsupported_protocol">. %s0 desteklenmeyen bir protokol kullanıyor</string>
   <string name="miuichromium_error_page_reload">Yenile</string>
   <string name="miuichromium_error_page_safe_network">Güvenli Mod</string>
   <string name="miuichromium_error_page_server_error">Çok fazla cihaz bağlanmaya çalışıyor</string>
+  <string name="miuichromium_error_page_suggestion_check_app_proxy">Cihazınızdaki yüklü uygulamaların proxy ayarlarını kontrol edin.</string>
+  <string name="miuichromium_error_page_suggestion_check_connetion">İnternet bağlantısını kontrol edin.</string>
+  <string name="miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobil Veri) %s1APN Ayarlarını%s2 sıfırla.</string>
+  <string name="miuichromium_error_page_suggestion_check_url">"Girdiğiniz adresi kontrol edin."</string>
+  <string name="miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(WiFi) %s1proxy ayarlarını%s2 kontrol edin.</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache" formatted="false">(%Ayarlar%s2 Önbelleğini Temizle  - Veriyi Temizle).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies" formatted="false">Önbellek ve Çerezleri Temizle (%Ayarlar%s2 - Veriyi temizle, hesap bilgilerinizi kaybedebilirsiniz).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_and_cookies_no_invoke">Önbellek ve Çerezleri Temizle (hesap bilgilerinizi kaybedebilirsiniz).</string>
+  <string name="miuichromium_error_page_suggestion_clear_cache_no_invoke">Önbelleği temizle.</string>
+  <string name="miuichromium_error_page_suggestion_connect_and_retry">İnternete bağlandıktan sonra yeniden yükle</string>
+  <string name="miuichromium_error_page_suggestion_contact_admin">Yenetici ile irtibata geçin.</string>
+  <string name="miuichromium_error_page_suggestion_correct_url">"Girdiğiniz adresi kontrol edip, düzelttikten sonra yeniden deneyin."</string>
+  <string name="miuichromium_error_page_suggestion_grant_permission">Tarayıcının internet erişim izinlerini garanti altına aldıktan sonra yeniden yükleyin.</string>
+  <string name="miuichromium_error_page_suggestion_title">. Şunu deneyin:</string>
   <string name="miuichromium_error_page_title">"Bir hata oluştu!"</string>
   <string name="miuichromium_error_page_unknown_error">Birşeyler yanlış gitti</string>
   <string name="miuichromium_error_page_wlan">Wi-Fi Açık</string>
@@ -515,8 +572,10 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Hızlı URL girişi</string>
   <string name="pref_adblock_counts">%d reklam engellendi</string>
   <string name="pref_adblock_title">Reklam Engelleyici</string>
+  <string name="pref_advert_null">Reklamın işaretini kaldırmak için sayfa etiketine tıklayın</string>
   <string name="pref_auto_update_under_wifi">WLAN kullanarak güncelle</string>
   <string name="pref_automatic_matching_searchengines_title">Kullanıma göre arama motorunu değiştir</string>
+  <string name="pref_cancel_screen">İptal ekranı</string>
   <string name="pref_category_hint">Kategori</string>
   <string name="pref_check_security_url_summary">"Güvenli olup olmadığını kontrol etmek için Mi sunucularına web sitenizin URL\'sini gönder"</string>
   <string name="pref_check_security_url_summary_international">Tarayıcının tavsiye edilen sitelerin bağlantılarınıa erişmesine izin ver.</string>
@@ -560,6 +619,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_force_userscalable_summary">"Yakınlaştırma davranışını denetlemek için web sitesinin talebini geçersiz kıl"</string>
   <string name="pref_general_title">Genel</string>
   <string name="pref_key_gesture_title">Düğmeler ve Hareketler</string>
+  <string name="pref_label_advert_manager">Reklam Etiketlerini Yönet</string>
   <string name="pref_nav_mode_summary_pad">Pad</string>
   <string name="pref_nav_mode_summary_phone">Telefon</string>
   <string name="pref_nav_mode_title">Tarayıcı Modu</string>
@@ -620,6 +680,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pull_to_refresh_refreshing_label">Yükleniyor...</string>
   <string name="pull_to_refresh_release_label">Yenilemek için serbest bırakın</string>
   <string name="qr_code_title">QR Kodu</string>
+  <string name="qr_description">QR Kodunu tara</string>
   <string name="quicklink_bookmark_save">Kaydet:</string>
   <string name="quicklink_cannot_save_url">"Bu bağlantı eklenemedi."</string>
   <string name="quicklink_folder_text">En İyi Uygulama</string>
@@ -737,6 +798,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="ssl_certificate">Güvenlik Sertifikası</string>
   <string name="ssl_certificate_is_valid">Bu sertifika geçerli.</string>
   <string name="ssl_continue">Devam</string>
+  <string name="ssl_date_error_warnings_header">"Sitenin sertifikasının güresi geçti veya geçersiz. Size tavsiyemiz; bu siteden ayrılın."</string>
   <string name="ssl_date_invalid">Bu sertifikanın tarihi geçersiz.</string>
   <string name="ssl_expired">Bu sertifikanın süresi doldu.</string>
   <string name="ssl_go_back">Geri dön</string>
@@ -757,7 +819,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="suggest_access_btn_play">Oynat</string>
   <string name="suggest_access_btn_view">Gözat</string>
   <string name="suggest_access_item_album_songs">%d şarkı</string>
-  <string name="suggest_access_item_app_size">%.2f MB</string>
+  <string name="suggest_access_item_app_size">%.2fMB</string>
   <string name="suggest_access_item_app_update">Güncelleme: %s</string>
   <string name="suggest_access_item_singer_albums">%d albüm</string>
   <string name="suggest_access_item_singer_pop">%d popüler şarkı</string>
@@ -876,10 +938,14 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="view_certificate">Sertifikayı görüntüle</string>
   <string name="view_document_downloaded_files">İndirilenlerde indirilmiş dosyaları görüntüle</string>
   <string name="voice_check_network">Ağ ayarlarını kontrol edin ve yeniden deneyin.</string>
+  <string name="voice_close_description">Kapat</string>
   <string name="voice_connect_network">"Ağa bağlanamadı."</string>
-  <string name="voice_network_connection">Sesli arama normal çalışabilmek için internet bağlantısına ihtiyaç duyar.</string>
-  <string name="voice_search_permission">Sesli arama normal çalışabilmek için mikrofona erişmek ister.</string>
+  <string name="voice_description">Sesli Arama</string>
+  <string name="voice_network_connection">Sesli aramanın normal çalışabilmesi için internet bağlantısı gerekir.</string>
+  <string name="voice_search_permission">Sesli aramanın normal çalışabilmesi için mikrofona erişmesi gerekir.</string>
   <string name="voice_semantic_analysis">Tarayıcı bağlantı izninden sonra ses analizi gerçekleştirir.</string>
+  <string name="voice_start_description">Başlat</string>
+  <string name="voice_stop_description">Durdur</string>
   <string name="voice_sub_title">"Ne diyeceğimi bilmiyorum? mi.com sitesini açmayı deneyin!"</string>
   <string name="voice_title">Komutunuzu söyleyin...</string>
   <string name="voice_title_distinguish">İşleniyor…</string>
