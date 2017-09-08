@@ -200,7 +200,6 @@
   <string name="modem_tool_log_start_toast">"%s için modem günlüğünün dökümü kaydediliyor"</string>
   <string name="modem_tool_log_stop">Durdur</string>
   <string name="modem_tool_log_stop_toast">"%s modem günlüğünün dökümü durduruluyor"</string>
-  <string name="multi_graph_more">Toplam Öğe: %d</string>
   <string name="module_communication">İletişim</string>
   <string name="module_data">Depolama &amp; Klonlu Uygulamalar</string>
   <string name="module_desktop">Ana Ekrann &amp; Ayarlar</string>
