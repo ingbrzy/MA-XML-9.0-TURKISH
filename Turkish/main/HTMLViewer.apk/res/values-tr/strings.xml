@@ -5,7 +5,6 @@
   <string name="app_name_which_call">Uygulama:%s</string>
   <string name="app_version_which_call">Uygulama Sürümü:%s</string>
   <string name="autoconnect">Otomatik Bağlan</string>
-  <string name="ime_privacy_policy">Klavyeyi Seç</string>
   <string name="license_host_unreachable">"Ağa bağlanamıyor. Daha fazla bilgi için, 
  %s gidin."</string>
   <string name="loading">Yükleniyor...</string>
