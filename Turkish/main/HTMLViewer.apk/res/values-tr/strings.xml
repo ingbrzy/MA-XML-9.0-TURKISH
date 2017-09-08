@@ -4,6 +4,8 @@
   <string name="app_label">HTML Görüntüleyici</string>
   <string name="app_name_which_call">Uygulama:%s</string>
   <string name="app_version_which_call">Uygulama Sürümü:%s</string>
+  <string name="autoconnect">Otomatik Bağlan</string>
+  <string name="ime_privacy_policy">Klavyeyi Seç</string>
   <string name="license_host_unreachable">"Ağa bağlanamıyor. Daha fazla bilgi için, 
  %s gidin."</string>
   <string name="loading">Yükleniyor...</string>
@@ -12,6 +14,7 @@
   <string name="open_wifi_connect_title">%1$s bağlanın.</string>
   <string name="permdesc_accessDrm">Uygulamaya DRM korumalı içeriğe erişim izni verir.</string>
   <string name="policy_name">Kural:%s</string>
+  <string name="pre_installed_apps">Yüklü Gelen Uygulamalar</string>
   <string name="settings_ad_loading">Yükleniyor...</string>
   <string name="settings_ad_loading_unavailable">Yüklenirken bir sorun oluştu.</string>
   <string name="settings_license_activity_loading">Yükleniyor...</string>
