@@ -192,7 +192,7 @@
   <string name="date_pattern_yyyy_mm_dd_kk_mm">dd MM yyy HH:mm</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="date_today">" (bugün)"</string>
-  <string name="day_view_new_event_hint">Yeni Etkinlik</string>
+  <string name="day_view_new_event_hint">+ Yeni Etkinlik</string>
   <string name="default_reminder_mode">Hatırlatıcılar</string>
   <string name="delete_calendar">İptal</string>
   <string name="delete_label">Sil</string>
@@ -250,6 +250,7 @@
   <string name="edit_event_from_label">Şurdan:</string>
   <string name="edit_event_input_year">Yılı girin</string>
   <string name="edit_event_label">Detaylar</string>
+  <string name="edit_event_no_reminder_value">"Hatırlatma!"</string>
   <string name="edit_event_reminder_3_days_before">3 gün önceden hatırlat</string>
   <string name="edit_event_reminder_summary">Aynı gün, %1$s zamanda hatırlat</string>
   <string name="edit_event_reminder_summary_3_days_before">3 gün öncesinin %1$s zamanında hatırlat</string>
@@ -269,6 +270,7 @@
   <string name="email_picker_label">E-posta ile</string>
   <string name="email_subject_prefix">"Cevap: "</string>
   <string name="empty_event">Boş faaliyet oluşturulamadı</string>
+  <string name="english_premium_league">İngiliz Özel Ligi</string>
   <string name="endByDate">; %s için</string>
   <string name="enter_calendar">Takvim girin</string>
   <string name="event_account">Hesap</string>
@@ -300,6 +302,7 @@
   <string name="event_lunar_month">Ay</string>
   <string name="event_not_found">Etkinlik yok</string>
   <string name="event_reminder_allday_day_zero">Günün %2$s zamanında</string>
+  <string name="event_reminder_value_zero">Etkinlikten önce</string>
   <string name="event_reminders_to_max">Hatırlatıcılar %d zamana kadar ayarlanabilir</string>
   <string name="event_subscirbe_detail_title">Etkinlik hakkında daha fazla bilgi</string>
   <string name="event_title">Başlık</string>
@@ -327,6 +330,8 @@
   <string name="gadget_title">Takvim</string>
   <string name="global_action_text_card_manager">Daha ilginç bir takvim</string>
   <string name="global_cricket_no_match">Bugün kriket maçları yapılmayacak. Diğer günleri kontrol et.</string>
+  <string name="global_football_final">FİNAL</string>
+  <string name="global_football_no_match">Bugünlük futbol karşılaşması yok.</string>
   <string name="global_onthisday_com">OnThisDay.com</string>
   <string name="goto_today">Bugün</string>
   <string name="guide_card_hint_text">Kişilerin doğum günlerini içe aktar</string>
@@ -358,7 +363,7 @@
   <string name="insert_event_toast_add_failed">Eklenemedi</string>
   <string name="insert_event_toast_add_success">Etkinlik oluşturuldu</string>
   <string name="item_num_selected">%1$d seçildi</string>
-  <string name="item_is_selected">%1$s seçildi</string>
+  <string name="item_num_selected">%1$s seçildi</string>
   <string name="joke_card_click_toast">Şakaları kopyalamak için uzunca basın</string>
   <string name="joke_card_icon_text">|  %1$s gülüyor</string>
   <string name="joke_card_long_click_toast">Kopyalandı, uzunca basıp kutuya yapıştırın</string>
@@ -695,6 +700,10 @@ Abonelikten sonra istediğiniz hatırlatıcıyı ekleyebilirsiniz, iyi vakit ge�
   <string name="today_train_event">Tren</string>
   <string name="tomorrow">Yarın</string>
   <string name="tomorrow_at_time_fmt">Yarın şu zamanda: %s</string>
+  <string name="too_long_content">İçerik çok uzun</string>
+  <string name="too_long_description">Etkinlik açıklaması çok uzun</string>
+  <string name="too_long_location">Etkinlik konumu çok uzun</string>
+  <string name="too_long_name">Adı çok uzun</string>
   <string name="topic_dialog_title">Abonelikten Çık</string>
   <string name="topic_event_list_header_label">Son Etkinlik</string>
   <string name="topic_list_header_label">Abonelikler</string>
