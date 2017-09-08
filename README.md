@@ -10,8 +10,6 @@ This repository contains the Turkish Translation of the MIUI Weekly ROM Releases
 
 Main Translator:
 Orhan ÇAKMAK (raoc999) :: raocakmak@gmail.com
-Found Other Contributors:
- Aykut Yenihan, Sedat Babaoğlu, Cenkay Keser and other TEST TEAM
 
 
 ## Reporting issues
