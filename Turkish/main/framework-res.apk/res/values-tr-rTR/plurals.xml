@@ -29,8 +29,8 @@
         <item quantity="one">1 saat</item>
     </plurals>
     <plurals name="duration_minutes_shortest">
-        <item quantity="other">%dm</item>
-        <item quantity="one">%dm</item>
+        <item quantity="other">%ddak</item>
+        <item quantity="one">%ddak</item>
     </plurals>
     <plurals name="duration_hours_shortest">
         <item quantity="other">%ds</item>
