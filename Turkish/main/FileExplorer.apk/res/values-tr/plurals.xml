@@ -328,7 +328,11 @@
         <item quantity="other">• &lt;font color=#fc7050>%1$s&lt;/font> takipçi var!</item>
         <item quantity="one">• &lt;font color=#fc7050>%1$s&lt;/font> takipçi var!</item>
     </plurals>
-	<plurals name="video_like_num">
+	<plurals name="video_publish_watchable_hint">
+        <item quantity="other">Durumunuzu güncellemek için %1$d fazla takipçi alın​</item>
+        <item quantity="one">Durumunuzu güncellemek için %1$d fazla takipçi alın</item>
+    </plurals>
+    <plurals name="video_like_num">
         <item quantity="other">%1$s beğendi</item>
         <item quantity="one">%1$s beğendi</item>
     </plurals>
@@ -360,4 +364,4 @@
         <item quantity="other">%1$s kişi</item>
         <item quantity="one">%1$s kişi</item>
     </plurals>
- </resources>
+</resources>
