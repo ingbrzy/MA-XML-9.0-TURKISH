@@ -17,6 +17,8 @@
   <string name="CwMmi">Çağrı bekliyor</string>
   <string name="DndMmi">Rahatsız Etme</string>
   <string name="Midnight">Gece Yarısı</string>
+  <string name="NetworkPreferenceSwitchSummary">Güçlü sinyal alımı için Ayarlar > Hücresel Ağlar > Tercih Edilen Ağ Tipi özelliğini değiştirebilirsiniz.</string>
+  <string name="NetworkPreferenceSwitchTitle">Ağa erişemedi</string>
   <string name="Noon">Öğle</string>
   <string name="PinMmi">PIN kodunu değiştir</string>
   <string name="PwdMmi">Şifreyi değiştir</string>
@@ -97,25 +99,67 @@ Kapatmak istiyor musunuz?"</string>
   <string name="app_not_found">Bu eylemi gerçekleştirecek bir uygulama bulunamadı</string>
   <string name="app_running_notification_text">Daha fazla bilgi edinmek için veya uygulamayı durdurmak için dokunun.</string>
   <string name="app_running_notification_title">%1$s çalışıyor</string>
+  <string name="app_upgrading_toast">%1$s güncelleniyor…</string>
   <string name="audit_safemode_notification">Bu cihazı kısıtlamalar olmaksızın kullanmak için fabrika ayarlarına sıfırla</string>
   <string name="audit_safemode_notification_details">Fazlası için dokunun.</string>
+  <string name="autofill_address_line_1_label_re">address|adresse|indirizzo|住所|地址</string>
+  <string name="autofill_address_line_1_re">address.?line|address1|addr1|street|strasse|straße|hausnummer|housenumber|house.?name|direccion|dirección|adresse|indirizzo|住所1|morada|endereço|Адрес|地址</string>
+  <string name="autofill_address_line_2_re">address.?line2|address2|addr2|street|suite|unit|adresszusatz|ergänzende.?angaben|direccion2|colonia|adicional|addresssuppl|complementnom|appartement|indirizzo2|住所2</string>
+  <string name="autofill_address_line_3_re">address.?line3|address3|addr3|street|line3|municipio|batiment|residence|indirizzo3</string>
   <string name="autofill_address_name_separator">" "</string>
   <string name="autofill_address_summary_format">$1$2$3</string>
   <string name="autofill_address_summary_name_format">$1$2$3</string>
   <string name="autofill_address_summary_separator">", "</string>
+  <string name="autofill_address_type_same_as_re">same as</string>
+  <string name="autofill_address_type_use_my_re">use my</string>
   <string name="autofill_area">Alan</string>
+  <string name="autofill_area_code_notext_re">^\\($</string>
+  <string name="autofill_area_code_re">area.*code|acode|area</string>
+  <string name="autofill_attention_ignored_re">attention|attn</string>
+  <string name="autofill_billing_designator_re">bill</string>
+  <string name="autofill_card_cvc_re">verification|card identification|cvn|security code|cvv code|cvc</string>
+  <string name="autofill_card_ignored_re">^card</string>
+  <string name="autofill_card_number_re">number|card.?#|card.?no|ccnum|nummer|credito|numero|número|numéro|カード番号|Номер.*карты|信用卡号|信用卡号码|信用卡卡號</string>
+  <string name="autofill_city_re">city|town|ort|stadt|suburb|ciudad|provincia|localidad|poblacion|ville|commune|localita|市区町村|cidade|Город|市|分區</string>
+  <string name="autofill_company_re">company|business|organization|organisation|department|firma|firmenname|empresa|societe|société|ragione.?sociale|会社|название.?компании|单位|公司</string>
+  <string name="autofill_country_code_re">country.*code|ccode|_cc</string>
+  <string name="autofill_country_re">country|location|国|国家</string>
   <string name="autofill_county">Ülke</string>
   <string name="autofill_department">Bölüm</string>
   <string name="autofill_district">İlçe</string>
+  <string name="autofill_email_re">e.?mail|メールアドレス|Электронной.?Почты|邮件|邮箱|電郵地址</string>
   <string name="autofill_emirate">Emirlik</string>
+  <string name="autofill_expiration_date_re">exp|^/|year|ablaufdatum|gueltig|gültig|yahr|fecha|scadenza|有効期限|validade|Срок действия карты|年|有效期</string>
+  <string name="autofill_expiration_month_re">expir|exp.*month|exp.*date|ccmonth|gueltig|gültig|monat|fecha|date.*exp|scadenza|有効期限|validade|Срок действия карты|月</string>
+  <string name="autofill_fax_re">fax|télécopie|telecopie|ファックス|факс|传真|傳真</string>
+  <string name="autofill_first_name_re">irst.*name|initials|fname|first$|vorname|nombre|forename|prénom|prenom|名|nome|Имя</string>
   <string name="autofill_island">Ada</string>
+  <string name="autofill_last_name_re">last.*name|lname|surname|last$|nachname|apellidos|famille|^nom|cognome|姓|morada|apelidos|surename|sobrenome|Фамилия</string>
+  <string name="autofill_middle_initial_re">middle.*initial|m\\.i\\.|mi$</string>
+  <string name="autofill_middle_name_re">middle.*name|mname|middle$|apellido.?materno|lastlastname</string>
+  <string name="autofill_name_on_card_contextual_re">name</string>
+  <string name="autofill_name_on_card_re">card.?holder|name.?on.?card|ccname|owner|karteninhaber|nombre.*tarjeta|nom.*carte|nome.*cart|名前|Имя.*карты|信用卡开户名|开户名|持卡人姓名|持卡人姓名</string>
+  <string name="autofill_name_re">^name|full.?name|your.?name|customer.?name|firstandlastname|nombre.*y.*apellidos|^nom|お名前|氏名|^nome|姓名</string>
+  <string name="autofill_name_specific_re">^name|^nom|^nome</string>
   <string name="autofill_parish">Mahalle</string>
+  <string name="autofill_phone_extension_re">ext|ramal</string>
+  <string name="autofill_phone_prefix_re">prefix|preselection|ddd</string>
+  <string name="autofill_phone_prefix_separator_re">^-$|^\\)$</string>
+  <string name="autofill_phone_re">phone|telefonnummer|telefono|teléfono|telfixe|電話|telefone|telemovel|телефон|电话</string>
+  <string name="autofill_phone_suffix_re">suffix</string>
+  <string name="autofill_phone_suffix_separator_re">^-$</string>
   <string name="autofill_postal_code">Posta Kodu</string>
   <string name="autofill_prefecture">İdari Bölge</string>
   <string name="autofill_province">Vilayet</string>
+  <string name="autofill_region_ignored_re">province|region|other|provincia|bairro|suburb</string>
+  <string name="autofill_shipping_designator_re">ship</string>
   <string name="autofill_state">Eyalet</string>
+  <string name="autofill_state_re">state|county|region|province|land|county|principality|都道府県|estado|provincia|область|省|地區</string>
   <string name="autofill_this_form">Otomatik Doldur</string>
+  <string name="autofill_username_re">user.?name|user.?id|vollständiger.?name|用户名</string>
+  <string name="autofill_zip_4_re">zip|^-$|post2|codpos2</string>
   <string name="autofill_zip_code">Posta Kodu</string>
+  <string name="autofill_zip_code_re">zip|postal|post code|pcode|^1z$|postleitzahl|cp|cdp|cap|郵便番号|codigo|codpos|cep|Почтовый.?Индекс|邮政编码|邮编|郵遞區號</string>
   <string name="back_button_label">Geri</string>
   <string name="badPin">Yazdığınız eski PIN doğru değil.</string>
   <string name="badPuk">Yazdığınız PUK doğru değil.</string>
@@ -171,6 +215,7 @@ Cihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır."</string>
   <string name="common_name_prefixes"/>
   <string name="common_name_suffixes"/>
   <string name="condition_provider_service_binding_label">Durum Sağlayıcı</string>
+  <string name="conference_call">Görüntülü Çağrı</string>
   <string name="configure_input_methods">Klavyeyi Seç</string>
   <string name="config_wimaxManagerClassname"/>
   <string name="config_wimaxNativeLibLocation"/>
@@ -236,6 +281,12 @@ Cihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır."</string>
   <string name="delete">Sil</string>
   <string name="deleteText">Sil</string>
   <string name="deleted_key">%1$s silindi</string>
+  <string name="demo_restarting_message">Cihaz sıfırlanıyor…</string>
+  <string name="demo_starting_message">Demo başlatılıyor…</string>
+  <string name="demo_user_inactivity_timeout_countdown">Yaptığınız tüm değişiklikleri kaybedeceksiniz ve %1$s saniye sonra demo modu başlatılacak…</string>
+  <string name="demo_user_inactivity_timeout_left_button">İptal</string>
+  <string name="demo_user_inactivity_timeout_right_button">Şimdi Sıfırla</string>
+  <string name="demo_user_inactivity_timeout_title">Cihaz sıfırlansın mı?</string>
   <string name="deny">Reddet</string>
   <string name="deny_button">Reddet</string>
   <string name="description_target_unlock_tablet">Kilidi açmak için kaydırın.</string>
@@ -381,6 +432,7 @@ kullanarak numarayı ara"</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_action_assist">Yardımcı</string>
   <string name="global_action_bug_report">Hata Raporu</string>
+  <string name="global_action_emergency">Acil Durum</string>
   <string name="global_action_lock">Ekran kilidi</string>
   <string name="global_action_lockdown">Şimdi kilitle</string>
   <string name="global_action_power_off">Kapat</string>
@@ -550,13 +602,13 @@ Bu sayfadan ayrılmak istediğinizden emin misiniz?"</string>
   <string name="kg_sim_unlock_progress_dialog_message">SIM kart kilidi açılıyor…</string>
   <string name="kg_text_message_separator">" — "</string>
   <string name="kg_too_many_failed_attempts_countdown">%1$d saniye içinde tekrar deneyin.</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Şifrenizi %1$d kez yanlış yazdınız. 
+  <string name="kg_too_many_failed_password_attempts_dialog_message">"Şifrenizi %1$d kez yanlış yazdınız. 
 
 %2$d saniye içinde tekrar deneyin."</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Kilit açma deseninizi %1$d kez yanlış çizdiniz. 
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message">"Kilit açma deseninizi %1$d kez yanlış çizdiniz. 
 
 %2$d saniye içinde tekrar deneyin."</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN kodunuzu %1$d kez yanlış girdiniz. 
+  <string name="kg_too_many_failed_pin_attempts_dialog_message">"PIN kodunuzu %1$d kez yanlış girdiniz. 
 
 %2$d saniye içinde tekrar deneyin."</string>
   <string name="kg_wrong_password">Yanlış Şifre</string>
@@ -646,14 +698,15 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="lockscreen_sim_unlock_progress_dialog_message">SIM kart kilidi açılıyor…</string>
   <string name="lockscreen_sound_off_label">Sesi kapat</string>
   <string name="lockscreen_sound_on_label">Sesi aç</string>
+  <string name="lockscreen_storage_locked">Tüm özellik ve verilerin kilidini aç</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">%d saniye içinde tekrar deneyin.</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Kilit açma deseninizi %1$d kez yanlış çizdiniz. 
+  <string name="lockscreen_too_many_failed_attempts_dialog_message">"Kilit açma deseninizi %1$d kez yanlış çizdiniz. 
 
 %2$d saniye içinde tekrar deneyin."</string>
-  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Şifrenizi %1$d kez yanlış yazdınız. 
+  <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"Şifrenizi %1$d kez yanlış yazdınız. 
 
 %2$d saniye içinde tekrar deneyin."</string>
-  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN kodunuzu %1$d kez yanlış girdiniz. 
+  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"PIN kodunuzu %1$d kez yanlış girdiniz. 
 
 %2$d saniye içinde tekrar deneyin."</string>
   <string name="lockscreen_transport_ffw_description">İleri Sar</string>
@@ -783,6 +836,7 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="mismatchPin">"Girdiğiniz PIN'ler eşleşmiyor"</string>
   <string name="mmiComplete">MMI tamamlandı.</string>
   <string name="mmiError">Bağlantı sorunu veya geçersiz MMI kodu.</string>
+  <string name="mmiErrorWhileRoaming">Telefon dolaşım esnasında çağrı yönlendirme ayarlarını değiştiremez.</string>
   <string name="mmiFdnError">İşlem sadece sabit arama numaralarıyla sınırlandırılmıştır.</string>
   <string name="mobile_provisioning_apn"/>
   <string name="mobile_provisioning_url"/>
@@ -794,6 +848,12 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="negative_duration">−%1$s</string>
   <string name="network_available_sign_in">Ağda oturum açın</string>
   <string name="network_available_sign_in_detailed">%1$s</string>
+  <string name="network_logging_notification_text">Fazlası için dokunun</string>
+  <string name="network_logging_notification_title">Ağ trafiği izleniyor</string>
+  <string name="network_switch_metered">%1$s olarak değiştirildi</string>
+  <string name="network_switch_metered_detail">Cihaz %1$s kullandığında %2$s İnternete erişemez. Değişiklikler uygulanacak.</string>
+  <string name="network_switch_metered_toast">%1$s > %2$s geçildi</string>
+  <string name="network_switch_type_name_unknown">bilinmeyen ağ tipi</string>
   <string name="new_app_action">%1$s uygulamasını başlat</string>
   <string name="new_app_description">Kaydetmeden eski uygulamayı durdurun.</string>
   <string name="new_sms_notification_content">Görüntülenecek SMS uygulamasını açın</string>
@@ -929,6 +989,7 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="permdesc_register_sim_subscription">Uygulamanın yeni telekomünikasyon SIM bağlantıları kaydettirmesine izin verir.</string>
   <string name="permdesc_removeDrmCertificates">Uygulamaya, DRM sertifikalarını kaldırma izin verir. Normal uygulamalar için asla gerekmemelidir.</string>
   <string name="permdesc_reorderTasks">Uygulamaya, görevleri ön plana ve arka plana taşıma izni verir. Uygulama bunu sizden bir giriş olmadan yapabilir.</string>
+  <string name="permdesc_requestIgnoreBatteryOptimizations">Bu uygulama için batarya iyileştirme izni için soru sormaya izin verir.</string>
   <string name="permdesc_requestInstallPackages">Uygulamaya, paketleri yükleme isteğinde bulunma izni verir.</string>
   <string name="permdesc_route_media_output">Uygulamaya medya çıktısını başka harici cihazlara yönlendirme izni verir.</string>
   <string name="permdesc_sdcardRead">Uygulamaya, dahili depolama alanınızın içeriğini okuma izni verir.</string>
@@ -1073,6 +1134,7 @@ izin isteğinde bulunuldu."</string>
   <string name="permlab_register_sim_subscription">yeni telekomünikasyon SIM bağlantılarını kaydettir</string>
   <string name="permlab_removeDrmCertificates">DRM sertifikalarını kaldırma</string>
   <string name="permlab_reorderTasks">çalışan uygulamaları yeniden sırala</string>
+  <string name="permlab_requestIgnoreBatteryOptimizations">pili iyileştirme sorusunu yoksay</string>
   <string name="permlab_requestInstallPackages">Paketleri yükleme isteğinde bulunma</string>
   <string name="permlab_route_media_output">Medya çıktısını yönlendir</string>
   <string name="permlab_sdcardRead">Dahili belleğini okuma</string>
@@ -1182,6 +1244,7 @@ izin isteğinde bulunuldu."</string>
   <string name="reboot_to_update_title">Android Sistem Güncellemesi</string>
   <string name="recent_tasks_title">Son Görevler</string>
   <string name="redo">Geri Al</string>
+  <string name="region_picker_section_all">Tüm Bölgeler</string>
   <string name="relationTypeAssistant">Yardımcı</string>
   <string name="relationTypeBrother">Erkek Kardeş</string>
   <string name="relationTypeChild">Çocuk</string>
@@ -1201,6 +1264,8 @@ izin isteğinde bulunuldu."</string>
   <string name="replace">Değiştir...</string>
   <string name="report">Bildir</string>
   <string name="reset">Sıfırla</string>
+  <string name="reset_retail_demo_mode_text">Cihazı sıfırlamak için dokunun</string>
+  <string name="reset_retail_demo_mode_title">Cihaz sıfırlansın mı?</string>
   <string name="restr_pin_confirm_pin">"Yeni PIN'i doğrulayın"</string>
   <string name="restr_pin_create_pin">Kısıtlamaları değiştirmek için PIN oluşturun</string>
   <string name="restr_pin_enter_admin_pin">"Yönetici PIN'ini girin"</string>
@@ -1396,7 +1461,7 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="tethered_notification_title">Paylaşım veya iNet etkin</string>
   <string name="textSelectionCABTitle">Metin Seçimi</string>
   <string name="text_copied">Metin panoya kopyalandı.</string>
-  <string name="time_of_day" formatted="false">%H:%M:%S</string>
+  <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
   <string name="time_picker_decrement_hour_button">Saati azalt</string>
   <string name="time_picker_decrement_minute_button">Dakikayı azalt</string>
   <string name="time_picker_decrement_set_am_button">ÖÖ zamanını ayarla</string>
@@ -1470,6 +1535,7 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="vpn_lockdown_config">Yapılandırmak için dokunun</string>
   <string name="vpn_lockdown_connected">Daima Açık VPN Bağlantısı</string>
   <string name="vpn_lockdown_connecting">Daima Açık VPN\'e bağlanıyor…</string>
+  <string name="vpn_lockdown_disconnected">Daima açık VPN bağlantısını kes</string>
   <string name="vpn_lockdown_error">Daima Açık VPN hatası</string>
   <string name="vpn_text">Ağını yönetmek için dokunun.</string>
   <string name="vpn_text_long">%s için bağlandı. Ağı yönetmek için dokunun.</string>
@@ -1478,6 +1544,7 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="vr_listener_binding_label">VR Bekleyicisi</string>
   <string name="wait">Bekle</string>
   <string name="wallpaper_binding_label">Duvar Kağıdı</string>
+  <string name="web_user_agent_target_content">"Mobil "</string>
   <string name="webpage_unresponsive">"Sayfa yanıt vermiyor.
 
 Kapatmak ister misiniz?"</string>
