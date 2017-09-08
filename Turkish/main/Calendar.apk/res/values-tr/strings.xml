@@ -362,7 +362,6 @@
   <string name="insert_event_dialog_title">Dikkat</string>
   <string name="insert_event_toast_add_failed">Eklenemedi</string>
   <string name="insert_event_toast_add_success">Etkinlik oluşturuldu</string>
-  <string name="item_num_selected">%1$d seçildi</string>
   <string name="item_num_selected">%1$s seçildi</string>
   <string name="joke_card_click_toast">Şakaları kopyalamak için uzunca basın</string>
   <string name="joke_card_icon_text">|  %1$s gülüyor</string>
