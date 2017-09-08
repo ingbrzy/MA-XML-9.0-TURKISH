@@ -71,6 +71,7 @@
   <string name="cancel_operation">Operasyonu iptal et</string>
   <string name="cancel_success">Başarıyla kaldırıldı, tüm dosyalar %s taşındı</string>
   <string name="cancelled_by_user">Operasyon iptal edildi</string>
+  <string name="cannot_send">"Harici depolamadan dosyalar gönderilemedi"</string>
   <string name="category">Kategoriler</string>
   <string name="category_all">Tümü</string>
   <string name="category_apk">APK Dosyaları</string>
@@ -123,6 +124,7 @@
   <string name="clean_trash_box">Çöp kutusunu boşalt</string>
   <string name="click_to_switch_volume">Dahili ve Harici depolama arasında geçiş yapmak için buraya dokun</string>
   <string name="click_to_switch_volume_pad">Dahili ve SD depolama arasında geçiş yapmak için buraya dokun</string>
+  <string name="clock_in">Kontrol ediliyor…</string>
   <string name="clockin_failed">"Kontrol edilemedi, tekrar deneyin"</string>
   <string name="clockin_success">Başarıyla kontrol edildi</string>
   <string name="clockin_use">Ödül al</string>
@@ -135,7 +137,7 @@
   <string name="comment_fail_banned_forever">"Uygunsuz yorumlar için kalıcı olarak yasaklandınız. Daha fazla bilgi için QQ grubumuz olan (374463568) başvurun."</string>
   <string name="comment_fail_banned_forever_positive">Anladım</string>
   <string name="comment_fail_banned_temporary">"Uygunsuz yorumlar nedeniyle geçici olarak yasaklandınız"</string>
-   <string name="comment_hint">Yorum ekle</string>
+  <string name="comment_hint">Yorum ekle</string>
   <string name="comment_reply">Cevapla: %1$s: </string>
   <string name="compress_fail">"Sıkıştırılamıyor. Aynı isimde bir dosya zaten var."</string>
   <string name="compress_fail_unknown">"Sıkıştırılamıyor. Depolama dolu veya bilinmeyen bir hata oluştu."</string>
@@ -147,8 +149,9 @@
   <string name="connect_network_setting_des">İnternet bağlantısı için sor</string>
   <string name="connecting">Bağlanıyor…</string>
   <string name="connection_error">"Bağlantı kurulamadı"</string>
+  <string name="connection_lost">Bağlantı kesildi</string>
   <string name="contain_sensitive_words">Uygun olmayan kelimeleri kaldırın ve tekrar deneyin</string>
-	<string name="copied">Kopyalandı</string>
+  <string name="copied">Kopyalandı</string>
   <string name="copy_failed">"Kopyalanamadı"</string>
   <string name="copy_failed_retry">"Kopyalanamıyor, %1$s bekle ve yeniden deneyin"</string>
   <string name="copy_file_to_kuaipan">Kuaipan\'a dosyayı kopyala</string>
@@ -172,6 +175,7 @@
   <string name="data_consumption_title">İnternet Bağlantısı</string>
   <string name="decompress_cancel">İptal</string>
   <string name="decompress_confirm">Ayrıştır</string>
+  <string name="decompress_corrupt">"Dosyalar açılamadı. Paket bozuk."</string>
   <string name="decompress_destination_error">"Bu konuma dosyalar ayıklanamıyor"</string>
   <string name="decompress_encrypted_rar_not_supported">Şifreli rar dosyaları desteklenmez.</string>
   <string name="decompress_fail">"Çıkarılamadı. Depolama dolu veya bilinmeyen bir hata oluştu."</string>
@@ -185,6 +189,7 @@
   <string name="decrypt_error">"Çözülemedi"</string>
   <string name="decrypt_to">Çöz ve farklı kaydet...</string>
   <string name="decrypting">Çözülüyor…</string>
+  <string name="default_user_desc">"Bu kişi açıklaması henüz eklenmedi"</string>
   <string name="delete_dialog_button">Sil</string>
   <string name="delete_error">"Dosyalar silinemedi, tekrar deneyin"</string>
   <string name="delete_failed">"Silinemiyor"</string>
@@ -241,8 +246,14 @@
   <string name="encrypt_success_first_five">"Şifrele ve dosyayı gizle. Gezginin başlangıç sayfasından aşağı çekerek gizli dosyaları görebilirsiniz."</string>
   <string name="encrypting">Şifreleniyor…</string>
   <string name="error_contains_sharer_path">/MIUI/Gallery/cloud/sharer klasöründeki dosyaların şifreleri çözülemiyor. Dosyaları başka bir konuma taşıdıktan sonra yeniden deneyin</string>
+  <string name="error_create_dir">"Dizin oluşturulamadı"</string>
+  <string name="error_create_file">"Dosya oluşturulamadı</string>
+  <string name="error_delete_failed">"Dosya silinemedi"</string>
   <string name="error_filename_too_long">Girdiğiniz dosya adı çok uzun.</string>
+  <string name="error_folder_already_exists">Bu dosya zaten var</string>
   <string name="error_info_cant_send_folder">"Bu tür bir dosya gönderilemiyor."</string>
+  <string name="error_invalid_path">Yanlış yol</string>
+  <string name="error_not_support">Desteklenmiyor</string>
   <string name="error_open_file_failed_no_app_found">Bu dosyayı açabilecek uygulama bulunamadı.</string>
   <string name="expand_all">Tümü</string>
   <string name="extended_storage_file_can_not_open">"Dosya açılamadı. Önce dosyayı dahili depolamaya kopyalayın."</string>
@@ -309,7 +320,7 @@
   <string name="handsome_boy">Erkek</string>
   <string name="has_installed">Yüklendi</string>
   <string name="homepage_tab_category">Kategoriler</string>
-  <string name="homepage_tab_file_view">Depolama</string>
+  <string name="homepage_tab_file_view_phone">Depolama</string>
   <string name="homepage_tab_recent">Geçmiş</string>
   <string name="hot_app">Popüler Uygulamalar</string>
   <string name="hot_comments">Popüler Yorumlar</string>
@@ -325,7 +336,8 @@
   <string name="install_fail">"Yüklenmedi"</string>
   <string name="installing">Yükleniyor…</string>
   <string name="instruction">FTP istemcisini aşağıdaki adresi girin:</string>
-  <string name="instruction_pre">FTP sunucusu başlatmak için dokunun</string>
+  <string name="instruction_pre_pad">FTP sunucusu başlatmak için dokunun</string>
+  <string name="instruction_pre_phone">Touch to start FTP server</string>
   <string name="interest_recommend">Tavsiyeli Videolar</string>
   <string name="is_playing">Oynatılıyor...</string>
   <string name="join_activity">Katılımcı</string>
@@ -406,7 +418,7 @@ Sunucumuz şu anda çalışmıyor. Rahatsızlıktan dolayı özür dileriz. "</s
   <string name="message_comment_prefix">"Yorum: "</string>
   <string name="message_my_received_notification">Yeni Mesaj</string>
   <string name="message_my_received_praise">Sevdiklerim</string>
-  <string name="message_my_received_praise_count">%1$s</string>
+  <string name="message_my_received_praise_count">+%1$s</string>
   <string name="message_praise_comment">" bu yorumu sevdi"</string>
   <string name="message_praise_video">" bu videoyu sevdi"</string>
   <string name="message_reply_prefix">Cevapla</string>
@@ -454,6 +466,8 @@ Sunucumuz şu anda çalışmıyor. Rahatsızlıktan dolayı özür dileriz. "</s
   <string name="move_to">Taşı:</string>
   <string name="msg_notify_setting">Bildirim Ayarları</string>
   <string name="msg_set_password">Önce şifreyi ayarla</string>
+  <string name="mtp_device">Medya Cihazı (MTP)</string>
+  <string name="mtp_label">MTP</string>
   <string name="my_follows">Beslemem</string>
   <string name="multi_select_title">%1$s seçildi</string>
   <string name="my_app">Uygulama Verisi</string>
@@ -625,6 +639,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="other_user_no_follow_tip">"Hiçkimseyi henüz takip etmiyorsunuz."</string>
   <string name="other_user_no_liked_video_tip">Sevilen video yok.</string>
   <string name="overwrite_msg">\"%s\" zaten var. Üstüne yeni dosya olarak yazmak için dokunun.</string>
+  <string name="pad">Dahili Depolama</string>
   <string name="other_user_topic_tab">Başlıklar</string>
   <string name="other_user_video_tab">Videolar</string>
   <string name="pan_settting">KuaiPan Ayarları</string>
@@ -636,6 +651,8 @@ ve yenilerini kaçırmayın!"</string>
   <string name="path_hot_video">Popüler kısa videoları ücretsiz olarak görüntüle</string>
   <string name="path_kuai_chuan">Eşler arası dosya aktarımı</string>
   <string name="path_recent_file">Cihazınızdaki dosyaları yönetin</string>
+  <string name="permission_denial">"Dosyalara erişilemedi. Ayarlar içinden Dosyalara erişim izni verin."</string>
+  <string name="permission_required">"Dosyalara erişilemedi. Ayarlar içinden Dosyalara erişim izni verin.​"</string>
   <string name="partial_repair_done">Bazı dosyalar geri yüklendi</string>
   <string name="paused">Durduruldu</string>
   <string name="petabyteShort">PB</string>
@@ -783,7 +800,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="search_result_hint5"/>
   <string name="search_result_hint6">(%d öğe)</string>
   <string name="search_result_hint7">(%d)</string>
-  <string name="search_result_more">Fazlası</string>
+  <string name="search_result_more">Diğer</string>
   <string name="search_statistic_appname">kaynak</string>
   <string name="search_statistic_keyword">veri girişi</string>
   <string name="search_statistic_tag">etiket</string>
@@ -961,6 +978,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="unbind_account">%s silinsin mi?</string>
   <string name="unbind_fail">"Silinemedi"</string>
   <string name="unbind_success">Başarıyla silindi</string>
+  <string name="unknown_error">Bilinmeyen bir hata oluştu. Bir veya iki dakika bekleyin ve yeniden deneyin.</string>
   <string name="unlock_pattern_msg">Gizlilik koruması parolası fotoğraf ve mesajlar için çalışır.</string>
   <string name="unlock_pattern_title">Yeni şifre</string>
   <string name="unlogin">Önce oturum açın</string>
@@ -1022,7 +1040,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="user_guide_summary">Rahat ve güvenli bir bulut depolamasıdır</string>
   <string name="user_guide_upload_to_kuaipan">Telefondaki içeriği Mi Drive\'da saklayın.</string>
   <string name="user_icon">Profil Fotoğrafı</string>
-  <string name="user_id_tip">ID: %1$s</string>
+  <string name="user_id_tip">Kimlik: %1$s</string>
   <string name="user_info_setting">Bilgiyi düzenle</string>
   <string name="user_like_text">Sevilenler</string>
   <string name="user_liked_video_title">Sevilen Videolar</string>
