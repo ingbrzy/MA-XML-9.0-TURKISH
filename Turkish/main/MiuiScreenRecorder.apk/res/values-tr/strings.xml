@@ -4,7 +4,7 @@
   <string name="app_name">Ekran Kaydedici</string>
   <string name="app_notification_title">Ekran Kaydedici</string>
   <string name="auto_stop_title">Video başarıyla kaydedildi</string>
-  <string name="battery_not_allowed">"Pil %%3'den daha düşük olduğunda kaydedilemiyor. Pilin en az %%20 oranında şarj edilmiş olduğundan emin olun."</string>
+  <string name="battery_not_allowed" formatted="false">"Pil %3'den daha düşük olduğunda kaydedilemiyor. Pilin en az %20 oranında şarj edilmiş olduğundan emin olun."</string>
   <string name="bit_rate">Video Kalitesi</string>
   <string name="bit_rate_summary">Yüksek kalite, daha büyük dosya boyutu anlamına gelir</string>
   <string name="bubble_text">Kayda başlamak için dokunun</string>
@@ -22,6 +22,7 @@
   <string name="error_open_file_failed_no_app_found">"Bu dosyayı açacak uygulama bulunamadı"</string>
   <string name="frames">Kare Hızı</string>
   <string name="frames_summary">Daha yüksek kare hızları hareket bulanıklığını azaltır</string>
+  <string name="frequently_click_toast">Hizmet başlatılıyor, lütfen biraz bekleyin</string>
   <string name="gleam_led_while_recording">Kayıt esnasında bildirim ışığı yansın</string>
   <string name="hint_back">Geri</string>
   <string name="hint_home">Ana Sayfa</string>
@@ -35,6 +36,7 @@
   <string name="low_battery_title">Düşük pil</string>
   <string name="low_battery_warning">Pil çok düşük. Kayıt durduruldu ve video kaydedildi.</string>
   <string name="low_memory">"200 MB'tan daha az kullanılabilir depolama alanınız var. Şimdi 5 dakikaya kadar kayıt yapabilirsiniz."</string>
+  <string name="low_memory_dior">"Depolamada 500MB'tan az yer kaldı. Şimdilik 12 dakikayı kaydedebilirsiniz.</string>
   <string name="low_memory_title">Yeterli depolama alanı yok</string>
   <string name="low_momery_warning">Yeterli depolama alanı yok. Kayıt durduruldu ve video kaydedildi.</string>
   <string name="memory_not_allowed">Kullanılabilir depolama alanı yok. Kayıt için bir miktar yer açın.</string>
