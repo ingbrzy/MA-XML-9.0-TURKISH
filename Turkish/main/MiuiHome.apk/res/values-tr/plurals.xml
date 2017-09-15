@@ -2,26 +2,25 @@
 <resources>
     <plurals name="editing_mode_title">
         <item quantity="other">%1$d seçildi</item>
-        <item quantity="zero">%1$d seçildi</item>
-        <item quantity="one">%1$d seçildi</item>
-        <item quantity="two">%1$d seçildi</item>
-        <item quantity="few">%1$d seçildi</item>
-        <item quantity="many">%1$d seçildi</item>
     </plurals>
-    <plurals name="uninstall_dialog_title_format">
-        <item quantity="other">%1$s ve %2$d diğer uygulamalar kaldırılsın mı?</item>
-        <item quantity="one">%s Kaldır</item>
+    <plurals name="uninstall_dialog_title_multi_format">
+        <item quantity="other">%1$d uygulama kaldırılsın mı?</item>
+        <item quantity="one">%1$d uygulama kaldırılsın mı?</item>
     </plurals>
-    <plurals name="uninstall_result_succeeded">
+    <plurals name="uninstall_result_multi_succeeded">
         <item quantity="other">%1$d uygulama kaldırıldı</item>
-        <item quantity="zero">%1$d uygulama kaldırıldı</item>
-        <item quantity="one">Uygulama kaldırıldı</item>
-        <item quantity="two">%1$d uygulama kaldırıldı</item>
-        <item quantity="many">%1$d uygulama kaldırıldı</item>
+        <item quantity="one">%1$d uygulama kaldırıldı</item>
     </plurals>
-    <plurals name="uninstall_result_failed">
-        <item quantity="other">"%1$s ve %2$d diğer uygulamalar kaldırılamadı"</item>
-        <item quantity="one">"%s kaldırılamadı"</item>
-        <item quantity="two">"%s ve 1 uygulama kaldırılamadı"</item>
+    <plurals name="uninstall_result_multi_failed">
+        <item quantity="other">"%1$d uygulama kaldırılamıyor"</item>
+        <item quantity="one">"%1$d uygulama kaldırılamıyor"</item>
+    </plurals>
+    <plurals name="scroll_tip_format_when_announce_accessibility">
+        <item quantity="other">%1$d sayfa, %2$d uygulama</item>
+        <item quantity="one">%1$d sayfa, %2$d uygulama</item>
+    </plurals>
+    <plurals name="delete_wallpapers_message">
+        <item quantity="other">%1$d duvar kağıdı silinsin mi?</item>
+        <item quantity="one">%1$d duvar kağıdı silinsin mi?</item>
     </plurals>
 </resources>

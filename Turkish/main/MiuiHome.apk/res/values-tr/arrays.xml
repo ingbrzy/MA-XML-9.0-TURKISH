@@ -10,17 +10,21 @@
         <item>Küp</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
-        <item>Tema (Standart)</item>
-        <item>Merkeze</item>
-        <item>Bağlantılar</item>
+        <item>Varsayılan Tema</item>
+        <item>Ortala</item>
+        <item>Sola</item>
         <item>Sağa</item>
     </string-array>
     <string-array name="cell_layout_size_entries">
         <item>4x4</item>
         <item>4x5</item>
     </string-array>
+    <string-array name="cell_layout_size_values">
+        <item>4x4</item>
+        <item>4x5</item>
+    </string-array>
     <string-array name="gadget_weather_theme_type_entries">
-        <item>Standart</item>
+        <item>Varsayılan</item>
         <item>Klasik</item>
     </string-array>
     <string-array name="gadget_weather_image">
@@ -30,8 +34,8 @@
         <item>Sisli</item>
         <item>Şiddetli Yağmur Fırtınası</item>
         <item>Yağmur Fırtınası</item>
-        <item>Çok Ağır Yağış</item>
-        <item>Sağanak</item>
+        <item>Çok Ağır Yağışlı</item>
+        <item>Gökgürültülü Sağanak</item>
         <item>Sağanak Yağmur</item>
         <item>Ağır Yağmur</item>
         <item>Yağmur</item>
@@ -51,10 +55,16 @@
         <item>Puslu</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Temalar</item>
-        <item>Araçlar</item>
         <item>Duvar Kağıdı</item>
-        <item>Efektler</item>
-        <item>Şablon</item>
+        <item>Araçlar</item>
+        <item>Ayarlar</item>
+    </string-array>
+    <string-array name="editing_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="quality_business_devices">
+        <item>lithium</item>
     </string-array>
 </resources>
