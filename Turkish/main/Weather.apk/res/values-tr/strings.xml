@@ -24,6 +24,7 @@
   <string name="activity_main_update_time">Güncelleme: %1$s</string>
   <string name="activity_main_update_time_expire">Veri güncellemesinin süresi geçti</string>
   <string name="activity_main_update_time_right_now">Şimdi</string>
+  <string name="activity_minute_rain_location_fail_msg">"Konum bulunamadı. Varsayılan olarak Beijing gösteriliyor."</string>
   <string name="activity_weathermain_locationg">Yer saptanıyor...</string>
   <string name="activity_weathermain_locationg_error">"Konum bulunamadı"</string>
   <string name="add_city">Ekle</string>
@@ -50,6 +51,7 @@
   <string name="aqi_detail_subtitle">HKE %1$s</string>
   <string name="aqi_detail_title">Hava Kalite Endeksi</string>
   <string name="aqi_detail_unit">Birim: µg/m³ (CO: mg/m³)</string>
+  <string name="aqi_fifteen_dates_time_format">d/M</string>
   <string name="aqi_display_exp">exp_%1$s</string>
   <string name="aqi_publish_source">%1$s CNEMC tarafından güncellendi</string>
   <string name="aqi_publish_time">Güncelleme: %1$s</string>
@@ -84,6 +86,9 @@
   <string name="commercial">Ticari</string>
   <string name="common_loading_text">Biraz bekleyin…</string>
   <string name="connect_fail">Ağ bağlantısı anormal. Lütfen daha sonra tekrar deneyiniz.</string>
+  <string name="content_desc_activity_main_add_city">Şehir ekle</string>
+  <string name="content_desc_activity_main_add_city_manage">Şehirleri yönet</string>
+  <string name="content_desc_activity_main_more_settings">Diğer Ayarlar</string>
   <string name="daily_forcast_drawer_on_bottom">Gizle</string>
   <string name="daily_forcast_drawer_on_top">%1$s günlük tahmin</string>
   <string name="daily_forcast_no_stable_direction">Meltem</string>
@@ -99,6 +104,8 @@
   <string name="daily_forecast_no_data">"Hava Durumu bilgisi alınamadı
   +Yenilemek veya ağ ayarlarını kontrol etmek için aşağı doğru çekin"</string>
   <string name="data_provided_by">Veri Sağlayıcısı: </string>
+  <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ssz"</string>
+  <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">Uyarıları Yönet</string>
   <string name="edit_city">Şehri düzenle</string>
   <string name="empty">" "</string>
@@ -165,6 +172,7 @@
   <string name="international_details_uv_index_title">UV İndeksi</string>
   <string name="international_details_wind_connect">%1$s %2$s</string>
   <string name="international_details_wind_title">Rüzgar</string>
+  <string name="it_is_going_to_rain">"Yağmur yağacak"</string>
   <string name="locate_fail_detail_err">"Cihaz konumu bulunamıyor
 Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="location_management">Konumlar</string>
@@ -189,6 +197,8 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="more_details">Diğer Detaylar</string>
   <string name="network_not_available">"Ağa bağlanamadı."</string>
   <string name="network_unavailable">"Ağa bağlanamadı."</string>
+  <string name="night_not_disturb_settings_summary">23:00 ve 07:00 arasında alarmlar sesizde</string>
+  <string name="night_not_disturb_settings_title">"Gece rahatsız etme"</string>
   <string name="no_data">--</string>
   <string name="no_network_btn">Tekrar deneyin</string>
   <string name="no_vote_num">%1$s kişi | </string>
@@ -197,6 +207,7 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="open_browser">Tarayıcıda Aç</string>
   <string name="open_now">Aç</string>
   <string name="other">Diğer</string>
+  <string name="other_warning_settings">Diğer Alarmlar</string>
   <string name="particulate_matter_exceeded">Yüksek</string>
   <string name="particulate_matter_not_exceeded">Normal</string>
   <string name="particulate_matter_serious_exceeded">Çok Yüksek</string>
@@ -207,12 +218,15 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="precipitation_degree_two">Hafif</string>
   <string name="pressure_connect">%1$s mb</string>
   <string name="radar_cloud_image_title">Radar Haritası</string>
+  <string name="rainfall_settings_summary">Sağanak Alarmı</string>
+  <string name="rainfall_settings_title">Sağanak</string>
   <string name="realtime_aqi_connection">%1$s</string>
   <string name="realtime_aqi_title">Hava Kalite İndeksi</string>
   <string name="realtime_humidity_title">Bağıl Nem</string>
   <string name="realtime_temperature_no_data">Yok</string>
   <string name="realtime_wind_default_title">Rüzgar</string>
   <string name="refresh_fail">"Ağa bağlanamadı"</string>
+  <string name="reminder_from_xiaomi_weather_app">Mi Hava Durumu Alarmı</string>
   <string name="retry">Tekrar deneyin</string>
   <string name="search_weather">Hava Durumu</string>
   <string name="search_weather_keywords">Sıcaklık, Hava Tahmini, Hava Durumu, Hava Kalitesi, Kirlilik Derecesi, Nem</string>
@@ -262,6 +276,9 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="unit">Birim</string>
   <string name="unit_temperature">Sıcaklık Birimi</string>
   <string name="unit_wind">Rüzgar Hızı Birimi</string>
+  <string name="update_night_setting_summary_text">Hava Durumunu 23:00 ile 07:00 arasında güncelle</string>
+  <string name="update_night_setting_title_text">Hava Durumunu geceleyin otomatik güncelle</string>
+  <string name="update_setting_title_text">Hava Durumu Güncelleme Bilgisi</string>
   <string name="video_dialog_no_play"/>
   <string name="video_dialog_play"/>
   <string name="video_dialog_subtitle"/>
@@ -278,4 +295,5 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="xiaomi_weather_description_content">"Hava Durumu size doğru hava durumu bilgisi sağlar. Bu uygulama olmadan, durum çubuğu ve Ana Ekran, Hava Durumu Aracı düzgün çalışmaz. Uygulamayı kaldırmadan önce bu özelliklere sahip olmadan yapabildiğinizden emin olun."</string>
   <string name="xiaomi_weather_description_title">Hava Durumu Hakkında</string>
   <string name="yes_vote_ratio">%%%1$s</string>
+  <string name="your_location">Konumunuz</string>
 </resources>

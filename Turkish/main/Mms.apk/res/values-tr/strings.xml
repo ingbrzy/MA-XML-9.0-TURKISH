@@ -7,6 +7,7 @@
   <string name="addBlackList">Engelle</string>
   <string name="add_attachment">Ek Ekle</string>
   <string name="add_contact">vCard</string>
+  <string name="add_miui_contact">Mi Kart</string>
   <string name="add_festival">Hitaplar</string>
   <string name="add_music">Müzik Ekle</string>
   <string name="add_nickname">Rumuz</string>
@@ -172,7 +173,8 @@
   <string name="exceed_message_text_limitation">Mesaj metin uzunluğu sınırına ulaşıldı.</string>
   <string name="expire_on">Geçerlilik Tarihi: %s</string>
   <string name="exporting_progress_private_message">Aktarılıyor…</string>
-  <string name="fail_to_add_attachment">"Eklenemedi"</string>
+  <string name="fail_to_add_attachment">""Eklenemedi""</string>
+  <string name="fail_to_view_attachment">"Ek mevcut değil"</string>
   <string name="failed_to_add_media">"%1$s mesajınıza ekleyemezsiniz."</string>
   <string name="failed_to_resize_image">Resim boyutlandırılamadı.</string>
   <string name="fake_cell_alert_hint">Bu mesajı telefon numarasına gönderirken, diğer taraftan görüntüleyebilirsiniz. SMS içeriğinde finansal istekleri gönderirken dikkat edin.</string>
@@ -277,6 +279,7 @@
   <string name="message_number">Telefon Numarası:</string>
   <string name="message_pending">Gönderiliyor</string>
   <string name="message_queued">"Şu an mesajınız gönderilemiyor. Hizmet kullanılabilir olduğunda gönderilecektir."</string>
+  <string name="message_queued_second_space">"Şu an mesajınız gönderilemiyor. Lütfen veri ağını açın."</string>
   <string name="message_readed">Okundu</string>
   <string name="message_received">Alındı</string>
   <string name="message_rejected">Reddedildi</string>
@@ -367,9 +370,9 @@
   <string name="mx_stranger_recommend_msg">Bilinmeyen numaralardan gelen Mi Mesajları engellemek için dokunun</string>
   <string name="mx_type_guide">Mi Mesaj ile herhangi bir MIUI kullanıcısına Wi-Fi veya mobil ağ üzerinden ücretsiz mesaj gönderebilirsiniz.</string>
   <string name="need_download">Eşitleniyor...</string>
-  <string name="networking_allow_continue">Tamam</string>
-  <string name="networking_allow_desc">"Akıllı mesajlar ücretsiz metinleri, istenmeyenleri, sesli mesajların tanınmasını sağlar. Bu hizmeti kullanarak Xiaomi\'nin %1$s ve %2$s kabul etmiş olursunuz. Sarı sayfaları açmak ve bu hizmeti kullanmak için internete bağlamanız gerekmektedir."</string>
-  <string name="networking_allow_desc_without_mx">"Akıllı mesajlar bilinmeyen numaraları, istenmeyenleri vb.. tanımlayabilir. Bu hizmeti kullanarak Xiaomi\'nin %1$s ve %2$s kabul etmiş olursunuz. Sarı sayfaları açmak ve bu hizmeti kullanmak için internete bağlamanız gerekmektedir."</string>
+  <string name="networking_allow_continue">İzin ver</string>
+  <string name="networking_allow_desc">"Mi Mesaj normal çalışabilmek için internek gerektirir. Ücretsiz metinleri, istenmeyenleri, sesli mesajların tanınmasını sağlar. Bu hizmeti kullanarak Xiaomi\'nin %1$s ve %2$s kabul etmiş olursunuz. Sarı sayfalara erişmek için internete bağlanmak, konum bilginizi almasına ve kişilerinizi okumasına izin veriyor musunuz?"</string>
+  <string name="networking_allow_desc_without_mx">"Mi Mesaj normal çalışabilmek için internek gerektirir. Bilinmeyen numaraları, istenmeyenleri vb.. tanımlayabilir. Bu hizmeti kullanarak Xiaomi\'nin %1$s ve %2$s kabul etmiş olursunuz. Sarı sayfaları açmak ve bu hizmeti kullanmak için internete bağlamanız gerekmektedir. Sarı sayfalara erişmek için internete bağlanmak, konum bilginizi almasına ve kişilerinizi okumasına izin veriyor musunuz?"</string>
   <string name="networking_allow_title">Dikkat</string>
   <string name="new_message">Yeni Mesaj</string>
   <string name="new_message_arrived">Yeni bir mesajınız var</string>
@@ -423,8 +426,10 @@
   <string name="pref_show_sms_template_in_summary">Bir kez kullanılan parolaların SMS mesajlarını otomatik olarak algıla</string>
   <string name="pref_show_sms_template_summary">Mi Mesajda akıllı özellikleri kullanmayı açarsanız kodları kopyalayabilir, dengeleri kontrol edebilirsiniz vb...</string>
   <string name="pref_smart_messages_settings">Akıllı Mesajlar</string>
+  <string name="pref_sms_storage_title">Depolama</string>
   <string name="pref_sms_theme_title">Görüntüle</string>
   <string name="pref_summary_allow_si_sl_push">Mesajların web sitelerinden içerik yüklemesine izin verir</string>
+  <string name="pref_summary_auto_delete">Limitlere ulaşıldığında eski mesajları sil</string>
   <string name="pref_summary_delete_limit">%1$s görüşme başına mesaj</string>
   <string name="pref_summary_delivery_reports">Gönderilen mesajların sevkiyat durumu göster</string>
   <string name="pref_summary_delivery_ringtone">Mesaj alındığında sesli bildirim ver.</string>
@@ -447,6 +452,7 @@
   <string name="pref_time_auto_group_title">Zamana Göre Grupla</string>
   <string name="pref_title_about_smart_sms">Akıllı mesaj ortağı hakkında</string>
   <string name="pref_title_allow_si_sl_push">WAP Push mesajlarına izin ver (SI/SL)</string>
+  <string name="pref_title_auto_delete">Eski mesajları sil</string>
   <string name="pref_title_card_format">Kart paylaşım biçimi</string>
   <string name="pref_title_delivery_reports">Gönderilme Durumu</string>
   <string name="pref_title_festival_networking">İnternet bağlantısı</string>
@@ -457,6 +463,8 @@
   <string name="pref_title_mms_auto_retrieval">MMS içeriğini otomatik olarak al</string>
   <string name="pref_title_mms_delete">MMS mesaj limiti</string>
   <string name="pref_title_mms_read_reports">MMS Okundu Bilgisi</string>
+  <string name="pref_title_mms_retrieval_during_international_roaming">Uluslararası dolaşımdan gelen MMS içeriklerini indir</string>
+  <string name="pref_title_mms_retrieval_during_national_roaming">Ulusal dolaşımdan gelen MMS içeriklerini indir</string>
   <string name="pref_title_mms_retrieval_during_roaming">Dolaşım sırasında MMS içerikleri indirebilir</string>
   <string name="pref_title_mms_validity_period">MMS geçerlilik süresi</string>
   <string name="pref_title_notification_body_enabled">Mesajları Kilit Ekranında Göster</string>
@@ -623,6 +631,8 @@
   <string name="sp_conversation_title">Bildirimler</string>
   <string name="sp_mark_as_read">Tümü okundu olarak işaretlensin mi?</string>
   <string name="sp_mark_as_read_menu_title">Okundu diye işaretle</string>
+  <string name="sqlite_disk_full">Veritabanı veya disk doldu</string>
+  <string name="sqlite_low_memory">Düşük Hafıza</string>
   <string name="sp_mark_as_read_progress">Çalışıyor...</string>
   <string name="sp_mark_as_read_title">Hepsi okundu olarak işaretlensin mi?</string>
   <string name="status_failed">Başarısız</string>

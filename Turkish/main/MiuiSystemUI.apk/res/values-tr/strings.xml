@@ -30,6 +30,7 @@
   <string name="accessibility_data_signal_full">Veri sinyali tam.</string>
   <string name="accessibility_data_three_bars">Veri sinyali üç çubuk.</string>
   <string name="accessibility_data_two_bars">Veri sinyali iki çubuk.</string>
+  <string name="accessibility_desc_recent_apps">Gözden Geçir</string>
   <string name="accessibility_display_daltonizer_preference_subtitle">Bu özellik deneyseldir ve performansı etkileyebilir.</string>
   <string name="accessibility_display_daltonizer_preference_title">Rengi Düzelt</string>
   <string name="accessibility_divider">Ekran Bölücü</string>
@@ -53,6 +54,11 @@
   <string name="accessibility_recent_task_locked">Kilitli, kilidini açmak için aşağı hızlıca kaydırın.</string>
   <string name="accessibility_recent_task_memory_info">Toplam RAM: %2$s | Mevcut RAM: %1$s. Temizlemek için iki kez dokunun.</string>
   <string name="accessibility_recent_task_unlocked">Kilit açıldı</string>
+  <string name="accessibility_recents_all_items_dismissed">Tüm geçmiş uygulamalar kaldırıldı</string>
+  <string name="accessibility_recents_item_dismissed">%s kaldırıldı</string>
+  <string name="accessibility_recents_item_launched">%s başlatılıyor…</string>
+  <string name="accessibility_recents_item_open_app_info">%s uygulama bilgisini görüntüle.</string>
+  <string name="accessibility_recents_item_will_be_dismissed">%s kaldır</string>
   <string name="accessibility_remove_notification">Bildirimi temizle.</string>
   <string name="accessibility_ringer_silent">Telefon Sessizde.</string>
   <string name="accessibility_ringer_vibrate">Telefon Titreşimde.</string>
@@ -80,7 +86,9 @@
   <string name="animator_duration_scale_title">Animatör süresi ölçeği</string>
   <string name="apn_settings_not_available">Bu kullanıcı için Erişim Noktası Adının ayarları kullanılamıyor</string>
   <string name="app_label">Sistem Arayüzü</string>
-  <string name="app_process_limit_title">Arkaplan sürecinin sınırı</string>
+  <string name="app_process_limit_title">Arkaplan işleminin sınırı</string>
+  <string name="as_important">Önemli</string>
+  <string name="as_unimportant">Önemsiz</string>
   <string name="audio_effect_custom">Yapılandır</string>
   <string name="audio_effect_info">Sesi İyi Duruma Getir</string>
   <string name="audio_effect_settings">Kulaklık Tipini Seçin</string>
@@ -159,6 +167,7 @@
   <string name="bugreport_in_power_summary">Hata raporu almak için güç menüsünde bir düğme gösterin</string>
   <string name="button_convert_fbe">Sil ve dönüştür...</string>
   <string name="call_status_dialing">Aranıyor</string>
+  <string name="call_status_holding">Bekleniyor</string>
   <string name="call_status_ringing">Çalıyor</string>
   <string name="camera_key_action_app_title">Uygulamayı aç</string>
   <string name="camera_key_action_category_title">Kamera açılmazsa kullan</string>
@@ -171,6 +180,7 @@
   <string name="camera_key_action_shortcut_title">Kısayol</string>
   <string name="camera_key_action_shortcut_wake">Cihazı Kilitle/Uyandır</string>
   <string name="camera_key_action_toggle_title">Geçiş Tetikleyicisi</string>
+  <string name="cancel">İptal</string>
   <string name="category_personal">Kişisel</string>
   <string name="category_work">İş</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
@@ -178,6 +188,8 @@
   <string name="chooseUsbActivity">USB cihazı için uygulama seçin</string>
   <string name="choose_profile">Profil seç</string>
   <string name="clear_adb_keys">USB Hata Ayıklama yetkilerini iptal et</string>
+  <string name="click_to_return_multi_window">Bölünmüş ekrana dönmek için dokunun</string>
+  <string name="config_systemUIFactoryComponent">com.android.systemui.SystemUIFactory</string>
   <string name="confirm_enable_oem_unlock_text">UYARI: Bu ayar açıkken, cihaz koruma özellikleri bu cihazda çalışmaz.</string>
   <string name="confirm_enable_oem_unlock_title">"OEM'in kilidini açmasına izin verilsin mi?"</string>
   <string name="connected_via_passpoint">%1$s ile bağlandı</string>
@@ -219,6 +231,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="debug_monitoring_category">İzleniyor</string>
   <string name="debug_networking_category">Ağ oluşturuluyor</string>
   <string name="debug_view_attributes">Görünüm özellik incelemesini etkinleştir</string>
+  <string name="demo_mode">Demo Modu</string>
   <string name="description_direction_left">%s için sola hızlıca kaydır.</string>
   <string name="description_direction_up">%s kilidini açmak yukarı kaydırın.</string>
   <string name="description_target_search">Ara</string>
@@ -242,7 +255,8 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="dlg_confirm_kill_storage_users_title">USB depolamayı aç</string>
   <string name="dlg_error_title">USB işlemi başarısız</string>
   <string name="dlg_ok">Tamam</string>
-  <string name="dock_forced_resizable">Uygulama, bölmeli ekranda çalışmayabilir.</string>
+  <string name="dock_forced_resizable">Uygulama, Bölünmüş ekranda çalışmayabilir.</string>
+  <string name="dock_keyguard_locked_failed_to_dock_text">"Bölünmüş ekran kilit ekranda çalışmaz."</string>
   <string name="dock_non_resizeble_failed_to_dock_text">Uygulama, bölünmüş ekranı desteklemiyor.</string>
   <string name="drive_mode_tip">"Araç Modu\'undasınız"</string>
   <string name="enable_adb">USB Hata Ayıklama</string>
@@ -294,6 +308,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="immediately_destroy_activities">Faaliyetleri saklama</string>
   <string name="immediately_destroy_activities_summary">Kullanıcı ayrılır ayrılmaz tüm faaliyetler kaldırılır</string>
+  <string name="important_desc">Tüm önemli bildirimler, Bildirim Alanında direkt olarak gösterilir.</string>
   <string name="inactive_app_active_summary">Aktif. Geçiş yapmak için hafifçe dokunun.</string>
   <string name="inactive_app_inactive_summary">Aktif değil. Geçiş yapmak için hafifçe dokunun.</string>
   <string name="inactive_apps_title">Etkin olmayan uygulamalar</string>
@@ -301,6 +316,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
 Daima orjinal aksesuar kullanın."</string>
   <string name="keep_screen_on">Uyanık kal</string>
   <string name="keep_screen_on_summary">Şarj olurken ekran hiçbir zaman uyumaz</string>
+  <string name="keyboard_shortcut_group_system_recents">Öncekiler</string>
   <string name="kilobyte_per_second">K/sn</string>
   <string name="label_view">Gözat</string>
   <string name="launch_defaults_none">Varsayılan ayar yok</string>
@@ -348,13 +364,13 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="nav_guide_ok">Ayarlar</string>
   <string name="nav_guide_title">Ekran düğmelerini gizle</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
-  <string name="no_multi_window_app">Mevcut uygulama bölünmüş ekran modunu desteklemez</string>
+  <string name="no_multi_window_app">Mevcut uygulama Bölünmüş ekran modunu desteklemez</string>
   <string name="no_application">Hiçbir şey</string>
   <string name="no_notification_tips">Bildirim yok.</string>
   <string name="no_weather_description">Hava Durumu bilgisini al &gt;</string>
   <string name="not_support_multi_window">"Mevcut uygulama çoklu pencereyi desteklemez"</string>
   <string name="notification_header_title">Bildirimler</string>
-  <string name="notification_hidden_text">İçerik gizlendi</string>
+  <string name="notification_hidden_text">Bildirim gizlendi</string>
   <string name="notification_low_battery_action_btn">Aç</string>
   <string name="notification_low_battery_need_charge">Pil düşük. Cihazınızı şarj edin.</string>
   <string name="notification_low_battery_open_save_mode">Pil Tasarrufunu aç</string>
@@ -419,11 +435,28 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="quick_settings_wifi_detail_empty_text">WLAN ağı mevcut değil</string>
   <string name="quick_settings_wifi_label">WLAN</string>
   <string name="quick_settings_wifi_nearby">Yakındaki bir ağı seç</string>
+  <string name="recent_dock_tip">Uygulama seçmek için dokunun</string>
   <string name="recent_task_app_info_text">Bilgi</string>
   <string name="recent_task_cleaning">Uygulamar temizleniyor…</string>
   <string name="recent_task_lock_text">Kilitle</string>
   <string name="recent_task_unlock_text">Kilidi Aç</string>
+  <string name="recents_app_info_button_label">Uygulama Bilgisi</string>
+  <string name="recents_caption_resize">Yeni görev şablonunu seçin</string>
+  <string name="recents_drag_hint_message">Öğeyi buraya taşıyın</string>
+  <string name="recents_empty_message">Geçmiş öğesi yok</string>
+  <string name="recents_empty_message_dismissed_all">Tüm öğeleri kaldırdınız</string>
+  <string name="recents_empty_message_multi_window">Açık uygulamalar için Ana Ekrana git</string>
+  <string name="recents_exit_multi_window_mode">Çık</string>
+  <string name="recents_incompatible_app_message">"Uygulama Bölünmüş Ekranı desteklemiyor"</string>
+  <string name="recents_launch_disabled_message">%s Güvenli Modda durduruldu</string>
   <string name="recents_launch_error_message">%s başlatılamadı.</string>
+  <string name="recents_lock_to_app_button_label">Ekranı düzelt</string>
+  <string name="recents_multi_window_mode">Ekranı böl</string>
+  <string name="recents_multistack_add_stack_dialog_split_custom">Özl</string>
+  <string name="recents_multistack_add_stack_dialog_split_horizontal">Yatay böl</string>
+  <string name="recents_multistack_add_stack_dialog_split_vertical">Dikey Böl</string>
+  <string name="recents_search_bar_label">Ara</string>
+  <string name="recents_stack_action_button_label">Tümünü Kaldır</string>
   <string name="reject_call">Çağrıyı reddet</string>
   <string name="remaining_length_format">%1$s kaldı</string>
   <string name="return_to_incall_screen">Çağrıya dön</string>
@@ -451,7 +484,8 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="screenshot_dlg_cancel">İptal</string>
   <string name="screenshot_dlg_delete_button">Sil</string>
   <string name="screenshot_edit">Düzenle</string>
-  <string name="screenshot_failed_text">"Kısıtlı olmasından dolayı depolama alanı ekran görüntüsü alamıyor buna uygulama veya kuruluş tarafından izin verilmiyor."</string>
+  <string name="screenshot_failed_text">"Kısıtlı olmasından dolayı depolama alanı ekran görüntüsünü alamıyor veya buna uygulama izin vermiyor olabilir."</string>
+  <string name="screenshot_insert_failed">"Ekran görüntüsü yüklenemiyor. Yeni bir tane çekin veya Galeri içinden görüntüleyin."</string>
   <string name="screenshot_long_screenshot">Genişlet</string>
   <string name="screenshot_saved_text">Ekran görüntüsünü görmek için hafifçe dokunun.</string>
   <string name="screenshot_saved_title">Ekran görüntüsü alındı.</string>
@@ -478,6 +512,7 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="show_all_anrs_summary">Arkaplandaki uygulamalar için Uygulama Cevap Vermiyor diyaloğunu göster</string>
   <string name="show_cpu_usage">CPU kullanımı göster</string>
   <string name="show_cpu_usage_summary">Geçerli CPU kullanımını gösteren ekranın gösterimi</string>
+  <string name="show_demo_mode">Demo Modunu göster</string>
   <string name="show_hw_layers_updates">Donanım katmanlarının güncellemelerini göster</string>
   <string name="show_hw_layers_updates_summary">Donanım katmanları güncelleme yaptıklarında yeşil renkte flaşlı gösterilir</string>
   <string name="show_hw_screen_updates">GPU görünüm güncellemelerini göster</string>
@@ -489,6 +524,7 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="show_touches_summary">Dokunmalar için görsel geribildirim gösterir</string>
   <string name="simulate_color_space">Renk alanını simüle et</string>
   <string name="stat_sys_data_connected_1x_half">1X</string>
+  <string name="status_bar_accessibility_dismiss_recents">Geçmiş uygulamaları reddet</string>
   <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
   <string name="status_bar_date_format">"d MMMM EEEE"</string>
   <string name="status_bar_date_format_12">"d MMMM EEEE"</string>
@@ -505,8 +541,10 @@ Daima orjinal aksesuar kullanın."</string>
 Kilitlemek için aşağı kaydırın "</string>
   <string name="status_bar_recent_guide_bottom">Kilitlemek için aşağı kaydırın </string>
   <string name="status_bar_recent_guide_top">Kapatmak için yukarı kaydırın </string>
+  <string name="status_bar_recent_inspect_item_title">Uygulama Bilgisi</string>
   <string name="status_bar_recent_memory_info1">%2$sB | %1$sB kullanılabilir</string>
   <string name="status_bar_recent_memory_info2"/>
+  <string name="status_bar_recent_remove_item_title">Listeden kaldır</string>
   <string name="status_bar_recording_back">Kaydediciye dön</string>
   <string name="status_bar_recording_pause">Kaydedici duraklatıldı</string>
   <string name="status_bar_safepay_risk">Ödeme riski bulundu</string>
@@ -564,6 +602,9 @@ Kilitlemek için aşağı kaydırın "</string>
   <string name="tts_status_ok">%1$s tamamen destekleniyor</string>
   <string name="tts_status_requires_network">%1$s ağ bağlantısı gerektiriyor</string>
   <string name="tts_status_title">Varsayılan Dil Durumu</string>
+  <string name="un_important_notifications">Önemsiz Bildirimler</string>
+  <string name="unimportant_desc">Tüm önemsiz bildirimler ayrı bir dizinde biriktirilir.</string>
+  <string name="unimportant_title">Önemsiz</string>
   <string name="unknown">Bilinmiyor</string>
   <string name="usb_accessory_confirm_prompt">Bu USB aksesuar bağlandığında %1$s açılsın mı?</string>
   <string name="usb_accessory_permission_prompt">USB aksesuar erişimi için %1$s izin verilsin mi?</string>

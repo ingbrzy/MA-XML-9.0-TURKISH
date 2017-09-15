@@ -142,7 +142,7 @@
         <item>kn</item>
     </string-array>
     <string-array name="breeze">
-        <item>&lt;Beaufort Numarası 2</item>
+        <item>&lt;Güç 2</item>
         <item>&lt;6.0km/s</item>
         <item>&lt;1.7mt/sn</item>
         <item>&lt;3.7mps</item>
