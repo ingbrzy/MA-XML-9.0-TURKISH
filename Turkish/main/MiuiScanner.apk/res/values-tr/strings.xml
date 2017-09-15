@@ -44,6 +44,7 @@
   <string name="crop_done_description">Tamam</string>
   <string name="crop_title_study">Fotoğrafı kırp</string>
   <string name="crop_title_translation">Çevrilecek metni seç</string>
+  <string name="default_language">@string/language_value_turkish_tr</string>
   <string name="dialog_dismiss">Vazgeç</string>
   <string name="dialog_report">Raporla</string>
   <string name="document_color_picture">Renk</string>
@@ -52,12 +53,14 @@
   <string name="document_grayscale">Gri tonlu</string>
   <string name="document_grayscale_tip_msg">Gri tona dönüştürülüyor…</string>
   <string name="document_ocr">OCR</string>
+  <string name="document_ocr_language_key">pref_document_ocr_language</string>
   <string name="document_ocr_result_copy">Metni kopyala</string>
   <string name="document_ocr_result_save">Notlara kaydet</string>
   <string name="document_ocr_result_title">Döküman Fotoğrafı</string>
   <string name="document_ocr_tip_msg">Okunuyor…</string>
   <string name="document_ocr_vendor_info">OCR, Kingsoft tarafından güçlendirildi</string>
   <string name="document_recognize_fail_tip">"Döküman okunamadı"</string>
+  <string name="document_recognize_null_tip">Döküman sonucu boş</string>
   <string name="document_rectify">Ayarla</string>
   <string name="document_rectify_tip_msg">Ayarlanıyor…</string>
   <string name="document_save_succeed_tip">%1$s döküman kaydedildi</string>
