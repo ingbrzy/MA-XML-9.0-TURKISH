@@ -70,6 +70,7 @@
   <string name="default_folder_title_security">Sistem</string>
   <string name="default_folder_title_telcel">Telcel</string>
   <string name="default_folder_title_tools">Araçlar</string>
+  <string name="default_screen_preview_title">Varsayılan ekranı ayarlamak için dokunun</string>
   <string name="default_shortcut_title_10086">10086.cn</string>
   <string name="delete">Sil</string>
   <string name="delete_screen">Ekranı Sil</string>
@@ -169,23 +170,30 @@
   <string name="lock_screen_success_message">Duvar kağıdınız başarıyla ayarlandı</string>
   <string name="lock_screen_wallpaper">Kilit Ekranı Duvar Kağıdı</string>
   <string name="menu_add">Ekle</string>
+  <string name="menu_auto_fill">Boş hücreyi doldur</string>
   <string name="menu_back_desktop">Ana Ekrana Dön</string>
+  <string name="menu_cell_setting">Ana ekran şablonu</string>
   <string name="menu_customize">Ayarlar</string>
+  <string name="menu_default_screen_preview">Varsayılan ekranı ayarla</string>
   <string name="menu_edit">Ana Ekranı düzenle</string>
   <string name="menu_exit_scene">Mi Space\'den çık</string>
   <string name="menu_item_add_item">Ana Ekrana yerleştir</string>
   <string name="menu_launcher_setting">Başlatıcı Ayarları</string>
+  <string name="menu_lock">Ana Ekran şablonunu kilitle</string>
+  <string name="menu_more">Diğer</string>
   <string name="menu_picktheme">Bir tema seç</string>
   <string name="menu_reset_scene">Varsayılan düzene sıfırla</string>
   <string name="menu_search">Ara</string>
   <string name="menu_settings">Ayarlar</string>
   <string name="menu_sort">Uygulamaları Sırala</string>
+  <string name="menu_trans_effect">Geçiş Efektleri</string>
   <string name="menu_wallpaper">Duvar Kağıdı</string>
   <string name="menu_workspace_preview">Ana Ekran Önizlemesi</string>
   <string name="mi_wallpaper">MIUI Tema Mağazası</string>
   <string name="mtzgadget_missing_text">"Araç mevcut değil"</string>
   <string name="multi_selecting_tips">Uygulamayı eklemek için, simgesini sürükleyip, buraya bırakabilirsiniz</string>
   <string name="no_detail_page">Detay sayfası yok</string>
+  <string name="no_space_toast">Boş alan yok</string>
   <string name="normal_wallpaper">Duvar Kağıdı</string>
   <string name="notification_installed">Başarıyla yüklendi</string>
   <string name="notification_open_button">Aç</string>
@@ -287,4 +295,5 @@
   <string name="widget_favorite_contacts_style">Boyutu değiştir</string>
   <string name="widget_gadget_player">Müzik</string>
   <string name="widget_global_search">Ara</string>
+  <string name="widget_quick_function">Hızlı Fonksiyonlar</string>
 </resources>
