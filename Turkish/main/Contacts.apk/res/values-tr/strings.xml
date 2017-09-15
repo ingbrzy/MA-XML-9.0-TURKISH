@@ -880,43 +880,53 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
   <string name="noContactHelpTextAccountsInfo"/>
   <string name="noContactHelpTextImportXiaomiAccountInfo">Mi hesabında yedeklenmiş kişiler bilgisini geri yükle</string>
   <string name="noContacts">Kişi yok</string>
-  <string name="noContactsNoSimHelpText" product="default">\"Görüntülenecek kişi kaydınız bulunmamaktadır.\n\nKişi eklemek için, <font fgcolor="#ffffffff"><b>Menü</b></font>\'ye, ardından:\n
-        \n<li><font fgcolor="#ffffffff"><b>Hesaplar</b></font>\'a dokunarak tabletinize eşitleyeceğiniz kişilerin kayıtlı olduğu bir hesap ekleyebilir veya kurulumunu yapabilirsiniz.\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Yeni kişi</b></font>\'ye dokunarak en baştan bir kişi oluşturabilir\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>İçe/Dışa Aktar</b></font>\'a dokunarak SIM veya SD kartınızdan kişileri içe aktarabilirsiniz.\n</li>\"
-    </string>
+  <string name="noContactsHelpText">"Görüntülenecek herhangi bir kişi yok.
+
+To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+    "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Hesapları eklemek veya bir hesaptaki kişileri telefonla eşitle
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Sıfırdan yeni bir kişi oluşturun
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"SIM kart veya SD Karttan kişileri içeri/dışarı aktarın
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"</string>
   <string name="noContactsHelpTextForCreateShortcut">"Görüntülenecek herhangi bir kişi yok."</string>
-  <string name="noContactsHelpText" product="tablet">\"Görüntülenecek kişi kaydınız bulunmamaktadır.\n\nKişi eklemek için, <font fgcolor="#ffffffff"><b>Menü</b></font>\'ye, ardından:\n
-        \n<li><font fgcolor="#ffffffff"><b>Hesaplar</b></font>\'a dokunarak tabletinize eşitleyeceğiniz kişilerin kayıtlı olduğu bir hesap ekleyebilir veya kurulumunu yapabilirsiniz.\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Yeni Kişi</b></font>\'ye dokunarak en baştan bir kişi oluşturabilir\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>İçe/Dışa Aktar</b></font>\'a dokunarak SIM veya SD kartınızdan kişileri içe aktarabilirsiniz.\n</li>\"
-    </string>
   <string name="noContactsHelpTextWithSync">"Görüntülenecek herhangi bir kişi yok. (Sadece bir hesap eklediyseniz, kişileri eşitlemek birkaç dakika sürebilir.)
 
 Kişi eklemek için, "&lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt;" tuşuna dokunun, dokunduğunda:
  
-"&lt;font fgcolor="#ffffffff"&gt;"Hesapları eklemek veya telefona eşitleyeceğiniz kişiler için hesabı ayarlayın
-"&lt;/font&gt;" 
-"&lt;font fgcolor="#ffffffff"&gt;" Görünür kişiler için ekran seçeneklerini değiştir
-"&lt;/font&gt;" 
-"&lt;font fgcolor="#ffffffff"&gt;"Sıfırdan yeni bir kişi oluşturun
-"&lt;/font&gt;" 
-"&lt;font fgcolor="#ffffffff"&gt;"SIM kart veya SD Karttan kişileri içeri/dışarı aktarın
-"&lt;/font&gt;"
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Hesapları eklemek veya bir hesaptaki kişileri telefonla eşitle
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Görünür kişiler için ekran seçeneklerini değiştir
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Sıfırdan yeni bir kişi oluşturun
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"SIM kart veya SD Karttan kişileri içeri/dışarı aktarın
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
 "</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Görüntülenecek herhangi bir kişi yok. (Eğer bir hesap eklediyseniz, kişileri eşitlemek biraz zaman alabilir.)"</string>
-  <string name="noContactsNoSimHelpTextWithSync" product="default">\"Görüntülenecek kişi kaydınız bulunmamaktadır. (Eğer kısa bir süre önce bir hesap eklediyseniz, kişilerin eşitleme işlemi birkaç dakika sürebilir.)\n\nKişi eklemek için, <font fgcolor="#ffffffff"><b>Menü</b></font>\'ye, ardından:\n
-        \n<li><font fgcolor="#ffffffff"><b>Hesaplar</b></font>\'a dokunarak tabletinize eşitleyeceğiniz kişilerin kayıtlı olduğu bir hesap ekleyebilir veya kurulumunu yapabilirsiniz.\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Görüntüleme Seçenekleri</b></font>\'ne dokunarak hangi kişilerin görünür durumda olduğunu değiştirebilir\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Yeni kişi</b></font>\'ye dokunarak en baştan bir kişi oluşturabilir\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>İçe aktar/Dışa aktar</b></font>\'a dokunarak SIM veya SD kartınızdan kişileri içe aktarabilirsiniz.\n</li>\"
-    </string>
-  <string name="noContactsNoSimHelpTextWithSync" product="tablet">\"Görüntülenecek kişi kaydınız bulunmamaktadır. (Eğer kısa bir süre önce bir hesap eklediyseniz, kişilerin eşitleme işlemi birkaç dakika sürebilir.)\n\nKişi eklemek için, <font fgcolor="#ffffffff"><b>Menü</b></font>\'ye, ardından:\n
-        \n<li><font fgcolor="#ffffffff"><b>Hesaplar</b></font>\'a dokunarak tabletinize eşitleyeceğiniz kişilerin kayıtlı olduğu bir hesap ekleyebilir veya kurulumunu yapabilirsiniz.\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Görüntüleme seçenekleri</b></font>\'ne dokunarak hangi kişilerin görünür durumda olduğunu değiştirebilir\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>Yeni kişi</b></font>\'ye dokunarak en baştan bir kişi oluşturabilir\n</li>
-        \n<li><font fgcolor="#ffffffff"><b>İçe/Dışa Aktar</b></font>\'a dokunarak SIM veya SD kartınızdan kişileri içe aktarabilirsiniz.\n</li>\"
-    </string>
+  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Görüntülenecek herhangi bir kişi yok. (Sadece bir hesap eklediyseniz, kişileri eşitlemek birkaç dakika sürebilir.)"</string>
+  <string name="noContactsNoSimHelpText">"Görüntülenecek herhangi bir kişi yok.
+
+To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+    "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Hesapları eklemek veya bir hesaptaki kişileri telefonla eşitle
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Sıfırdan yeni bir kişi oluşturun
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"SIM kart veya SD Karttan kişileri içeri/dışarı aktarın
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"</string>
+  <string name="noContactsNoSimHelpTextWithSync">"Görüntülenecek herhangi bir kişi yok. (Sadece bir hesap eklediyseniz, kişileri eşitlemek birkaç dakika sürebilir.)
+
+To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+    "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Hesapları eklemek veya bir hesaptaki kişileri telefonla eşitle
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Görünür kişiler için ekran seçeneklerini değiştir
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Sıfırdan yeni bir kişi oluşturun
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
+"&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"SIM kart veya SD Karttan kişileri içeri/dışarı aktarın
+"&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;"
+"</string>
   <string name="noContactsWithPhoneNumbers">Telefon numarası olan hiç kimse bulunamadı</string>
   <string name="noFavoritesHelpText">"Herhangi bir favoriniz yok.
 
@@ -1260,6 +1270,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="sim_error_password_error">Girdiğiniz şifre yanlış</string>
   <string name="sim_error_storage_full">SIM karttın hafızası dolu</string>
   <string name="sim_error_text_too_long">İsim çok uzun</string>
+  <string name="sim_export_error">SIM hazır değil, sonra yeniden deneyin</string>
   <string name="sim_export_loading">SIM Kart okunuyor…</string>
   <string name="sim_indexed_contact_not_exist">SIM karttaki %1$d mevki geçersiz, %2$d ve %3$d arasındaki mevkide olmalı.</string>
   <string name="sim_no_contact">SIM kartta kişi yok</string>
@@ -1355,6 +1366,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="toast_for_saving_nickname">Rumuz saklandı</string>
   <string name="toast_join_with_empty_contact">Birbiri ile birleştirmeden önce kişinin adını yazın</string>
   <string name="toast_making_personal_copy">Şahsi kopya oluşturuluyor…</string>
+  <string name="toast_start_intent_failed">Uygun uygulama bulunamadı</string>
   <string name="toast_text_copied">Kopyalandı</string>
   <string name="today">Bugün</string>
   <string name="tomorrow">Yarın</string>
@@ -1367,12 +1379,14 @@ Favorilerinize bir kişi eklemek için:
   <string name="type_outgoing">Giden Arama</string>
   <string name="type_voicemail">Sesli Mesaj</string>
   <string name="unable_get_device_id">IMEI alınamıyor</string>
+  <string name="unfold_all">Tümünü Aç</string>
   <string name="unknow_phone_number_call_failed">"Bilinmeyen numara aranamıyor"</string>
   <string name="unknow_phone_number_mms_failed">"Bilinmeyen numaraya mesaj gönderilemiyor"</string>
   <string name="unknown">Bilinmiyor</string>
   <string name="update_sim_contact_photo_toast">SIM kartvizitleri için profil fotoğrafları ayarlanamıyor</string>
   <string name="unknown_caller">Bilinmeyen Kişi</string>
   <string name="unknown_contact_name">Bilinmeyen Kişi</string>
+  <string name="unknown_details_new_contact">Yeni Kişi</string>
   <string name="upgrade_in_progress">Kişi listesi güncelleniyor.</string>
   <string name="upgrade_out_of_memory">"Kişiler güncellenme sürecindedir. 
 
