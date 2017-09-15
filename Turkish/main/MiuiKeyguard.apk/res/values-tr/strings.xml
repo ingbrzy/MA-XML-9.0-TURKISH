@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_enter_lock_wallpaper">Kilit Ekran duvar kağıdına dokunun</string>
+  <string name="accessibility_enter_lock_wallpaper">Duvar Kağıdı Döngüsünü açmak için dokunun</string>
+  <string name="btn_camera">Yüzünüzü girin</string>
   <string name="click_to_enter_text">Gözatmak için dokunun</string>
   <string name="confirm_pin_msg">PIN kodunu tekrar girin</string>
   <string name="custom_lock_wallpaper_enter">Gir</string>
@@ -15,6 +16,49 @@
   <string name="experimental_validate_thanks">Teşekkürler!</string>
   <string name="experimental_validate_username">Kullanıcı Adı</string>
   <string name="experimental_validate_warning">MIUI\'yi daha iyi hale getirdiğiniz için teşekkürler!</string>
+  <string name="face_data_input_camera_fail">"Kamera açılamadı"</string>
+  <string name="face_data_input_camera_ok">Kamera açılıyor…</string>
+  <string name="face_data_input_cancel">İptal</string>
+  <string name="face_data_input_cancel_msg">"Yüz verisi eklenemedi"</string>
+  <string name="face_data_input_msg">Yüzünüzü çerçeve içine yerleştirin</string>
+  <string name="face_data_input_ok">Tamam</string>
+  <string name="face_data_input_ok_msg">Ekranı açmak için yüz verinizi kullanın.</string>
+  <string name="face_data_input_ok_title">Başarıyla eklendi</string>
+  <string name="face_data_input_title">Yüz verisi ekle</string>
+  <string name="face_data_introduction_msg">Yüz verisi cihaz kilidini açmak veya kimliği doğrulamak için kullanılır. Kilit Ekran şifresinden önce yüz verisini ekleyin.</string>
+  <string name="face_data_introduction_next">Sonraki</string>
+  <string name="face_data_introduction_title">Yüz Tanıması</string>
+  <string name="face_data_manage_delete">Yüz verisi silinsin mi?</string>
+  <string name="face_data_manage_delete_msg">Yüz verisini sil</string>
+  <string name="face_data_manage_delete_sure">"Eğer silerseniz, yüz verisini kullanarak cihazın kilidini açamayacaksınız."</string>
+  <string name="face_data_manage_delete_title">Yüz Verisi</string>
+  <string name="face_data_manage_unlock_msg">Yüz verisi kullanarak cihazın kilidini aç</string>
+  <string name="face_data_manage_unlock_title">Yüz verisi kullanarak cihazın kilidini aç</string>
+  <string name="face_data_suggesstion_first">Yüz verisini kullanarak kilidi açmak; şifreyi girmekten daha güvenli değildir. Cihazın size benzeyenler tarafından açılabileceğini unutmayın.</string>
+  <string name="face_data_suggesstion_second">"Yüzünüzün herhangi bir obje ile kapalı olmadığından ve görünümün güzel olmasından emin olun. Yüzünüz doğal halinde olmalı."</string>
+  <string name="face_unlock_adjust_distance">Yüzünüz ile cihaz arasında ideal bir mesafe olmalı.</string>
+  <string name="face_unlock_be_on_the_screen">Cihazın ön kamerasını yüzünüze tutun</string>
+  <string name="face_unlock_by_notification_screen_on_msg">Gelen bildirim ışıkları yandığında; yüz verisini kullanarak ekranın ışığını açabilirsiniz. Sürekli ekranı aydınlatmak, pilin daha hızlı bitmesine sebep olur.</string>
+  <string name="face_unlock_by_notification_screen_on_title">Bildirim ışığı yandığında yüzü kullanarak ekran ışığını açmaya izin ver</string>
+  <string name="face_unlock_check_failed">"Tanınamadınız"</string>
+  <string name="face_unlock_close_screen">Ekrana daha yakın durun</string>
+  <string name="face_unlock_down">Kafanızı kaldırın</string>
+  <string name="face_unlock_identify_error">Tanınmada bir hata oluştu</string>
+  <string name="face_unlock_not_found">"Tanınamadınız"</string>
+  <string name="face_unlock_offset_bottom">Telefonu biraz aşağı indirin</string>
+  <string name="face_unlock_offset_left">Sağa doğru...</string>
+  <string name="face_unlock_offset_right">Sola doğru...</string>
+  <string name="face_unlock_offset_top">Telefonu biraz kaldırın</string>
+  <string name="face_unlock_open_eye">Gözlerinizi biraz açın</string>
+  <string name="face_unlock_passwork">Şifre kullan</string>
+  <string name="face_unlock_passwork_and_fingerprint">Şifre veya yüz verisi kullan</string>
+  <string name="face_unlock_quality">"Yüzünüzü net olarak göremedi"</string>
+  <string name="face_unlock_reveal_eye">Gözleriniz göründüğünden emin olun</string>
+  <string name="face_unlock_reveal_mouth">Dudaklarınız gördüğünden emin olun</string>
+  <string name="face_unlock_rise">Kafanızı aşağı eğin</string>
+  <string name="face_unlock_rotated_left">Kafanızı sağa döndürün</string>
+  <string name="face_unlock_rotated_right">Kafanızı sola döndürün</string>
+  <string name="face_unlock_stay_away_screen">Ekrandan 25 ila 40 cm uzakta durun</string>
   <string name="find_device_turn_off_flight_mode">Uçak Modunu kapat</string>
   <string name="fingerprint_add_text">Parmakizi arayüzü güncellendi. Parmakizinizi tekrar ekleyin.</string>
   <string name="fingerprint_add_title">Parmakizi ekle</string>
@@ -23,7 +67,7 @@
   <string name="fingerprint_enter_second_psw_msg_oldman">"Hafif Moddayken İkinci Alana girilemiyor"</string>
   <string name="fingerprint_enter_second_psw_title">İkinci Alan şifresini girin</string>
   <string name="fingerprint_lockout_msg">Bir dakika sonra parmakizi ile kilidi açmayı deneyin!</string>
-  <string name="fingerprint_not_identified_msg">Cihazın kilidini açmak için şifrenizi girin.</string>
+  <string name="fingerprint_not_identified_msg">Çok fazla deneme yapıldı. Cihazın kilidini açmak için şifrenizi girin veya biraz sonra yeniden parmakizini kullanın.</string>
   <string name="fingerprint_not_identified_title">Şifrenizi girin</string>
   <string name="fingerprint_try_again_msg">"Parmakizi doğrulanamadı, tekrar deneyin."</string>
   <string name="fingerprint_try_again_text">Tekrar deneyin</string>
@@ -35,6 +79,7 @@
   <string name="input_password_after_boot_msg">"Cihaz yeniden başladıktan sonra şifreyi girmeniz gerekecek."</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Görüşme esnasındaki boşluklar arasında geçiş yapılamaz"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Cihaz yeniden başlatıldıktan sonra İlk Alana girmeniz gerekiyor</string>
+  <string name="input_password_handle_sdcard_fs">İkinci Alana girmeden önce \"SD Kartı iyileştirmeye çalış\" kapatılmalı.</string>
   <string name="input_password_hint_text">Şifreyi girin</string>
   <string name="input_pattern_hint_text">Deseni açma desenini çizin</string>
   <string name="input_pin_code">PIN kodunu girin</string>
@@ -50,7 +95,7 @@
   <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">Yaklaşık %d saat %d dakikada dolacak</string>
   <string name="keyguard_charging_info_charging_text">Şarj ediliyor</string>
   <string name="keyguard_charging_info_charging_voltage_text">Voltaj</string>
-  <string name="keyguard_charging_info_click_to_detail">Detaylara bak</string>
+  <string name="keyguard_charging_info_click_to_detail">Detaylari görüntüle</string>
   <string name="keyguard_charging_info_could_use_hour_time_text">Yaklaşık %d saat kaldı</string>
   <string name="keyguard_charging_info_could_use_min_time_text">Yaklaşık %d dakika kaldı</string>
   <string name="keyguard_charging_info_could_use_time_text" formatted="false">Yaklaşık %d saat %d dakika kaldı</string>
@@ -73,15 +118,19 @@
   <string name="keyguard_charging_info_tip_text3">"Ortam sıcaklıği 0°'den düşük olduğunda cihazınızı şarj etmekten kaçının."</string>
   <string name="keyguard_charging_info_tip_text4">"Cihazınızın aşırı ısınmasını önlemek için şarj ederken aktif olarak kullanmayın."</string>
   <string name="keyguard_charging_info_tip_text5">Piller normalden daha sıcak olduklarında daha fazla şarj olurlar.</string>
-  <string name="keyguard_charging_info_tip_text6">Ekranı kapatın ve soğutmak için cihazınızdan uzaklaşın.</string>
+  <string name="keyguard_charging_info_tip_text6">Ekranı kapatın ve soğutmak için cihazı kullanmayı bırakın.</string>
+  <string name="keyguard_left_bankcard">Mi Ödeme</string>
+  <string name="keyguard_left_buscard">Taşıma Kartı</string>
+  <string name="keyguard_left_remotecentral">Mi Kumanda</string>
+  <string name="keyguard_left_smarthome">Mi Ev</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Hızlı şarj ediliyor. Ayrıntıları görüntülemek için dokunun.</string>
   <string name="keyguard_quickly_charging_info_charging_text">Hızlı şarj ediliyor...</string>
   <string name="keyguard_torch_cover_text">Feneri açık tutmak için düğmeye basılı tutun</string>
-  <string name="lock_screen_date">dd MMMM EEEE</string>
-  <string name="lock_screen_date_12">dd MMMM EEEE</string>
+  <string name="lock_screen_date">d MMMM EEEE</string>
+  <string name="lock_screen_date_12">d MMMM EEEE</string>
   <string name="lock_wallpaper_enter">Girin</string>
   <string name="lock_wallpaper_learn_more">Diğer</string>
-  <string name="lock_wallpaper_see_more">Fazlasını Görüntüle</string>
+  <string name="lock_wallpaper_see_more">Diğer</string>
   <string name="lockscreen_access_pattern_cell_added">Hücre eklendi</string>
   <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
   <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
@@ -118,6 +167,10 @@
   <string name="open_remote_center_hint_text">%s açmak için sağa kaydırın </string>
   <string name="open_wifi_settings">Ağ bağlantısını aç</string>
   <string name="phone_locked_foget_password">Şifremi unuttum</string>
+  <string name="phone_locked_foget_password_mehod_back">Geri</string>
+  <string name="phone_locked_foget_password_method">Şifreyi unuttum</string>
+  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Cihazdaki tüm veriler ki buna fotoğraflar ve kişiler dahil silinecek ve yeni bir kilit ekran şifresi ayarlayacaksınız.&lt;/Data&gt;</string>
+  <string name="phone_locked_foget_password_method_next">Sonraki</string>
   <string name="phone_locked_foget_password_content">"Bu cihazla ilişkili Mi Hesabı kullanarak i.mi.com'da oturum açabilir ve tüm verileri silebilirsiniz. Bu cihazda depolanan tüm kişisel veriler silinecektir. Bundan sonra, cihazı yeniden başlatabilir ve kişileri, mesajları, fotoğrafları ve diğer öğeleri Mi Bulut'tan geri yükleyebilirsiniz. 
 
 Bu cihazdan Mi Hesabınıza oturum açmadıkça bunu yapamazsınız. Aksi takdirde cihazınıza yeniden yazılım yüklemeniz gerekir."</string>
@@ -125,7 +178,14 @@ Bu cihazdan Mi Hesabınıza oturum açmadıkça bunu yapamazsınız. Aksi takdir
 i.mi.com adresinde oturum açın, "Telefonu Bul" bölümüne gidin, cihazı seçin ve Cihazı Sil düğmesine basın."</string>
   <string name="phone_locked_foget_password_header">Şifremi unutursam ne yapmalıyım?</string>
   <string name="phone_locked_foget_password_ok">Anladım</string>
+  <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Cihazı kapatın, Güç ve Sesi Açma tuşuna aynı anda basıp, bırakmayın. Mi Logosunu görünce bırakın.&lt;/Data&gt;</string>
+  <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Gelen ekranda \"Wipe &amp;amp;amp; Reset\" (Temizle ve Sıfırla) bölümünü seçin ve cihaz sıfırlanana kadar bekleyin.&lt;/Data&gt;</string>
+  <string name="phone_locked_forget_password_suggesstions_title">Veriler nasıl sıfırlanır?</string>
   <string name="phone_locked_string">Telefon kilitlendi</string>
+  <string name="symbol_colon">:</string>
+  <string name="unlock_camera_steady">Lütfen sabit durun</string>
+  <string name="unlock_failed">İç hata</string>
+  <string name="unlock_failed_face_not_found">Tespit ediliyor</string>
   <string name="phone_locked_timeout_minutes_string">%s dakika sonra tekrar deneyin</string>
   <string name="phone_locked_timeout_seconds_string">%s saniye içinde tekrar deneyin</string>
   <string name="symbol_colon">:</string>
@@ -134,7 +194,7 @@ i.mi.com adresinde oturum açın, "Telefonu Bul" bölümüne gidin, cihazı seç
   <string name="unlocking_sim_card">SIM kartın kilidi açılıyor...</string>
   <string name="unlockscreen_low_battery">Lütfen, şarj cihazını bağlayın.</string>
   <string name="unlockscreen_quick_charging_message">%%%d hızlı şarj ediliyor</string>
-  <string name="unlockscreen_recharge_completed">Pil %100 doldu</string>
+  <string name="unlockscreen_recharge_completed">Pil şarj edildi</string>
   <string name="unlockscreen_recharging_message">Şarj ediliyor: %%%d</string>
   <string name="wrong_password">Yanlış şifre</string>
 </resources>
