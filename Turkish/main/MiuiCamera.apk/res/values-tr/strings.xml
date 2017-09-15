@@ -186,7 +186,6 @@ birden fazla fotoğraf çekilecek."</string>
   <string name="portrait_mode_use_hint">"Portre Modunda arkaplan flu hale gelir ve kişi ön plana alınır."</string>
   <string name="portrait_with_facebeauty_hint">Güzellik Modu artık Portre Modunun içinde</string>
   <string name="pref_advance_settings">Ek Ayarlar</string>
-  <string name="pref_audio_focus_default">Normal</string>
   <string name="pref_audio_focus_entry_front">Ön</string>
   <string name="pref_audio_focus_entry_general">Normal</string>
   <string name="pref_audio_focus_entry_rear">Arka</string>
@@ -407,9 +406,6 @@ birden fazla fotoğraf çekilecek."</string>
   <string name="pref_camera_snap_label_take_movie">Video</string>
   <string name="pref_camera_snap_label_take_picture">Fotoğraf</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"\"Ses Düğmeleriyle Uyan\" açıkken Seri Çekim Moduna geçilemiyor."</string>
-  <string name="pref_camera_snap_value_off">Kapalı</string>
-  <string name="pref_camera_snap_value_take_movie">Film</string>
-  <string name="pref_camera_snap_value_take_picture">Resim</string>
   <string name="pref_camera_sound_title">Kamera Sesleri</string>
   <string name="pref_camera_square_mode_title">Kare</string>
   <string name="pref_camera_stereo_mode_title">Stereo</string>
@@ -450,10 +446,8 @@ birden fazla fotoğraf çekilecek."</string>
   <string name="pref_manual_exposure_title">Pozlama Zamanı</string>
   <string name="pref_priority_storage_title">SD Karta Sakla</string>
   <string name="pref_qc_focus_position_title">Odakla</string>
-  <string name="pref_qc_focus_position_value_default">0</string>
   <string name="pref_retain_camera_mode_summary">Uygulama açıldığında önceki çekimde kullanılan moda geçiş yap.</string>
   <string name="pref_retain_camera_mode_title">Önceki Modu Kaydet</string>
-  <string name="pref_scan_qrcode_default">true</string>
   <string name="pref_scan_qrcode_summary">Sadece arka kamera QR Kodları tarar</string>
   <string name="pref_scan_qrcode_title">QR Kodlarını Tara</string>
   <string name="pref_setting_title">Ayarlar</string>
