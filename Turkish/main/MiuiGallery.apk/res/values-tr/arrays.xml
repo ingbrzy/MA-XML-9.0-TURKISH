@@ -21,4 +21,18 @@
         <item>Arkadaşlar</item>
         <item>Grupsuz</item>
     </string-array>
+	<string-array name="collage_month">
+        <item>Oca</item>
+        <item>Şub</item>
+        <item>Mar</item>
+        <item>Nis</item>
+        <item>May</item>
+        <item>Haz</item>
+        <item>Tem</item>
+        <item>Ağu</item>
+        <item>Eyl</item>
+        <item>Eki</item>
+        <item>Kas</item>
+        <item>Ara</item>
+    </string-array>
 </resources>
