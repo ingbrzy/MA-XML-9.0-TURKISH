@@ -24,9 +24,9 @@
         <item>1 GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>Sadece bildir</item>
-        <item>Otomatik olarak temizle</item>
-        <item>Temizle ve bildir</item>
+        <item>Bildir</item>
+        <item>Temizle</item>
+        <item>Temizle ve Bildir</item>
     </string-array>
     <string-array name="cache_clean_menu">
         <item>Bu dosyayı temizle</item>
