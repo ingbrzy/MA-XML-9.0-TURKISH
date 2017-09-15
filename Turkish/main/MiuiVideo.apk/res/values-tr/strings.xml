@@ -60,7 +60,6 @@ Son Değişiklik: %s
 Konum: %s
 
 "</string>
-  <string name="file_match_detail">[A-Za-z0-9]*</string>
   <string name="filter">Filtre</string>
   <string name="filter_file_tips">Bu dosya filtrelensin mi?</string>
   <string name="firebase_database_url">https://miuiglobalvideoplayer.firebaseio.com</string>
@@ -68,9 +67,6 @@ Konum: %s
   <string name="folder_up_tips">(Üst Dizin)</string>
   <string name="gcm_defaultSenderId">632999161735</string>
   <string name="genres">Tür</string>
-  <string name="google_api_key">AIzaSyCVxqdJP4EVPngD7PtPd5th7ut1aSe1efA</string>
-  <string name="google_app_id">1:632999161735:android:962992f33e5cb7ff</string>
-  <string name="google_crash_reporting_api_key">AIzaSyCVxqdJP4EVPngD7PtPd5th7ut1aSe1efA</string>
   <string name="google_storage_bucket">miuiglobalvideoplayer.appspot.com</string>
   <string name="hide">Gizle</string>
   <string name="hide_file_tips">Bu dosya gizlensin mi?</string>

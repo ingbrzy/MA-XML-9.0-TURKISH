@@ -104,7 +104,6 @@
   <string name="daily_forecast_no_data">"Hava Durumu bilgisi alınamadı
   +Yenilemek veya ağ ayarlarını kontrol etmek için aşağı doğru çekin"</string>
   <string name="data_provided_by">Veri Sağlayıcısı: </string>
-  <string name="data_source_time_fromat">"dd-MM-yyyy'T'HH:mm:ssz"</string>
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">Uyarıları Yönet</string>
   <string name="edit_city">Şehri düzenle</string>
