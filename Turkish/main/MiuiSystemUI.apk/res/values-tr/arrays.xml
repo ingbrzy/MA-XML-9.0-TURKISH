@@ -197,7 +197,8 @@
         <item>com.miui.cloudappbackup</item>
         <item>com.miui.fmradio</item>
         <item>com.android.systemui</item>
-    <item>com.android.mms</item>
+    <item>com.miui.contentextension</item>
+        <item>com.android.mms</item>
     </string-array>
     <string-array name="avoid_disturb_app_whitelist">
         <item>com.baidu.BaiduMap</item>
