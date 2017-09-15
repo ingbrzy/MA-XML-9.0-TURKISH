@@ -19,10 +19,6 @@
         <item>4x4</item>
         <item>4x5</item>
     </string-array>
-    <string-array name="cell_layout_size_values">
-        <item>4x4</item>
-        <item>4x5</item>
-    </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>Varsayılan</item>
         <item>Klasik</item>
@@ -58,11 +54,6 @@
         <item>Duvar Kağıdı</item>
         <item>Araçlar</item>
         <item>Ayarlar</item>
-    </string-array>
-    <string-array name="editing_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="quality_business_devices">
         <item>lithium</item>
