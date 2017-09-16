@@ -182,13 +182,11 @@ i.mi.com adresinde oturum açın, "Telefonu Bul" bölümüne gidin, cihazı seç
   <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Gelen ekranda \"Wipe &amp;amp;amp; Reset\" (Temizle ve Sıfırla) bölümünü seçin ve cihaz sıfırlanana kadar bekleyin.&lt;/Data&gt;</string>
   <string name="phone_locked_forget_password_suggesstions_title">Veriler nasıl sıfırlanır?</string>
   <string name="phone_locked_string">Telefon kilitlendi</string>
-  <string name="symbol_colon">:</string>
   <string name="unlock_camera_steady">Lütfen sabit durun</string>
   <string name="unlock_failed">İç hata</string>
   <string name="unlock_failed_face_not_found">Tespit ediliyor</string>
   <string name="phone_locked_timeout_minutes_string">%s dakika sonra tekrar deneyin</string>
   <string name="phone_locked_timeout_seconds_string">%s saniye içinde tekrar deneyin</string>
-  <string name="symbol_colon">:</string>
   <string name="unlock_sim_string">Tamam</string>
   <string name="unlock_string">Kilidi aç</string>
   <string name="unlocking_sim_card">SIM kartın kilidi açılıyor...</string>
