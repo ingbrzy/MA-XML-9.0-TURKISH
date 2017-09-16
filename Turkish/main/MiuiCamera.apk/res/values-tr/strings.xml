@@ -154,12 +154,10 @@ birden fazla fotoğraf çekilecek."</string>
   <string name="no_storage">Kamerayı kullanmadan önce; bir SD kart takın</string>
   <string name="not_enough_space">Dahili Depolama dolu</string>
   <string name="object_track_enable_toast">Bir nesneyi seçmek için, eş zamanlı olarak kenar etrafındaki iki köşegen noktasına dokunun.</string>
-  <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
   <string name="orientation">Döndür</string>
   <string name="pano_dialog_panorama_failed">"Geniş Görünüm kayıt edilemedi"</string>
   <string name="pano_dialog_title">Panorama</string>
   <string name="pano_dialog_waiting_previous">Bir önceki geniş görünüm işinin bitmesini bekliyor</string>
-  <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Referans çizgisi ile oku hizalayın</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Devam ediyor…</string>
   <string name="pano_how_to_use_prompt_slow_down">Lütfen biraz yavaşlayın</string>
