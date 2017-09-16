@@ -51,12 +51,7 @@
 	<plurals name="custom_select_title_items_selected">
         <item quantity="other">%d seçildi</item>
         <item quantity="zero">Öğeleri seçin</item>
-		<item quantity="one">%d seçildi</item>
-    </plurals>
-    <plurals name="custom_select_title_items_selected">
-        <item quantity="other">%d seçildi</item>
-        <item quantity="zero">Öğeleri seçin</item>
-        <item quantity="one">%d seçildi</item>
+	<item quantity="one">%d seçildi</item>
     </plurals>
 	<plurals name="group_message_failed_title">
         <item quantity="other">"%d kişiye gönderilemedi"</item>
