@@ -51,8 +51,8 @@
   <string name="aqi_detail_subtitle">HKE %1$s</string>
   <string name="aqi_detail_title">Hava Kalite Endeksi</string>
   <string name="aqi_detail_unit">Birim: µg/m³ (CO: mg/m³)</string>
-  <string name="aqi_fifteen_dates_time_format">d/M</string>
   <string name="aqi_display_exp">exp_%1$s</string>
+  <string name="aqi_fifteen_dates_time_format">d/M</string>
   <string name="aqi_publish_source">%1$s CNEMC tarafından güncellendi</string>
   <string name="aqi_publish_time">Güncelleme: %1$s</string>
   <string name="aqi_quality_ambient_air_quality">Yakındaki hava kalitesi</string>
@@ -153,9 +153,9 @@
   <string name="indices_title_sport">Spor</string>
   <string name="indices_title_uv">UV İndeksi</string>
   <string name="indices_title_visibility">Görüş Mesafesi</string>
+  <string name="information_manager">WLAN ağına bağlanınca değiştir</string>
   <string name="information_manager_default_weather_bg">Varsayılan Hava Durumu Arkaplanı</string>
   <string name="information_manager_extension">Hava Durumu Eklentisi</string>
-  <string name="information_manager">WLAN ağına bağlanınca değiştir</string>
   <string name="information_manager_information">Hava Durumu Bilgisi</string>
   <string name="information_manager_wlan">WLAN bağlandığında göster</string>
   <string name="information_menu_title"/>
@@ -286,13 +286,13 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="view_indexes_item_today">Bugün</string>
   <string name="view_indexes_item_tommorrow">Yarın</string>
   <string name="weather_alert">Hava Durumu Uyarıları</string>
-  <string name="wind_direction_no_data">Rüzgar</string>
   <string name="weather_unit">°</string>
+  <string name="wind_direction_no_data">Rüzgar</string>
   <string name="wind_miles_unit">%1$s m/s</string>
   <string name="wind_unit">%1$skm/s</string>
-  <string name="yes_vote_num"> | %1$s kişi</string>
   <string name="xiaomi_weather_description_content">"Hava Durumu size doğru hava durumu bilgisi sağlar. Bu uygulama olmadan, durum çubuğu ve Ana Ekran, Hava Durumu Aracı düzgün çalışmaz. Uygulamayı kaldırmadan önce bu özelliklere sahip olmadan yapabildiğinizden emin olun."</string>
   <string name="xiaomi_weather_description_title">Hava Durumu Hakkında</string>
+  <string name="yes_vote_num"> | %1$s kişi</string>
   <string name="yes_vote_ratio">%%%1$s</string>
   <string name="your_location">Konumunuz</string>
 </resources>

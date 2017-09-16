@@ -143,6 +143,12 @@ Takip numarasını kontrol edin."</string>
   <string name="express_inquiry_status_return">Döndü</string>
   <string name="express_inquiry_status_sign_out">Reddedildi</string>
   <string name="express_inquiry_status_unknown">Bilinmiyor</string>
+  <string name="express_inquiry_trace">Takip et</string>
+  <string name="express_inquiry_trace_device_login_notice">"Başka bir cihazda bu hizmeti kullanıyoruz. Bu cihazdan sipariş durumunu almak istiyorsanız, Mi Hesabınızı doğrulamanız gerekir."</string>
+  <string name="express_inquiry_trace_success">Takip ediliyor</string>
+  <string name="express_inquiry_trace_user_notice_content">"Siparişlerinizin durumu değiştiğinde size bildireceğiz."</string>
+  <string name="express_inquiry_untrace">"Takip etme"</string>
+  <string name="express_inquiry_untrace_success">Takip durduruldu</string>
   <string name="express_install_cainiao_description">%s Cainiao kurulmasını istiyor. Şimdi yüklensin mi?</string>
   <string name="express_install_cainiao_ok">İndir</string>
   <string name="express_install_cainiao_title">"Cainiao'yu kur"</string>
@@ -150,12 +156,6 @@ Takip numarasını kontrol edin."</string>
   <string name="express_install_open_locker">Tek adımda açığı kilitle</string>
   <string name="express_install_order_detail">Sipariş detayları kontrol ediliyor</string>
   <string name="express_install_schedule_delivery">Teslimat Programı</string>
-  <string name="express_inquiry_trace">Takip et</string>
-  <string name="express_inquiry_trace_device_login_notice">"Başka bir cihazda bu hizmeti kullanıyoruz. Bu cihazdan sipariş durumunu almak istiyorsanız, Mi Hesabınızı doğrulamanız gerekir."</string>
-  <string name="express_inquiry_trace_success">Takip ediliyor</string>
-  <string name="express_inquiry_trace_user_notice_content">"Siparişlerinizin durumu değiştiğinde size bildireceğiz."</string>
-  <string name="express_inquiry_untrace">"Takip etme"</string>
-  <string name="express_inquiry_untrace_success">Takip durduruldu</string>
   <string name="express_location_failed">"Sizi bulamadık. Adresinizi girin."</string>
   <string name="express_more_service">Diğer Hizmetler</string>
   <string name="express_no_address">Boş</string>

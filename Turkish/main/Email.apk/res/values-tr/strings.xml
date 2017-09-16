@@ -279,8 +279,8 @@
   <string name="clear_display_images_whitelist_dialog_title">Resimler temizlensin mi?</string>
   <string name="clear_display_images_whitelist_title">Resimleri temizle</string>
   <string name="click_download_all_content">[ İçeriği indirmek için dokunun ]</string>
-  <string name="close">Kapat</string>
   <string name="click_to_reload">Yeniden yüklemek için ekrana tıklayın</string>
+  <string name="close">Kapat</string>
   <string name="collapse_recipient_details">Alıcı ayrıntılarını daralt</string>
   <string name="colon">:</string>
   <string name="compose">Yaz</string>
@@ -415,8 +415,8 @@
   <string name="download_whole_email">İçeriğin geri kalanını indir</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_bank_bill">Banka Durumu</string>
-  <string name="drawer_classification">Kategoriler</string>
   <string name="drawer_bill_title">Faturalar</string>
+  <string name="drawer_classification">Kategoriler</string>
   <string name="drawer_close">Gezinme menüsünü kapat</string>
   <string name="drawer_contacts">Kişiler</string>
   <string name="drawer_open">Gezinme menüsünü aç</string>
@@ -624,8 +624,8 @@
   <string name="mark_important">Önemli olarak işaretle</string>
   <string name="mark_not_important">Önemsiz olarak işaretle</string>
   <string name="mark_not_spam">İstenmeyen olarak işaretle</string>
-  <string name="mark_read">&#x2714; Okundu</string>
-  <string name="mark_unread">&#x2714; Okunmadı</string>
+  <string name="mark_read">✔ Okundu</string>
+  <string name="mark_unread">✔ Okunmadı</string>
   <string name="me_object_pronun">ben</string>
   <string name="me_subject_pronun">ben</string>
   <string name="meeting_accepted">Kabul Edildi: %s</string>
@@ -881,7 +881,6 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="quick_reply_hint_bcc">(Gelen BCC)</string>
   <string name="quick_reply_hint_cc">"(CC) "</string>
   <string name="quick_reply_hint_reply_only_from">Hızlı Cevap (sadece gönderen)</string>
-  <string name="remind_attachment_size_limit">"E-Postalarınız %sMB'tan az olmalıdır"</string>
   <string name="quick_responses_empty_view">Hızlı cevap yok</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
   <string name="quote_divider_1">-------- Orjinal Posta --------</string>
@@ -940,6 +939,7 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="refreshing">Yenileniyor...</string>
   <string name="refreshing_done">Tamam</string>
   <string name="release_to_refresh">Yenilemek için bırakın</string>
+  <string name="remind_attachment_size_limit">"E-Postalarınız %sMB'tan az olmalıdır"</string>
   <string name="remote_search_result">%s sunucudakı sonuçlar</string>
   <string name="remove_account">Hesabı kaldır</string>
   <string name="remove_account_confirm">\"%1$s\" hesap postadan kaldırıldı.</string>
@@ -1090,11 +1090,11 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="try_exchange_login">EXCHANGE ile giriş yap</string>
   <string name="turn_auto_sync_on_dialog_body">Yapılan değişiklikler sadece Gmail ile değil tüm uygualmalar ve hesaplar, diğer cihazlar, web, %1$s ile aralarındaki içerikleride eşitleyecektir.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Açık</string>
-  <string name="unknow">Bilinmiyor</string>
   <string name="turn_auto_sync_on_dialog_title">Otomatik eşitleme açılsın mı?</string>
   <string name="unbind_dialog_text">"Faturaları analiz etmeyi bıraktıktan sonra hatırlatıcı mesajları alamazsınız.
 Şimdi durdurulsun mu?"</string>
   <string name="undo">Geri Al</string>
+  <string name="unknow">Bilinmiyor</string>
   <string name="unread_string">Okunmamış Posta</string>
   <string name="unselected_lable">Diğer</string>
   <string name="unsent_messages_in_outbox">%2$s içinde gönderilmemiş %1$s</string>

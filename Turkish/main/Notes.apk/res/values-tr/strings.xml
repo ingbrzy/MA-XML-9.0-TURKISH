@@ -28,6 +28,7 @@
   <string name="attachment_gallery">Galeri</string>
   <string name="button_new_note">Yeni</string>
   <string name="call_folder_name">Çağrı Notları</string>
+  <string name="call_record_folder_name">Çağrı Notları</string>
   <string name="cancel_alarm_description">Alarmı iptal et</string>
   <string name="cloud_trash_bin_title">"Mi Bulut'taki notları sil"</string>
   <string name="cta_reminder">"Bu uygulamanın Mi Bulut'a notları yedeklemek için internet'e bağlanması ve ayrıca görüşmeler esnasında notları etiketlemek için kişilerinizi okuması gerekiyor."</string>
@@ -38,7 +39,6 @@
   <string name="dialog_share_as_pic">Notu resim olarak paylaş</string>
   <string name="dialog_share_as_text">Notu metin olarak paylaş</string>
   <string name="dialog_share_title">Notu paylaş</string>
-  <string name="call_record_folder_name">Çağrı Notları</string>
   <string name="dlg_btn_set_password">Şifre ayarla</string>
   <string name="dlg_check_reminder">"Tekrar gösterme"</string>
   <string name="dlg_delete_message">Siliniyor...</string>
@@ -58,10 +58,10 @@
   <string name="dlg_title_set_password">Şifre ayarla</string>
   <string name="dlg_title_use_privacy_password">Kişisel Koruma Şifresi kullan</string>
   <string name="dlg_unhide_message">Gizlilik açılıyor...</string>
+  <string name="dlg_unmark_privacy_message">Gizlilik açılıyor…</string>
   <string name="done">Tamam</string>
   <string name="edit_header_done_description">Tamam</string>
   <string name="edit_header_home_description">Geri</string>
-  <string name="dlg_unmark_privacy_message">Gizlilik açılıyor…</string>
   <string name="empty_folder_hint">"Dizin yok
 Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="empty_note_mark_privacy_error">"Boş not gizlenemez"</string>
@@ -133,8 +133,8 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="permlab_accessNote">Notlara Erişim</string>
   <string name="pref_desc_alarm_when_silent">Zil susturulduğu zaman hatırlatmalar için alarmlar hala çalacaktır</string>
   <string name="pref_desc_skip_confirm_for_quick_delete">"Bir notu hareket kulanarak sildiğinizde size soru sorulmaz"</string>
-  <string name="pref_title_cloud_trash_bin">"Mi Bulut'taki notları sil"</string>
   <string name="pref_title_alarm_when_silent">"Sessizdeyken Hatırlat"</string>
+  <string name="pref_title_cloud_trash_bin">"Mi Bulut'taki notları sil"</string>
   <string name="pref_title_common">Ek Ayarlar</string>
   <string name="pref_title_font_size">Yazı Boyutu</string>
   <string name="pref_title_note_style">Tarzı</string>
@@ -213,6 +213,8 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="toast_privacy_mode">"Bunu gizli notlar için yapamazsınız"</string>
   <string name="toast_reach_text_limit_attachment">"Not çok uzun olduğundan yeni eklentiler ekleyemiyor"</string>
   <string name="toast_reach_text_limit_truncate">Bu not fazla uzun. Bazı metin sonu kesildi.</string>
+  <string name="toast_unmark_privacy_notes">Başarıyla gizlilik açıldı</string>
+  <string name="toast_unmark_privacy_notes_count">%1$s notun gizliliği başarıyla açıldı</string>
   <string name="toolbar_check_description">Onay kutusu ekle</string>
   <string name="toolbar_delete_description">Bu notu sil</string>
   <string name="toolbar_gallery_description">Resim ekle</string>
@@ -221,8 +223,6 @@ Bir dizin oluşturmak için + simgesine dokunun"</string>
   <string name="toolbar_share_description">Bu notu paylaş</string>
   <string name="toolbar_theme_description">Tema seç</string>
   <string name="toolbar_undo_description">Geri al</string>
-  <string name="toast_unmark_privacy_notes">Başarıyla gizlilik açıldı</string>
-  <string name="toast_unmark_privacy_notes_count">%1$s notun gizliliği başarıyla açıldı</string>
   <string name="trash_folder_name">Çöp</string>
   <string name="trash_folder_reminder">Sildiğiniz notlar 30 gün içinde kalıcı olarak silinir.</string>
   <string name="undo">Geri Al</string>

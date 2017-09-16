@@ -17,7 +17,7 @@
   <string name="CwMmi">Çağrı bekliyor</string>
   <string name="DndMmi">Rahatsız Etme</string>
   <string name="Midnight">Gece Yarısı</string>
-  <string name="NetworkPreferenceSwitchSummary">Güçlü sinyal alımı için Ayarlar > Hücresel Ağlar > Tercih Edilen Ağ Tipi özelliğini değiştirebilirsiniz.</string>
+  <string name="NetworkPreferenceSwitchSummary">Güçlü sinyal alımı için Ayarlar &gt; Hücresel Ağlar &gt; Tercih Edilen Ağ Tipi özelliğini değiştirebilirsiniz.</string>
   <string name="NetworkPreferenceSwitchTitle">Ağa erişemedi</string>
   <string name="Noon">Öğle</string>
   <string name="PinMmi">PIN kodunu değiştir</string>
@@ -216,12 +216,12 @@ Cihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır."</string>
   <string name="common_name_suffixes"/>
   <string name="condition_provider_service_binding_label">Durum Sağlayıcı</string>
   <string name="conference_call">Görüntülü Çağrı</string>
-  <string name="configure_input_methods">Klavyeyi Seç</string>
   <string name="config_wimaxManagerClassname"/>
   <string name="config_wimaxNativeLibLocation"/>
   <string name="config_wimaxServiceClassname"/>
   <string name="config_wimaxServiceJarLocation"/>
   <string name="config_wimaxStateTrackerClassname"/>
+  <string name="configure_input_methods">Klavyeyi Seç</string>
   <string name="contentServiceSync">Eşitle</string>
   <string name="contentServiceSyncNotificationTitle">Eşitle</string>
   <string name="contentServiceTooManyDeletesNotificationDesc">Çok fazla %s silindi.</string>
@@ -267,6 +267,7 @@ Cihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır."</string>
   <string name="day_picker_description">Ayın günlerini ızgarala halinde sırala</string>
   <string name="days">gün</string>
   <string name="decline">Reddet</string>
+  <string name="decline_remote_bugreport_action">Reddet</string>
   <string name="def_wifi_direct_name"/>
   <string name="def_wifi_wifihotspot_pass"/>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
@@ -277,7 +278,6 @@ Cihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır."</string>
   <string name="default_audio_route_name_headphones">Kulaklık</string>
   <string name="default_browser"/>
   <string name="default_media_route_name_hdmi">HDMI</string>
-  <string name="decline_remote_bugreport_action">Reddet</string>
   <string name="delete">Sil</string>
   <string name="deleteText">Sil</string>
   <string name="deleted_key">%1$s silindi</string>
@@ -513,9 +513,9 @@ kullanarak numarayı ara"</string>
   <string name="immersive_cling_description">Tam ekrandan çıkmak için yukarıdan aşağıya doğru kaydırın.</string>
   <string name="immersive_cling_positive">Anladım</string>
   <string name="immersive_cling_title">Tam Ekran Görünüm</string>
+  <string name="immersive_mode_confirmation">Tam ekrandan çıkmak için yukarıdan aşağı doğru kaydırın</string>
   <string name="importance_from_person">Bu, katılan insanlar yüzünden önemlidir.</string>
   <string name="importance_from_user">Bu bildirimlerin önemini siz belirlersiniz.</string>
-  <string name="immersive_mode_confirmation">Tam ekrandan çıkmak için yukarıdan aşağı doğru kaydırın</string>
   <string name="inputMethod">Giriş Usulu</string>
   <string name="input_method_binding_label">Giriş Usulu</string>
   <string name="invalidPin">4 ila 8 rakamdan oluşan bir PIN girin.</string>
@@ -651,8 +651,8 @@ Kilidi açmak için, Ana Ekran ve Güç tuşuna aynı anda basıp belli bir sür
   <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
   <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
   <string name="lockscreen_access_pattern_start">Desen başlatıldı</string>
-  <string name="lockscreen_carrier_default">Şebeke yok</string>
   <string name="lockscreen_airplane_mode_on">Uçak Modu</string>
+  <string name="lockscreen_carrier_default">Şebeke yok</string>
   <string name="lockscreen_charged">Şarj edildi</string>
   <string name="lockscreen_emergency_call">Acil Durum Çağrısı</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Telefonun kilidini %1$d defa yanlış bir şekilde açmaya çalıştınız. %2$d defa daha başarısız deneme yapılırsa, telefon fabrika varsayılanına sıfırlanır ve tüm kullanıcı verileri kaybedilir.</string>
@@ -852,7 +852,7 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="network_logging_notification_title">Ağ trafiği izleniyor</string>
   <string name="network_switch_metered">%1$s olarak değiştirildi</string>
   <string name="network_switch_metered_detail">Cihaz %1$s kullandığında %2$s İnternete erişemez. Değişiklikler uygulanacak.</string>
-  <string name="network_switch_metered_toast">%1$s > %2$s geçildi</string>
+  <string name="network_switch_metered_toast">%1$s &gt; %2$s geçildi</string>
   <string name="network_switch_type_name_unknown">bilinmeyen ağ tipi</string>
   <string name="new_app_action">%1$s uygulamasını başlat</string>
   <string name="new_app_description">Kaydetmeden eski uygulamayı durdurun.</string>
@@ -1563,9 +1563,6 @@ Kapatmak ister misiniz?"</string>
   <string name="whichEditApplication">Düzenle:</string>
   <string name="whichEditApplicationLabel">Düzenle</string>
   <string name="whichEditApplicationNamed">%1$s ile düzenle</string>
-  <string name="whichSendToApplication">Gönder:</string>
-  <string name="whichSendToApplicationLabel">Gönder</string>
-  <string name="whichSendToApplicationNamed">%1$s kullanarak gönder</string>
   <string name="whichHomeApplication">Ana Ekran uygulamasını seçin</string>
   <string name="whichHomeApplicationLabel">Resim yakala</string>
   <string name="whichHomeApplicationNamed">Ana Ekran olarak %1$s uygulamasını kullan</string>
@@ -1575,6 +1572,9 @@ Kapatmak ister misiniz?"</string>
   <string name="whichSendApplication">Paylaş:</string>
   <string name="whichSendApplicationLabel">Paylaş</string>
   <string name="whichSendApplicationNamed">%1$s ile paylaş</string>
+  <string name="whichSendToApplication">Gönder:</string>
+  <string name="whichSendToApplicationLabel">Gönder</string>
+  <string name="whichSendToApplicationNamed">%1$s kullanarak gönder</string>
   <string name="whichViewApplication">Aç:</string>
   <string name="whichViewApplicationLabel">Aç</string>
   <string name="whichViewApplicationNamed">%1$s ile aç</string>
@@ -1615,10 +1615,10 @@ Kapatmak ister misiniz?"</string>
   <string name="year_picker_description">Yıl Listesi</string>
   <string name="years">Yıl</string>
   <string name="yes">Tamam</string>
+  <string name="zen_mode_alarm">%1$s kadar (sonraki alarm)</string>
   <string name="zen_mode_default_events_name">Etkinlik</string>
   <string name="zen_mode_default_weekends_name">Haftasonu</string>
   <string name="zen_mode_default_weeknights_name">Haftasonu</string>
-  <string name="zen_mode_alarm">%1$s kadar (sonraki alarm)</string>
   <string name="zen_mode_downtime_feature_name">Bildirim istenmeyen zaman</string>
   <string name="zen_mode_feature_name">Rahatsız Etme</string>
   <string name="zen_mode_forever">Kapatılana Kadar</string>

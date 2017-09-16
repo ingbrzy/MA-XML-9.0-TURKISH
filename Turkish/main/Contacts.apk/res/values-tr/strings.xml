@@ -4,8 +4,7 @@
   <string name="accessibility_contact_detail">Kişi Detayları</string>
   <string name="account_container_title">Şuradan alındı:</string>
   <string name="account_default">Telefon</string>
-  <string name="account_phone">Sadece telefon, eşitlenmedi</string>
-  <string name="account_phone" product="tablet">Sadece tablet, eşitlenmedi</string>
+  <string name="account_phone">Sadece tablet, eşitlenmedi</string>
   <string name="account_sim">SIM Kart</string>
   <string name="account_sim2">SIM Kart %d</string>
   <string name="account_type_format">%1$s kişi</string>
@@ -201,8 +200,7 @@
   <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
   <string name="composer_failed_to_get_database_infomation">Veritabanı bilgisi alınamıyor.</string>
-  <string name="composer_has_no_exportable_contact">Dışa aktarılabilecek kişi bulunmamaktadır. Telefonunuzda kişileriniz varsa, bazı veri sağlayıcıları kişilerin, telefondan dışa aktarılmasına izin vermiyor olabilir.</string>
-  <string name="composer_has_no_exportable_contact" product="tablet">Dışa aktarabilir kişi bulunmamaktadır. Eğer tabletinizde kayıtlı kişileriniz varsa, bazı veri sağlayıcıları kişilerin tabletinizden dışa aktarılmasına izin vermiyor olabilir.</string>
+  <string name="composer_has_no_exportable_contact">Dışa aktarabilir kişi bulunmamaktadır. Eğer tabletinizde kayıtlı kişileriniz varsa, bazı veri sağlayıcıları kişilerin tabletinizden dışa aktarılmasına izin vermiyor olabilir.</string>
   <string name="composer_not_initialized">"vCard oluşturucu düzgün başlamadı."</string>
   <string name="config_export_dir">/mnt/sdcard</string>
   <string name="config_export_extensions_to_consider"/>
@@ -299,9 +297,9 @@ Kartvizitler kapalı"</string>
   <string name="data_already_used">Kullanılan Veri</string>
   <string name="data_charge">Kontör Verisi</string>
   <string name="data_left">Kalan Veri</string>
+  <string name="data_unit">MB</string>
   <string name="data_unit_gb">GB</string>
   <string name="data_unit_mb">MB</string>
-  <string name="data_unit">MB</string>
   <string name="date_picker_label">3 gün öncesinden ve günü gelince bana hatırlat</string>
   <string name="date_time_set">Seç</string>
   <string name="date_year_toggle">Bir Yıl Gir</string>
@@ -366,7 +364,6 @@ Kartvizitler kapalı"</string>
   <string name="description_star">Favori</string>
   <string name="description_view_contact">%1$s kişiyi gözat </string>
   <string name="description_view_contact_detail">Kişiye Gözat</string>
-  <string name="no_sdcard_message" product="nosdcard">Depolama birimi bulunamadı.</string>
   <string name="description_voicemail_button">Sesli Mesaj</string>
   <string name="deselect_all">Vazgeç</string>
   <string name="details_list_group_header_more_action">Diğer</string>
@@ -436,13 +433,13 @@ Kartvizitler kapalı"</string>
   <string name="dialog_voicemail_airplane_mode_message">Sesli arama için öncelikle Uçak Modunu kapatınız.</string>
   <string name="dialog_voicemail_not_ready_message">Sesli Mesajı ayarlarmak için, Menü &gt; Ayarlara git.</string>
   <string name="directory_search_label">Dizin</string>
+  <string name="dirty_contacts_notification_description">%d değişiklikleri Mi Hesabınızla eşitlenemedi</string>
+  <string name="dirty_contacts_notification_message">Ayarlardan istediğiniz zaman bu hatırlatıcıyı kapatın.</string>
+  <string name="dirty_contacts_notification_title">Kişiler eşitlensin mi?</string>
   <string name="disclaimer_text">"Sarı sayfalar SMS göndererek bakiyenizle ilgili bilgi alır. Operatörünüz bu bilgiyi bir gecikme ile güncelleyebilir, dolayısıyla aldığınız sayılar doğru olmayabilir. Bir hata görürseniz, bu hizmeti iyileştirmemize yardımcı olmak için soruşturma SMS'iyle bildirebilirsiniz. 
 
 Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelliyoruz."</string>
   <string name="disclaimer_title">Disclaimer</string>
-  <string name="dirty_contacts_notification_description">%d değişiklikleri Mi Hesabınızla eşitlenemedi</string>
-  <string name="dirty_contacts_notification_message">Ayarlardan istediğiniz zaman bu hatırlatıcıyı kapatın.</string>
-  <string name="dirty_contacts_notification_title">Kişiler eşitlensin mi?</string>
   <string name="display_all_contacts">Tüm Kişiler</string>
   <string name="display_more_groups">Diğer Grup</string>
   <string name="display_only_phones">Eksik Numaraları Gizle</string>
@@ -496,8 +493,7 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
   <string name="export_to_sim_prepare_title">Hazırlanıyor...</string>
   <string name="export_to_sim_title">Aktarılıyor…</string>
   <string name="export_to_storage">Depolamaya Aktar</string>
-  <string name="export_vcard_description" product="default">vCard dosyasını SD Karta aktar</string>
-  <string name="export_vcard_description" product="nosdcard">Dahili Depolamaya  vCard olarak aktar</string>
+  <string name="export_vcard_description">Dahili Depolamaya  vCard olarak aktar</string>
   <string name="exporting_contact_failed_message">"Kişi bilgisi dışa aktarılamadı. Sebep: \"%s\""</string>
   <string name="exporting_contact_failed_title">"Dışa aktarılamıyor"</string>
   <string name="exporting_contact_list_message">%s aktarılıyor...</string>
@@ -516,7 +512,6 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
   <string name="fail_reason_no_exportable_contact">Dışa aktarılabilecek kişi bulunmuyor.</string>
   <string name="fail_reason_not_supported">"Desteklenmeyen dosya biçimi."</string>
   <string name="fail_reason_too_long_filename">Gerekli dosya ismi çok uzun (\"%s\").</string>
-  <string name="fail_reason_too_many_vcard" product="nosdcard">Depolama alanında çok fazla vCard dosyası bulunuyor.</string>
   <string name="fail_reason_too_many_vcard">SD kartta çok fazla vCard dosyası bulunuyor.</string>
   <string name="fail_reason_unknown">Bilinmeyen hata.</string>
   <string name="fail_reason_vcard_parse_error">"Beklenmedik bir nedenle vCard dosyaları ayrıştırılamadı."</string>
@@ -619,8 +614,7 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
   <string name="import_to_xiaomi_account_progress_message">Aktarılıyor...</string>
   <string name="import_to_xiaomi_account_progress_title">Kişileri Mi Hesabına aktar</string>
   <string name="import_to_xiaomi_account_title">Mi Hesabına aktar</string>
-  <string name="import_vcard_description">Kişileri telefonun dahili hafızasından aktar</string>
-  <string name="import_vcard_description" product="nosdcard">Kişileri Dahili Depolama alanından içe aktar</string>
+  <string name="import_vcard_description">Kişileri Dahili Depolama alanından içe aktar</string>
   <string name="import_vcard_dialog_message">vCard içeri aktarılsın mı?</string>
   <string name="import_weibo_dialog_title">Weibo kişilerini içe aktar</string>
   <string name="import_weibo_error_no_matched_contacts">Eşleşen kişi yok</string>
@@ -674,8 +668,7 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
   <string name="invalid_contacts_excluded_to_save_to_group">Sadece kişiler gruba kaydedilebilir</string>
   <string name="invalid_contacts_to_save_to_group">"Bilinmeyen numara kaydedilemedi"</string>
   <string name="keep_local">"Eşitlenemedi"</string>
-  <string name="keep_local_btn">"Telefonun dahili hafızasını kullan"</string>
-  <string name="keep_local_btn" product="tablet">Tabletin dahili depolama alanını kullan</string>
+  <string name="keep_local_btn">Tabletin dahili depolama alanını kullan</string>
   <string name="label_custom_type">Özel</string>
   <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Tekrarlanmış kişi yok</string>
@@ -1013,8 +1006,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Numara çok uzun</string>
   <string name="phone_primary">Birinci</string>
-  <string name="photoPickerNotFoundText">Telefonda uygun resim yok</string>
-  <string name="photoPickerNotFoundText" product="tablet">Tablette uygun resim yok</string>
+  <string name="photoPickerNotFoundText">Tablette uygun resim yok</string>
   <string name="photo_fragment">Fotoğraf</string>
   <string name="photo_labels_group">Profil Fotoğrafı</string>
   <string name="photo_load_failed">"Fotoğraf yüklenemedi"</string>
@@ -1068,8 +1060,8 @@ Favorilerinize bir kişi eklemek için:
   <string name="preference_contacts_display">Görüntüleme Tercihleri</string>
   <string name="preference_contacts_filter">Rehber Listelerini Yapılandır</string>
   <string name="preference_contacts_more">Kişileri Düzenle</string>
-  <string name="preference_dial_pad_touch_tone_default">Varsayılan</string>
   <string name="preference_contacts_recovery_introduction">Kişileri Kurtar</string>
+  <string name="preference_dial_pad_touch_tone_default">Varsayılan</string>
   <string name="preference_dial_pad_touch_tone_human">Ses</string>
   <string name="preference_dial_pad_touch_tone_piano">Piyano Tuşları</string>
   <string name="preference_dial_pad_touch_tone_switch">Tuşa Dokunma Sesleri</string>
@@ -1188,8 +1180,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="scan_qrcode_card_hint2"/>
   <string name="scanning">Taranıyor</string>
   <string name="scanning_sdcard_failed_message">Sebep: \"%s\".</string>
-  <string name="scanning_sdcard_failed_title" product="nosdcard">Depolama alanı taranamadı</string>
-  <string name="scanning_sdcard_failed_title" product="default">SD kart taranamadı</string>
+  <string name="scanning_sdcard_failed_title">SD kart taranamadı</string>
   <string name="searchHint">Kişileri Ara</string>
   <string name="search_batch_delete">Düzenle;Kişiler</string>
   <string name="search_contacts_display">Kişiler;Görüntüle</string>
@@ -1383,10 +1374,10 @@ Favorilerinize bir kişi eklemek için:
   <string name="unknow_phone_number_call_failed">"Bilinmeyen numara aranamıyor"</string>
   <string name="unknow_phone_number_mms_failed">"Bilinmeyen numaraya mesaj gönderilemiyor"</string>
   <string name="unknown">Bilinmiyor</string>
-  <string name="update_sim_contact_photo_toast">SIM kartvizitleri için profil fotoğrafları ayarlanamıyor</string>
   <string name="unknown_caller">Bilinmeyen Kişi</string>
   <string name="unknown_contact_name">Bilinmeyen Kişi</string>
   <string name="unknown_details_new_contact">Yeni Kişi</string>
+  <string name="update_sim_contact_photo_toast">SIM kartvizitleri için profil fotoğrafları ayarlanamıyor</string>
   <string name="upgrade_in_progress">Kişi listesi güncelleniyor.</string>
   <string name="upgrade_out_of_memory">"Kişiler güncellenme sürecindedir. 
 

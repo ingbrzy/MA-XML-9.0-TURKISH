@@ -5,6 +5,7 @@
   <string name="app_name_which_call">Uygulama:%s</string>
   <string name="app_version_which_call">Uygulama Sürümü:%s</string>
   <string name="autoconnect">Otomatik Bağlan</string>
+  <string name="ime_privacy_policy">Klavyeyi seç</string>
   <string name="license_host_unreachable">"Ağa bağlanamıyor. Daha fazla bilgi için, 
  %s gidin."</string>
   <string name="loading">Yükleniyor...</string>
@@ -23,5 +24,4 @@
   <string name="settings_safetylegal_activity_title">Güvenlik Bilgisi</string>
   <string name="settings_safetylegal_activity_unreachable">"Bir veri bağlantısı yok. Şimdi bu bilgileri görüntülemek için, internete bağlı herhangi bir bilgisayardan %s\'a gidin."</string>
   <string name="settings_safetylegal_title">Güvenlik Bilgisi</string>
-  <string name="ime_privacy_policy">Klavyeyi seç</string>
 </resources>

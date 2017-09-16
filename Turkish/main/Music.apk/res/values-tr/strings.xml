@@ -207,6 +207,7 @@
   <string name="dialog_media_not_found">İndirilemiyor. Dış ortam mevcut değildir.</string>
   <string name="dialog_not_show_again">"Tekrar gösterme"</string>
   <string name="dialog_queued_body">Bu dosya, gelecekte indirilmek için kuyruğa eklendi.</string>
+  <string name="dialog_remove_descript">%s kaldırılsın mı?</string>
   <string name="dialog_song_sort_type">Şarkıya Göre</string>
   <string name="dialog_song_sort_type_name">Adına Göre</string>
   <string name="dialog_song_sort_type_playing_times">Çalma Sayısına Göre</string>
@@ -216,7 +217,6 @@
   <string name="dialog_song_view_type_artist">Artiste Göre</string>
   <string name="dialog_song_view_type_folder">Dizine Göre</string>
   <string name="dialog_song_view_type_song">ŞarkıyaGöre</string>
-  <string name="dialog_remove_descript">%s kaldırılsın mı?</string>
   <string name="dialog_title_add_playlist">Çalma listesine ekle</string>
   <string name="dialog_title_delete_tracks">Sil</string>
   <string name="dialog_title_name_playlist">Çalma Listesi adı</string>
@@ -634,8 +634,8 @@
   <string name="notification_recommend_title">Önemli Bildirimleri</string>
   <string name="notification_setting">Bildirim Ayarları</string>
   <string name="notification_title_no_song">"Herkesin ne dinlediğini göz atın!"</string>
-  <string name="nowplaying_menu_item_delete">Temizle</string>
   <string name="nowplaying_dialog_title_delete_tracks">Listeden kaldırılsın mı?</string>
+  <string name="nowplaying_menu_item_delete">Temizle</string>
   <string name="ok">Tamam</string>
   <string name="one_month">1 ay</string>
   <string name="online_bill">Popüler</string>

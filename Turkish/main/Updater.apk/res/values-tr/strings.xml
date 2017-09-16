@@ -218,6 +218,7 @@
   <string name="pm_root_success_title">Root erişimi etkin</string>
   <string name="power_off">Kapat</string>
   <string name="previous">Önceki</string>
+  <string name="progress_title_checking">Güncellemeler kontrol ediliyor...</string>
   <string name="provision_activate_device">Cihaz etkinleştiriliyor ...</string>
   <string name="provision_check_sim">SIM Kartı algıla</string>
   <string name="provision_connect_wifi">"WLAN'a bağlan"</string>
@@ -228,7 +229,6 @@
   <string name="provision_toast_no_network">Önce ağa bağlan</string>
   <string name="provision_toast_server_error">Sunucuya bağlanamıyordu. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="provision_toast_timeout">Bağlantı zaman aşımına uğradı. Ağ ayarlarınızı kontrol edin.</string>
-  <string name="progress_title_checking">Güncellemeler kontrol ediliyor...</string>
   <string name="reboot">Yeniden Başlat</string>
   <string name="reboot_now">Şimdi Başlat</string>
   <string name="reboot_to_new_system">Tamamlamak için yeniden başlat</string>

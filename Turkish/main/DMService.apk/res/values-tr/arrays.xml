@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="original_registry_results">
-        <item>Başarılı</item>
-        <item>Çözme Hatası</item>
-        <item>Kontrol Hatası</item>
-    </string-array>
-</resources>

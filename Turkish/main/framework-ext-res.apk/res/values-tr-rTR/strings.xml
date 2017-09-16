@@ -47,7 +47,7 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="force_exit_message">%1$s zorla kapatıldı!</string>
   <string name="force_exit_skip_message">"%1$s sistem uygulaması olduğu için kapatılamaz!"</string>
   <string name="fourhours">2 saat</string>
-  <string name="fp_nav_center_action_choose_dlg_msg">Ana Sayfa düğmesine basarak Ana Ekrana geri gidebilirsiniz. Bu özellikle Ana Ekrana dönmek için Ayarlar> Ek Ayarlar> Düğmeler> Ana Ekran düğmesine dokunun.</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">Ana Sayfa düğmesine basarak Ana Ekrana geri gidebilirsiniz. Bu özellikle Ana Ekrana dönmek için Ayarlar&gt; Ek Ayarlar&gt; Düğmeler&gt; Ana Ekran düğmesine dokunun.</string>
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Şimdi değil</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Aç</string>
   <string name="fp_nav_center_action_choose_dlg_title">Hızlıca dokunup aç</string>
@@ -83,7 +83,7 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="miui_screen_ratio_hint">Ekran ölçekleme sorunları</string>
   <string name="miui_screen_ratio_hint_dont_show_again">"Yeniden gösterme"</string>
   <string name="miui_screen_ratio_hint_go_to_settings">"Ayarlar'a git"</string>
-  <string name="miui_screen_ratio_hint_message">Bu uygulama ekranda oluşabilecek görüntü hatalarına karşı tam ekranda gösterime izin verir. Bunu Ayarlar > Gelişmiş Ayarlar > Düğmeler altından değiştirebilirsiniz.</string>
+  <string name="miui_screen_ratio_hint_message">Bu uygulama ekranda oluşabilecek görüntü hatalarına karşı tam ekranda gösterime izin verir. Bunu Ayarlar &gt; Gelişmiş Ayarlar &gt; Düğmeler altından değiştirebilirsiniz.</string>
   <string name="miui_screen_ratio_hint_ok">Tamam</string>
   <string name="miui_upgrading_notification_title">Sistem yükleniyor, bazı özellikler sınırlandırılmış olabilir</string>
   <string name="onehour">30 dakika</string>

@@ -208,12 +208,12 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="micloud_detail_syncing">Eşitleniyor</string>
   <string name="micloud_detail_upload_syncing">%s yükleniyor</string>
   <string name="micloud_detail_wlan">%d eşitleme için bekleniyor</string>
+  <string name="micloud_detail_wlan_contact">Fotoğrafı eşitlenmek için bekleyen: %d</string>
+  <string name="micloud_detail_wlan_mms">%d MMS eşitleme için bekliyor</string>
   <string name="micloud_dialog_sync_now_message">"Ek mobil veri ücretlerinden kaçınmak için WLAN'a bağlanın"</string>
   <string name="micloud_dialog_sync_now_negative">Şimdi değil</string>
   <string name="micloud_dialog_sync_now_positive">Mobil veri kullan</string>
   <string name="micloud_dialog_sync_now_title">Eşitlemek için WLAN ağına bağlan</string>
-  <string name="micloud_detail_wlan_contact">Fotoğrafı eşitlenmek için bekleyen: %d</string>
-  <string name="micloud_detail_wlan_mms">%d MMS eşitleme için bekliyor</string>
   <string name="micloud_dspt">Mi Bulut kullanarak verilerinizi eşitleyin, cihazın konumunu bulun, </string>
   <string name="micloud_dspt_provision">Mi Bulut kullanarak verilerinizi eşitleyin, cihazınızın konumunu bulun ve arkadaşlarınızla paylaşın.</string>
   <string name="micloud_find_device_finish">Tamam</string>

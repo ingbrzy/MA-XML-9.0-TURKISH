@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_done">Başarıyla eklendi</string>
-   <string name="add_game">Oyun ekle</string>
+  <string name="add_game">Oyun ekle</string>
   <string name="add_whitelist">İstisnalara ekle</string>
   <string name="anim_gamebooster_text">Biraz bekleyin…</string>
   <string name="anti_disturb_msg_detail">Gelen çağrılar hariç tüm bildirimleri kapat</string>
@@ -66,8 +66,8 @@
   <string name="gs_performance_mode">Performans Modu</string>
   <string name="gs_performance_mode_detail">Kesintisiz performans sağlamak için CPU kullanımını artır</string>
   <string name="i_know">Anladım</string>
-  <string name="install_sucess">%s başarıyla yüklendi</string>
   <string name="install_game_count">%d oyun eklendi</string>
+  <string name="install_sucess">%s başarıyla yüklendi</string>
   <string name="intro_improve">Oyun deneyimini bütünüyle artırmak için sistem gücüne bağlıdır</string>
   <string name="intro_skip">Atla</string>
   <string name="loading">Biraz bekleyin…</string>
@@ -96,8 +96,8 @@
   <string name="month_report_warning_dialog_positive">Açık</string>
   <string name="month_report_warning_dialog_title">Aylık Güvenlik Raporu</string>
   <string name="more_game">Diğer Oyunlar</string>
-  <string name="net_delay_title">Gecikme</string>
   <string name="name_antivirus">Gizlilik Politikasına Gözat</string>
+  <string name="net_delay_title">Gecikme</string>
   <string name="network_not_available">"Ağa bağlanamıyor"</string>
   <string name="no_game">Oyun bulunamadı</string>
   <string name="no_network_btn">Tekrar deneyin</string>
@@ -125,11 +125,11 @@
   <string name="sys_freememory_title">Mevcut</string>
   <string name="sys_title_gamebooster_unit_gb">G</string>
   <string name="sys_title_gamebooster_unit_mb">M</string>
+  <string name="title_share_link">Linki paylaş</string>
   <string name="top_game">En İyiler</string>
   <string name="top_load_fail_detail">"Yüklenemedi, tekrar denemek için dokunun"</string>
   <string name="top_no_network_detial">"Yüklenemedi, ağ bağlantısını kontrol edip tekrar deneyin"</string>
   <string name="try_game">Dene</string>
-  <string name="title_share_link">Linki paylaş</string>
   <string name="uninstall_game_count">"%d oyun eklenemedi"</string>
   <string name="usage_sorted_loading_text">Biraz bekleyin...</string>
   <string name="wlan_change_protection_detail">"Mobil veri şebekesine bağlandığında WLAN'a otomatik olarak geçme"</string>

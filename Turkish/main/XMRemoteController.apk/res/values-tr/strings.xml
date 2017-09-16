@@ -626,10 +626,10 @@ Hesabınızı etkinleştirmek için,
   <string name="passport_confirm_recycle_account">Evet</string>
   <string name="passport_copy_message_text_success">Başarıyla kopyalandı</string>
   <string name="passport_copy_message_vcode">Kodu kopyala</string>
-  <string name="passport_downlink_reg">Telefon numarasını kullanarak hesap oluştur</string>
   <string name="passport_data_keep_in_device">Hücredeki verileri koru</string>
   <string name="passport_data_wipe_from_device">Telefondan verileri silin</string>
   <string name="passport_delete_account">Oturumu Kapat</string>
+  <string name="passport_downlink_reg">Telefon numarasını kullanarak hesap oluştur</string>
   <string name="passport_dspt_provision">"Mi Hesabı kullanarak Mi Bulut, Mi Tema Mağazası gibi tüm içeriklere heryerden ulaşabilirsiniz. "</string>
   <string name="passport_dspt_provision2">Daha fazla bilgi</string>
   <string name="passport_email">E-Posta Adresi</string>
@@ -685,12 +685,12 @@ Hesabınızı etkinleştirmek için,
   <string name="passport_login_instead_reg">Bu numarayı kullan</string>
   <string name="passport_login_instead_reg_with_email">Bu postayı kullan</string>
   <string name="passport_login_notice">Oturum açılıyor…</string>
-  <string name="passport_login_short">Oturum Aç</string>
   <string name="passport_login_prompt">Tek Mi Hesabı. Tüm Mi Hizmetleri.</string>
+  <string name="passport_login_short">Oturum Aç</string>
   <string name="passport_login_title">Mi Hesabınızda oturum açın</string>
   <string name="passport_login_using_other_ways">Diğer yolla oturum aç</string>
-  <string name="passport_message_dialog_title">Doğrulama kodunu SMS yoluyla gönder</string>
   <string name="passport_login_with_email_or_id">E-Posta adresi veya Mi Hesap ID ile oturum açın</string>
+  <string name="passport_message_dialog_title">Doğrulama kodunu SMS yoluyla gönder</string>
   <string name="passport_next">Sonraki</string>
   <string name="passport_notification_title">Oturum Açma Hatası: %1$s</string>
   <string name="passport_password">Parolanızı girin</string>
@@ -698,9 +698,9 @@ Hesabınızı etkinleştirmek için,
   <string name="passport_phone_num_hint_text">Telefon Numarası</string>
   <string name="passport_prev">Geri</string>
   <string name="passport_privacy_policy">Gizlilik Politikası</string>
+  <string name="passport_provision_skip_login">Bu adımı atla</string>
   <string name="passport_pwd_generate_failure">"Şifre oluşturulamadı"</string>
   <string name="passport_pwd_generating">Oluşturuluyor...</string>
-  <string name="passport_provision_skip_login">Bu adımı atla</string>
   <string name="passport_quick_login_dialog_step2_title">2 adımlı doğrulama</string>
   <string name="passport_quick_login_dialog_title">Şifreyi doğrula</string>
   <string name="passport_quick_login_step2_title">2 adımlı doğrulama</string>
@@ -711,8 +711,8 @@ Hesabınızı etkinleştirmek için,
   <string name="passport_reg_btn_using_other_phone">Alternatif telefon numarası kullan</string>
   <string name="passport_reg_failed">"Hesap ayarlanamadı"</string>
   <string name="passport_reg_new">Ücretsiz bir Mi Hesabı oluşturun</string>
-  <string name="passport_reg_sms_send_prompt">%s için doğrulama kodu gönder</string>
   <string name="passport_reg_prompt">"Mi Hesabınız yok mu? Ücretsiz bir tane oluşturun."</string>
+  <string name="passport_reg_sms_send_prompt">%s için doğrulama kodu gönder</string>
   <string name="passport_reg_success">Hesap oluşturuldu</string>
   <string name="passport_reg_success_summary">%1$s hesabınıza bağlanmıştır. Oturum açmak için veya şifrenizi sıfırlamak için kullanabilirsiniz.</string>
   <string name="passport_reg_type_email">E-posta kullanarak hesap oluştur</string>

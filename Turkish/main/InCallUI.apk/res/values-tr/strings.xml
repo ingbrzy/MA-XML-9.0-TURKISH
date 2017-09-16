@@ -34,8 +34,8 @@
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Bilinmeyen numara</string>
   <string name="antispam_provider">%s tarafından tespit edildi</string>
-  <string name="areacode_set_default">Varsayılan olarak ayarla</string>
   <string name="apn_settings">Erişim Noktasının Adları</string>
+  <string name="areacode_set_default">Varsayılan olarak ayarla</string>
   <string name="associate_sim_missing_message"> %1$s SIM mevcut değil. %2$s aracılığıyla aranmayı ister misiniz?</string>
   <string name="associate_sim_missing_other">Diğer</string>
   <string name="atr_disable">Bölge Trafik Raporları devre dışı</string>
@@ -87,11 +87,11 @@
   <string name="callFailed_unobtainable_number">Geçersiz numara</string>
   <string name="callFailed_userBusy">Hat meşgul</string>
   <string name="callUnanswered_forwarded">Cevaplanmayan çağrı yönlendirildi</string>
-  <string name="call_button_conference_manager_text">Konferans yöneticisi</string>
   <string name="call_additional_sum">Telefon numarası ve arama bekletme ayarları</string>
-  <string name="call_button_mute_text">Sessiz</string>
   <string name="call_barring_sum">Sesli mesaj engelleme ayarları</string>
+  <string name="call_button_conference_manager_text">Konferans yöneticisi</string>
   <string name="call_button_dialer_text">Klavye</string>
+  <string name="call_button_mute_text">Sessiz</string>
   <string name="call_button_tools_text">Seçenek</string>
   <string name="call_contacts_deny_permission_msg">"Kişilerin izinleri okunamadı, kişi bilgisi gösterilemiyor."</string>
   <string name="call_description_recording">Kaydediliyor...</string>
@@ -152,8 +152,6 @@
   <string name="card_title_video_call_paused">Görüntü durduruldu</string>
   <string name="card_title_video_conf_call">Görüntülü Konferans Çağrısı</string>
   <string name="card_video_hold_swap">Değiştir</string>
-  <string name="close_camera_failed">"Kamera kapatılamıyor..."</string>
-  <string name="close_camera_requesting">Kamera kapatılıyor...</string>
   <string name="cb_all_languages">Tüm Diller</string>
   <string name="cb_channel_dialog_channel_name">Kanal Adı (0-10 karakter)</string>
   <string name="cb_channel_dialog_channel_number">Kanal Numarası (0-65534)</string>
@@ -193,6 +191,8 @@
   <string name="change_pin2">PIN2 kodunu değiştir</string>
   <string name="cipher_indication_notification_message">Ses şifreleme ağ tarafından kapalı</string>
   <string name="cipher_indication_notification_title">Ses şifreleme yok</string>
+  <string name="close_camera_failed">"Kamera kapatılamıyor..."</string>
+  <string name="close_camera_requesting">Kamera kapatılıyor...</string>
   <string name="close_dialog">Tamam</string>
   <string name="close_profile">Kapat</string>
   <string name="confCall">Konferans çağrısı</string>
@@ -217,7 +217,6 @@
   <string name="connect_later">"Şimdi ağa bağlanamadı. Sonra tekrar deneyin."</string>
   <string name="contactPhoto">Kişi Resmi</string>
   <string name="contacts_icon_label">Kişiler</string>
-  <string name="default_area_code_setting">Varsayılan alan kodu</string>
   <string name="copy_email">E-Posta adresini kopyala</string>
   <string name="copy_number">Telefon numarasını kopyala</string>
   <string name="custom_message_cancel">İptal</string>
@@ -225,6 +224,7 @@
   <string name="data_enable_summary">Bu cihazın mobil veri kullanmasına izin ver</string>
   <string name="data_enabled">Veri etkin</string>
   <string name="deactivate_all">Tümünü iptal</string>
+  <string name="default_area_code_setting">Varsayılan alan kodu</string>
   <string name="delete_fdn_contact">Sabit arama numarasını sil</string>
   <string name="deleting_fdn_contact">Sabit arama numarası siliniyor...</string>
   <string name="description_delete_button">geri</string>
@@ -540,8 +540,8 @@ koşulsuz etkinleştirildi"</string>
   <string name="modify_call_option_vt_tx">Video aktarımı</string>
   <string name="modify_call_prompt_no">Hayır</string>
   <string name="modify_call_prompt_yes">Evet</string>
-  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="more_string">+%1$s</string>
+  <string name="msim_select_default_time_left">(%d s)</string>
   <string name="mt_code_additional_call_forwarded">Ek gelen çağrı yönlendirildi</string>
   <string name="mt_code_call_connected_ect">Çağrı aktarma aktif</string>
   <string name="mt_code_call_connecting_ect">Çağrı aktarılıyor</string>
@@ -691,7 +691,6 @@ Tavsiyemiz \"Otomatik Olarak Seç\", seçeneğini kullanmanız veya elle başka 
   <string name="onscreen_speaker_text">Hoparlör</string>
   <string name="onscreen_swap_calls_text">Takas</string>
   <string name="onscreen_switch_camera">Kamerayı Değiştir</string>
-  <string name="package_not_available">\"%s\" mevcut değil</string>
   <string name="onscreen_tools_off">Araçlar</string>
   <string name="onscreen_tools_on">Araçlar</string>
   <string name="optional_summary">&lt;İsteğe Bağlı&gt;</string>
@@ -720,6 +719,7 @@ Tavsiyemiz \"Otomatik Olarak Seç\", seçeneğini kullanmanız veya elle başka 
 Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."</string>
   <string name="other_settings">Diğer Çağrı Ayarları</string>
   <string name="others">Diğer Ayarlar</string>
+  <string name="package_not_available">\"%s\" mevcut değil</string>
   <string name="password">Şifre</string>
   <string name="password_changed">Şifre başarıyla değiştirildi</string>
   <string name="password_title">Şifre</string>
@@ -783,7 +783,6 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="preferred_network_mode_wcdma_perf_summary">Tercih Edilen Mod: Tercihen WCDMA</string>
   <string name="primary_account_summary_with">Birinci Hesap: %s</string>
   <string name="private_num">Özel Numara</string>
-  <string name="remind_unlock_message">Cihazınız şu an kilitlendi \"%s\" cihazınızın kilidini açtıktan sonra kullanılabilir olacak. Şimdi açılsın mı?</string>
   <string name="progress_dialog_exiting_ecm">Acil Geri Arama Modundan çıkılıyor</string>
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Giden Proxy Adresi</string>
@@ -810,6 +809,7 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="registration_status_registering">Kaydediliyor...</string>
   <string name="registration_status_server_unreachable">Hesap kaydı başarısız oldu: Sunucu adını kontrol edin.</string>
   <string name="registration_status_still_trying">Hala deneniyor...</string>
+  <string name="remind_unlock_message">Cihazınız şu an kilitlendi \"%s\" cihazınızın kilidini açtıktan sonra kullanılabilir olacak. Şimdi açılsın mı?</string>
   <string name="reminder">Hatırlatıcı</string>
   <string name="removeMember">Kaldır</string>
   <string name="remove_sip_account">Hesabı kaldır</string>
@@ -960,16 +960,16 @@ Sonraki dönem %2$d gün sonra başlayacak (%3$s)"</string>
   <string name="umts_preferred_network_mode_dialogtitle">Ağ Modu</string>
   <string name="unblock_pin2">PIN2 kilidini aç</string>
   <string name="unknown">Bilinmiyor</string>
-  <string name="unlock_phone">Cihaz kilidini aç</string>
   <string name="unlock_failed">Ağ kilidi açma isteği başarısız.</string>
+  <string name="unlock_phone">Cihaz kilidini aç</string>
   <string name="unlock_success">Ağ kilidini açma başarılı</string>
   <string name="updating_fdn_contact">Sabit arama numarası güncelleniyor ...</string>
   <string name="updating_settings">Ayarlar güncelleniyor ...</string>
   <string name="updating_title">Çağrı Ayarları</string>
   <string name="upgrade_vt_prompt">Çağrıyı görüntülü çağrıya döndürmek ister misiniz?</string>
-  <string name="user_locked_prompt">Kişilere erişmek için cihazın kilidini açın.</string>
   <string name="upgrade_vt_rx_prompt">Görüntülü çağrıyı sesli çağrıya döndürmek ister misiniz?</string>
   <string name="upgrade_vt_tx_prompt">Görüntülü çağrıyı sadece çağrıya döndürmek ister misiniz?</string>
+  <string name="user_locked_prompt">Kişilere erişmek için cihazın kilidini açın.</string>
   <string name="username">KullanıcıAdı</string>
   <string name="username_title">Kullanıcı Adı</string>
   <string name="vibrate_on_ring_title">Çaldığında titret</string>

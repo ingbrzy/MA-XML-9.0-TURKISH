@@ -85,7 +85,6 @@
   <string name="input_pin_code">PIN kodunu girin</string>
   <string name="input_puk_code">PUK kodunu girin</string>
   <string name="invalid_confirm_pin_hint">"PIN kodları eşleşmiyor!"</string>
-  <string name="left_action_default_hint_text">Mi Kumanda</string>
   <string name="invalid_sim_pin_hint">PIN Kodu 4-8 karakter arasında olmalı</string>
   <string name="invalid_sim_puk_hint">PUK Kodu en az 8 karakter uzunluğunda olmalı</string>
   <string name="keyguard_charging_info_battery_temperature_text">Pil Sıcaklığı</string>
@@ -126,6 +125,7 @@
   <string name="keyguard_quick_charging_info_click_to_detail">Hızlı şarj ediliyor. Ayrıntıları görüntülemek için dokunun.</string>
   <string name="keyguard_quickly_charging_info_charging_text">Hızlı şarj ediliyor...</string>
   <string name="keyguard_torch_cover_text">Feneri açık tutmak için düğmeye basılı tutun</string>
+  <string name="left_action_default_hint_text">Mi Kumanda</string>
   <string name="lock_screen_date">d MMMM EEEE</string>
   <string name="lock_screen_date_12">d MMMM EEEE</string>
   <string name="lock_wallpaper_enter">Girin</string>
@@ -167,26 +167,26 @@
   <string name="open_remote_center_hint_text">%s açmak için sağa kaydırın </string>
   <string name="open_wifi_settings">Ağ bağlantısını aç</string>
   <string name="phone_locked_foget_password">Şifremi unuttum</string>
-  <string name="phone_locked_foget_password_mehod_back">Geri</string>
-  <string name="phone_locked_foget_password_method">Şifreyi unuttum</string>
-  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Cihazdaki tüm veriler ki buna fotoğraflar ve kişiler dahil silinecek ve yeni bir kilit ekran şifresi ayarlayacaksınız.&lt;/Data&gt;</string>
-  <string name="phone_locked_foget_password_method_next">Sonraki</string>
   <string name="phone_locked_foget_password_content">"Bu cihazla ilişkili Mi Hesabı kullanarak i.mi.com'da oturum açabilir ve tüm verileri silebilirsiniz. Bu cihazda depolanan tüm kişisel veriler silinecektir. Bundan sonra, cihazı yeniden başlatabilir ve kişileri, mesajları, fotoğrafları ve diğer öğeleri Mi Bulut'tan geri yükleyebilirsiniz. 
 
 Bu cihazdan Mi Hesabınıza oturum açmadıkça bunu yapamazsınız. Aksi takdirde cihazınıza yeniden yazılım yüklemeniz gerekir."</string>
   <string name="phone_locked_foget_password_footer">"Adımlar:
 i.mi.com adresinde oturum açın, "Telefonu Bul" bölümüne gidin, cihazı seçin ve Cihazı Sil düğmesine basın."</string>
   <string name="phone_locked_foget_password_header">Şifremi unutursam ne yapmalıyım?</string>
+  <string name="phone_locked_foget_password_mehod_back">Geri</string>
+  <string name="phone_locked_foget_password_method">Şifreyi unuttum</string>
+  <string name="phone_locked_foget_password_method_content">&lt;Data&gt;Cihazdaki tüm veriler ki buna fotoğraflar ve kişiler dahil silinecek ve yeni bir kilit ekran şifresi ayarlayacaksınız.&lt;/Data&gt;</string>
+  <string name="phone_locked_foget_password_method_next">Sonraki</string>
   <string name="phone_locked_foget_password_ok">Anladım</string>
   <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data&gt;Cihazı kapatın, Güç ve Sesi Açma tuşuna aynı anda basıp, bırakmayın. Mi Logosunu görünce bırakın.&lt;/Data&gt;</string>
   <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data&gt;Gelen ekranda \"Wipe &amp;amp;amp; Reset\" (Temizle ve Sıfırla) bölümünü seçin ve cihaz sıfırlanana kadar bekleyin.&lt;/Data&gt;</string>
   <string name="phone_locked_forget_password_suggesstions_title">Veriler nasıl sıfırlanır?</string>
   <string name="phone_locked_string">Telefon kilitlendi</string>
+  <string name="phone_locked_timeout_minutes_string">%s dakika sonra tekrar deneyin</string>
+  <string name="phone_locked_timeout_seconds_string">%s saniye içinde tekrar deneyin</string>
   <string name="unlock_camera_steady">Lütfen sabit durun</string>
   <string name="unlock_failed">İç hata</string>
   <string name="unlock_failed_face_not_found">Tespit ediliyor</string>
-  <string name="phone_locked_timeout_minutes_string">%s dakika sonra tekrar deneyin</string>
-  <string name="phone_locked_timeout_seconds_string">%s saniye içinde tekrar deneyin</string>
   <string name="unlock_sim_string">Tamam</string>
   <string name="unlock_string">Kilidi aç</string>
   <string name="unlocking_sim_card">SIM kartın kilidi açılıyor...</string>

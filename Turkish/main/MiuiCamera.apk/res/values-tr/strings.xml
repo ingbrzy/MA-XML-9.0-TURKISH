@@ -43,6 +43,7 @@
   <string name="cannot_connect_camera_twice">"Halen kameraya bağlanamıyor. Cihazı yeniden başlatın."</string>
   <string name="cannot_connect_camera_volte_call">Görüntülü çağrı devam ediyor, lütfen daha sonra deneyin.</string>
   <string name="cannot_move_warning_message">Fotoğraf alınıyor, cihazı oynatmayın</string>
+  <string name="close">Kapat</string>
   <string name="color_effect_entry_berry">Meyveler?</string>
   <string name="color_effect_entry_blackwhite">S&amp;B</string>
   <string name="color_effect_entry_cookie">Çerez</string>
@@ -67,7 +68,6 @@
   <string name="config_name_timer">Zamanlayıcı</string>
   <string name="confirm_install_scanner_message">"Tarayıcı QR kodları, barkodları ve fazlasını taramaya izin verir. Yüklemek için internet bağlantınız yok."</string>
   <string name="confirm_install_scanner_title">Tarayıcıyı Kurun</string>
-  <string name="close">Kapat</string>
   <string name="confirm_location_alert">Fotoğrafın konumunu hatırla</string>
   <string name="confirm_location_message">Fotoğraflarınızı ve videolarınızı çekildikleri yerlerle etiketleyin. Diğer uygulamalar bu bilgilere kaydedilen resimlerinizle birlikte erişebilir.</string>
   <string name="confirm_location_title">Fotoğraflar bu konumu hatırlansın mı?</string>
@@ -84,13 +84,13 @@
   <string name="dual_camera_lowlight_toast">Çift Kamera Etkileri düşük ışıkta etkilidir.</string>
   <string name="dual_camera_too_close_toast">Çift Kamera Efekti için obje çok yakın.</string>
   <string name="dual_camera_use_hint">Çift modlu kamera ile bulanıklık efekti, kamera ve obje arasında iki metreden daha az mesafe olduğunda çeker</string>
+  <string name="duration">Süre</string>
+  <string name="edit">Düzenle</string>
   <string name="edit_eye_large">Büyük Gözler</string>
   <string name="edit_face_ruddy">Al Yanaklı</string>
   <string name="edit_face_slender">Narin</string>
   <string name="edit_skin_smooth">Pürüzsüz</string>
   <string name="edit_skin_white">Ton</string>
-  <string name="duration">Süre</string>
-  <string name="edit">Düzenle</string>
   <string name="effect_setting_top_text">Filtreler</string>
   <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">Ses kaydı başlatılamadı</string>
@@ -127,8 +127,11 @@
   <string name="face_beauty_intelligent_level_3">Yüksek</string>
   <string name="face_beauty_smart">Akıllı</string>
   <string name="face_score_info">Skor: %.1f</string>
+  <string name="find_other_qrcode">QR Kodu bulundu</string>
+  <string name="flash">Flaş</string>
   <string name="groupshot_mode_use_hint">"Bir fotoğrafı sentezleyip en iyi yüz ifadesini seçmek için
 birden fazla fotoğraf çekilecek."</string>
+  <string name="height">Yükseklik</string>
   <string name="hibernate_hint">Kamerayı açmak için ekrana dokunun</string>
   <string name="hine_hht">"Kamera düşük ışıkta birden fazla resim çekmek ve tek çekimde minik bir ses çıkartır."</string>
   <string name="hint_fast_motion">Video normal oynatım hızından daha hızlı oynatılacak.</string>
@@ -137,11 +140,9 @@ birden fazla fotoğraf çekilecek."</string>
   <string name="hunt_dual_water_mark">İkili kamera etiketi otomatik olarak eklenecek.</string>
   <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
   <string name="install_confirmed">Yükle</string>
-  <string name="find_other_qrcode">QR Kodu bulundu</string>
-  <string name="flash">Flaş</string>
-  <string name="height">Yükseklik</string>
   <string name="location">Konum</string>
   <string name="message_snap_double_confirm">"Ses düğmesine uzun süre basmak NFC'yi tetikler. Bu özellik değiştirilsin mi?"</string>
+  <string name="model">Model</string>
   <string name="module_name_beauty">Güzellik</string>
   <string name="module_name_capture">Fotoğraf</string>
   <string name="module_name_fun">Kısa Video</string>
@@ -150,7 +151,6 @@ birden fazla fotoğraf çekilecek."</string>
   <string name="module_name_portrait">Portre</string>
   <string name="module_name_square">Kare</string>
   <string name="module_name_video">Video</string>
-  <string name="model">Model</string>
   <string name="no_storage">Kamerayı kullanmadan önce; bir SD kart takın</string>
   <string name="not_enough_space">Dahili Depolama dolu</string>
   <string name="object_track_enable_toast">Bir nesneyi seçmek için, eş zamanlı olarak kenar etrafındaki iki köşegen noktasına dokunun.</string>

@@ -7,8 +7,8 @@
   <string name="addBlackList">Engelle</string>
   <string name="add_attachment">Ek Ekle</string>
   <string name="add_contact">vCard</string>
-  <string name="add_miui_contact">Mi Kart</string>
   <string name="add_festival">Hitaplar</string>
+  <string name="add_miui_contact">Mi Kart</string>
   <string name="add_music">Müzik Ekle</string>
   <string name="add_nickname">Rumuz</string>
   <string name="add_nickname_title">Rumuzu Düzenle</string>
@@ -157,9 +157,9 @@
   <string name="edit_phrase">Hızlı Cevabı Düzenle</string>
   <string name="edit_slide_activity">Slaydı Düzenle</string>
   <string name="edit_slideshow_activity">Slayt gösterisini düzenle</string>
-  <string name="enabled">Açık</string>
   <string name="enable_password_protect">Şifre gerekiyor</string>
   <string name="enable_visible_pattern_title">Görünür desen çiz</string>
+  <string name="enabled">Açık</string>
   <string name="english_subject_limit">40 karakter sınırı</string>
   <string name="enter_edit_mode">Mesajları Düzenle</string>
   <string name="error_code_label">"Hata Kodu:"</string>
@@ -421,7 +421,7 @@
   <string name="pref_other_title">Ek Ayarlar</string>
   <string name="pref_show_blocked_messages_summary">Engellenen SMS konuşmalar listesinde göster</string>
   <string name="pref_show_list_avatar_summary">Liste görünümünde profil fotoğraflarını ve iletişim bilgilerini göster</string>
-   <string name="pref_show_photo_word_summary">Kişinin fotoğrafı yoksa, otomatik olarak fotoğraf ekle</string>
+  <string name="pref_show_photo_word_summary">Kişinin fotoğrafı yoksa, otomatik olarak fotoğraf ekle</string>
   <string name="pref_show_sms_template_entry_summary">"SMS'de bir kerelik şifreleri algıla"</string>
   <string name="pref_show_sms_template_in_summary">Bir kez kullanılan parolaların SMS mesajlarını otomatik olarak algıla</string>
   <string name="pref_show_sms_template_summary">Mi Mesajda akıllı özellikleri kullanmayı açarsanız kodları kopyalayabilir, dengeleri kontrol edebilirsiniz vb...</string>
@@ -631,10 +631,10 @@
   <string name="sp_conversation_title">Bildirimler</string>
   <string name="sp_mark_as_read">Tümü okundu olarak işaretlensin mi?</string>
   <string name="sp_mark_as_read_menu_title">Okundu diye işaretle</string>
-  <string name="sqlite_disk_full">Veritabanı veya disk doldu</string>
-  <string name="sqlite_low_memory">Düşük Hafıza</string>
   <string name="sp_mark_as_read_progress">Çalışıyor...</string>
   <string name="sp_mark_as_read_title">Hepsi okundu olarak işaretlensin mi?</string>
+  <string name="sqlite_disk_full">Veritabanı veya disk doldu</string>
+  <string name="sqlite_low_memory">Düşük Hafıza</string>
   <string name="status_failed">Başarısız</string>
   <string name="status_label">"Durum: "</string>
   <string name="status_pending">Beklemede</string>

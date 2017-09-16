@@ -47,12 +47,12 @@
   <string name="additional_permissions">Ek İzinler</string>
   <string name="allPerms">Tümü</string>
   <string name="all_permissions">Tüm İzinler</string>
+  <string name="allow_mock_location">Sahte konumlara izin ver</string>
+  <string name="allow_mock_location_summary">Sahte konumlara izin ver</string>
   <string name="allow_source_dlg_text">"%1$s başka bir uygulama kurmak istiyor.
 
 Şimdi ve gelecekte böyle bir işlem yapmasına izin veriyor musunuz?"</string>
   <string name="allow_source_dlg_title">Uygulama için yeni kaynak</string>
-  <string name="allow_mock_location">Sahte konumlara izin ver</string>
-  <string name="allow_mock_location_summary">Sahte konumlara izin ver</string>
   <string name="animator_duration_scale_title">Animatör süresi ölçeği</string>
   <string name="apn_settings_not_available">Bu kullanıcı için Erişim Noktası Adının ayarları kullanılamıyor</string>
   <string name="app_name">Paket Yükleyicisi</string>
@@ -128,18 +128,18 @@
   <string name="bluetooth_profile_sap">SIM Erişimi</string>
   <string name="bluetooth_sap_profile_summary_connected">SAP için bağlandı</string>
   <string name="bluetooth_sap_profile_summary_use_for">SIM kart erişimini kullan</string>
+  <string name="bt_hci_snoop_log">Bluetooth HCI snoop günlüğünü etkinleştir</string>
+  <string name="bt_hci_snoop_log_summary">Tüm Bluetooth HCI paketlerini bir dosyada yakala</string>
   <string name="btn_text_full_scan">Tam Tara</string>
   <string name="btn_text_install_new_version">San Sürüm</string>
   <string name="btn_text_install_origin">Orjinal Sürüm</string>
   <string name="btn_text_install_security_version_in_appstore">Güvenli sürümle değiştir</string>
   <string name="btn_text_scaning">Taranıyor...</string>
   <string name="btn_text_security_install">Güvenli sürümle değiştir</string>
-  <string name="caller_app">"%1$s'den izin isteği"</string>
-  <string name="bt_hci_snoop_log">Bluetooth HCI snoop günlüğünü etkinleştir</string>
-  <string name="bt_hci_snoop_log_summary">Tüm Bluetooth HCI paketlerini bir dosyada yakala</string>
   <string name="bugreport_in_power">Hata raporunun kısayolu</string>
   <string name="bugreport_in_power_summary">Hata raporu almak için güç menüsünde bir düğme gösterin</string>
   <string name="button_convert_fbe">Sil ve dönüştür...</string>
+  <string name="caller_app">"%1$s'den izin isteği"</string>
   <string name="cancel">İptal</string>
   <string name="category_personal">Kişisel</string>
   <string name="category_work">İş</string>
@@ -158,6 +158,12 @@
   <string name="convert_to_file_encryption">Dosya şifrelemesine dönüştür</string>
   <string name="convert_to_file_encryption_done">Dosya zaten şifrelenmiş</string>
   <string name="convert_to_file_encryption_enabled">Dönüştür...</string>
+  <string name="cta_button_text_agree">Tamam</string>
+  <string name="cta_button_text_cancel">Çık</string>
+  <string name="cta_dialog_msg">Güvenlik, normal şekilde çalışması için güncellemeleri almak için internet bağlantısının yanı sıra konuma erişimi de gerektirir.</string>
+  <string name="cta_dialog_title">İnternet Bağlantısı</string>
+  <string name="current_permission_template">%2$s/%1$s</string>
+  <string name="current_permissions_category">Geçerli İzinler</string>
   <string name="daltonizer_mode_deuteranomaly">Renk Körlüğü (kırmızı-yeşil)</string>
   <string name="daltonizer_mode_disabled">Pasif</string>
   <string name="daltonizer_mode_monochromacy">Tam Renk Körlüğü</string>
@@ -169,12 +175,6 @@
 Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edilebilir."</string>
   <string name="data_usage_disabled_dialog_3g_title">2G-3G Verisi devre dışı</string>
   <string name="data_usage_disabled_dialog_4g_title">4G Verisi devre dışı</string>
-  <string name="cta_button_text_agree">Tamam</string>
-  <string name="cta_button_text_cancel">Çık</string>
-  <string name="cta_dialog_msg">Güvenlik, normal şekilde çalışması için güncellemeleri almak için internet bağlantısının yanı sıra konuma erişimi de gerektirir.</string>
-  <string name="cta_dialog_title">İnternet Bağlantısı</string>
-  <string name="current_permission_template">%2$s/%1$s</string>
-  <string name="current_permissions_category">Geçerli İzinler</string>
   <string name="data_usage_disabled_dialog_enable">Mobil veriyi tekrar aç</string>
   <string name="data_usage_disabled_dialog_mobile_title">Mobil Veri devre dışı</string>
   <string name="data_usage_disabled_dialog_title">Mobil Veri devre dışı</string>
@@ -202,16 +202,16 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="development_settings_summary">Uygulama geliştirme için seçenekleri ayarla</string>
   <string name="development_settings_title">Geliştirici Seçenekleri</string>
   <string name="devicePerms">Cihaz erişimi</string>
+  <string name="disable_overlays">Donanım bindirmeleri devre dışı bırak</string>
+  <string name="disable_overlays_summary">Her zaman ekran birleştirme için GPU\'yu kullan</string>
+  <string name="disabled_by_admin">Yönetici tarafından devre dışı bırakıldı</string>
+  <string name="disabled_by_admin_summary_text">Yönetici tarafından kontrol edilir</string>
   <string name="dlg_app_replacement_statement">"Yüklediğiniz uygulama başka bir uygulamanın yerini alacak.
 
 Önceki tüm kullanıcı verileriniz kaydedilecektir."</string>
   <string name="dlg_app_replacement_statement_with_version">%1$s (%2$s) şu anda yüklü olan (%3$s) yeini alacak. Mevcut tüm uygulama verileri kaydedilecek.</string>
   <string name="dlg_app_replacement_title">Uygulama değiştirilsin mi?</string>
   <string name="dlg_appstore_notice">"&lt;u&gt;&lt;font color=#91c727&gt;Uygulama Mağazası&lt;/font&gt;&lt;/u&gt; dışındaki kaynaklardan gelen uygulamaların doğruluğunu veya güvenliğini doğrulayamıyoruz.."</string>
-  <string name="disable_overlays">Donanım bindirmeleri devre dışı bırak</string>
-  <string name="disable_overlays_summary">Her zaman ekran birleştirme için GPU\'yu kullan</string>
-  <string name="disabled_by_admin">Yönetici tarafından devre dışı bırakıldı</string>
-  <string name="disabled_by_admin_summary_text">Yönetici tarafından kontrol edilir</string>
   <string name="dlg_ok">Tamam</string>
   <string name="dlg_sys_app_replacement_statement">"Bu bir sistem uygulamasıdır. Yine de değiştirmek istiyor musunuz?
   
@@ -244,8 +244,8 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="hdcp_checking_dialog_title">HDCP kontrol davranışını ayarla</string>
   <string name="hdcp_checking_title">HDCP denetleniyor</string>
   <string name="help_app_permissions"/>
-  <string name="high_risk_perms">Yüksek riskli izinler</string>
   <string name="help_feedback_label">Yardım &amp; Geribildirim</string>
+  <string name="high_risk_perms">Yüksek riskli izinler</string>
   <string name="home">Ayarlar Sayfası</string>
   <string name="immediately_destroy_activities">Faaliyetleri saklama</string>
   <string name="immediately_destroy_activities_summary">Kullanıcı ayrılır ayrılmaz tüm faaliyetler kaldırılır</string>
@@ -263,19 +263,19 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="install_failed">Uygulama yüklenemedi</string>
   <string name="install_failed_blocked">Paketin yüklenmesi engellendi.</string>
   <string name="install_failed_conflict">Paket, mevcut bir paketin aynı adıyla çakışıyor.</string>
-  <string name="install_failed_incompatible">"Bu uygulama telefonunuzla uyumlu değil."</string>
   <string name="install_failed_cpu_abi_incompatible">"Bu uygulama telefonunuz ile uyumlu değil."</string>
   <string name="install_failed_file_not_found">Yükleme tamamlandıktan sonra önceki belirtilen paket silindi.</string>
+  <string name="install_failed_incompatible">"Bu uygulama telefonunuzla uyumlu değil."</string>
   <string name="install_failed_inconsistent_certificates">Çakışan imza ile aynı adı varolan bir paket zaten yüklü.</string>
   <string name="install_failed_invalid_apk">Paket bozuk görünüyor.</string>
   <string name="install_failed_msg">"%1$s telefonunuza yüklenemedi."</string>
   <string name="install_failed_system_incompatible">"Bu uygulama MIUI ile uyumlu değil"</string>
-  <string name="install_from_appstore_hint">&lt;u&gt;&lt;font color=#91c727&gt;Uygulama Mağazası&lt;/font&gt;&lt;/u&gt;ndan uygulama yüklemenizi öneririz</string>
-  <string name="keep_screen_on">Uyanık kal</string>
-  <string name="keep_screen_on_summary">Şarj olurken ekran hiçbir zaman uyumaz</string>
   <string name="install_failed_verify_failed">Paket doğrulamayı geçemedi ve yüklenemez.</string>
   <string name="install_failed_verify_timeout">Bu paketi doğrulamak için çalışırken zaman aşımı oluştu. Daha sonra tekrar yüklemeyi deneyin.</string>
+  <string name="install_from_appstore_hint">&lt;u&gt;&lt;font color=#91c727&gt;Uygulama Mağazası&lt;/font&gt;&lt;/u&gt;ndan uygulama yüklemenizi öneririz</string>
   <string name="installing">Yükleniyor…</string>
+  <string name="keep_screen_on">Uyanık kal</string>
+  <string name="keep_screen_on_summary">Şarj olurken ekran hiçbir zaman uyumaz</string>
   <string name="launch">Aç</string>
   <string name="launch_defaults_none">Varsayılan ayar yok</string>
   <string name="launch_defaults_some">Bazı varsayılan ayarlar</string>
@@ -325,10 +325,10 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="lb_search_bar_hint_speech">Sesli Ara</string>
   <string name="lb_search_bar_hint_with_title">Ara: %1$s</string>
   <string name="lb_search_bar_hint_with_title_speech">Sesli Ara: %1$s</string>
-  <string name="lift_ban">İzin ver</string>
-  <string name="lift_ban_once">Birkez izin ver</string>
   <string name="lb_time_separator">:</string>
   <string name="legacy_dhcp_client_summary">"Yeni Android DHCP istemcisi yerine Lollipop'tan DHCP istemcisini kullanın."</string>
+  <string name="lift_ban">İzin ver</string>
+  <string name="lift_ban_once">Birkez izin ver</string>
   <string name="loading">Yükleniyor…</string>
   <string name="local_backup_password_summary_change">Masaüstü tam yedeklemeler için şifreyi kaldırmak veya değiştirmek için dokunun</string>
   <string name="local_backup_password_summary_none">Masaüstü tam yedeklemeleri şu anda korunmuyor</string>
@@ -352,6 +352,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="message_full_scanning">Tamamen taranıyor…</string>
   <string name="message_install_in_market">"Uygulama Mağazası'dan uygulamayı yüklemenizi öneririz"</string>
   <string name="message_quick_scanning">Hızlı taranıyor…</string>
+  <string name="message_staging">Uygulama hazırlanıyor...</string>
   <string name="miui_app_danger">"Bu uygulama güvenli değil, silin."</string>
   <string name="miui_app_detail">Detaylar</string>
   <string name="miui_app_virus">Bu uygulama virüslü, silin.</string>
@@ -401,7 +402,6 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="miui_virus_install">Yine de kaldır</string>
   <string name="miui_virus_scanning">Taranıyor...</string>
   <string name="miui_virus_title">Yüksek Risk</string>
-  <string name="message_staging">Uygulama hazırlanıyor...</string>
   <string name="mobile_data_always_on">Hücresel veriler her zaman aktif</string>
   <string name="mobile_data_always_on_summary">Wi-Fi etkin olsa bile, mobil verileri her zaman aktif tutun (hızlı ağ değiştirmek için).</string>
   <string name="mock_location_app">Sahte konum uygulaması seçin</string>
@@ -425,6 +425,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="other_relative">Diğer</string>
   <string name="out_of_space_dlg_text">"%1$s yüklenemedi. Biraz boş yer açın ve tekrar deneyin."</string>
   <string name="out_of_space_dlg_title">Yetersiz alan</string>
+  <string name="overlay_display_devices_title">İkinci ekranı taklit et</string>
   <string name="perm_action_accept">İzin ver</string>
   <string name="perm_action_prompt">Sor</string>
   <string name="perm_action_reject">Yoksay</string>
@@ -454,10 +455,6 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="permission_title">%1$s izini</string>
   <string name="permission_warning_template">"%2$s'daki %1$s izin verilsin mi?</string>
   <string name="permlab_togglePermissions">İzin geçişi</string>
-  <string name="privacyPerms">Gizlilik</string>
-  <string name="privacy_relative">Gizlilik</string>
-  <string name="reboot_time">Yeniden başlatmaya hazırlanıyor... (%1$s)</string>
-  <string name="overlay_display_devices_title">İkinci ekranı taklit et</string>
   <string name="picture_color_mode">Renkli Resim Modu</string>
   <string name="picture_color_mode_desc">sRGB kullan</string>
   <string name="pointer_location">İşaretleyici Konumu</string>
@@ -475,19 +472,22 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="power_discharging_duration_short">%1$s - %2$s kaldı</string>
   <string name="power_remaining_duration_only">Yaklaşık %1$s kaldı</string>
   <string name="power_remaining_duration_only_short">%1$s kaldı</string>
+  <string name="privacyPerms">Gizlilik</string>
+  <string name="privacy_relative">Gizlilik</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
   <string name="proxy_hostname_hint">proxy.example.com</string>
   <string name="proxy_port_hint">8080</string>
   <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
+  <string name="reboot_time">Yeniden başlatmaya hazırlanıyor... (%1$s)</string>
   <string name="remaining_length_format">%1$s kaldı</string>
   <string name="review_button_cancel">İptal</string>
   <string name="review_button_continue">Devam</string>
-  <string name="safe_guard_support">Teknik destek %1$s tarafından sağlanıyor</string>
-  <string name="safe_relative">Güvenlik</string>
   <string name="running_process_item_user_label">Kullanıcı: %1$s</string>
   <string name="runningservices_settings_summary">Halen çalışan hizmetleri görüntüleyin ve kontrol edin</string>
   <string name="runningservices_settings_title">Çalışan Hizmetler</string>
+  <string name="safe_guard_support">Teknik destek %1$s tarafından sağlanıyor</string>
+  <string name="safe_relative">Güvenlik</string>
   <string name="saved_network">%1$s tarafından kaydedildi</string>
   <string name="screen_overlay_button">Ayarları Aç</string>
   <string name="screen_overlay_message">Bu izin ayarını değiştirmek için, önce Ayarlar altındaki Uygulamalardan; Ekran Bindirmesi özelliğini kapatmak zorundasınız</string>
@@ -524,10 +524,9 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="show_touches_summary">Dokunmalar için görsel geribildirim gösterir</string>
   <string name="simulate_color_space">Renk alanını simüle et</string>
   <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="system_warning">Bu izni inkar ederseniz, cihazınızın temel özellikleri artık tasarlandığı gibi çalışmayabilir.</string>
-  <string name="trust_switch_dialog_msg">"Bu uygulama kişilerinize, mesajlarınıza, şifrelerinize veya sistemin diğer bölümlerine eriştiğinde sizi uyarmaz."</string>
   <string name="strict_mode">Sıkı Mod etkin</string>
   <string name="strict_mode_summary">Uygulamalar ana iş parçacık üzerinde uzun işlemleri yaptığında ekranı flaşla</string>
+  <string name="system_warning">Bu izni inkar ederseniz, cihazınızın temel özellikleri artık tasarlandığı gibi çalışmayabilir.</string>
   <string name="task_access_locked_app_msg">Uygulama Kilidi açıldı</string>
   <string name="tether_settings_title_all">Paylaşım &amp; Mobil Hotspot</string>
   <string name="tether_settings_title_bluetooth">Bluetooth Paylaşımı</string>
@@ -538,6 +537,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="title_convert_fbe">Dosya tabanlı şifrelemeye dönüştürülüyor</string>
   <string name="track_frame_time">GPU görüntüleme profili</string>
   <string name="transition_animation_scale_title">Geçiş animasyon ölçeği</string>
+  <string name="trust_switch_dialog_msg">"Bu uygulama kişilerinize, mesajlarınıza, şifrelerinize veya sistemin diğer bölümlerine eriştiğinde sizi uyarmaz."</string>
   <string name="tts_default_lang_summary">Konuşulan metin için dile özgü ses ayarları</string>
   <string name="tts_default_lang_title">Dil</string>
   <string name="tts_default_pitch_summary">Sentezlenen konuşmanın tonunu etkiler</string>
@@ -588,30 +588,25 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="unknown">Bilinmiyor</string>
   <string name="unknown_apps_admin_dlg_text">"Yöneticiniz bilinmeyen kaynaklardan alınan uygulamaların kurulmasına izin vermez."</string>
   <string name="unknown_apps_dlg_text">Güvenlik için, telefonunuz bilinmeyen kaynaklardan alınan uygulamaların yüklenmesini engellemeye ayarlıdır.</string>
+  <string name="unknown_apps_dlg_title">Kurulum engellendi</string>
+  <string name="unknown_installer">Tanımlanamayan Bilgisayar Aracı</string>
   <string name="usb_audio_disable_routing">USB ses yolunu devre dışı bırak</string>
   <string name="usb_audio_disable_routing_summary">USB ses çevre birimlerine otomatik yönlendirmeyi devre dışı bırak</string>
-  <string name="unknown_installer">Tanımlanamayan Bilgisayar Aracı</string>
-  <string name="unknown_apps_dlg_title">Kurulum engellendi</string>
   <string name="v7_preference_off">Kapalı</string>
   <string name="v7_preference_on">Açık</string>
   <string name="verify_apps_over_usb_summary">Zararlı davranışlar için ADB/ADT aracılığıyla yüklenmiş uygulamaları kontrol edin.</string>
+  <string name="verify_apps_over_usb_title">USB üzerinden uygulamaları doğrula</string>
   <string name="virus_scan_caller_unknown">Bilinmiyor</string>
   <string name="virus_scan_clear">Kaldır</string>
   <string name="virus_scan_install">Yine de kur</string>
   <string name="virus_scan_is_risk">"Bu uygulama cihazınızın güvenliği açısından bir risk oluşturuyor."</string>
   <string name="virus_scan_is_virus">Bu uygulama bir virüs içeriyor.</string>
-  <string name="waiting_tip">Bu biraz zaman alabilir, ancak buna değer</string>
-  <string name="wear_not_allowed_dlg_text">"Wear'da desteklenmeyen kurulum/kaldırma işlemleri."</string>
-  <string name="wear_not_allowed_dlg_title">Android Wear</string>
-  <string name="wifi_connected_no_internet">Bağlandı, İnternet yok</string>
-  <string name="wifi_disabled_generic">Pasif</string>
-  <string name="wifi_disabled_network_failure">IP Konfigürasyon Hatası</string>
-  <string name="wifi_disabled_password_failure">Kimlik doğrulama sorunu</string>
-  <string name="wifi_disabled_wifi_failure">WLAN Bağlantısı Arızası</string>
-  <string name="verify_apps_over_usb_title">USB üzerinden uygulamaları doğrula</string>
   <string name="vpn_settings_not_available">Bu kullanıcı için VPN ayarları mevcut değil</string>
   <string name="wait_for_debugger">Hata Ayıklama için bekle</string>
   <string name="wait_for_debugger_summary">Hata ayıklama uygulaması, hata ayıklayıcının yürütmeden önce takılmasını bekler</string>
+  <string name="waiting_tip">Bu biraz zaman alabilir, ancak buna değer</string>
+  <string name="wear_not_allowed_dlg_text">"Wear'da desteklenmeyen kurulum/kaldırma işlemleri."</string>
+  <string name="wear_not_allowed_dlg_title">Android Wear</string>
   <string name="weather_description">%1$s | %2$s &gt;</string>
   <string name="weather_description_no_aqi">%1$s &gt;</string>
   <string name="weather_publish_time">%1$s güncellendi</string>
@@ -619,6 +614,11 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="wifi_aggressive_handover_summary">Etkinleştirildiğinde, Wi-Fi, Wi-Fi sinyali düşük olduğunda veri bağlantısını Hücresel olarak iletirken daha agresif olur</string>
   <string name="wifi_allow_scan_with_traffic">"WLAN Dolaşım Taramasına her zaman izin ver"</string>
   <string name="wifi_allow_scan_with_traffic_summary">Arabirimde mevcut veri trafiğinin miktarına dayalı olarak Wi-Fi Dolaşım taramalarına izin ver/izin verme</string>
+  <string name="wifi_connected_no_internet">Bağlandı, İnternet yok</string>
+  <string name="wifi_disabled_generic">Pasif</string>
+  <string name="wifi_disabled_network_failure">IP Konfigürasyon Hatası</string>
+  <string name="wifi_disabled_password_failure">Kimlik doğrulama sorunu</string>
+  <string name="wifi_disabled_wifi_failure">WLAN Bağlantısı Arızası</string>
   <string name="wifi_display_certification">Kablosuz Ekran sertifikası</string>
   <string name="wifi_display_certification_summary">Kablosuz Ekran sertifikasyonun seçeneklerini göster</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>

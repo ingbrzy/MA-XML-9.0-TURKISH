@@ -395,8 +395,8 @@
   <string name="open">Aç</string>
   <string name="open_app">Aç</string>
   <string name="open_browser">Tarayıcıda Aç</string>
-  <string name="open_file_error">"Bu dosyayı açan uygulama bulunamadı."</string>
   <string name="open_debug_mode">Hata Ayıklama anahtarına geçiş yapmak için %1$d dokunun</string>
+  <string name="open_file_error">"Bu dosyayı açan uygulama bulunamadı."</string>
   <string name="opened">Aç</string>
   <string name="optimizecenter_data_support">Clean Master tarafından güçlendirilmiştir</string>
   <string name="optimizecenter_data_support_cm">Clean Master tarafından güçlendirilmiştir</string>
@@ -473,10 +473,10 @@
   <string name="recommended">Seçilmiş</string>
   <string name="remain_item_name_n7p"/>
   <string name="remain_item_name_pamp"/>
-  <string name="safety_check_detail">%1$d zaman, %2$d puan kazanıldı</string>
-  <string name="safety_rank">Güvenlik açısından %%%d MIUI kullanıcısından önde</string>
   <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; daha fazla dosya silinebilir. Daha fazla alan kazanılır.&lt;/Data&gt;" "</string>
   <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; WeChat önbellekte. Daha fazla alan kazanın.&lt;/Data&gt;" "</string>
+  <string name="safety_check_detail">%1$d zaman, %2$d puan kazanıldı</string>
+  <string name="safety_rank">Güvenlik açısından %%%d MIUI kullanıcısından önde</string>
   <string name="sc_allow_network_dialog_button">İzinli</string>
   <string name="sc_allow_network_dialog_message">Bu uygulamanın güncellemeleri almak için İnternete bağlanmasına izin veriyor musunuz?</string>
   <string name="scanning">Taranıyor…</string>
