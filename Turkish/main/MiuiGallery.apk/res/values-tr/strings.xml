@@ -340,12 +340,6 @@
   <string name="collage_title_layout">Şablon</string>
   <string name="collage_title_poster">Poster</string>
   <string name="collaps_people">Gizle</string>
-  <string name="collaps_people">Daha fazla kişi bul</string>
-  <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Qzone</string>
-  <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
-  <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
-  <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Anları</string>
-  <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
   <string name="confirm">Tamam</string>
   <string name="confirm_delete">%s resim silinsin mi?</string>
   <string name="confirm_delete_init_message">"Fotoğraf cihazdan ve Mi Bulut'tan silinecek. Eğer sadece cihazdan silinmesini istiyorsanız, Mi Bulut eşitlemesini çevrimdışı hale getirin."</string>
@@ -450,8 +444,6 @@
   <string name="details_title">%1$d -&gt; %2$d öğe</string>
   <string name="device_model">Cihaz</string>
   <string name="directory_info_divider">"  |  "</string>
-  <string name="disable_auto_upload_tip">"Bu albümün Mi Bulut ile eşitlenmesi kapatılsın mı?"</string>
-  <string name="disable_auto_upload_title">Mi Bulut ile eşitlemeyi kapat</string>
   <string name="do_not_remind_me">"Tekrar gösterme"</string>
   <string name="do_not_save">Kaydetme!</string>
   <string name="documentary">Belgesel</string>
@@ -659,7 +651,6 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="filter_hudson_blues">Buzlu</string>
   <string name="filter_japan_style_cool">Soğuk</string>
   <string name="filter_loft_twilight">Seher</string>
-  <string name="filter_original">Yok</string>
   <string name="filter_profoto_cloud">Sıcak</string>
   <string name="filter_rise_lomo">Limonik</string>
   <string name="filter_skin_aki">Solmuş</string>
@@ -1022,14 +1013,11 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="partener">Reklam Kiralama</string>
   <string name="path">Dosya Yolu:</string>
   <string name="people">Kişi</string>
-  <string name="people_page_label">Kişi</string>
-  <string name="people_page_unname">İsimsiz</string>
   <string name="pet_album_display_name">Hayvan Fotoğrafları</string>
   <string name="petabyteShort">PB</string>
   <string name="phone_number_empty_alert">Telefon numarası ekle</string>
   <string name="photo">Fotoğraf</string>
   <string name="photo_edit_file_not_exits_tip">Fotoğrafı düzenlemeden önce indirin</string>
-  <string name="photo_edit_file_not_exits_tip">Download photo before editing</string>
   <string name="photo_editor_adjust">Ayarla</string>
   <string name="photo_editor_beautify">Güzelleştir</string>
   <string name="photo_editor_beautify_auto">Otomatik</string>
@@ -1081,7 +1069,6 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="picker_title_unlimit">Resmi seç</string>
   <string name="picker_title_specify_format">%d fotoğrafı seç</string>
   <string name="picker_title_specify_format_one">%d fotoğrafı seç</string>
-  <string name="picker_title_unlimit">Fotoğraf seç</string>
   <string name="pocket_camera_picture">Resimler</string>
   <string name="pocket_camera_video">Videolar</string>
   <string name="pocketcamera">Cep Kamerası</string>
