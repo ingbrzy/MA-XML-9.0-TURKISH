@@ -41,8 +41,11 @@
   <string name="backup_new">Yeni:</string>
   <string name="backup_progress">Yedekleniyor…</string>
   <string name="backup_report">Detayları gör</string>
+  <string name="backup_security_tips_message">Bazı uygulamalar yedeklenemez veya geri yüklenemez.</string>
+  <string name="backup_security_tips_title">Yedekler çalışmıyor</string>
   <string name="backup_update">Güncelle</string>
   <string name="batch_delete_backup_confirm">Seçili yedekler silinsin mi?</string>
+  <string name="btn_got_it">Anladım</string>
   <string name="button_backup">Yedekle</string>
   <string name="button_cancel">İptal Et</string>
   <string name="button_continue">Devam Et</string>
@@ -160,7 +163,8 @@
   <string name="notif_trans_receiving_completed">Veri başarıyla alındı</string>
   <string name="notif_trans_receiving_failed">Veri alınamadı</string>
   <string name="notif_trans_sending_completed">Veri başarıyla gönderildi</string>
-  <string name="notif_trans_sending_failed">Veri gönderilemedi</string>
+  <string name="notif_trans_sending_failed">"Veri gönderilemedi"</string>
+  <string name="notif_trans_wait_for_reconnecting">Kumanda cihazının bağlantısı kesildi. Lütfen yrniden bağlayın.</string>
   <string name="page_loading">Biraz bekleyin...</string>
   <string name="progress_backup_hint">Yedekleniyor...</string>
   <string name="progress_restore_hint">Geri Yükleniyor...</string>
@@ -168,6 +172,7 @@
   <string name="prompt_sending">Yükleniyor...</string>
   <string name="prompt_writing">Kaydediliyor...</string>
   <string name="read_encrypt_fail">"Şifrelenmiş yedekleme okunamıyor"</string>
+  <string name="reconnect">Yeniden Bağlan</string>
   <string name="refresh">Yenile</string>
   <string name="remote_receive">Al</string>
   <string name="restore">Geri Yükle</string>
@@ -251,13 +256,15 @@
   <string name="task_service_not_launched">"İşlem henüz başlatılamadı"</string>
   <string name="task_stopped_exception">Geri yükleme iptal edildi</string>
   <string name="total_num">%d öğe,</string>
+  <string name="total_size">, %s</string>
   <string name="trans_backingup">Yedekleniyor...</string>
   <string name="trans_backingup_no_items">Eşitleniyor...</string>
   <string name="trans_calculating">Hesaplanıyor...</string>
   <string name="trans_calculating_app_sd_size">Gönderilecek veri boyutu hesaplanıyor: %s</string>
   <string name="trans_calculating_base_size">"Uygulamanın uygulama boyutu hesaplanıyor"</string>
   <string name="trans_cancel_confirm">Transfer devam ediyor, iptal edilsin mi?</string>
-  <string name="trans_cancelling">İptal ediliyor</string>
+  <string name="trans_cancelling">İptal ediliyor...</string>
+  <string name="trans_connect_failed_device_incompatible">cihaz uyumlu değil. Lütfen transfer işlemini iptal edin ve yeniden deneyin.</string>
   <string name="trans_connect_failed_message">"Bağlanamadı, cihazı yeniden bağlayın veya yeniden başlatın. Yeniden başlattıktan sonra Mi Transfer\'i başlatın veya Ayarlar &gt; Ek Ayarlar &gt; Mi Transfer bölümüne gidip [Göndericiyim] seçeneğini seçin."</string>
   <string name="trans_connect_failed_title">"Bağlanamadı"</string>
   <string name="trans_connect_failed_toast">"Bağlanamadı"</string>
@@ -267,7 +274,8 @@
   <string name="trans_detail_category_files">Dosyalar</string>
   <string name="trans_detail_category_sysdata">Sistem Verisi</string>
   <string name="trans_detail_category_userdata">Uygulamalar</string>
-  <string name="trans_device_disconnected">Aygıt bağlantısı kesildi</string>
+  <string name="trans_device_disconnected">Cihaz bağlantısı kesildi</string>
+  <string name="trans_device_wait_for_reconnecting">Cihaz bağlantısı kesildi. Lütfen yeniden bağlayın.</string>
   <string name="trans_generate_qr_code_failed">"QR Kod oluşturulamadı"</string>
   <string name="trans_main_tutor">Kişileri, arama geçmişinizi, ayarlarınızı, uygulamalarınızı ve ana ekran düzenini yeni cihazınıza Transfer edin.</string>
   <string name="trans_my_device">Cihazım</string>
@@ -282,6 +290,10 @@ Lütfen en az %s kadar boş alan temizleyin"</string>
 2. Uygulamayı açın ve [Göndericiyim] seçeneğini seçin
 3. Eski aygıtla QR kodunu tarayın"</string>
   <string name="trans_operate_old_phone_tips2">"Ayarlar &gt; Ek Ayarlar &gt; Transfer yerinde [Göndericiyim] seçeneğini seçin"</string>
+  <string name="trans_operate_reconnect_new_tips">"Yeni telefonda \"Cihaz bağlantısı kesildi\" gözükene kadar bekleyin.
+O zaman [Yeniden Bağlan] seçeneğiyle QR kodunu oluşturun."</string>
+  <string name="trans_operate_reconnect_old_tips">"Eski telefonda \"Cihaz bağlantısı kesildi\" gözükene kadar bekleyin.
+O zaman [Yeniden Bağlan] seçeneğiyle QR kodunu tarayın."</string>
   <string name="trans_please_waiting">Biraz bekleyin...</string>
   <string name="trans_progress_subdescript_br_receiver"> %1$s geri yükleniyor, %2$s tamamlandı</string>
   <string name="trans_progress_subdescript_br_sender">%1$s yedekleniyor, %2$s tamamlandı</string>
@@ -304,6 +316,8 @@ WLAN iNet\'i kapatmayın.
   <string name="trans_retry">Tekrar Dene</string>
   <string name="trans_scan_invalid_qrcode">QR kodu geçersiz</string>
   <string name="trans_scan_qr_code_tips">Alıcı cihazı kullanarak QR kodunu tarayın</string>
+  <string name="trans_security_tips_message">"Bazı uygulamalar Mi Transferi desteklemez."</string>
+  <string name="trans_security_tips_title">Mi Transfer Uyumluluğu</string>
   <string name="trans_select_data">Gönderilecek verileri seçin</string>
   <string name="trans_select_data_no_space">"Gönderilecek cihazda yeterli alan yok. 
 Dosyaları yeniden seçin veya %s kadar boş alan oluşturun"</string>
@@ -339,6 +353,7 @@ alıcı aygıtın açık olduğundan emin olun"</string>
   <string name="user_notice_message">Bazı özelliklerin normal çalışması için internet bağlantısına erişmesi gerekiyor</string>
   <string name="user_notice_title">Dikkat</string>
   <string name="wifi_title">WLAN Ayarları</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">"İndirme işlemi başlatılamadı. İndirme Yöneticisi'nin normal şekilde çalıştığından emin olun."</string>
   <string name="xiaomi_external_storage_unavailable">Depolama mevcut değil, SD kartınızı kontrol edin.</string>
