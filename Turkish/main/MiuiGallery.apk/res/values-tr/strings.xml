@@ -596,7 +596,6 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="face_name_edit">Düzenle</string>
   <string name="face_name_input">Adı girin</string>
   <string name="face_recommend">Tavsiyeler</string>
-  <string name="face_recommend_group_number">%1$d/%2$d</string>
   <string name="facelift">Yumuşat</string>
   <string name="facetan">Tabakla</string>
   <string name="fail_hint">Operasyon başarısız oldu</string>
@@ -609,7 +608,6 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="fancycolor_title">Arkaplan Efekti</string>
   <string name="fast_share_auto_render">Güzelleştir</string>
   <string name="fast_share_auto_render_finish">Güzellik filtre uygulandı</string>
-  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="filter_category_film">Film</string>
   <string name="filter_category_food">Yemek</string>
   <string name="filter_category_portrait">Portre</string>
