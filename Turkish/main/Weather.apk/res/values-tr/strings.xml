@@ -124,8 +124,6 @@
   <string name="hide_topic">Gizle</string>
   <string name="hour_minute_time_format">HH:mm</string>
   <string name="hourly_forcast_now">Şimdi</string>
-  <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
-  <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
   <string name="hourly_forecast_date">d/M</string>
   <string name="hourly_forecast_title">Saatlik Tahmin</string>
   <string name="index_item_experience_now">Install now</string>
@@ -138,7 +136,6 @@
   <string name="indices_desc_feel">Hissedilen: %1$s C°</string>
   <string name="indices_desc_feel_without_pic">%1$s C°</string>
   <string name="indices_desc_humidity">Nem: %%%1$s</string>
-  <string name="indices_desc_humidity_without_pic">%%%1$s</string>
   <string name="indices_desc_pressure">%1$smb</string>
   <string name="indices_desc_pressure_mm">%1$s mmHg</string>
   <string name="indices_desc_visibility">%1$s Km</string>
@@ -160,16 +157,13 @@
   <string name="information_manager_wlan">WLAN bağlandığında göster</string>
   <string name="information_menu_title"/>
   <string name="information_set">Diğer Ayarlar</string>
-  <string name="information_time_source">%1$s | %2$s</string>
   <string name="information_views"/>
   <string name="install">Yükle</string>
-  <string name="install_progress">%%%1$s</string>
   <string name="international_detail_menu_title">Detaylar</string>
   <string name="international_details_pressure_title">Basınç</string>
   <string name="international_details_real_feel_title">"Hissedilen°"</string>
   <string name="international_details_title">Detaylar</string>
   <string name="international_details_uv_index_title">UV İndeksi</string>
-  <string name="international_details_wind_connect">%1$s %2$s</string>
   <string name="international_details_wind_title">Rüzgar</string>
   <string name="it_is_going_to_rain">"Yağmur yağacak"</string>
   <string name="locate_fail_detail_err">"Cihaz konumu bulunamıyor
@@ -242,7 +236,6 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="share_subject">Paylaş</string>
   <string name="share_title">Hava Durumunu Paylaş</string>
   <string name="share_weather_desc">\#MIUI Hava Durumu#Bugün %1$s %2$s</string>
-  <string name="share_weather_desc_alert">%1$s%2$s</string>
   <string name="share_weather_desc_split">,</string>
   <string name="share_weather_save_pic_fail">"Ekran görüntüsü alınamadı"</string>
   <string name="some_where_on_earth">Dünyada bir yerde</string>

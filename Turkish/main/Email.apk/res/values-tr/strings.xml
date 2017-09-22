@@ -174,7 +174,6 @@
   <string name="always_bcc_myself">Daima banada gönder</string>
   <string name="always_show_images">Her zaman bu göndericinin resimlerini göster</string>
   <string name="app_name">Posta</string>
-  <string name="application_mime_type">application/email-ls</string>
   <string name="archive">Arşivle</string>
   <string name="archived">Arşivlendi</string>
   <string name="att_download_failed_content">"Bu ileti için ek indirilemedi."</string>
@@ -511,7 +510,6 @@
   <string name="folder_trash_name_en2">Silinen Postalar</string>
   <string name="folder_trash_name_en3">[Gmail]/Çöp</string>
   <string name="formatted_email_address">&lt;%1$s&gt;</string>
-  <string name="formatted_subject">%1$s %2$s</string>
   <string name="forward">Yönlendir</string>
   <string name="forward_attachment">Yönlendir</string>
   <string name="forward_attribution">---------- Yönlendirilmiş Posta ----------&lt;br&gt;Kimden: %1$s&lt;br&gt;Tarih: %2$s&lt;br&gt;Konu: %3$s&lt;br&gt;Kime: %4$s&lt;br&gt;</string>
@@ -1024,7 +1022,6 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="silent_ringtone">Sessiz</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-  <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="sms_tip">"Kimlik doğrulama başarısız, antivirüs yazılımının SMS'i engelleyip-engellemediğini kontrol edin"</string>
   <string name="smtp_password_error">Giden posta sunucu şifresi hatalı!</string>
   <string name="sort_attachment">Sırala</string>

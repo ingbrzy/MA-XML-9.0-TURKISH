@@ -37,7 +37,6 @@
   <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
   <string name="brightness">Parlaklık</string>
   <string name="cancel">İptal</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle problem yaşıyor. Eğer problem devam ederse yazılım geliştiricileriyle irtibata geçin.</string>
   <string name="default_text">Varsayılan</string>
   <string name="default_web_client_id">632999161735-6aq4lemaj7m65ehgel6v3grrvgjo6bea.apps.googleusercontent.com</string>

@@ -26,14 +26,12 @@
   <string name="delete_folder">Bu dizin silinsin mi?</string>
   <string name="delete_folders">%1$d dizin silinsin mi?</string>
   <string name="delete_success">Dosya silindi</string>
-  <string name="download_current_progress">%%%1$d</string>
   <string name="download_failed">"Silinemedi"</string>
   <string name="downloading">İndiriliyor...</string>
   <string name="downloading_in_3g">3G üzerinden indiriliyor…</string>
   <string name="downloading_in_wifi">İndiriliyor…</string>
   <string name="empty_file_download">"Boş dosyalar desteklenmiyor."</string>
   <string name="empty_file_upload">"Boş dosyalar desteklenmiyor."</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="file_already_downlaoded">Dosya \"%1$s\" kaydedildi</string>
   <string name="file_change_btn_download">Dosya indir</string>
   <string name="file_change_btn_upload">Dosya gönder</string>

@@ -1277,7 +1277,6 @@ için bekleniyor"</string>
   <string name="menu_text_license_manager">İzinler</string>
   <string name="menu_text_networkassistants">Veri Kullanımı</string>
   <string name="menu_text_networkassistants_danger">%s aşıldı</string>
-  <string name="menu_text_networkassistants_data">%1$s%2$s</string>
   <string name="menu_text_networkassistants_remain">%s kaldı</string>
   <string name="menu_text_networkassistants_unit_b">B</string>
   <string name="menu_text_networkassistants_unit_gb">GB</string>
@@ -1433,7 +1432,6 @@ Bu faaliyet pil ömrünü kısaltır."</string>
   <string name="om_media_scan_timeout_proc_detail">Medya sunucusu arkaplanda çalışıyor. Faaliyeti kısıtlayabilirsiniz.</string>
   <string name="om_media_scan_timeout_proc_name">Medya Sunucusu</string>
   <string name="om_memory_clean_cleaning_text">Hızlandırılıyor…</string>
-  <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
   <string name="om_notify_cpu_load_too_high_summary">Arkaplan etkinliğini hız artırmak için sınırla</string>
   <string name="om_notify_cpu_load_too_high_title">%s CPU kullanımı çok yüksek</string>
   <string name="om_notify_need_clean_memory_summary">Hızı arttırmak için önbelleği temizle</string>
@@ -1856,7 +1854,6 @@ Bu faaliyet pil ömrünü kısaltır."</string>
   <string name="pref_normal_traffic_limit">Günlük veri planı tükendiğinde</string>
   <string name="pref_open_adjust_traffic">Operatörünüz istatistiklerini kullanarak her gün veri kullanımını güncelleyin</string>
   <string name="pref_operator_not_set">"Operatör ayarlanmadı"</string>
-  <string name="pref_operator_setting">%1$s%2$s</string>
   <string name="pref_over_traffic_limit">Veri planınızı aştığınızda</string>
   <string name="pref_package_traffic_leisure">%1$s | Üst Limit: %2$s</string>
   <string name="pref_package_traffic_normal">Dahil: %s</string>

@@ -102,7 +102,6 @@
   <string name="call_sim_menu_title_suffix">(Birinci)</string>
   <string name="call_telex">Teleksi Ara</string>
   <string name="call_tty_tdd">TTY/TDD\'yi Ara</string>
-  <string name="call_type_and_date">%1$s %2$s</string>
   <string name="call_unit">CNY</string>
   <string name="call_work">İşi Ara</string>
   <string name="call_work_mobile">İş Telefonunu Ara</string>
@@ -529,7 +528,6 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
   <string name="frequency_three_days">Her 3 günde</string>
   <string name="frequency_weekly">Her hafta</string>
   <string name="frequentList">Sık Arananlar</string>
-  <string name="from_account_format">%1$s</string>
   <string name="full_name">Adı</string>
   <string name="gallery">Galeri</string>
   <string name="generic_no_account_prompt">Telefonunuzu kaybetseniz bile kişilerinizi güvende tutmak için çevrimiçi bir servis ile eşitleyin.</string>
@@ -625,7 +623,6 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
   <string name="import_weibo_fetch_followers">Kişiler alınıyor...</string>
   <string name="import_weibo_notification_title_done">%s kişi güncellendi</string>
   <string name="import_weibo_progress_name">\"%1$s\" denkleştiriliyor...</string>
-  <string name="import_weibo_progress_percent">%%%1$d</string>
   <string name="importing_sim_contacts_miui">SIM karttan kişiler içe aktarılıyor...</string>
   <string name="importing_sim_contacts_miui_prepare">Kişiler hazırlanıyor...</string>
   <string name="importing_vcard_canceled_title">%s içe aktarım iptal edildi</string>
@@ -1270,7 +1267,6 @@ Favorilerinize bir kişi eklemek için:
   <string name="single_group_list_empty">Grup üyesi yok</string>
   <string name="slight_cold">Osamu</string>
   <string name="slight_heat">Hafif</string>
-  <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
   <string name="smart_group_company_label">Şirketler</string>
   <string name="smart_group_company_unavailable">Şirket bilgisi yok</string>
   <string name="smart_group_frequency_1">Geçen Aya Göre</string>
@@ -1429,7 +1425,6 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
   <string name="voip_video_description">VoIP Görüntülü Çağrı</string>
   <string name="websiteLabelsGroup">Web Sitesi</string>
   <string name="white_dews">Beyaz Çiy</string>
-  <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="winter_begins">Kış Başlangıcı</string>
   <string name="winter_solstice">Günberi</string>
   <string name="wipe_data">Veriyi temizle</string>

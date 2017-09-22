@@ -363,7 +363,6 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="nav_guide_message">Ayarlardan sonra ekran düğmelerinin hareketlerini gizleyip/açabilirsiniz.</string>
   <string name="nav_guide_ok">Ayarlar</string>
   <string name="nav_guide_title">Ekran düğmelerini gizle</string>
-  <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_application">Hiçbir şey</string>
   <string name="no_multi_window_app">Mevcut uygulama Bölünmüş ekran modunu desteklemez</string>
   <string name="no_notification_tips">Bildirim yok.</string>
@@ -652,7 +651,6 @@ Kilitlemek için aşağı kaydırın "</string>
   <string name="wait_for_debugger">Hata Ayıklama için bekle</string>
   <string name="wait_for_debugger_summary">Hata ayıklama uygulaması, hata ayıklayıcının yürütmeden önce takılmasını bekler</string>
   <string name="weather_description">%1$s | %2$s &gt;</string>
-  <string name="weather_description_no_aqi">%1$s &gt;</string>
   <string name="weather_publish_time">%1$s güncellendi</string>
   <string name="wifi_aggressive_handover">"Agresif WLAN'dan Hücresel'e aktar"</string>
   <string name="wifi_aggressive_handover_summary">Etkinleştirildiğinde, Wi-Fi, Wi-Fi sinyali düşük olduğunda veri bağlantısını Hücresel olarak iletirken daha agresif olur</string>

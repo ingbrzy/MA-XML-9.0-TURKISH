@@ -121,7 +121,6 @@
   <string name="bind_stb_dlg_2">Bağlamak için uydu alıcısını ayarla</string>
   <string name="bind_stb_dlg_agree">Eşleştir</string>
   <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
-  <string name="brand_device">%1$s %2$s</string>
   <string name="brand_search_box_hint">Üreticiyi seçin</string>
   <string name="brand_title_all">Tümü</string>
   <string name="brand_title_hot">Popüler</string>
@@ -149,7 +148,6 @@
   <string name="channel_list">Kanal Listesi</string>
   <string name="channel_num">—</string>
   <string name="channel_removed_from_fav">%1$s favoriden çıkartıldı</string>
-  <string name="character_counter_pattern">%1$d / %2$d</string>
   <string name="check_upgrade">Güncellemeleri denetle</string>
   <string name="choose_ac">Uzaktan Kumandayı Seç</string>
   <string name="choose_address_title">Konumu Seç</string>
@@ -352,7 +350,6 @@
   <string name="hot_videos">Popüler</string>
   <string name="hour">saat</string>
   <string name="humidity">Nem:</string>
-  <string name="humidity_frame">%%%1$d</string>
   <string name="increase">Yukarı</string>
   <string name="input_complete">Tamam</string>
   <string name="input_dialogue_cancel_button">İptal</string>
@@ -442,7 +439,6 @@
   <string name="match_data">Eşleşme bilgisi</string>
   <string name="match_data_error_tips">"Bilgi alınamıyor
 Devam etmek için geri dönün"</string>
-  <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_direction_default">Yön tuşları çalışıyor mu?</string>
   <string name="match_dvd_intro_pause">Bıraktığında DVD oynatımı durdurulsun</string>
   <string name="match_dvd_intro_play">Bıraktığında DVD oynatmaya başlasın</string>
@@ -862,8 +858,6 @@ Hesabınızı etkinleştirmek için,
   <string name="scaning">Aranıyor…</string>
   <string name="scanning_milink">Cihazlar aranıyor…</string>
   <string name="scene_default">Varsayılan</string>
-  <string name="scene_name_frame">%1$s %2$s%3$s</string>
-  <string name="scene_name_frame_short">%1$s%2$s</string>
   <string name="screen_shot_button_title">TV Ekranını Durdur</string>
   <string name="screen_shot_delete">Sil</string>
   <string name="screen_shot_delete_warning">Silmek istediğinizden emin misiniz?</string>
@@ -997,7 +991,6 @@ Hesabınızı etkinleştirmek için,
   <string name="start_match">Eşle</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stb">Uydu Alıcısı</string>
-  <string name="stb_detail_title_frame">%1$s - %2$d</string>
   <string name="stb_power">Uydu Alıcısını Aç/Kapa</string>
   <string name="steps">Teşebbüs #%d</string>
   <string name="stop_auto_tune">Otomatik ayarlamayı durdur</string>
@@ -1019,7 +1012,6 @@ Hesabınızı etkinleştirmek için,
   <string name="temprature_frame">%1$d ℃</string>
   <string name="third_app_launch_failed">Uygulama başlatılamadı</string>
   <string name="time_error">Zamanlama hatası</string>
-  <string name="time_interval_in_sec">%1$d</string>
   <string name="timer">Zamanlayıcı</string>
   <string name="timer_turn_off">Kapalı</string>
   <string name="timer_turn_on">Zamanlayıcı Açık</string>
@@ -1134,7 +1126,6 @@ Değiştirmek için, TV'nun Güç Düğmesine uzun süre basın"</string>
   <string name="wind_sweep">Fan</string>
   <string name="wx_not_installed">WeChat yüklenmedi</string>
   <string name="xiaomi_vip">Mi VIP</string>
-  <string name="year_format">%1$d年</string>
   <string name="year_month_day_format">dd MMM yyyy</string>
   <string name="yes">Evet</string>
   <string name="yesterday">Dün</string>

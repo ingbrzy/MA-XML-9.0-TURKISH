@@ -165,7 +165,6 @@ Takip numarasını kontrol edin."</string>
   <string name="express_order_failed">Başarısız</string>
   <string name="express_order_ongoing">Sipariş veriliyor...</string>
   <string name="express_order_result">Sonuç</string>
-  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Kabul edildi</string>
   <string name="express_order_state_allograph">İmzalandı</string>
   <string name="express_order_state_cancelled">İptal edildi</string>
@@ -342,7 +341,6 @@ Takip numarasını kontrol edin."</string>
   <string name="nearby_average_price">Yaklaşık %d Yuan</string>
   <string name="nearby_no_yellow_page">Yakınlarda sonuç yok</string>
   <string name="nearby_yellow_page_title">Yakınlarda</string>
-  <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
   <string name="network_access_denied">Ağ erişimi engellendi</string>
   <string name="network_unavaliable">"Ağa bağlanamıyor"</string>
   <string name="no_brief">Sonuç yok</string>
@@ -358,7 +356,6 @@ Takip numarasını kontrol edin."</string>
   <string name="order_id_label">Sipariş #: %1$s</string>
   <string name="order_info">Sipariş bilgisi</string>
   <string name="order_merchant_title">Siparişim</string>
-  <string name="order_merchant_title_format">%1$s-%2$s</string>
   <string name="order_not_found">Sipariş yok</string>
   <string name="order_price_label">Sipariş fiyatı: %1$s</string>
   <string name="order_product_name_label">Ürün Adı: %1$s</string>
@@ -407,7 +404,6 @@ Takip numarasını kontrol edin."</string>
   <string name="recharge_payment_result_ok_title">%s Yuan eklendi</string>
   <string name="recharge_payment_result_progress_summary">Ödeme sonucu denetleniyor....</string>
   <string name="recharge_phone">Kontör numarası:</string>
-  <string name="recharge_phone_format">%1$s / %2$s</string>
   <string name="recharge_phone_number_empty">"Telefon numarası boş olamaz"</string>
   <string name="recharge_phone_number_error">Girdiğiniz telefon numarası geçersiz</string>
   <string name="recharge_select_money_title">Kontör miktarını seçin</string>
@@ -435,7 +431,6 @@ Toplam: %3$s Yuan"</string>
   <string name="sending_shortcut">Gönderiliyor…</string>
   <string name="service_unavailiable">Hizmet mevcut değil</string>
   <string name="share">Paylaş</string>
-  <string name="shop_recommendation_format">%1$s: %2$s</string>
   <string name="sim1">SIM 1</string>
   <string name="sim2">SIM 2</string>
   <string name="sina_share_fail">Gönderilemedi</string>

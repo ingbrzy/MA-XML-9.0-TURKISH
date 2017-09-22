@@ -403,7 +403,6 @@ kullanarak numarayı ara"</string>
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">Özellik kodu tamamlandı.</string>
   <string name="fcError">Bağlantı sorunu veya geçersiz özellik kodu.</string>
-  <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="find">Bul</string>
   <string name="find_next">Sonrakini bul</string>
   <string name="find_on_page">Sayfada bul</string>
@@ -847,7 +846,6 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="needPuk2">Engellenen SIM kartı açmak için PUK2 kodunu yazın.</string>
   <string name="negative_duration">−%1$s</string>
   <string name="network_available_sign_in">Ağda oturum açın</string>
-  <string name="network_available_sign_in_detailed">%1$s</string>
   <string name="network_logging_notification_text">Fazlası için dokunun</string>
   <string name="network_logging_notification_title">Ağ trafiği izleniyor</string>
   <string name="network_switch_metered">%1$s olarak değiştirildi</string>
@@ -871,7 +869,6 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="notification_hidden_text">İçerik gizli</string>
   <string name="notification_inbox_ellipsis">…</string>
   <string name="notification_listener_binding_label">Bildirim dinleyici</string>
-  <string name="notification_messaging_title_template">%1$s: %2$s</string>
   <string name="notification_ranker_binding_label">Bildirim sıralama hizmeti</string>
   <string name="notification_title">%1$s hesabında oturum açılamadı</string>
   <string name="notification_work_profile_content_description">İş profili</string>
@@ -1623,6 +1620,5 @@ Kapatmak ister misiniz?"</string>
   <string name="zen_mode_feature_name">Rahatsız Etme</string>
   <string name="zen_mode_forever">Kapatılana Kadar</string>
   <string name="zen_mode_forever_dnd">Rahatsız Etme özelliği kapatılana kadar</string>
-  <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
   <string name="zen_mode_until">%1$s saate kadar</string>
 </resources>

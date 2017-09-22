@@ -923,7 +923,6 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="calendar_sound_title">Takvim Sesi</string>
   <string name="call_manager_enable_summary">Çağrılarınızı yönetmek için bu servise izin verir</string>
   <string name="call_manager_enable_title">Çağrı Yöneticisi Etkin</string>
-  <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Çağrı Yöneticisi</string>
   <string name="call_settings_primary_user_only">İlk Alanındaki Çağrı Ayarlarını Değiştir</string>
   <string name="call_settings_summary">Sesli mesaj, çağrı yönlendirme, çağrı bekletme ve arayan kimliğini ayarla</string>
@@ -1561,7 +1560,6 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="dndm_auto_button_title">Rahatsız Etme Tekrarı</string>
   <string name="dndm_auto_setting_group">Planlanmış</string>
   <string name="dndm_auto_time_setting">Zaman Ayarı</string>
-  <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
   <string name="dndm_auto_time_turn_off">Bitiş</string>
   <string name="dndm_auto_time_turn_off_title">Rahatsız Etme\'yi otomatik kapat</string>
   <string name="dndm_auto_time_turn_on">Başlangıç</string>
@@ -1980,7 +1978,6 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="gadget_picker_title">Araç seç</string>
   <string name="gadget_state_off">Kapalı</string>
   <string name="gadget_state_on">Açık</string>
-  <string name="gadget_state_template">%1$s %2$s</string>
   <string name="gadget_state_turning_off">Kapatılıyor</string>
   <string name="gadget_state_turning_on">Açılıyor</string>
   <string name="gadget_sync">Eşitle</string>
@@ -2308,7 +2305,6 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="lift_to_wake_title">Uyandırmak için kaldır</string>
   <string name="line_breaking_summary">Paragrafın satır kırılmasını iyileştir</string>
   <string name="line_breaking_title">Metini iyi hale getir</string>
-  <string name="link_speed">%1$d Mbps</string>
   <string name="link_speed_label">Bağlantı hızı:</string>
   <string name="loading_notification_apps">Uygulamalar yükleniyor...</string>
   <string name="local_app_name">Yedekleme</string>
@@ -2702,7 +2698,6 @@ Burada diğer kullanıcılar var.
   <string name="memory_title">Kullanabilir: %1$s\u0009\u0009 Toplam: %2$s</string>
   <string name="memory_usage">Hafıza kullanımı</string>
   <string name="memory_usage_apps">Uygulamaların kullandığı hafıza</string>
-  <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">Yaklaşık %1$s, son 3 saatte kullandığı hafıza</string>
   <string name="menu_cancel">Reddet</string>
   <string name="menu_check">Deneyim</string>
@@ -2772,7 +2767,6 @@ Burada diğer kullanıcılar var.
   <string name="miracast_wps_setup_msg">WPS başlıyor…</string>
   <string name="misc_files">Çeşitli Dosyalar</string>
   <string name="misc_files_selected_count"> %2$d\'den %1$d seçildi</string>
-  <string name="misc_files_selected_count_bytes">%2$s arasından %1$s</string>
   <string name="miui_allow_alarm">Alarmlar</string>
   <string name="miui_allow_light">Bildirim Işığı</string>
   <string name="miui_allow_music">Medya</string>
@@ -2964,7 +2958,6 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="nfc_how_it_works_got_it">Anladım</string>
   <string name="nfc_how_it_works_title">Terminale ödeniyor</string>
   <string name="nfc_more_title">Fazlası...</string>
-  <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
   <string name="nfc_payment_default">Ödeme varsayılanı</string>
   <string name="nfc_payment_default_not_set">Ayarsız</string>
   <string name="nfc_payment_favor_default">Daima</string>
@@ -2986,7 +2979,6 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="nfc_se_wallet_title">Varsayılan Cüzdan</string>
   <string name="night_mode_auto">Otomatik</string>
   <string name="night_mode_no">Açık</string>
-  <string name="night_mode_summary">%s</string>
   <string name="night_mode_title">Tema</string>
   <string name="night_mode_yes">Koyu</string>
   <string name="no">Hayır</string>
@@ -3111,8 +3103,6 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="notifications_sensitive">Hassas içerik gizlendi</string>
   <string name="notifications_silenced">Susturuldu</string>
   <string name="notifications_summary_divider"> / </string>
-  <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
-  <string name="notifications_two_items">%1$s / %2$s</string>
   <string name="notify_connect">CMCC WLAN Sorusu</string>
   <string name="notify_connect_summary">"CMCC WLAN'a erişirken bana sor"</string>
   <string name="now">Şimdi Başlat</string>
@@ -3164,7 +3154,6 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="overlay_display_devices_title">İkinci ekranı taklit et</string>
   <string name="overlay_settings">Diğer uygulamaların aşımını yönet</string>
   <string name="owner_info_settings_edit_text_hint">Kilit ekranında görüntülenecek metni yazın</string>
-  <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Yok</string>
   <string name="owner_info_settings_title">Kilit Ekranda Sahip Bilgisi</string>
   <string name="owner_space">İlk Alan</string>
@@ -3661,7 +3650,6 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="private_sms_recording_intro_header">Kilit açma deseni çiz:</string>
   <string name="private_sms_reset_by_account">Şifrenizi sıfırlamak için Mi Hesabınızda oturum açın</string>
   <string name="process_dex2oat_label">Uygulamayı iyi hale getir</string>
-  <string name="process_format">%1$s (%2$d)</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="process_provider_in_use_description">%1$s sağlayıcı kulanıyor.</string>
@@ -4429,11 +4417,9 @@ Not: Parmakiziniz, güçlü bir desen veya PIN'den daha az güvende olabilir. "&
   <string name="selinux_status_enforcing">Uygulanıyor</string>
   <string name="selinux_status_permissive">Müsamahâkar</string>
   <string name="service_background_processes">Boş: %1$s</string>
-  <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">Kullanılan: %1$s</string>
   <string name="service_manage">Kurulum</string>
   <string name="service_manage_description">%1$s: şuan kullanıyor. Denetlemek için Ayarlara dokunun.</string>
-  <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Yeniden başlatılıyor.</string>
   <string name="service_started_by_app">Uygulama tarafından başlatıldı.</string>
   <string name="service_stop">Durdur</string>
@@ -4608,7 +4594,6 @@ Kalan Girişimler :"</string>
   <string name="sim_reenter_new">Yeni PIN kodunu tekrar girin</string>
   <string name="sim_select_card">SIM kartı seç</string>
   <string name="sim_selection_required_pref">Seçim yapmanız gerekli!</string>
-  <string name="sim_settings_summary">%1$s - %2$s</string>
   <string name="sim_settings_title">SIM Kartlar</string>
   <string name="sim_setup_wizard_title">SIM Kartlar</string>
   <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -4623,7 +4608,6 @@ Kalan Girişimler :"</string>
   <string name="size_kilo_byte">KB</string>
   <string name="size_mega_byte">MB</string>
   <string name="size_peta_byte">PB</string>
-  <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">TB</string>
   <string name="skip_anyway_button_label">Yine de atla</string>
   <string name="skip_label">Atla</string>
@@ -4943,8 +4927,6 @@ Devam etmek için; fakat uygulamalar bu konumdan taşınırken ve veri transferi
   <string name="summary_err_backup_no_network">Ağ bağlantısı yok</string>
   <string name="summary_err_restore_encrypting">Geri kurtarma başarısız oldu. Mi Hesabında yedekleme olduğundan emin misiniz?</string>
   <string name="summary_err_restore_no_network">Ağ bağlantısı başarısız</string>
-  <string name="summary_font_size">%1$s</string>
-  <string name="summary_range_symbol_combination">%1$s - %2$s</string>
   <string name="summary_range_verbal_combination"> %2$s / %1$s</string>
   <string name="supl_not_set">&lt;Ayarsız&gt;</string>
   <string name="supplicant_state_label">Rica Durumu::</string>
@@ -4972,7 +4954,6 @@ Devam etmek için; fakat uygulamalar bu konumdan taşınırken ve veri transferi
   <string name="sync_gmail">Gmail</string>
   <string name="sync_in_progress">Şimdi eşitleniyor…</string>
   <string name="sync_is_failing">Eşitleme şu an problemli. Kısa süre sonra yeniden denenecek.</string>
-  <string name="sync_item_title">%s</string>
   <string name="sync_menu_sync_cancel">Eşitlemeyi iptal et</string>
   <string name="sync_menu_sync_now">Şimdi eşitle</string>
   <string name="sync_now">Eşitle</string>
@@ -6350,7 +6331,6 @@ Delta Güncelleme Boyutu: %2$s"</string>
   <string name="zen_mode_summary_alarms_only_by_time">Sadece alarmları %1$s kadar değiştir </string>
   <string name="zen_mode_summary_alarms_only_indefinite">Alarmları süresiz değiştir</string>
   <string name="zen_mode_summary_always">Daima ara vererek değiştir</string>
-  <string name="zen_mode_summary_combination">%1$s: %2$s</string>
   <string name="zen_mode_visual_interruptions_settings_title">Görme bozukluklarını engelleyin</string>
   <string name="zen_mode_when">Otomatik Olarak Aç</string>
   <string name="zen_mode_when_every_night">Her gece</string>

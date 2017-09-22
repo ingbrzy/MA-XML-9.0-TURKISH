@@ -31,7 +31,6 @@
   <string name="alert_dialog_yes">Evet</string>
   <string name="antispam_local_marked">Yerel işaretli</string>
   <string name="antispam_marked_count">%1$d MIUI kullanıcısı tarafından bildirildi</string>
-  <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Bilinmeyen numara</string>
   <string name="antispam_provider">%s tarafından tespit edildi</string>
   <string name="apn_settings">Erişim Noktasının Adları</string>

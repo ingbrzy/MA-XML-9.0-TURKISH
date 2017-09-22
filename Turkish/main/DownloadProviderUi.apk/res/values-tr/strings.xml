@@ -22,7 +22,6 @@
   <string name="apk_filter">APK</string>
   <string name="app_downloads">%s indirilenler</string>
   <string name="app_label">İndirilenler</string>
-  <string name="app_size">%1$s</string>
   <string name="auth_activity_title">Xunlei Hesabı</string>
   <string name="auth_fail">"Yetki alınamadı"</string>
   <string name="bind_xunlei_account">Xunlei  Hesabı ekle</string>
@@ -107,7 +106,6 @@
   <string name="download_list_title_browser">İndirilenler</string>
   <string name="download_no_application">Bu biçimi destekleyen uygulama yok</string>
   <string name="download_no_application_title">Dosya açılamıyor</string>
-  <string name="download_num_size">%1$s kişi indirdi | %2$s</string>
   <string name="download_paused">İndirme duraklatıldı</string>
   <string name="download_pending">İndirme bekliyor</string>
   <string name="download_queued">Sıraya Alındı</string>

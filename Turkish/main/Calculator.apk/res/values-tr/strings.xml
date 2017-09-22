@@ -476,11 +476,8 @@
   <string name="word_figure_unit_shi">拾</string>
   <string name="word_figure_yuan">元</string>
   <string name="word_figure_zheng">整</string>
-  <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">"İndirme Yöneticisine bağlantı başarısız oldu, lütfen Uygulama Yönetimi'ndeki İndirme Yöneticisinden durumunu kontrol edin."</string>
   <string name="xiaomi_external_storage_unavailable">Depolama alanı kullanılamıyor, lütfen SD kartını kontrol edin.</string>
-  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_update_dialog_message">"Tanıtım Sürümü: %1$s
 Boyut: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Tanıtım Sürümü: %1$s

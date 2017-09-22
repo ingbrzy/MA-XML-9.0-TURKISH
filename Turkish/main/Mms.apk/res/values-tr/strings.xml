@@ -197,7 +197,6 @@
   <string name="file_size">Boyut:</string>
   <string name="file_title">Adı:</string>
   <string name="file_width_height">Boyut:</string>
-  <string name="flatshow_page_no">%1$d</string>
   <string name="force_touch_new_message_title">Yeni Mesaj</string>
   <string name="forward_from">İleten:</string>
   <string name="forward_prefix">"İLT: "</string>
@@ -585,7 +584,6 @@
   <string name="send_sms">Mesaj gönder</string>
   <string name="send_to">Kime:</string>
   <string name="send_to_count">%1$s mesaj gönderildi</string>
-  <string name="send_to_index_contact">%1$s/%2$s</string>
   <string name="sent_at_time">Gönderim: %1s</string>
   <string name="sent_label">"Gönderildi: "</string>
   <string name="service_message_not_found">Mesajın süresi doldu veya kullanılamıyor.</string>

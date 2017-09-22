@@ -238,7 +238,6 @@
   <string name="packaging_dialog_content">Rapor oluşturuluyor...</string>
   <string name="permission_granted">%1$s izin verildi</string>
   <string name="pic_not_exist">"Bu resim yok"</string>
-  <string name="pic_view_format">%1$s/%2$s</string>
   <string name="plus_one_submit_dialog_content">"Seçtiğiniz geribildirim, hata günlükleri ile birlikte, Mi sunucularına gönderilecektir."</string>
   <string name="plus_one_submit_dialog_not_show_again">Tercihleri hatırla</string>
   <string name="post_miui_bbs_failed">"MIUI Forumuna posta gönderilemedi"</string>
