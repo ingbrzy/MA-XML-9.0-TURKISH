@@ -181,7 +181,7 @@
   <string name="contextmenu_dial_dot">Ara…</string>
   <string name="contextmenu_download_image">Resmi kaydet</string>
   <string name="contextmenu_download_image_as">Resmi kaydet</string>
-  <string name="contextmenu_manually_block_ad">Reklam olarak işaretle</string>
+  <string name="contextmenu_manually_block_ad">Reklam olarak etiketle</string>
   <string name="contextmenu_map">Harita</string>
   <string name="contextmenu_openlink">Bağlantıyı Aç</string>
   <string name="contextmenu_openlink_newwindow">Yeni sekmede aç</string>
@@ -440,7 +440,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="miuichromium_error_page_network_off">Wi-Fi/Mobil Veriyi aç</string>
   <string name="miuichromium_error_page_no_network">"Ağa bağlanamıyor"</string>
   <string name="miuichromium_error_page_problem_access_denied">%s0 erişimedi</string>
-  <string name="miuichromium_error_page_problem_cache_miss">Bu sayfa önbelleğe yüklenemiyor</string>
+  <string name="miuichromium_error_page_problem_cache_miss">Bu sayfanın önbellekte hali yüklenemiyor</string>
   <string name="miuichromium_error_page_problem_cannot_open_page">"Sayfa açılamadı"</string>
   <string name="miuichromium_error_page_problem_cannot_reach_site">"Siteye erişilemiyor"</string>
   <string name="miuichromium_error_page_problem_connection_interrupted">Bağlantı kesintiye uğradı</string>
@@ -565,10 +565,10 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Hızlı URL girişi</string>
   <string name="pref_adblock_counts">%d reklam engellendi</string>
   <string name="pref_adblock_title">Reklam Engelleyici</string>
-  <string name="pref_advert_null">Reklamın işaretini kaldırmak için sayfa etiketine tıklayın</string>
+  <string name="pref_advert_null">Öğeler reklam olarak etiketlenmedi. Etiketlemek için sayfadaki öğeye basılı tutun.</string>
   <string name="pref_auto_update_under_wifi">WLAN kullanarak güncelle</string>
   <string name="pref_automatic_matching_searchengines_title">Kullanıma göre arama motorunu değiştir</string>
-  <string name="pref_cancel_screen">İptal ekranı</string>
+  <string name="pref_cancel_screen">Engeli Kaldır</string>
   <string name="pref_category_hint">Kategori</string>
   <string name="pref_check_security_url_summary">"Güvenli olup olmadığını kontrol etmek için Mi sunucularına web sitenizin URL\'sini gönder"</string>
   <string name="pref_check_security_url_summary_international">Tarayıcının tavsiye edilen sitelerin bağlantılarınıa erişmesine izin ver.</string>
