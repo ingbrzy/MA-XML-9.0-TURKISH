@@ -37,7 +37,7 @@
   <string name="cloud_app_restore_data">Kişisel veriler ve önceden yüklenmiş uygulamalar cihazınızda otomatik görülür</string>
   <string name="cloud_app_restore_error">"Geri yüklenemedi"</string>
   <string name="cloud_app_restore_success">Uygulamalar geri yüklendi</string>
-  <string name="cloud_app_restore_wifi_prompt">Bir Mi Bulut yedeklemesini geri yüklemek için, bir WLAN ağına bağlanmanız gerekir.</string>
+  <string name="cloud_app_restore_wifi_prompt">Bir Mi Bulut yedeğini geri yükle</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_detail_discription">"Cihazınız WLAN'a bağlıyken şu gibi ürün Mi Bulut yedeklenir: 
 *\u0009\u0009\u0009\u0009Uygulamalar, Ana Ekran Düzeni ve Duvar Kağıtları 
@@ -112,6 +112,7 @@ Not: Yüklediğiniz uygulamalar için verileri Mi Bulut'ta yedeklenmiyecek"</str
   <string name="remove_task_in_process">Kaldırılıyor…</string>
   <string name="remove_task_unfinished">Kaldırma işlemi henüz bitmedi</string>
   <string name="restore_data_summary">Bu özelliğin internet bağlantısına ihtiyacı var.</string>
+  <string name="restore_data_title">Veriyi Geri Yükle</string>
   <string name="restore_from_cloud">Mi Bulut yedeğinden geri yükle</string>
   <string name="restore_from_this_device">Bu yedeği kullanarak geri yükle</string>
   <string name="restore_home_screen_apps">Mi Bulut yedeğinden geri yükle</string>
