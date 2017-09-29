@@ -16,7 +16,7 @@
         <item quantity="other">Seçilen eylem Acil Çağrı Modunda kullanılamaz. Telefon %s dakika boyunca bu modda olacak. Artık ayrılmak istiyor musunuz?</item>
         <item quantity="one">"Seçilen eylem Acil Çağrı Modunda kullanılamaz. Telefon %s dakika boyunca bu modda olacak. Artık ayrılmak istiyor musunuz?"</item>
     </plurals>
-<plurals name="call_record_auto_whitelist_summary">
+    <plurals name="call_record_auto_whitelist_summary">
         <item quantity="other">%d numara</item>
         <item quantity="one">%d numara</item>
     </plurals>
