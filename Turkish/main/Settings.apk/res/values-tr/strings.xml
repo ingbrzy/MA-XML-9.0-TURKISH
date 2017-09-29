@@ -2833,7 +2833,6 @@ Burada diğer kullanıcılar var.
   <string name="miracast_wps_setup_msg">WPS başlıyor…</string>
   <string name="misc_files">Çeşitli Dosyalar</string>
   <string name="misc_files_selected_count"> %2$d\'den %1$d seçildi</string>
-  <string name="misc_files_selected_count_bytes">%2$s -> %1$s</string>
   <string name="miui_allow_alarm">Alarmlar</string>
   <string name="miui_allow_light">Bildirim Işığı</string>
   <string name="miui_allow_music">Medya</string>
