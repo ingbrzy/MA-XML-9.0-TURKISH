@@ -6,7 +6,7 @@
         <item>Yatay Modda geçici olarak göster</item>
     </string-array>
     <string-array name="motion_behavior_entries">
-        <item>Vur</item>
+        <item>Kaydır</item>
         <item>Dokun</item>
     </string-array>
 </resources>
