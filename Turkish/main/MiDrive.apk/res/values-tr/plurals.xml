@@ -140,4 +140,12 @@
         <item quantity="other">"%1$d dosya transfer edilemedi."</item>
         <item quantity="one">"%1$d dosya transfer edilemedi."</item>
     </plurals>
+    <plurals name="delete_folders">
+        <item quantity="other">%1$d dizin silinsin mi?</item>
+        <item quantity="one">Bu dizin silinsin mi?</item>
+    </plurals>
+    <plurals name="delete_files">
+        <item quantity="other">%1$d dosya silinsin mi?</item>
+        <item quantity="one">Bu dosya silinsin mi?</item>
+    </plurals>
 </resources>
