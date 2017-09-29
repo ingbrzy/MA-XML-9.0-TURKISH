@@ -22,7 +22,8 @@
         <item>Yüksek dinamik aralık teknolojisi, mikrofonun daha ayrıntılı ses elde etmesini sağlar</item>
     </string-array>
     <string-array name="record_scenes_summaries_stereo">
-		<item>Daha iyi kalite için mikrofonu ses kaynağına yaklaştırın</item>
+		<item>2 kanallı kayıt yapınca kulaklıklarla sesi stereo olarak dinleyin</item>
+        <item>Daha iyi kalite için mikrofonu ses kaynağına yaklaştırın</item>
         <item>Konuşmalarını net bir şekilde kaydetmek için telefonu 2 kişinin arasına yerleştirin</item>
         <item>Yüksek dinamik aralık teknolojisi, mikrofonun daha ayrıntılı ses elde etmesini sağlar</item>
     </string-array>
