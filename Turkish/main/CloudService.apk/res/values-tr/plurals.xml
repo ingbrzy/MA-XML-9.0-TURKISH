@@ -56,4 +56,16 @@
         <item quantity="other">%d engelli listesi girişi</item>
         <item quantity="one">%d engelli listesi girişi</item>
     </plurals>
+	<plurals name="dirty_secretphoto_count">
+        <item quantity="other">"%d gizli fotoğraf eşitlenemedi. Oturumu kapatana kadar tüm öğelerin eşitlenmesini bekleyin, öğeler silinir."</item>
+        <item quantity="one">"%d gizli fotoğraf eşitlenemedi. Oturumu kapatana kadar tüm öğelerin eşitlenmesini bekleyin, öğeler silinir."</item>
+    </plurals>
+	<plurals name="micloud_main_resume_sync_hour">
+        <item quantity="other">%d saat sonra eşitlemeye geri dön</item>
+        <item quantity="one">%d saat sonra eşitlemeye geri dön</item>
+    </plurals>
+    <plurals name="micloud_main_resume_sync_min">
+        <item quantity="other">%d dakika sonra eşitlemeye geri dön</item>
+        <item quantity="one">%d dakika sonra eşitlemeye geri dön</item>
+    </plurals>
 </resources>
