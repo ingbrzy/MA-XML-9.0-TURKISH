@@ -95,6 +95,8 @@
   <string name="keywords_search_shopping">Alışveriş; Tarayıcı; Ürünleri tara; Ürünü tara; Fiyat kontrolü; Ürünler; Taobao; Tmall; Fiyatlar; Online alışveriş</string>
   <string name="keywords_search_study">Tarayıcı, Sorunlar, Sorunları Çözme, Ödev, Okul, Fizik, Kimya, Matematik, Matematik, İngilizce, Tarihçe, Çinli</string>
   <string name="keywords_search_translation">Sözlük, İngilizce, Yabancı Dil, Dil, İngilizce, Çince, İtalyanca, Almanca, Japonca, Korece, İspanyolca, Fransızca; Baidu Çeviri; Youdao Sözlüğü; Baidu Sözlüğü; Google Translate</string>
+  <string name="label_choose_picture">Resim Seç</string>
+  <string name="label_flash_light">Flaş Işığı</string>
   <string name="language_entry_chinese_cn">Sadeleştirilmiş Çince</string>
   <string name="language_entry_chinese_tw">Geleneksel Çince</string>
   <string name="language_entry_danish">Danimarkaca</string>
