@@ -5412,7 +5412,6 @@ alıcı aygıtın açık olduğundan emin olun"</string>
   <string name="uicc_mount">UICC depolamayı bağla</string>
   <string name="uicc_mount_summary"/>
   <string name="uicc_unmount_inform_text">UICC depolama çıkartılacak.</string>
-  <string name="under_keyguard">Kilit Ekranı</string>
   <string name="uninstall_all_users_text">Tüm kullanıcılar için kaldır</string>
   <string name="uninstall_device_admin">Uygulamayı kaldır</string>
   <string name="uninstall_dlg_msg">Tüm uygulama verisi kaldırılacak.</string>
