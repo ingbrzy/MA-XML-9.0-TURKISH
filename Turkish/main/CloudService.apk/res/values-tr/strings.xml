@@ -4,6 +4,7 @@
   <string name="account">Hesap</string>
   <string name="account_related">Cihazınız varolan Mi Hesabı ile ilişkilidir (%s). Cihazı doğrulamak için ağa bağlanın</string>
   <string name="activate">Etkinleştir</string>
+  <string name="activate_find_device_success">Telefonu Bul etkinleştirildi.</string>
   <string name="activate_finddevice">Cihazı etkinleştirmek için ağa bağlanın</string>
   <string name="activate_number_change_dialog_message">Etkinleştirmeniz gereken ana numarayı seçin, VoIP aramada bu numarayı göreceksiniz</string>
   <string name="activating">Etkinleştiriliyor...</string>
@@ -49,6 +50,8 @@ Son yedekleme: %2$s"</string>
   <string name="cloud_back_up_title">Cihazı Yedekle</string>
   <string name="cloud_backup_dialog_title">Mi Bulut ile Yedekle</string>
   <string name="cloud_find_device">Telefonu Bul</string>
+  <string name="cloud_find_device_off">Kapalı</string>
+  <string name="cloud_find_device_on">Açık</string>
   <string name="cloud_restore_title">Yedekten Geri Yükle</string>
   <string name="cloud_space_upgrade_message">Bulutunuza %s GB eklemek için dokunun</string>
   <string name="cloud_space_upgrade_no_quota_info">"Depolama bilgisi alınamıyor"</string>
@@ -56,7 +59,9 @@ Son yedekleme: %2$s"</string>
   <string name="cloud_storage_full">Bulut Depolama doldu</string>
   <string name="cloud_storage_is_full">Dolu</string>
   <string name="cloudservice_new_sync">%s Mi Bulut ile eşitle</string>
-  <string name="cmcc_micloud_dspt">Mi Bulut kullanarak verilerinizi eşitleyin, cihazını bulun ve arkadaşlarınızla paylaşın.. </string>
+  <string name="cmcc_micloud_dspt">Mi Bulut kullanarak verilerinizi eşitleyin, cihazını bulun ve arkadaşlarınızla paylaşın.</string>
+  <string name="confirm_delete">Sil</string>
+  <string name="confirm_save">Koru</string>
   <string name="connect_network">WLAN ağına bağlanın veya bir SIM kartı takın</string>
   <string name="connect_wlan">WLAN ağına bağlan</string>
   <string name="contact">Kişiler</string>
@@ -101,6 +106,12 @@ Son yedekleme: %2$s"</string>
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">" telefonunuzu bulmak, kilitlemek ve yeniden yüklemek için.
 SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için otomatik olarak bir SMS gönderilecektir."</string>
+  <string name="find_device_operation_failure_rpc">"RPC hatasından dolayı işlem devam edemedi."</string>
+  <string name="find_device_pref_alert_content">"Telefonu Bul, Mi Hesabıyla birlikte çalışır. Bunun için bir şifre ayarlamalı ve bu şifreyi kullanmalısınız. Daima hatırlayacağını Mi Hesap Kimliği ve Şifresi olmalı. Etkinleştirme işlemi için SMs kullanılır. SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için otomatik olarak bir SMS gönderilecektir. Bu işlemler esnasında operatör sizden ücret talep edebilir."</string>
+  <string name="find_device_pref_alert_negtive">Hayır, teşekkürler</string>
+  <string name="find_device_pref_alert_positive">Tamam</string>
+  <string name="find_device_pref_alert_title">Mi Hesap Kimliği ve Şifreyi hatırla</string>
+  <string name="find_device_pref_initializing">Başlatılıyor…</string>
   <string name="find_device_reading_status">Durum yükleniyor…</string>
   <string name="find_device_reading_status_failure">"Durum yüklenemedi."</string>
   <string name="find_device_send_sms_alert">SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için otomatik olarak bir SMS gönderilecektir.</string>
@@ -193,6 +204,7 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="micloud_detail_lastest_with_off">Eşitlendi</string>
   <string name="micloud_detail_need_charge_or_sleep">Eşitlemeyi sürdürmek için şarj cihazını bağlayın ve ekranı kapatın</string>
   <string name="micloud_detail_not_sync">%d eşitlenmek için bekliyor</string>
+  <string name="micloud_detail_not_syncable">Eşitlenmedi</string>
   <string name="micloud_detail_not_synced">Eşitlenmedi</string>
   <string name="micloud_detail_ok">Tamam</string>
   <string name="micloud_detail_pause">Eşitleme durduruldu</string>
@@ -214,9 +226,22 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="micloud_dialog_sync_now_negative">Şimdi değil</string>
   <string name="micloud_dialog_sync_now_positive">Mobil veri kullan</string>
   <string name="micloud_dialog_sync_now_title">Eşitlemek için WLAN ağına bağlan</string>
+  <string name="micloud_detail_wlan_contact">Fotoğrafı eşitlenmek için bekleyen: %d</string>
+  <string name="micloud_detail_wlan_mms">%d MMS eşitleme için bekliyor</string>
   <string name="micloud_dspt">Mi Bulut kullanarak verilerinizi eşitleyin, cihazın konumunu bulun, </string>
   <string name="micloud_dspt_provision">Mi Bulut kullanarak verilerinizi eşitleyin, cihazınızın konumunu bulun ve arkadaşlarınızla paylaşın.</string>
+  <string name="micloud_find_device_close_alert_content">"Eğer bu özelliği kapatırsanız cihazı kaybettiğinizde cihazın konumunu bulamaz."</string>
+  <string name="micloud_find_device_close_alert_negtive">Her durumda kapat</string>
+  <string name="micloud_find_device_close_alert_positive">Açık tut</string>
+  <string name="micloud_find_device_close_alert_title">Telefonu Bul kapatılsın mı?</string>
+  <string name="micloud_find_device_close_fail">"Telefonu Bul kapatılamıyor"</string>
+  <string name="micloud_find_device_close_progress">Telefonu Bul kapatılıyor</string>
   <string name="micloud_find_device_finish">Tamam</string>
+  <string name="micloud_find_device_guide_alert_content">"Telefonu Bul, Mi Hesabı tarafından korunmaktadır. Bunun için bir şifre oluşturmalı ve bu şifreyi girmelisiniz. Mi Hesap Kimliği ve Şifrenizi unutmamalısınız."</string>
+  <string name="micloud_find_device_guide_alert_negtive">Hayır, teşekkürler</string>
+  <string name="micloud_find_device_guide_alert_negtive_activate">Hayır, teşekkürler</string>
+  <string name="micloud_find_device_guide_alert_positive">Tamam</string>
+  <string name="micloud_find_device_guide_alert_title">Mi Hesap Kimliğini  ve Şifreyi hatırla</string>
   <string name="micloud_find_device_guide_button">Telefonu Bul özelliğini aç</string>
   <string name="micloud_find_device_guide_content">Bu servisi etkinleştirmek için bir SMS mesajı gönderilmesi gerekebilir. Operatörünüz sizi bu mesaj için ücretlendirir. SIM kartınızı değiştirdiğinizde, bu özelliği tekrar etkinleştirmek için otomatik olarak bir mesaj gönderilir.</string>
   <string name="micloud_find_device_guide_fail_reopen">Mi Bulut\'ta Telefonu Bul özelliğini aç</string>
@@ -233,12 +258,16 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="micloud_find_device_guide_noti_title_by_app_change_wx">WeChat veri güvenliğini sağlamak için Telefonu Bul\'u açın</string>
   <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">Alipay veri güvenliğini sağlamak için Telefonu Bul\'u açın</string>
   <string name="micloud_find_device_guide_progress">Telefonu Bul açılıyor…</string>
-  <string name="micloud_find_device_guide_title">Cihazınızı bulmak, kilitlemek veya silmek için %s oturum açın.</string>
+  <string name="micloud_find_device_guide_title">"&lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; oturum açıp; cihazın konumunu, kilitlenmesini veya silinmesin sağlayabilirsiniz. Bu cihazı kaybetmenizde kullanacağınız bir yoldur.&lt;br /&gt;Eğer cihazı kaybederseniz, sıklıkla kıllandığınız uygulamaların güvenlik hizmetleriyle irtibata geçip (Misal: Alipay, Wechat,QQ) &lt;font color=#FF0000&gt;&lt;b&gt;i.mi.com&lt;/b&gt;&lt;/font&gt; hesaplarınızı güvenlik altına alın."</string>
   <string name="micloud_find_device_open_fail">"Telefonu Bul açılamadı"</string>
   <string name="micloud_find_device_opened">Telefonu Bul açık</string>
   <string name="micloud_find_device_opened_content"> %s telefonunuzu bulun</string>
   <string name="micloud_find_device_opened_content_url">i.mi.com</string>
   <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
+  <string name="micloud_find_device_verify_button">Telefonu Bul özelliğini yeniden etkinleştir</string>
+  <string name="micloud_find_device_verify_close">Telefonu Bul özelliğini kapat</string>
+  <string name="micloud_find_device_verify_fail">"Telefonu Bul yeniden etkinleştirilmiyor"</string>
+  <string name="micloud_find_device_verify_progress">Telefonu Bul yebniden etkinleştiriliyor…</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
   <string name="micloud_full_influence_dspt">"Bütün fotoğralarınız, videolarınız, notlarınız ve uygulamalarınız bulutta yedeklenecektir.
@@ -251,13 +280,21 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_full_influence_title">Mi Bulut dolduğunda...</string>
   <string name="micloud_main_battery_low">Eşitleme için yeterli batarya gücü yok</string>
   <string name="micloud_main_battery_message">Eşitlemek için şarja cihazına bağlayın.</string>
+  <string name="micloud_main_button_activate">Etkinleştir</string>
+  <string name="micloud_main_button_authorize">Yetkilendir</string>
+  <string name="micloud_main_button_set_internet">Ayarla</string>
   <string name="micloud_main_cancel_sync">Eşitlemeyi iptal et</string>
   <string name="micloud_main_clear_now">Temizle</string>
   <string name="micloud_main_data_unsynced">%d eşitleme için bekleniyor</string>
   <string name="micloud_main_detail">Detaylara gözat</string>
+  <string name="micloud_main_error_activated_fail">Lütfen SIM Kartı etkinleştirin.</string>
+  <string name="micloud_main_error_network_disallowed">Lütfen internet erişim izininden emin olun.</string>
+  <string name="micloud_main_error_permission_limit">Lütfen Mi Bulut için veritabanı yetki erişiminden emin olun.</string>
   <string name="micloud_main_last_sync_time">%s eşitlendi</string>
+  <string name="micloud_main_master_sync_on">Eşitleme açık</string>
   <string name="micloud_main_memory_low_message">"Eşitleme için, bulutta depolanmış bazı öğeleri silin."</string>
   <string name="micloud_main_memory_low_title">Telefonun dahili hafızası nedeyse dolmak üzere</string>
+  <string name="micloud_main_message_master_sync_off">Otomatik eşitleme ayarları bildirim çubuğunda.</string>
   <string name="micloud_main_message_not_synced">%s veri eşitlenemedi</string>
   <string name="micloud_main_multi_user_error_message">"Benzer bir hesapla oturum açıp İlk Alanı ve Mi Bulut hatasını çözebilirsiniz. Eğer veriyi yedeklemek isterseniz:
 
@@ -266,11 +303,14 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_main_multi_user_error_title">Mi Bulut Hatası</string>
   <string name="micloud_main_network_abnormal">"Ağa bağlanamıyor"</string>
   <string name="micloud_main_network_error">"Ağa bağlanamıyor"</string>
+  <string name="micloud_main_query_again">Sorgula</string>
   <string name="micloud_main_not_sync">Eşitlenmek için bekleyen öğe: %d</string>
   <string name="micloud_main_query_error_message">"Eşitlenmenin biteceği garanti edilemez"</string>
   <string name="micloud_main_query_error_title">"Eşitlenme durumu alınamıyor"</string>
+  <string name="micloud_main_resume_sync_soon">Eşitlemeye yakında dönülecek</string>
   <string name="micloud_main_set_internet">Ağ Ayarları</string>
   <string name="micloud_main_space_full">Bulut depolaması doldu</string>
+  <string name="micloud_main_space_full_message">Daha fazla depolama alanı için üyeliğinizi güncelleyin</string>
   <string name="micloud_main_space_full_title">Yeterli alan olmadığından, eşitleme durdu</string>
   <string name="micloud_main_space_low">Neredeyse boş alan yok…</string>
   <string name="micloud_main_stop_sync">Eşitleme durdu</string>
@@ -296,6 +336,11 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_main_title_sync_off">Eşitleme kapalı</string>
   <string name="micloud_main_title_sync_on_wifi">WLAN kullan</string>
   <string name="micloud_main_update_space">Daha fazla alan al.</string>
+  <string name="micloud_main_wait_charge">Şarj edilmesi için bekleniyor</string>
+  <string name="micloud_main_wait_charge_sleep">Şarj edilmesi için ve ekranın kapatılması için bekleniyor</string>
+  <string name="micloud_main_wait_wlan">WLAN için bekleniyor</string>
+  <string name="micloud_main_wait_wlan_charge">WLAN için bekleniyor, şarja bağlanıyor</string>
+  <string name="micloud_main_wait_wlan_charge_sleep">WLAN için bekleniyor,şarja baağlanıyor ve ekran kapatılıyor</string>
   <string name="micloud_main_wlan_sync_data_count">Eşitlenmek için bekleyen öğeler: %d</string>
   <string name="micloud_member">Mi Bulut üyeliği</string>
   <string name="micloud_member_advantage">Daha fazla alan al.</string>
@@ -447,6 +492,7 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="search_finddevice_pref_desc">Telefonu Bul Aç/Kapat</string>
   <string name="search_finddevice_pref_key_words">telefonu bul, cihazı bul</string>
   <string name="search_finddevice_pref_path">Mi Hesabı/Mi Bulut/Telefonu Bul</string>
+  <string name="secret_photo">Gizli Fotoğraflar</string>
   <string name="setting">Ayarlar</string>
   <string name="settings_backup_title">Sistem Ayarlarını Eşitle</string>
   <string name="share_cancel">Paylaşım iptal edildi</string>
@@ -477,12 +523,13 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="sub_sync_item_sms_title_wifi_only">MMS eşitlemesini sadece WLAN kullanarak yap</string>
   <string name="success_upgraded_space">%s eklendi</string>
   <string name="sync_dspt">Eşitle</string>
-  <string name="sync_dspt_entrance_provision">"Fotoğraflarınızı, şahısları, çağrı geçmişini ve cihazdaki tüm mesajları eşitle. Herhangi bir tarayıcıdan %s eşitlenmiş öğelere erişin. "</string>
+  <string name="sync_dspt_entrance_provision">"Mi Bulut fotoğraflarınızı, kişileri ve diğer cihazlarla eşitlemeyi yapmanızda yardımcı olur. Herhangi bir tarayıcıdan  %s sayesinde eşitlediklerinize erişebilirsiniz."</string>
   <string name="sync_dspt_entrance_provision_2">Fazlası</string>
   <string name="sync_dspt_entrance_provision_confirm_close">"Kullanma!"</string>
   <string name="sync_dspt_entrance_provision_confirm_content">"MIUI'nin yerleşik uygulamalarının fotoğrafları, şahısları, notları ve daha fazlasını yedekleyebilmesi için Mi Bulut\'a ihtiyacı var. Mi Bulut ücretsiz ve kullanıma hazır halde gelir."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Mi Bulut kullan</string>
   <string name="sync_dspt_entrance_provision_confirm_title">"Neden Mi Bulut kullanmıyorsun?"</string>
+  <string name="sync_dspt_entrance_provision_network">Bu uygulama normal çalışabilmek için internet bağlantısı gerektirir. Eşitleme; açık WLAN ve veri ağı bağlantısı gerektirir.</string>
   <string name="sync_dspt_entrance_provision_skip">Bu adımı atla</string>
   <string name="sync_dspt_provision">"Fotoğraflarınızı, şahısları, notları ve daha fazlasını eşitleyin, her yerden erişin "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
@@ -529,10 +576,12 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="virtual_sim_desc">SIM kart olmadan cihazı bulmak için Mi SIM özelliğini açın</string>
   <string name="voip_choose_sim">Mi Voice uygulamasını etkinleştirmek için telefon numarasını seçin</string>
   <string name="wipe_data_dialog_button_check_sync">Eşitlenmeyi denetle</string>
-  <string name="wipe_data_dialog_msg">"%s eşitlenemedi ve halen telefonda."</string>
+  <string name="wipe_data_dialog_msg">"Bazı (%s) öğeler eşitlenemedi. Öğeler cihazda saklanacak, silinmeyecek."</string>
   <string name="wipe_data_dialog_msg_and_on">, ve diğer öğeler</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">"Bazı öğeler eşitlenemedi"</string>
+  <string name="wipe_data_dialog_title">"Öğeler eşitlenemedi"</string>
+  <string name="wipe_secret_photo_dialog_title">"Gizli fotoğraflar eşitlenemedi"</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Bulut</string>
   <string name="xmpp_server_addr"/>
 </resources>
