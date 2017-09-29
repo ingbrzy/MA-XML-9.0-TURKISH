@@ -48,7 +48,7 @@
   <string name="default_text">我</string>
   <string name="del">SİL</string>
   <string name="deleteDesc">Sil</string>
-  <string name="description_content">Temel özelliklerinin yanı sıra Hesap Makinesi, çok işlevli bir dönüştürücü, ipotek ve vergi hesaplayıcısı olarak da çalışır. Uygulamayı kaldırmadan önce bu özelliklere sahip olmadığınızdan emin olun.</string>
+  <string name="description_content">Temel özelliklerinin yanı sıra Hesap Makinesi, çok işlevli bir dönüştürücü, ipotek ve vergi hesaplayıcısı olarak da çalışır. Uygulamayı kaldırmadan önce bu özelliklere sahip olup- olmadığınızdan emin olun.</string>
   <string name="description_title">Hesap Makinesi Hakkında</string>
   <string name="devided_by_zero_reminder_message">"Sıfırla bölünemez"</string>
   <string name="digit0">0</string>
@@ -86,6 +86,7 @@
   <string name="fund_loan"/>
   <string name="gay_other_search_result">暂时不支持同性婚姻称呼查询，怎么称呼你决定~</string>
   <string name="gay_search_result">是男是女不重要，是你就好</string>
+  <string name="global_network_confirm_content">"Döviz dönüştürmelerinde, hesap makinesi internet bağlantısına ihtiyaç duyar."</string>
   <string name="global_search_key_area_convertion">Alan;Alan Çevirici;Alan Dönüştürücü</string>
   <string name="global_search_key_calculation">Hesapla;Hesap Makinesi;Birim Dönüştürücü;Dönüştürücü;Birim Çevirici</string>
   <string name="global_search_key_date_convertion">Zaman Çevirici;Zaman Birimleri;Zaman Dönüştürücü;Zaman</string>
