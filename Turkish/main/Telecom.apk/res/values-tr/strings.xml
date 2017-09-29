@@ -175,12 +175,16 @@
   <string name="category_personal">Kişisel</string>
   <string name="category_work">İş</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
+  <string name="change_default_dialer_dialog_affirmative">Varsayılanı Ayarla</string>
+  <string name="change_default_dialer_dialog_negative">İptal</string>
   <string name="change_default_dialer_dialog_title">Varsayılan arayıcı uygulaması değiştirilsin mi?</string>
+  <string name="change_default_dialer_warning_message">%s çağrılardaki tüm görünümleri kontrol edecek. Sadece güvenilir uygulamalara varsayılan Telefon çeviricisi özelliği verin.</string>
   <string name="change_default_dialer_no_previous_app_set_text">%s varsayılan arama uygulaması olarak değiştirilsin mi?</string>
   <string name="change_default_dialer_with_previous_app_set_text">%1$s yerine %2$s varsayılan arama uygulaması olarak değiştirilsin mi?</string>
   <string name="charge_length_format">%1$s önce</string>
   <string name="choose_profile">Profil seç</string>
   <string name="clear_adb_keys">USB Hata Ayıklama yetkilerini iptal et</string>
+  <string name="close">Kapat</string>
   <string name="confirm_device_info_full">SD kart dolmak üzere, kayıt saklandı.</string>
   <string name="confirm_enable_oem_unlock_text">UYARI: Bu ayar açıkken, cihaz koruma özellikleri bu cihazda çalışmaz.</string>
   <string name="confirm_enable_oem_unlock_title">"OEM'in kilidini açmasına izin verilsin mi?"</string>
@@ -188,6 +192,7 @@
   <string name="confirm_save_info_saved_to">Kayıt şuraya saklandı:</string>
   <string name="connected_via_passpoint">%1$s ile bağlandı</string>
   <string name="connected_via_wfa">Wi-Fi Yardımcısı yoluyla bağlandı</string>
+  <string name="content_description_menu_button">Menü</string>
   <string name="convert_to_fbe_warning">"Veri bölümünü dosya tabanlı şifrelemeye dönüştürün.
  !!Uyarı!! Bu, tüm verilerinizi silecek.
  Bu özellik alfa olup doğru çalışmayabilir.
@@ -226,6 +231,8 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="debug_networking_category">Ağ oluşturuluyor</string>
   <string name="debug_view_attributes">Görünüm özellik incelemesini etkinleştir</string>
   <string name="delete_icon_description">Engeli kaldır</string>
+  <string name="dev_logpersist_clear_warning_message">Kalıcı günlük ile izlemeye devam etmediğimizde cihazinizdaki günlük verisinide sileriz.</string>
+  <string name="dev_logpersist_clear_warning_title">Kalıcı günlük depolaması temizlensin mi?</string>
   <string name="description_delete_button">backspace</string>
   <string name="description_dialpad_overflow">Diğer Seçenekler</string>
   <string name="description_image_button_plus">plus</string>
@@ -307,6 +314,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="inactive_app_inactive_summary">Aktif değil. Geçiş yapmak için hafifçe dokunun.</string>
   <string name="inactive_apps_title">Etkin olmayan uygulamalar</string>
   <string name="incall_error_call_failed">"Çağrı yapılamadı."</string>
+  <string name="incall_error_power_off">Çağrı yapabilmek için Uçak Modunu kapatın.</string>
   <string name="incall_error_missing_voicemail_number">Bilinmeyen sesli mesaj numarası.</string>
   <string name="incall_error_supp_service_conference">Konferans görüşmesi yapılamıyor.</string>
   <string name="incall_error_supp_service_hangup">Çağrı serbest bırakılamıyor.</string>
@@ -425,6 +433,9 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Hızlı Cevaplar</string>
   <string name="respond_via_sms_setting_title_2">Hızlı cevapları düzenle</string>
+  <string name="retail_demo_reset_message">Demo Modunda iken fabrika sıfırlaması için şifreyi girin</string>
+  <string name="retail_demo_reset_next">İleri</string>
+  <string name="retail_demo_reset_title">Şifre gerekli</string>
   <string name="ringtone_silent">Yok</string>
   <string name="ringtone_unknown">Bilinmeyen zil sesi</string>
   <string name="running_process_item_user_label">Kullanıcı: %1$s</string>
@@ -444,6 +455,8 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="select_application">Uygulamayı seç</string>
   <string name="select_logd_size_dialog_title">Günlük tamponun her boyutunu seç</string>
   <string name="select_logd_size_title">Günlük arabellek boyutları</string>
+  <string name="select_logpersist_dialog_title">Cihazda kalıcı olarak günlük tamponları depolamak için seçin</string>
+  <string name="select_logpersist_title">Cihazda kalıcı günlük verisini depola</string>
   <string name="select_usb_configuration_dialog_title">"USB Yapılandırması'nı seçin"</string>
   <string name="select_usb_configuration_title">"USB Yapılandırması'nı seçin"</string>
   <string name="select_webview_provider_dialog_title">WebView uygulamasını ayarla</string>
@@ -549,7 +562,8 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_network_prefix_length_hint">24</string>
-  <string name="wifi_no_internet">"İnternet Erişimi tespit edilemedi, otomatik olarak yeniden bağlanmaz."</string>
+  <string name="wifi_no_internet">İnternet erişimi yok.</string>
+  <string name="wifi_no_internet_no_reconnect">"İnternet erişimi tespit edilemedi, otomatik olarak bağlanamıyor."</string>
   <string name="wifi_not_in_range">Menzilde değil</string>
   <string name="wifi_remembered">Kaydedilen</string>
   <string name="wifi_security_eap">802.1x EAP</string>
