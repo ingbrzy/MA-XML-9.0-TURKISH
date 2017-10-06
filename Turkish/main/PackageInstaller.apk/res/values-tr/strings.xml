@@ -132,7 +132,7 @@
   <string name="bt_hci_snoop_log_summary">Tüm Bluetooth HCI paketlerini bir dosyada yakala</string>
   <string name="btn_text_full_scan">Tam Tara</string>
   <string name="btn_text_install_new_version">San Sürüm</string>
-  <string name="btn_text_install_origin">Orjinal Sürüm</string>
+  <string name="btn_text_install_origin">Orijinal Sürüm</string>
   <string name="btn_text_install_security_version_in_appstore">Güvenli sürümle değiştir</string>
   <string name="btn_text_scaning">Taranıyor...</string>
   <string name="btn_text_security_install">Güvenli sürümle değiştir</string>
