@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_hide_mode">MIUI Pil Tasarrufu Hakkında</string>
+  <string name="about_hide_mode">Pil Tasarrufu Hakkında</string>
   <string name="action_bar_delete">Sil</string>
   <string name="action_settings">Ayarlar</string>
   <string name="action_title_optimize">İyi hale getir</string>
@@ -18,11 +18,16 @@
   <string name="alter_message_switch_mode">Mod değiştirilsin mi?</string>
   <string name="alter_message_switch_mode_message">Eğer modlar arasında geçiş yaparsanız, önceki ayarlar artık bu uygulama için geçerli olacaktır.</string>
   <string name="app_frozen_app_list_summary">Arkaplan Uygulamaları</string>
-  <string name="app_invisible_title">Görünür Uygulama</string>
+  <string name="app_invisible_title">Görünmeyen Uygulamalar</string>
   <string name="app_list_title">Uygulamayı seçin</string>
   <string name="app_list_total">%d uygulama</string>
   <string name="app_name">Pil Tasarrufu</string>
   <string name="background">Uygulama arkaplanda çalışıyor</string>
+  <string name="base_info">Esas Bilgi</string>
+  <string name="cloud_addr_info">Bulut Bilgisi</string>
+  <string name="cloud_china_addr">Çin sunucu verisini güncelle</string>
+  <string name="cloud_international_addr">Uluslararası sunucu bilgisini güncelle</string>
+  <string name="cloud_staging_addr">Düzenleme sunucu verisini güncelle</string>
   <string name="config_custom_description">Eğer tavsiyeli yapılandırmalara ihtiyaç yoksa, özelleştirilebilir.</string>
   <string name="config_custom_title">Özel</string>
   <string name="config_description">"MIUI özel arkaplan işlemleri (Mesela; mesajlaşma ve navigasyon uygulamaları, medya oynatıcılar) ile uygulamaları belirleyebilir. Arkapalanda çalışanlara etkisi olmayacak şekilde Pil Tasarrufunu ayarlayın."</string>
@@ -33,18 +38,24 @@
   <string name="config_restrict_function_title">Arkaplan uygulamalarını kısıtla</string>
   <string name="config_restrict_running_description">Uygulama güçten tasarruf için kapatıldı</string>
   <string name="config_restrict_running_title">Arkaplan faaliyetini sınırla</string>
-  <string name="config_restrict_running_warning">Uygulama arkaplanda kapatılacak, belki normal çalışamayacak</string>
+  <string name="config_restrict_running_warning">Uygulama arkaplanda kapatılacak. Belki bunu yapmakla uygulama normal çalışmayacak</string>
   <string name="config_scenario_policies_title">Senaryolar</string>
   <string name="config_suggest_description">"Önemli süreçlerini korumak için uygulamalar ve faaliyetlerini belirle.
 Pil Tasarrufu için önemli uygulamaları seçmeli olarak işleme koyacağız."</string>
-  <string name="config_suggest_suffix_title">MIUI Pil Tasarrufu (önerilir)</string>
-  <string name="config_suggest_title">MIUI Pil Tasarrufu</string>
-  <string name="disable_hide_mode">MIUI Pil Tasarrufu kapalı</string>
-  <string name="disable_hide_mode_warning">"MIUI Pil Tasarrufu'nu devre dışı bırakmak daha fazla güç tüketimine neden olabilir"</string>
+  <string name="config_suggest_suffix_title">Pil Tasarrufu (önerilir)</string>
+  <string name="config_suggest_title">Pil Tasarrufu</string>
+  <string name="confirm">Tamam</string>
+  <string name="current_cloud_addr_is">Bulut kontrol sunucu adresi:</string>
+  <string name="disable_hide_mode">Pil Tasarrufu kapalı</string>
+  <string name="disable_hide_mode_warning">"Pil Tasarrufu'nu devre dışı bırakmak daha fazla güç tüketimine neden olabilir"</string>
   <string name="disabled">Kapalı</string>
   <string name="empty_title_apps_container_list">Uygulama yok</string>
-  <string name="enable_hide_mode">MIUI Pil Tasarrufu etkin</string>
+  <string name="enable_hide_mode">Pil Tasarrufu etkin</string>
   <string name="error_filename_too_long">Girdiğiniz dosya ismi çok uzun.</string>
+  <string name="extreme_power_config_mode_category">Aşırı Tasarruf Modu</string>
+  <string name="extreme_power_config_mode_desc">Aşırı Tasarruf Modunda eşitleme, Bluetooth, GPS, NFC, çift dokunma, düğme ışıkları, bildirim gelince ekranın açılması gibi özellikler devre dışı edilir. MIUI sadece pil tasarrufuna odaklanır.</string>
+  <string name="extreme_power_config_mode_title">Aşırı Tasarruf Modu</string>
+  <string name="failure">Başarısız</string>
   <string name="foreground_change">Uygulama önplanda çalışıyor</string>
   <string name="fragment_nonesys_listempty">Yüklü uygulama yok</string>
   <string name="fragment_tab_title_nonsys">Yüklü Uygulamalar</string>
@@ -59,7 +70,10 @@ Pil Tasarrufu için önemli uygulamaları seçmeli olarak işleme koyacağız."<
   <string name="hide_system_app">Sistem uygulamalarını gizle</string>
   <string name="high">Performans</string>
   <string name="hints_loading_text">Biraz bekleyin...</string>
+  <string name="important_warning">Dikkat</string>
   <string name="invalid_size_value">"Paket boyutu elde edilemedi."</string>
+  <string name="lasttime_applist_cloud">Uygulama Listesi Güncellendi:</string>
+  <string name="lasttime_feature_cloud">Özellikler Güncellendi:</string>
   <string name="keep_connect_description">Uygulamalar arkaplanda ağa bağlanıyor olabilir</string>
   <string name="keep_connect_title">Bağlantıyı koru</string>
   <string name="location_disable_description">Sürekli erişim kısıtlı olduğunda arkaplanda uygulamaları sadece kısa bir süre için konum servislerine erişebilir</string>
@@ -96,11 +110,11 @@ Pil Tasarrufu için önemli uygulamaları seçmeli olarak işleme koyacağız."<
   <string name="power_checker_notify_summary">Pili boşaltan uygulamaları iyi hale getir</string>
   <string name="power_checker_partial_wakelock_multi_apps_title">"%1$s MIUI'nin uyku moduna geçmesine engel oluyor"</string>
   <string name="power_checker_partial_wakelock_title">"%1$s MIUI'nin uyku moduna geçmesine engel oluyor"</string>
-  <string name="power_checker_recent_btn_title">Güç Ayarları</string>
+  <string name="power_checker_recent_btn_title">Pil Kullanımını Ayarla</string>
   <string name="power_checker_recent_group_title">En Son</string>
   <string name="power_checker_running_btn_title">İşlemi Sonlandır</string>
   <string name="power_checker_running_group_title">Çalışan</string>
-  <string name="power_checker_title">Güç Denetleyicisi</string>
+  <string name="power_checker_title">Pil Kullanımını Denetle</string>
   <string name="power_checker_wakeup_alarm_multi_apps_title">%1$s sıklıkla başlatılıyor</string>
   <string name="power_checker_wakeup_alarm_title">%1$s sıklıkla başlatılıyor</string>
   <string name="power_checker_wifi_scan_multi_apps_title">%1$s sıklıkla WLAN araması yapıyor</string>
@@ -111,7 +125,7 @@ Pil Tasarrufu için önemli uygulamaları seçmeli olarak işleme koyacağız."<
   <string name="power_config_app_background_title">Arkaplan</string>
   <string name="power_config_app_full_screen_title">Tam Ekran</string>
   <string name="power_config_app_launch_title">Önplan</string>
-  <string name="power_config_apps">Arka planda güç tasarrufu</string>
+  <string name="power_config_apps">Pil Tasarrufu</string>
   <string name="power_config_bg_data_delay_time_dialog_title">Arkaplan verileri kısıtlamak için zamanı seçin</string>
   <string name="power_config_bg_data_delay_time_title">Arka plan verilerini sınırla</string>
   <string name="power_config_choose_apps">Uygulamaları Seç</string>
@@ -162,7 +176,7 @@ Pil Tasarrufu için önemli uygulamaları seçmeli olarak işleme koyacağız."<
   <string name="power_dialog_screen_brightness_title">Parlaklık</string>
   <string name="power_event_user_define_title">Yeni Etkinlikler</string>
   <string name="power_event_view_event_title">Tetikleyiciler</string>
-  <string name="power_hide_mode_app_list_summary">Uygulama Ayarları</string>
+  <string name="power_hide_mode_app_list_summary">Arkaplanda güç tasarrufu yapılıyor</string>
   <string name="power_hide_mode_app_list_total">%d Uygulama</string>
   <string name="power_hide_mode_summary">"Bireysel uygulamalar arkaplan işlemlerini WLAN, GPS, mobil veri bağlantıları kısıtlayarak pil tasarrufu sağlar."</string>
   <string name="power_hide_mode_title">"Uygulamaların pil kullanımını yönetin"</string>
@@ -181,8 +195,8 @@ Pil Tasarrufu için önemli uygulamaları seçmeli olarak işleme koyacağız."<
   <string name="quick_disconnect_title">Ayrılmış</string>
   <string name="ragment_sys_listempty">Sistem uygulaması yok</string>
   <string name="reading">Okuma Modu</string>
-  <string name="scenario_policies_summary">Senaryoya göre enerji tasarrufu</string>
-  <string name="scenario_policies_title">Güç Tasarruf Politikasının Senaryoları</string>
+  <string name="scenario_policies_summary">Farklı senaryolara göre güç tasarruf stratejilerini uygulayın</string>
+  <string name="scenario_policies_title">Akıllı Senaryolar</string>
   <string name="scenario_policies_warmcontrol">Sıcaklık Kontrolu</string>
   <string name="screen_off">Ekran Kapalı</string>
   <string name="screen_off_10_min">10 dakika boyunca ekran kapalı</string>
@@ -194,14 +208,18 @@ Pil Tasarrufu için önemli uygulamaları seçmeli olarak işleme koyacağız."<
   <string name="set_lcd_mode">Ekran Modu</string>
   <string name="settings_safetylegal_activity_loading">Biraz bekleyin...</string>
   <string name="show_system_app">Sistem uygulamalarını göster</string>
-  <string name="sleep_config_enhance_description">Gece beklemesinde güç kullanımı artacaktır</string>
-  <string name="sleep_config_enhance_title">Uyku Koruma Modu</string>
+  <string name="sleep_config_enhance_description">MIUI uyuduğunuzu tespit ederse, arkaplan uygulamalarını, NFC erişimini, Bluetooth, GPS, Mobil veri  ve WLAN seçeneğini kapatıp, bildirim gelince ışıkların yanmasını önler.</string>
+  <string name="sleep_config_enhance_title">Uyku Modu</string>
   <string name="still">Resim</string>
+  <string name="sucess">Tamam</string>
   <string name="ui">Standart</string>
+  <string name="update_profile_failture_not_connect_wifi">"Güncellenemedi. WLAN ağına bağlanın ve yeniden deneyin."</string>
+  <string name="update_profile_sucess">Sunucudan başarıyla güncellendi</string>
   <string name="user_define_mode">Adı</string>
-  <string name="vip_feedback">Vip Geribildirim</string>
-  <string name="vip_feedback_apply">Vip Geribildirimi uygula</string>
-  <string name="vip_feedback_apply_msg">"Vip Geribildirimi uygulamak için lütfen qiufeng@xiaomi.com ile iletişime geçin."</string>
+  <string name="vip_feedback">VIP Geribildirim</string>
+  <string name="vip_feedback_apply">VIP Geribildirimi aç</string>
+  <string name="vip_feedback_apply_msg">"VIP Geribildirimi uygulamak için lütfen qiufeng@xiaomi.com ile iletişime geçin."</string>
   <string name="vip_feedback_enable">Otomatik Vip Geribildirim etkin</string>
-  <string name="warm_configure">Sıcaklık Kontrol Yapılandırması</string>
+  <string name="warm_configure">Sıcaklık Kontrol Ayarları</string>
+  <string name="warm_performance_tip">Ne kadar çok işlem çalıştırırsanız; cihazınız o kadar çok ısınır.</string>
 </resources>
