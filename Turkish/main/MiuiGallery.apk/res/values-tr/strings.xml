@@ -137,7 +137,7 @@
   <string name="appwidget_title">Galeri</string>
   <string name="aspect_ratio_format" formatted="false">%d:%d</string>
   <string name="aspect_ratio_free">Özel</string>
-  <string name="aspect_ratio_origin">Orjinal</string>
+  <string name="aspect_ratio_origin">Orijinal</string>
   <string name="aspect_ratio_square">Kare</string>
   <string name="associate_face_album">Bir albüm seç</string>
   <string name="auto">Otomatik</string>
@@ -297,7 +297,7 @@
   <string name="cloud_be_shared_guide_message">Arkadaşların fotoğraflarını görebilir ve albüme fotoğraf ekleyebilirsin</string>
   <string name="cloud_be_shared_guide_title">Bu albüm arkadaşından geldi</string>
   <string name="cloud_camera_display_name">Kamera Fotoğrafları</string>
-  <string name="cloud_folder_chooser_move">Orjinal albümden resimleri sil</string>
+  <string name="cloud_folder_chooser_move">Orijinal albümden resimleri sil</string>
   <string name="cloud_full_tip_str">"Mi Bulut'ta yeterli hafıza yok"</string>
   <string name="cloud_gallery_recyclebin_full">Çöp kutunuz doldu. i.xiaomi.com adresinden çöp kutunuzu boşaltın.</string>
   <string name="cloud_gallery_space_full">Bulutta yeterli hafıza yok</string>
@@ -492,8 +492,8 @@
   <string name="enabling_face_feature">Biraz bekleyin...</string>
   <string name="enter_email_hint">E-Posta adresini girin</string>
   <string name="error_album_not_exist">"Albüm yok"</string>
-  <string name="error_build_thumbnail_action">Orjinal dosyayı indir</string>
-  <string name="error_build_thumbnail_msg">"Önizleme indirilemedi. Orjinal dosyanın indirilmesini deneyin."</string>
+  <string name="error_build_thumbnail_action">Orijinal dosyayı indir</string>
+  <string name="error_build_thumbnail_msg">"Önizleme indirilemedi. Orijinal dosyanın indirilmesini deneyin."</string>
   <string name="error_build_thumbnail_tip">"Önizleme indirilemedi."</string>
   <string name="error_change_storage_action">Depolamaya Geç</string>
   <string name="error_change_storage_msg">Ayarlar altındaki Depolamaya geçip buradan depolama alanını değiştirmeyi deneyin.</string>
@@ -730,7 +730,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="ignore_faces_title">Yoksayıldı</string>
   <string name="illegal_arguments_error">Bir hata oluştu</string>
   <string name="image_decode_failed">"Resim çözülemedi"</string>
-  <string name="image_download_item_title">Orjinal resmi indir (%s)</string>
+  <string name="image_download_item_title">Orijinal resmi indir (%s)</string>
   <string name="image_invalid_path">Geçersiz yol</string>
   <string name="image_not_found">"Resim bulunamadı"</string>
   <string name="image_quota_fulfiled">Çok fazla görüntü. Bazı görüntüleri silin ve tekrar deneyin.</string>
@@ -987,8 +987,8 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="orientation">Hızala</string>
   <string name="orientation_lock_tip">Ototmatik Döndürme kapalı</string>
   <string name="orientation_unlock_tip">Otomatik Döndürme açık</string>
-  <string name="original">Orjinal</string>
-  <string name="original_scale">Orjinal</string>
+  <string name="original">Orijinal</string>
+  <string name="original_scale">Orijinal</string>
   <string name="other_album">Diğer Albümler</string>
   <string name="other_category">Ek Ayarlar</string>
   <string name="other_settings">Ek Ayarlar</string>
@@ -1019,7 +1019,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="photo_editor_adjust">Ayarla</string>
   <string name="photo_editor_beautify">Güzelleştir</string>
   <string name="photo_editor_beautify_auto">Otomatik</string>
-  <string name="photo_editor_beauty_compare">Orjinal</string>
+  <string name="photo_editor_beauty_compare">Orijinal</string>
   <string name="photo_editor_crop_and_rotate">Kırp&amp;Döndür</string>
   <string name="photo_editor_crop_reset">Sıfırla</string>
   <string name="photo_editor_crop_rotation_format">%d°</string>
@@ -1157,7 +1157,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="reset">Sıfırla</string>
   <string name="retry_to_create_album">Tekrar deneyin</string>
   <string name="retry_to_request_qr_code">Tekrar deneyin</string>
-  <string name="return_from_clear_local_file_fragment_toast">"İyi hale getirilen fotoğraflar cihazda saklanır. Orjinal öğeleri Mi Bulut'tan indirmek için dokunun."</string>
+  <string name="return_from_clear_local_file_fragment_toast">"İyi hale getirilen fotoğraflar cihazda saklanır. Orijinal öğeleri Mi Bulut'tan indirmek için dokunun."</string>
   <string name="return_to_top">Başa dönmek için \"Fotoraf\" dokunun</string>
   <string name="revert">Geri Dön</string>
   <string name="rise">Sıcak</string>
@@ -1251,7 +1251,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="select_image">Fotoğrafı seçin</string>
   <string name="select_item">Öğeyi seçin</string>
   <string name="select_item_face">"'%s' bu mu?"</string>
-  <string name="select_origin_tip">Orjinal Dosya (%s)</string>
+  <string name="select_origin_tip">Orijinal Dosya (%s)</string>
   <string name="select_too_much_to_send_tips">Göndermek için çok fazla seçim yaptınız (Azami %d)</string>
   <string name="select_video">Video seçin</string>
   <string name="send">Gönder</string>
