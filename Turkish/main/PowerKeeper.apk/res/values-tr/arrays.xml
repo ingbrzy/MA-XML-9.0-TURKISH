@@ -67,12 +67,12 @@
         <item>Sıklıkla Uyanma</item>
     </string-array>
     <string-array name="power_checker_recent_group_titles">
-        <item>Kernel WakeLock</item>
-        <item>Uyku Kilidi</item>
-        <item>WIFI tara</item>
-        <item>GPS</item>
-        <item>CPU</item>
-        <item>Uyan</item>
+        <item>GPS Kullanımı</item>
+        <item>CPU Meşguliyeti</item>
+        <item>Sıklıkla Cihazın Uyanması</item>
+		<item>Engelli Derin Uyku Modu</item>
+		<item>Engelli Uyku Modu</item>
+		<item>WLAN Araması</item>
     </string-array>
     <string-array name="power_checker_group_suffix">
         <item></item>
@@ -85,7 +85,7 @@
         </string-array>
 	<string-array name="thermal_entries">
         <item>Varsayılan Sıcaklık Kontrol Modu</item>
-        <item>Öncelikli Performans Modu</item>
+        <item>Geçerli Performans Modu</item>
     </string-array>
     <string-array name="thermal_summaries">
         <item>Mevcut sıcaklık kontrol modu, sıcaklığın durumuna göre hareket eder</item>
