@@ -62,7 +62,7 @@
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animasyon kapalı</item>
-        <item>Animasyon ölçeği .5x</item>
+        <item>Animasyon ölçeği 0.5x</item>
         <item>Animasyon ölçeği 1x</item>
         <item>Animasyon ölçeği 1.5x</item>
         <item>Animasyon ölçeği 2x</item>
@@ -71,7 +71,7 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>Animasyon kapalı</item>
-        <item>Animasyon ölçeği .5x</item>
+        <item>Animasyon ölçeği 0.5x</item>
         <item>Animasyon ölçeği 1x</item>
         <item>Animasyon ölçeği 1.5x</item>
         <item>Animasyon ölçeği 2x</item>
