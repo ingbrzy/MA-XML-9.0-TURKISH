@@ -1113,7 +1113,7 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="video_play_failed">Bilinmeyen hata</string>
   <string name="video_publish_hint">Videonuzu bulması için diğer kişilerin anlayacağı etkili içerikler, açıklamalar yazın</string>
   <string name="video_publish_hint2">Açıklama</string>
-  <string name="video_publish_origin_tag">Orjinal etiket</string>
+  <string name="video_publish_origin_tag">Orijinal etiket</string>
   <string name="video_publish_watchable_limit">Bunu her gün iki kere yapabilirsiniz.</string>
   <string name="video_publish_watchable_tag">Bu videoyu izleyip beni takip et</string>
   <string name="video_recommend_upload">Tavsiyeli</string>
