@@ -723,7 +723,7 @@ Yapılan girişim: %s."</string>
   <string name="verification_code_icon_name">D</string>
   <string name="verification_code_list_title">Doğrulama Kodu</string>
   <string name="view">Görüntüle</string>
-  <string name="view_bookmark">Orjinal mesaja bak</string>
+  <string name="view_bookmark">Orijinal mesaja bak</string>
   <string name="view_hms_attachment_fail">"Resim indirilemedi"</string>
   <string name="view_hms_details">Detaylar</string>
   <string name="view_message_details">Detayları görüntüle</string>
