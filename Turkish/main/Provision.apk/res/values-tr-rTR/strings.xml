@@ -3,6 +3,7 @@
   <string name="agree">Kabul</string>
   <string name="agree_terms">"Hizmet Koşulları ve Gizlilik politikasını okudum ve kabul ettim."</string>
   <string name="app_name">Hüküm</string>
+  <string name="application_permissions">Uygulama İzinleri</string>
   <string name="back">Geri</string>
   <string name="cm_terms_content">"Size verilen hizmetleri iyileştirmek için, seçtiğiniz mobil şebeke operatörü, kişisel verilerinizi ve bu cihazla ilgili bilgileri, WLAN şebekeleri veya mobil veri bağlantısı kullanarak kendi sunucularına yükleyebilir. Bu bilgiler, yalnızca hizmetlerin kalitesini artırmak ve daha kişiselleştirilmiş bir içerik sağlamak için istatistiksel amaçlar için kullanılacaktır. Bu bilgiler kişisel olarak sizi tanımlamak için kullanılamaz ve üçüncü taraflara açıklanmaz."</string>
   <string name="cm_terms_title">Mobil Şebekenin Operatör Anlaşması</string>
@@ -10,7 +11,7 @@
   <string name="congratulation_title">Kurulum tamamlandı</string>
   <string name="content_description_complete">Tamam</string>
   <string name="content_description_language_picker">Dili Seçin</string>
-  <string name="content_description_miui_version">MIUI 8</string>
+  <string name="content_description_miui_version">MIUI 9</string>
   <string name="content_description_start">Başlat</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
@@ -20,12 +21,16 @@
   <string name="enable_accessibility_dialog_message">Ekrana 2 parmak ile 10 saniyeden fazla basarak TalkBack\'i açtınız. TalkBack, görme engelli kişiler için sesli geribildirim sağlar. Kazayla açtıysanız, İptal düğmesine dokunun ve ekrana iki kez dokunun.</string>
   <string name="enable_accessibility_dialog_negative_btn">İptal</string>
   <string name="enable_accessibility_dialog_positive_btn">Tamam</string>
+  <string name="fail_to_generate_qr_code">"QR kodu oluşturulamadı. Bu sayfayı yeniden açın."</string>
   <string name="ime_privacy_policy">Seçilen klavye için Gizlilik Politikası</string>
   <string name="ime_privacy_policy_no_network">Ağ bağlantısı yok. %s klavyesinin Gizlilik Politikası görüntüle</string>
   <string name="input_method_category">"E-Posta, not yazmak ve diğer her alanda kullanmak için varsayılan klavyenizi seçin. Unutmayın ki istediğiniz her zaman üçüncü parti klavye uygulamalarını yükleyebilirsiniz."</string>
   <string name="input_method_setting">Varsayılan klavyeyi seçin</string>
   <string name="install_preinstall_app">Uygulamalar yükleniyor...</string>
+  <string name="item_fingerprint">Parmakizi</string>
+  <string name="item_lock_screen_password">Sadece ekran kilidi</string>
   <string name="language_picker_other_languages_title">Diğer Diller</string>
+  <string name="language_settings">Dili seçin</string>
   <string name="language_picker_popular_languages_title">Popüler Diller</string>
   <string name="locale_picker_title">Konumunuzu seçin</string>
   <string name="miui_privacy_policy_no_network">"Ağ bağlantısı yok. Gizlilik Politikasını görüntülemek için: %s"</string>
@@ -70,11 +75,13 @@ Seçilen klavyeler Gizlilik Politikası\'nı görüntüleyin."</string>
   <string name="summary_sim_card">Kart %1$d</string>
   <string name="summary_sim_card_with_operator">Kart %1$d: %2$s</string>
   <string name="terms_of_use">Hükümler ve Koşullar</string>
-  <string name="terms_of_use_label">"Gizliliğiniz bizim için çok önemlidir. Lütfen Hizmet Şartları ve Gizlilik Politikasını okuyarak topladığımız bilgileri, nasıl kullandığımızı anlayın.
+  <string name="terms_of_use_label">"Gizliliğiniz bizim için çok önemlidir. Hizmet Şartları ve Gizlilik Politikasını okuyarak topladığımız bilgileri, nasıl kullandığımızı anlayın.
 
-MIUI'yı kullanabilmeniz için önce Hizmet Şartlarımızı ve Gizlilik Politikamızı kabul etmeniz gerekir. Etkinleştirme esnasında; Mi Hizmetleri, Telefonu Bul, sistem bileşenlerinden MSA ve istatistik bileşenleri internete bağlanarak konumunuzu tespit eder."</string>
+MIUI'yı kullanabilmeniz için önce Hizmet Şartlarımızı ve Gizlilik Politikamızı kabul etmeniz gerekir. Mi Hizmetleri, Telefonu Bul, sistem bileşenlerinden MSA ve istatistik bileşenleri internete bağlanarak konumunuzu tespit eder."</string>
   <string name="title_congratulation">"Şimdi herşeye hazırsın!"</string>
   <string name="title_fingerprint">Parmakizinizi ekleyin</string>
+  <string name="two_dimensional_code_scan">QR kodunu tara</string>
   <string name="user_agreement">Hizmet Şartları</string>
+  <string name="user_strayed_warning">Bu sayfa fabrika testi için dizayn edildi. \"Geri\" tuşuna dokunarak çıkabilirsiniz.</string>
   <string name="welcome">Hoşgeldiniz!</string>
 </resources>
