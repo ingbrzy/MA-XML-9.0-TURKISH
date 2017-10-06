@@ -108,6 +108,7 @@
   <string name="battery_low_title">Şarj cihazına bağlayın</string>
   <string name="battery_profiles">Pil profillerini kullan</string>
   <string name="block_notification_content_text">"%1$s'nın bildirimlerini yeniden gösterme. Bunu Ayarlar içinden değiştirebilirsiniz."</string>
+  <stringname="block_notification_desc">"Uygulamanın bildirimleri tekrar gösterilmeyecek. Bunu Ayarlar içinden değiştirebilirsiniz."</string>
   <string name="block_notification_text">Gizle</string>
   <string name="block_record_notification_more_text">%1$s &amp; %2$d uygulamanın bildirimleri gizleniyor.</string>
   <string name="block_record_notification_text">%1$s ait bildirimler gizleniyor.</string>
