@@ -881,15 +881,15 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="quick_reply_hint_reply_only_from">Hızlı Cevap (sadece gönderen)</string>
   <string name="quick_responses_empty_view">Hızlı cevap yok</string>
   <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
-  <string name="quote_divider_1">-------- Orjinal Posta --------</string>
-  <string name="quote_divider_11">----- Orjinal -----</string>
-  <string name="quote_divider_12"> Orjinal Posta</string>
-  <string name="quote_divider_2">---Orjinal Posta---</string>
-  <string name="quote_divider_3">-------- Orjinal Posta --------</string>
-  <string name="quote_divider_4">-----Orjinal Posta-----</string>
+  <string name="quote_divider_1">-------- Orijinal Posta --------</string>
+  <string name="quote_divider_11">----- Orijinal -----</string>
+  <string name="quote_divider_12"> Orijinal Posta</string>
+  <string name="quote_divider_2">---Orijinal Posta---</string>
+  <string name="quote_divider_3">-------- Orijinal Posta --------</string>
+  <string name="quote_divider_4">-----Orijinal Posta-----</string>
   <string name="quote_divider_5">-----------Ayırıcı çizgi belirtmek için kullanılır-------------</string>
   <string name="quote_divider_6">--- Orjinal ---</string>
-  <string name="quote_divider_7">Orjinal Posta</string>
+  <string name="quote_divider_7">Orijinal Posta</string>
   <string name="quote_divider_apple">"
 &gt;"</string>
   <string name="quote_divider_huawei_zh">"Huawei'imden gönderildi"</string>
@@ -898,8 +898,8 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="quote_divider_iphone_fwd_en">Yönlendirilecek postaya başlayın:</string>
   <string name="quote_divider_iphone_fwd_zh">Aşağıdaki yönlendirilmiş bir mesajdır:</string>
   <string name="quote_divider_ks_web">________________________________________</string>
-  <string name="quote_divider_qq_en">------------------Orjinal------------------</string>
-  <string name="quote_divider_qq_zh">------------------Orjinal Posta------------------</string>
+  <string name="quote_divider_qq_en">------------------Orijinal------------------</string>
+  <string name="quote_divider_qq_zh">------------------Orijinal Posta------------------</string>
   <string name="quoted_text">Alıntı yapılan metni ekle</string>
   <string name="quoted_text_label">Alıntı Metni</string>
   <string name="re_download_message_button">Tekrar indirmek için dokunun</string>
