@@ -26,6 +26,7 @@
   <string name="acessibility_cal_notification">Takvim Bildirimi</string>
   <string name="acessibility_recurrence_choose_end_date_description">Bitiş tarihini değiştir</string>
   <string name="acessibility_selected_marker_description">Seçili faaliyet</string>
+  <string name="action_bar_more_menu_view_description">Diğer</string>
   <string name="acessibility_snooze_notification">Bildirimi ertele</string>
   <string name="action_label">Geri</string>
   <string name="action_text_card_manager">Bir kanala abone ol</string>
@@ -174,15 +175,15 @@
   <string name="data_notice_change_settings">Ayarları Değiştir</string>
   <string name="data_notice_continue_confirm">Kullanmaya devam et</string>
   <string name="data_notice_online_large_image">Takvim sayfasına büyük resim ayarlandı. Veri trafiğini azaltmak için büyük resimleri Wi-Fi üzerinden indirin.</string>
-  <string name="date_calculate">Tarih Hesabı</string>
-  <string name="date_calculate_days">Lütfen birkaç gün girin</string>
-  <string name="date_calculate_description">Birkaç gün öncesinden veya sonrasında tarihi hesaplayın</string>
-  <string name="date_calculate_direction">Tarihi hesaplama yönü</string>
-  <string name="date_calculate_result">Tarihi hesaplama sonucu</string>
-  <string name="date_calculate_tab">Tarih Hesabı</string>
+  <string name="date_calculate">Tarihi Hesapla</string>
+  <string name="date_calculate_days">Gün sayısını girin</string>
+  <string name="date_calculate_description">Bulunduğunuz güne göre önceki veya sonraki tarihi hesaplayın</string>
+  <string name="date_calculate_direction">Yön</string>
+  <string name="date_calculate_result">Sonuç</string>
+  <string name="date_calculate_tab">Tarihi Hesapla</string>
   <string name="date_calculate_today">0 gün</string>
-  <string name="date_calculate_when">Ne zaman?</string>
-  <string name="date_interval_description">İki tarih arasındaki aralığı hesapla</string>
+  <string name="date_calculate_when">Başlangıç</string>
+  <string name="date_interval_description">İki tarih arasındaki gün sayısını hesapla</string>
   <string name="date_interval_end">Burdan</string>
   <string name="date_interval_start">Buraya</string>
   <string name="date_interval_tab">Tarih Aralığı</string>
@@ -192,7 +193,7 @@
   <string name="date_pattern_yyyy_mm_dd_kk_mm">dd MM yyy HH:mm</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="date_today">" (bugün)"</string>
-  <string name="day_view_new_event_hint">+ Yeni Etkinlik</string>
+  <string name="day_view_new_event_hint">+ Yeni Faaliyet</string>
   <string name="default_reminder_mode">Hatırlatıcılar</string>
   <string name="delete_calendar">İptal</string>
   <string name="delete_label">Sil</string>
@@ -239,7 +240,7 @@
   <string name="edit_event_birthday_name_hint">Adı</string>
   <string name="edit_event_birthday_reminder_3_days_before">3 gün önceden hatırlat</string>
   <string name="edit_event_birthday_reminder_summary">Günün %1$s zamanında hatırlat</string>
-  <string name="edit_event_birthday_reminder_summary_3_days_before">3 gün öncesinin %1$s zamanında hatırlat </string>
+  <string name="edit_event_birthday_reminder_summary_3_days_before">3 gün öncesinde %1$s zamanda hatırlat </string>
   <string name="edit_event_birthday_reminder_time">Hatırlatma Zamanı</string>
   <string name="edit_event_birthday_the_day">gün</string>
   <string name="edit_event_calendar_label">Takvim</string>
@@ -253,7 +254,7 @@
   <string name="edit_event_no_reminder_value">"Hatırlatma!"</string>
   <string name="edit_event_reminder_3_days_before">3 gün önceden hatırlat</string>
   <string name="edit_event_reminder_summary">Aynı gün, %1$s zamanda hatırlat</string>
-  <string name="edit_event_reminder_summary_3_days_before">3 gün öncesinin %1$s zamanında hatırlat</string>
+  <string name="edit_event_reminder_summary_3_days_before">3 gün öncesinde %1$s zamanda hatırlat</string>
   <string name="edit_event_reminder_text">%1$s, %2$s zamanda</string>
   <string name="edit_event_reminder_time">Hatırlatma Zamanı</string>
   <string name="edit_event_reminder_with_another_day_text">%1$s, %2$s, %3$s zamanında</string>
