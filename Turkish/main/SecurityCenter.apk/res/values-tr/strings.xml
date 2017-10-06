@@ -29,6 +29,9 @@
   <string name="ac_firstUseApplock_title">Seçili uygulamaları açmak için şifre gereklidir</string>
   <string name="ac_summaryOff">Kapatıldı, uygulamaları açmak için şifre gerekmez</string>
   <string name="ac_summaryOn">Açık, uygulamaları açmak için şifre gereklidir</string>
+  <string name="access_control_app_is_launching">Uygulama başlatılıyor</string>
+  <string name="access_control_failed_need_to_unlock_nofingerprint">Yeni bir parmakizi kullanmak için deseni çizip kilidi açın</string>
+  <string name="access_control_fingerprint_not_identified_msg">"Parmakizi okunamadı."</string>
   <string name="access_control_need_password">"%s başarıyla eklendi
 "</string>
   <string name="access_control_need_to_unlock">"Parmakizini tarayın veya
@@ -91,6 +94,8 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="adb_install_reject_notiy">"USB yoluyla %s yüklenmesine izin verilemedi"</string>
   <string name="adb_install_reject_notiy_desc">Geliştirici Seçenekleri USB üzerinden yüklemeye izin verebilir</string>
   <string name="adb_login_xiaomi_account">Öncelikle Mi Hesabınızda oturum açın</string>
+  <string name="add_done">Başarıyla eklendi</string>
+  <string name="add_game">Oyun ekle</string>
   <string name="add_game_notification_summary">Hızlandırmaya başlamak için dokunun</string>
   <string name="add_miservice_dialog_content">"%s istisnalar listesine MIUI hizmet çerçevesini eklemenizi gerektirir.
         MIUI'nın yerleşik uygulamalarından ve diğer üçüncü parti uygulamalardan bildirim alabilirsiniz."</string>
@@ -112,6 +117,9 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="alarm_lockscreen_btn">开始抢红包</string>
   <string name="alarm_setting_title">红包闹钟设置</string>
   <string name="all_address_choose_hint">Bu ildeki tüm numaralar</string>
+  <string name="anim_gamebooster_text">Just a sec…</string>
+  <string name="anti_disturb_msg_detail">Turn off all notifications except for incoming calls</string>
+  <string name="anti_disturb_msg_title">DND</string>
   <string name="antispam_mode_details">Durdurma Modunun Detayları</string>
   <string name="antispam_notificaiton_type_show_all">Tüm Numaralar</string>
   <string name="antispam_notificaiton_type_show_except_blacklist">Engellenmemiş Numaralar</string>
@@ -184,6 +192,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="app_manager_clear_data_dlg_title">Uygulama verisi silinsin mi?</string>
   <string name="app_manager_clear_failed_dlg_message">Uygulama için veri silinemedi.</string>
   <string name="app_manager_clear_failed_dlg_title">Veriyi Temizle</string>
+  <string name="app_manager_copy_pkg_to_clip">Panoya kopyalandı</string>
   <string name="app_manager_default_close_summary">Varsayılan ayar yok.</string>
   <string name="app_manager_default_open">Varsayılan olarak aç</string>
   <string name="app_manager_default_open_summary">Bazı işlemler için bu uygulamayı varsayılan olarak başlatmayı seçtiniz.</string>
@@ -199,8 +208,8 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="app_manager_factory_reset_dlg_title">Güncellemeler kaldırılsın mı?</string>
   <string name="app_manager_force_stop_dlg_text">Bir uygulamayı zorla durdurursanız, yanlış işleyebilir.</string>
   <string name="app_manager_force_stop_dlg_title">Zorla durdurulsun mu?</string>
-  <string name="app_manager_go_to_manger_app">Yönet</string>
   <string name="app_manager_have_not_consume">Yok</string>
+  <string name="app_manager_hide_system_server">Sistem servislerini gizle</string>
   <string name="app_manager_instruction">Talimat</string>
   <string name="app_manager_loading_data">Veri yükleniyor…</string>
   <string name="app_manager_manage_space">Alanı Yönet</string>
@@ -239,10 +248,12 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="app_manager_powerkeeper_no_bg">Arkaplan etkinliğini kısıtla</string>
   <string name="app_manager_powerkeeper_no_restrict">Kısıtlama yok</string>
   <string name="app_manager_powerkeeper_restrict_bg">Arkaplan uygulamalarını kısıtla</string>
+  <string name="app_manager_pref_ads">Tavsiyler</string>
   <string name="app_manager_rebide_wakepath">Kısıtla</string>
   <string name="app_manager_reduce_wakepath_dialog">Zincirleme başlatma işlemini en aza indirin</string>
   <string name="app_manager_reduce_wakepath_summary">Otomatik başlatmayı kısıtlamak zincirleme başlatmayı en aza indirir. %s için otomatik başlatmayı kısıtlasın mı?</string>
   <string name="app_manager_reject_count_over">100000 kez engellendi</string>
+  <string name="app_manager_show_all_apps">Tüm uygulamaları göster</string>
   <string name="app_manager_show_detail_infos">Tümünü gör</string>
   <string name="app_manager_sort">Sırala</string>
   <string name="app_manager_start_by">%s tarafından başlatıldı</string>
@@ -281,13 +292,17 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="app_usage_recently">Bazen Kullanılan</string>
   <string name="app_version">Sürüm</string>
   <string name="app_wifi">WLAN</string>
+  <string name="application_item_already_permission">İzinli</string>
+  <string name="application_item_disable">Kısıtlı</string>
   <string name="applock_add_account">Ekle</string>
   <string name="applock_add_account_info">"Mi Hesabı şifresini sıfırlarken unutmayacağınız
  bir şifre kullanın"</string>
   <string name="applock_add_account_setting">Hesap &amp; Gizlilik</string>
+  <string name="applock_bind_account_title">Şifreyi unuttum</string>
   <string name="applock_close_dialog_summary">Uygulama kilidi kapatılınca daha fazla korunmayacak ve şifre silinecek.</string>
   <string name="applock_close_dialog_title">Uygulama kilidi kapatılsın mı?</string>
-  <string name="applock_exit_account_info">Hesap oturum kapatılınca otomatik olarak kaldırılacak</string>
+  <string name="applock_exit_account_info">Hesap; oturum kapatılınca otomatik olarak kaldırılacak</string>
+  <string name="applock_header_text_less_than_half">Çok küçük, biraz daha büyültün</string>
   <string name="applock_login_and_add_account">Oturum Aç &amp; Ekle</string>
   <string name="applock_not_add_account">Şimdi değil</string>
   <string name="applock_not_login_account">"Oturum açmadınız"</string>
@@ -309,6 +324,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="apps_list_header_title_sms_access">Doğrulama koduna sınırlı eriş</string>
   <string name="auto_atsk_condition_battery_level_text_down">Pil şuraya eriştiğinde: %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Pil şu kadar şarj ettiğinde: %s</string>
+  <string name="auto_clean_close">Otomatik temizleme kapalı</string>
   <string name="auto_handle_title">GENEL</string>
   <string name="auto_task_condition_choose_battery_level_down">Pil belirli seviyeye ulaştığında:</string>
   <string name="auto_task_condition_choose_battery_level_up">Pil belli seviyede şarj olduğunda:</string>
@@ -375,7 +391,9 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="auto_task_operation_sync">Eşitle</string>
   <string name="auto_task_operation_vibration">Titreşim</string>
   <string name="auto_task_operation_wifi">WLAN</string>
-  <string name="back">Geri</string>
+  <string name="back_app_name">Uygulama Kilidine Dön</string>
+  <string name="back_modifypassword">Şifre Değiştirmeye Dön</string>
+  <string name="background_restrict_app_dialog_message">Arkaplan ağ erişimini kısıtlarsanız uygulamaların normal çalışabilmesi için indirme, mesaj alımı vb. imkansız hale gelebilir. Yine de kısıtlansın mı?</string>
   <string name="background_traffic">Arkaplan: %s</string>
   <string name="backsound_set_hint">Dışarda mesaji olarak %s ayarlansın mı?</string>
   <string name="battery_capacity_title">Pil Kapasitesi</string>
@@ -419,7 +437,8 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="battery_status_overheat">Isınma</string>
   <string name="battery_status_unknown">Bilinmeyen hata</string>
   <string name="battery_temperature_title">Sıcaklık</string>
-  <string name="begin_date">Kullanım sıfırlama tarihi</string>
+  <string name="begin_date">Kullanımı sıfırlama tarihi</string>
+  <string name="best_booster_status">En iyi oyun hızlandırıcısı mevcut.</string>
   <string name="best_warning_dialog_button">我知道了</string>
   <string name="best_warning_dialog_message">"温馨提示：使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～"</string>
   <string name="best_warning_dialog_message1">"使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～～"</string>
@@ -490,8 +509,8 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="button_text_delete_from_virus_white_list">Kaldır</string>
   <string name="button_text_deny">Reddet</string>
   <string name="button_text_disconnect_now">Bağlantıyı Kes</string>
-  <string name="button_text_fix">Düzelt</string>
   <string name="button_text_fix_now">Düzelt</string>
+  <string name="button_text_forbid_now">Yoksay</string>
   <string name="button_text_ignore">Yoksay</string>
   <string name="button_text_ignore_alert_title">Bu uyarı yoksayılsın mı?</string>
   <string name="button_text_known">Tamam</string>
@@ -534,8 +553,8 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="card_main_applock_title">Uygulama Kilidi</string>
   <string name="card_main_datasave_action">Aç</string>
   <string name="card_main_datasave_summary">Kaydetmek için %20 veriyi sıkıştır</string>
-  <string name="card_main_datasave_title">Veri Tasarrufu</string>
   <string name="card_main_deepclean_action">Temizle</string>
+  <string name="card_main_deepclean_qq_title">QQ Temizleyici</string>
   <string name="card_main_deepclean_summary">Gereksiz dosyaları sil</string>
   <string name="card_main_deepclean_title">Derin Temizlik</string>
   <string name="card_main_deepclean_wechat_action">Temizle</string>
@@ -603,7 +622,6 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="cmcc_app_check_dialog_title">Sistem onarıldı</string>
   <string name="cmd_lucky">微信摇一摇</string>
   <string name="cmd_lucky_float">摇一摇</string>
-  <string name="cmd_lucky_summary">快速进入微信摇一摇页面</string>
   <string name="confirmSecondSpacePassword">İkinci Alan şifresini doğrula</string>
   <string name="confirm_bind_xiaomi_account_dialog_title">Mi Hesabı ekleniyor</string>
   <string name="confirm_fingerprint_msg">Parmakizi okuyucusuna parmağınızı yerleştirin</string>
@@ -2682,7 +2700,7 @@ Kalan veri içeriği önceki aydan artakalanlardan yuvarlatılmış"</string>
   <string name="traffic_saving_notify_start_title">Veri kullanım azaltılmış</string>
   <string name="traffic_saving_one_key_optimize">Veri tasarrufunu en iyi hale getir</string>
   <string name="traffic_saving_optimized">Zaten en iyi halde</string>
-  <string name="traffic_saving_pic_compress_orig">Orjinal</string>
+  <string name="traffic_saving_pic_compress_orig">Orijinal</string>
   <string name="traffic_saving_ratio">Veri kullanımı azaltıldı %%%.2f</string>
   <string name="traffic_saving_ratio_low">"Önemli ölçüde veri kullanımını azaltılamaz"</string>
   <string name="traffic_saving_recommanded_close">Kapat</string>
