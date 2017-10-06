@@ -100,7 +100,7 @@
   <string name="call_record_button_label">%s kaydediliyor</string>
   <string name="call_record_wait_label">Bekliyor</string>
   <string name="call_recording_deny_permission_msg">"Kayıt yapamazsınız, kayıt izni reddedildi."</string>
-  <string name="call_recording_error_low_storage">Yetersiz alan: SD kart çok dolu</string>
+  <string name="call_recording_error_low_storage">Depolamada yeterli alan yok.</string>
   <string name="call_recording_error_privacy">"Misafir Modundayken kayıt yapılamıyor"</string>
   <string name="call_recording_error_sd_access">"SD karta erişilemiyor"</string>
   <string name="call_recording_error_sd_unmounted">Kayıt durduruldu: SD kart çıkartıldı</string>
