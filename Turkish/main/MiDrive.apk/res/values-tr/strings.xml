@@ -106,8 +106,8 @@
   <string name="quota_info">Mi Drive: %1$s mevcut, toplam %2$s</string>
   <string name="rename_alert">"Bu dosyanın uzantısını değiştirirseniz, bunu açmak mümkün olmayabilir."</string>
   <string name="rename_failed">Aynı isimde bir dosya zaten var.</string>
-  <stringname="request_permission_msg">"Mi Drive'in düzgün şekilde çalışabilmesi için hesap bilginize erişmesine izin verin."</string>
-  <stringname="request_permission_title">İzin gerekiyor</string>   
+  <string name="request_permission_msg">"Mi Drive'in düzgün şekilde çalışabilmesi için hesap bilginize erişmesine izin verin."</string>
+  <string name="request_permission_title">İzin gerekiyor</string>   
   <string name="sd_full">SD kartınız dolu.</string>
   <string name="sd_invalid">SD kartınız bozuk.</string>
   <string name="send_to_midrive_failed">"Bu dosya türü desteklenmiyor."</string>
