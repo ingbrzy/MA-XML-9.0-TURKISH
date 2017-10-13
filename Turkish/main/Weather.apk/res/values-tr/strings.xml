@@ -136,7 +136,6 @@
   <string name="indices_desc_feel">Hissedilen: %1$s C°</string>
   <string name="indices_desc_feel_without_pic">%1$s C°</string>
   <string name="indices_desc_humidity">Nem: %%%1$s</string>
-  <string name="indices_desc_humidity_without_pic">%%%1$s</string>
   <string name="indices_desc_pressure">%1$smb</string>
   <string name="indices_desc_pressure_mm">%1$s mmHg</string>
   <string name="indices_desc_visibility">%1$s Km</string>
@@ -160,7 +159,6 @@
   <string name="information_set">Diğer Ayarlar</string>
   <string name="information_views"/>
   <string name="install">Yükle</string>
-  <string name="install_progress">%%%1$s</string>
   <string name="international_detail_menu_title">Detaylar</string>
   <string name="international_details_pressure_title">Basınç</string>
   <string name="international_details_real_feel_title">"Hissedilen®"</string>
