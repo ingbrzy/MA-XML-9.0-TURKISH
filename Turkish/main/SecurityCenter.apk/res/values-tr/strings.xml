@@ -2849,7 +2849,6 @@ Kalan veri içeriği önceki aydan artakalanlardan yuvarlatılmış"</string>
   <string name="traffic_setting_fragment_find_brand">"&lt;font color='#33b4ff'&gt;&lt;U&gt;Operatörden emin değil misiniz?&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_setting_fragment_get_template_falure">"Ağa bağlanamıyor. Veri bağlantısını kontrol edip, tekrar deneyin."</string>
   <string name="traffic_setting_fragment_loacation_alert_nomore">"Tekrar gösterme"</string>
-  <string name="traffic_setting_fragment_operator">Operatör</string>
   <string name="traffic_setting_fragment_loading_text">Ağ bilgisi alınıyor…</string>
   <string name="traffic_setting_fragment_no_network">"Ağa bağlanamadı"</string>
   <string name="traffic_setting_fragment_null">Boş</string>
