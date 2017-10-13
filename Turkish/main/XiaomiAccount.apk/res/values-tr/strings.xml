@@ -24,6 +24,7 @@
   <string name="account_has_been_set">Değiştir</string>
   <string name="account_learn_more_title">Ücretsiz Mi Hesabı oluşturun</string>
   <string name="account_limit_update_birthday">"Doğum günü şimdi güncellenemedi"</string>
+  <string name="account_mibi_center">Mi Kredisi</string>
   <string name="account_mipay_info">Mi Ödemesi</string>
   <string name="account_name">Hesap: %1$s</string>
   <string name="account_no_set">Yok</string>
@@ -37,6 +38,9 @@
   <string name="account_secure_info_pref_title">Hesap Bilgisi</string>
   <string name="account_security">Hesap Güvenliği</string>
   <string name="account_security_info_pref_title">Güvenlik Bilgisi</string>
+  <string name="account_token_expired_msg">"Doğrulama kodunun süresi doldu, yeniden başlayın veya oturumdan çıkın
+ Hesap Kimliğiniz: %s"</string>
+  <string name="account_token_expired_title">Doğrulama başarısız oldu</string>
   <string name="account_user_avatar">Profil Resmi</string>
   <string name="account_user_avatar_from_album">Fotoğrafı seç</string>
   <string name="account_user_avatar_from_camera">Fotoğraf çek</string>
@@ -78,6 +82,7 @@
   <string name="barcode_add_account_prompt">Bir hesaba bağlanmak için, giriş yaptıktan sonra QR kodunu tekrar tarayın.</string>
   <string name="bind_facebook">Facebook hesabına bağlan</string>
   <string name="bind_qq">QQ</string>
+  <string name="bind_safe_phone_msg">Telefon numaranızı otoruma eklediğinizde bir sonraki oturumu daha hızlı açabilirsiniz.</string>
   <string name="bind_settings">Hesaplar</string>
   <string name="bind_sina_weibo">Sina Weibo hesabına bağlan</string>
   <string name="bind_sns_description">%s ile oturum aç</string>
@@ -168,9 +173,12 @@
   <string name="find_device_io_error">"Ağa bağlanamadı"</string>
   <string name="find_device_locked_account_email" formatted="false">%s,ilişkili e-posta adresi:%s</string>
   <string name="find_device_locked_account_phone" formatted="false">%s,ilişkili telefon numarası:%s</string>
+  <string name="find_device_message">Cihaz kilitli. Mesaj: %1$s. Çağrı: %2$s.</string>
   <string name="find_device_null_credential_error">"Cihaz bilgisi alınamadı, Xiaomi yönetici hizmetine başvurun"</string>
   <string name="find_device_operation_failed_error">Bir sunucu hatası oluştu, bir iki dakika bekleyin ve tekrar deneyin</string>
   <string name="find_device_operation_failed_error_unknown">Bir hata oluştu, sonra yeniden deneyin</string>
+  <string name="find_device_owner_phone">Cihaz kilitli. Çağrı: %1$s.</string>
+  <string name="find_device_prompt_message">Cihaz kilitli. Mesaj: %1$s.</string>
   <string name="find_device_remote_exception">RPC Hatası</string>
   <string name="find_device_request_error">"Bir sunucu hatası oluştu, bir iki dakika bekleyin ve tekrar deneyin"</string>
   <string name="find_device_request_prepare_error">"Cihaz durumu alınamadı, sonra yeniden deneyin"</string>
@@ -216,6 +224,7 @@
   <string name="logout_failed">"Oturum açılamıyor"</string>
   <string name="mi_account_dspt_provision">"İstediğiniz yerden Mi Bulut, MIUI Tema Mağazası ve diğer servislere oturum açabilirsiniz. "</string>
   <string name="mi_account_identity_title">Kimliğinizi doğrulayın</string>
+  <string name="mi_vip_info">Ayrıcalıkları Göster</string>
   <string name="micloud_account_name">Mi Hesabı</string>
   <string name="micloud_area_code_title">Ülke Kodu</string>
   <string name="micloud_delete_account">Oturumu Kapat</string>
@@ -232,8 +241,10 @@
   <string name="mipay">Öde</string>
   <string name="mipay_balance">Bakiye</string>
   <string name="mipay_bank_card">Banka Kartı</string>
+  <string name="mipay_identitiy_no">Hayır</string>
+  <string name="mipay_identity">Kimlik Doğrulaması</string>
+  <string name="mipay_indentity_done">Tamam</string>
   <string name="mipay_center">Mi Cüzdanı</string>
-  <string name="mipay_identity">Kimlik</string>
   <string name="mipay_others">Diğer</string>
   <string name="mipay_transit_card">Taşıma Kartı</string>
   <string name="miui_provision_find_status_text">"Bu cihaz (%1$s) Mi Hesabı ile bağlantılıdır, cihazı doğrulamak için şifreyi girin.
@@ -267,8 +278,12 @@
   <string name="passport_account_name">Hesap: %1$s</string>
   <string name="passport_account_not_activated">"Hesap etkinleştirilmedi"</string>
   <string name="passport_account_not_actived">"Hesabınız etkinleştirilmedi"</string>
+  <string name="passport_account_set_password">Şifre ayarla</string>
+  <string name="passport_account_set_password_prompt">Sonraki zamanda hesabınızın oturumunu açmak için şifre oluşturun.</string>
+  <string name="passport_account_set_password_title">Şifre oluştur</string>
   <string name="passport_active_email_visit">%s gelen kutunuzu kontrol edin</string>
   <string name="passport_activing_account">Etkinleştiriliyor…</string>
+  <string name="passport_adding_account">Hesap ekleniyor…</string>
   <string name="passport_app_name">Mi Hesabı</string>
   <string name="passport_area_code_hot">Sık Kullanılan</string>
   <string name="passport_area_code_title">Ülke kodu</string>
@@ -291,6 +306,8 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_completed">Tamam</string>
   <string name="passport_confirm">Tamam</string>
   <string name="passport_confirm_recycle_account">Evet</string>
+  <string name="passport_confirm_recycle_account_msg">%s &lt;font color=Red&gt;疑似&lt;/font&gt;是运营商回收后再次收买的号码，该号码下已有小米帐号，这个帐号是你的吗？</string>
+  <string name="passport_continue">Devam</string>
   <string name="passport_copy_message_text_success">Başarıyla kopyalandı</string>
   <string name="passport_copy_message_vcode">Kodu kopyala</string>
   <string name="passport_delete_account">Oturumu kapat</string>
@@ -298,6 +315,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_email">E-Posta adresi</string>
   <string name="passport_email_or_id_hint_text">E-Posta veya Mi Hesap ID</string>
   <string name="passport_email_reg_success_summary">%1$s hesabınız ile bağlandı. Oturum açmak veya şifrenizi sıfırlamak için kullanabilirsiniz.</string>
+  <string name="passport_error_auth_fail">Oturum süresi doldu, yeniden oturum açın</string>
   <string name="passport_error_device_id">"Cihaz kimliği alınamıyor"</string>
   <string name="passport_error_dup_email">Girdiğiniz E-Posta zaten başka bir hesapla ilişkilendirilmiş.</string>
   <string name="passport_error_dup_phone">Bu telefon numarası zaten başka bir hesapla ilişkilendirilmiş</string>
@@ -313,6 +331,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_error_invalid_phone_num">Telefon numarası geçersiz</string>
   <string name="passport_error_login">"Oturum açılamıyor"</string>
   <string name="passport_error_network">"Ağa bağlanılamadı"</string>
+  <string name="passport_error_no_password_user">"Şifre henüz oluşturulmadı. Mesaj ile oturum açın."</string>
   <string name="passport_error_no_sms_service">"Kısa mesaj göndermek mümkün değil. Mobil veri etkin değil."</string>
   <string name="passport_error_phone_error">Telefon numarası geçersiz</string>
   <string name="passport_error_server">Sunucu hatası</string>
@@ -320,6 +339,8 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_error_ssl_hand_shake">"Sunucuya bağlantı kurulamadı"</string>
   <string name="passport_error_unknown">"Oturum açılamıyor"</string>
   <string name="passport_error_user_name">Girdiğiniz kullanıcı adı geçersiz.</string>
+  <string name="passport_error_verify_activator_phone_message">SIM kartın etkinleştirildiğinden ve cihazın ağa bağlı olduğundan emin olun.</string>
+  <string name="passport_error_verify_activator_phone_title">"Telefon numarası etkinleştirilemedi.</string>
   <string name="passport_error_verify_code">Girdiğiniz kod yanlış.</string>
   <string name="passport_failed_to_send_activate_email">"Etkinleştirme E-Postası gönderilemedi"</string>
   <string name="passport_find_device_activate_account">Hesabı etkinleştir</string>
@@ -328,10 +349,11 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_forget_password">Şifremi unuttum</string>
   <string name="passport_forget_password_no_underline">Şifremi unuttum</string>
   <string name="passport_get_back_pwd">Hesap şifresini al</string>
-  <string name="passport_get_verify_code">Kodu al</string>
+  <string name="passport_get_verify_code">Kod al</string>
+  <string name="passport_getting_activator_phone">SIM bilgisi alınıyor…</string>
   <string name="passport_getting_verify_code">Alınıyor</string>
   <string name="passport_i_know">Anladım</string>
-  <string name="passport_identitfication_expired">Doğrulama kodu süresi doldu, tekrar başlayın</string>
+  <string name="passport_identification_expired">Doğrulama kodu süresi doldu, tekrar başlayın</string>
   <string name="passport_imei_permission_denied_message">"Biz cihazınızın IMEI'sini almak için sizden izin talep ediyoruz. Mi Hesabını güvende tutmak için oturum açıldığında IMEI kimliğini kullanırız."</string>
   <string name="passport_imei_permission_denied_title">IMEI izin isteği</string>
   <string name="passport_input_captcha_hint">Kodu girin</string>
@@ -351,8 +373,11 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_login_find_device_bind">Bu cihaz Mi Hesap ID (%s) ile ilişkilidir. Bu cihazı etkinleştirmek için oturum açın.</string>
   <string name="passport_login_instead_reg">Bu numarayı kullan</string>
   <string name="passport_login_instead_reg_with_email">Bu E-Postayı kullan</string>
+  <string name="passport_login_other_account">Diğer hesap</string>
   <string name="passport_login_notice">Oturum açılıyor…</string>
   <string name="passport_login_prompt">Tek Mi Hesabı, tüm Mi Hizmetleri.</string>
+  <string name="passport_login_recycle_account_no">Problem yok</string>
+  <string name="passport_login_recycle_account_yes">Evet</string>
   <string name="passport_login_short">Oturum aç</string>
   <string name="passport_login_title">Mi Hesabınızda oturum açın</string>
   <string name="passport_login_using_other_ways">Diğer yolla oturum aç</string>
@@ -361,25 +386,35 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_miui_provision_find_status_text">"Bu cihaz kullanılan bir Mi Hesap (%1$s) ile ilişkili, cihazın şifresini girip doğrulayın.
 (Kaldırma Numarası: %2$s)"</string>
   <string name="passport_next">Sonraki</string>
+  <string name="passport_no">Hayır</string>
   <string name="passport_notification_title">%1$s için oturum açma hatası</string>
+  <string name="passport_password_phone_login">Mi Hesabı kullanarak oturum aç</string>
   <string name="passport_password">Şifreyi girin</string>
   <string name="passport_password_req_notice">Şifre 8-16 karakter haneli olmalı sayılar ve harfler içermelidir (küçük harfe duyarlı).</string>
-  <string name="passport_phone_num_hint_text">Telefon numarası</string>
+  <string name="passport_phone_num_hint_text">Telefon Numarası</string>
+  <string name="passport_phone_ticket_login">Mesaj ile oturum aç</string>
   <string name="passport_prev">Geri</string>
   <string name="passport_privacy_policy">Gizlilik Politikası</string>
   <string name="passport_pwd_generate_failure">"Şifre oluşturulamadı"</string>
   <string name="passport_pwd_generating">Oluşturuluyor...</string>
+  <string name="passport_querying_phone_info">Hesap bilgisi isteniyor…</string>
+  <string name="passport_quick_login">Oturum aç</string>
   <string name="passport_quick_login_dialog_step2_title">2 adımlı doğrulama</string>
   <string name="passport_quick_login_dialog_title">Şifreyi Doğrula</string>
   <string name="passport_quick_login_step2_title">2 adımlı doğrulama</string>
   <string name="passport_quick_login_title">Şifrenizi girin</string>
+  <string name="passport_quick_register">Oturum aç</string>
+  <string name="passport_quick_register_notice">&lt;u&gt;"Mi Hesabınız yok mu? Bir tane oluşturun."&lt;/u&gt;</string>
   <string name="passport_re_get_verify_code">Kodu tekrar al</string>
   <string name="passport_re_register">Tekrar oturum açın</string>
   <string name="passport_recycle_account_prompt">Bu sizin Mi Hesabınız mı?</string>
+  <string name="passport_recycle_login_other_account">"Benim değil. Başka bir tane kullanıyorum."</string>
   <string name="passport_reg_btn_using_other_phone">Alternatif telefon numarası kullan</string>
   <string name="passport_reg_failed">"Hesabınız ayarlanamıyor"</string>
-  <string name="passport_reg_new">Mi Hesabı oluşturun</string>
+  <string name="passport_reg_new_account">Mi Hesabı oluşturun</string>
   <string name="passport_reg_prompt">"Mi Hesabınız yok mu? Ücretsiz bir tane oluşturun,"</string>
+  <string name="passport_reg_recycle_account_no">Hayır</string>
+  <string name="passport_reg_recycle_account_yes">Evet</string>
   <string name="passport_reg_sms_send_prompt">Doğrulama kodunu şuraya gönder: %s</string>
   <string name="passport_reg_success">Hesabınız oluşturuldu</string>
   <string name="passport_reg_success_summary">%1$s hesabınızla bağlanmıştır. Oturum açmak için veya şifrenizi sıfırlamak için kullanabilirsiniz.</string>
@@ -397,6 +432,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_register_by_email">E-Posta adresini kullanarak bir hesap oluştur</string>
   <string name="passport_register_restricted">Bu numara ile ilişkili çok fazla hesap var. Başka birini deneyin</string>
   <string name="passport_register_restricted_title">"Bu telefon numarası kullanılamıyor"</string>
+  <string name="passport_registered_phone_num">Telefon: %s</string>
   <string name="passport_registered_phone_user_ID">Kullanıcı ID: %s</string>
   <string name="passport_registered_phone_user_name">Kullanıcı Adı: %s</string>
   <string name="passport_reject_recycle_account">Hayır</string>
@@ -412,14 +448,24 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_restart_register_prompt">Başka bir doğrulama mesajı, hesabınızı oluşturmak için gerekli olabilir.</string>
   <string name="passport_restart_register_title">Mi Hesabı oluştur</string>
   <string name="passport_retry">Yeniden Dene</string>
-  <string name="passport_select_reg_ways_title">Diğer yolla oturum aç</string>
+  <string name="passport_select_reg_ways_title">Başka yolla oturum aç</string>
+  <string name="passport_select_the_login_account">Oturumu açacak hesabı seçin</string>
+  <string name="passport_select_the_recycle_phone_login">Hesabınızı seçin</string>
+  <string name="passport_select_the_register_phone">Bir hesap oluşturmak için telefon numaranızı seçin</string>
   <string name="passport_send_too_many_code">Bu numaraya çok fazla doğrulama kodu gönderildi. 24 saat bekleyin ve tekrar deneyin.</string>
+  <string name="passport_send_vcode_failed">"Kod gönderilemedi"</string>
+  <string name="passport_sending_vcode">Kod gönderiliyor…</string>
+  <string name="passport_set">Ayarla</string>
+  <string name="passport_set_password_no_phone_msg">Hesabınızı korumak için telefon numaranızı ekleyin.</string>
   <string name="passport_setting">Ayarlanıyor…</string>
   <string name="passport_sim_index_info">SIM kart %1$d - %2$s</string>
   <string name="passport_skip_login">Oturum açmayı atla</string>
   <string name="passport_skip_register">Oturum açmayı atla</string>
   <string name="passport_skip_setup_account_msg">Mi Hesabınızı daha sonra Ayarlardan değiştirebilirsiniz.</string>
   <string name="passport_skip_setup_account_title">Kurulumu Atla</string>
+  <string name="passport_sms_send_success">Gönder</string>
+  <string name="passport_sync_account_data">Hesap bilgisi eşitleniyor…</string>
+  <string name="passport_sync_account_data_failed_warning">Hesabınız şimdi eşitlenecek, Mi Hesap Kimliğini kullanarak oturum açabilirsiniz. Eğer isterseniz kullanılan telefon veya e-posta kulanarak oturum açabilirsiniz fakat bunun için tamamen eşitlenmenin bitmesini beklemelisiniz.</string>
   <string name="passport_title_reg">Hesap oluştur</string>
   <string name="passport_trust_device">Bu cihazı doğrulanmış cihazlara ekle</string>
   <string name="passport_trying_read_verify_code_sms">Doğrulama kodu alınıyor…</string>
@@ -433,18 +479,23 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_user_agreement_p2"> ve </string>
   <string name="passport_user_agreement_p3">Gizlilik Politikası\'nı</string>
   <string name="passport_user_agreement_p4">kabul etmiş olursunuz.</string>
+  <string name="passport_user_id_notice">Mi Hesap Kimliğiniz: %s.</string>
+  <string name="passport_user_reg_region">Ülke/Bölge</string>
+  <string name="passport_user_reg_region_warning">"Hesabınızı oluşturduktan sonra ülke/bölgenizi değiştirmeyin."</string>
   <string name="passport_vcode">Doğrulama Kodu</string>
   <string name="passport_vcode_notification_title">Oturum açma doğrulanması tamamlanamadı</string>
   <string name="passport_vcode_prompt_long">Doğrulama kodunu girin</string>
   <string name="passport_vcode_sms_send_prompt">Doğrulama kodunu %s gönder</string>
   <string name="passport_verification_failed">Kimlik doğrulama başarısız</string>
   <string name="passport_verify">Doğrula</string>
+  <string name="passport_verifying_activator_phone">Telefon güvenliği doğrulanıyor…</string>
   <string name="passport_wait_for_sms_prompt">Şimdi baştan başlansın mı? Telefonunuz operatörünüzün şebekesi kapsama alanı içinde olduğunda doğrulama mesajlarının teslim edilmesi 10 dakika sürebilir."</string>
   <string name="passport_welcome_skip_login">Atla</string>
   <string name="passport_wrong_captcha">Girilen kod geçersiz</string>
   <string name="passport_wrong_password">Şifre hatalı</string>
   <string name="passport_wrong_phone_number_format">Girdiğiniz telefon numarasının biçimi geçersiz</string>
   <string name="passport_wrong_vcode">Girdiğiniz kod yanlış</string>
+  <string name="passport_yes">Evet</string>
   <string name="passport_xiaomi_account_dspt">Her yerden Mi Bulut, MIUI Tema Mağazası ve Mi Mağazasına Mi Hesap ile oturum açabilirsiniz.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
   <string name="passport_xiaomi_account_sec_dspt2">İnternet bağlantısı Mi Hesabınızda oturum açmak için gereklidir. Konum erişimi ve Mi Bulut otomatik olarak açılacaktır.</string>
@@ -574,6 +625,7 @@ Bu soruların cevaplarını hatırlayacağınızdan olun."</string>
   <string name="verify_phone_prompt">Doğrulamak için telefon numarasını seçin</string>
   <string name="verify_phone_title">Telefon Numarası</string>
   <string name="vip_account_settings">VIP Ayarları</string>
+  <string name="vip_settings_info">VIP Ayarları</string>
   <string name="vip_more_info">Diğer VIP Bilgisi</string>
   <string name="wipe_data_dialog_msg">Eğer devam ederseniz, %s silinecek.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
