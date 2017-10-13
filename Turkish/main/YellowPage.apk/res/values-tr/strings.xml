@@ -53,7 +53,7 @@
   <string name="currency_character">Yuan</string>
   <string name="custom_mark_category">Özel</string>
   <string name="data_error">Bir hata oluştu</string>
-  <string name="data_error_show">Bir hata oluştu</string>
+  <string name="data_error_w">Bir hata oluştu</string>
   <string name="delete">Sil</string>
   <string name="didi_back">Geri</string>
   <string name="didi_close">Kapat</string>
@@ -160,7 +160,8 @@ Takip numarasını kontrol edin."</string>
   <string name="express_more_service">Diğer Hizmetler</string>
   <string name="express_no_address">Boş</string>
   <string name="express_no_order">Sipariş yok</string>
-  <string name="express_no_order_info">Sipraiş bilgisi yok</string>
+  <string name="express_no_order_info">Sipariş bilgisi yok</string>
+  <string name="express_open_locker">一键开柜</string>
   <string name="express_order_confirmation">Sipariş Onayı</string>
   <string name="express_order_failed">Başarısız</string>
   <string name="express_order_ongoing">Sipariş veriliyor...</string>
@@ -182,8 +183,10 @@ Takip numarasını kontrol edin."</string>
   <string name="express_order_succeeded">Başarılı</string>
   <string name="express_order_success_hint">%s sipariş teslim olacak</string>
   <string name="express_phone">Telefon</string>
+  <string name="express_pickup_code">取件码: %s</string>
   <string name="express_preview_order">Önizle</string>
   <string name="express_region_pick_title">Bölgeyi Seç</string>
+  <string name="express_schedule_delivery">预约取件</string>
   <string name="express_select_address">Adres</string>
   <string name="express_select_addressee">Şuna:</string>
   <string name="express_select_city">Şehri Seç</string>
@@ -386,6 +389,7 @@ Takip numarasını kontrol edin."</string>
   <string name="quick_yellow_page_tab_phones">Telefon</string>
   <string name="recharge_actual_price">Ücret:</string>
   <string name="recharge_charge_range">Ücret: %1$s-%2$s Yuan</string>
+  <string name="recharge_charge_value">Ücret:  %s Yuan</string>
   <string name="recharge_follow_name">Kontör</string>
   <string name="recharge_history">Kontör geçmişi</string>
   <string name="recharge_history_empty">Boş</string>
@@ -426,6 +430,7 @@ Toplam: %3$s Yuan"</string>
   <string name="search_keywords_express">hızlı;shunfeng;shentong;debang;kuaidi;danhao;</string>
   <string name="search_title_express">İfade veya sorgu gönder</string>
   <string name="select_package_before_buy">Paketi Seç</string>
+  <string name="send_shortcut_already_exists">Zaten Ana Sayfada</string>
   <string name="send_shortcut_failed">"Gönderilemedi"</string>
   <string name="send_shortcut_success">Ana Ekrana yerleştirildi</string>
   <string name="sending_shortcut">Gönderiliyor…</string>
@@ -449,12 +454,15 @@ Toplam: %3$s Yuan"</string>
   <string name="turn_off_hint_title">"Bilinmeyen numaraları tespit edilmesin mi?"</string>
   <string name="turn_off_phone_event_hint">"Bilinmeyen telefon numaraları için rapor bilgileri görmek mümkün olmayacaktır."</string>
   <string name="turn_off_smart_antispam_hint">Bilinmeyen numaralardan gelen çağrıları için koruma kapatılsın mı?</string>
+  <string name="turn_on_online_antispam_enable">Açık</string>
+  <string name="turn_on_online_antispam_summary">Bilinmeyen numaralardan gelen çağrıları tanımlamayı aç.</string>
+  <string name="turn_on_online_antispam_title">Arayanı Göster açık</string>
   <string name="turn_on_phone_event_dialog_title">Güncelleme numarası tanımlama veritabanı</string>
   <string name="turn_on_phone_event_summary">Hizmet numaralarından telefon durumu yükle</string>
   <string name="turn_on_phone_event_title">Servis bilgilerini al</string>
   <string name="turn_on_smart_antispam_hint">Çevrimiçi veritabanı kullanarak bilinmeyen numaralardan gelen aramaları tanımla</string>
   <string name="turn_on_smart_antispam_summary_off">Yalnızca bu cihazda kayıtlı arama numaraları</string>
-  <string name="turn_on_smart_antispam_summary_on">Yükle ve arama geçmişi, kısa mesajları, bilinmeyen telefon numaralarını belirle</string>
+  <string name="turn_on_smart_antispam_summary">Yükle ve arama geçmişi, kısa mesajları, bilinmeyen telefon numaralarını belirle</string>
   <string name="turn_on_smart_antispam_title">Bilinmeyen numaraları tanımla</string>
   <string name="turn_on_yellowpage_service_title">Sarı sayfaları kullan</string>
   <string name="upload_and_verify_fraud_num_off">İstenmeyen çağrı bilgilerini paylaş</string>
