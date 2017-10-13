@@ -25,7 +25,7 @@
         <item quantity="one">%d uygulamayı görüntüle</item>
     </plurals>
     <plurals name="view_all_browsers">
-        <item quantity="other">%d tarayıcıyı görüntüle</item>
+        <item quantity="other">Tüm %d tarayıcıyı görüntüle</item>
         <item quantity="one">%d tarayıcıyı görüntüle</item>
     </plurals>
 </resources>
