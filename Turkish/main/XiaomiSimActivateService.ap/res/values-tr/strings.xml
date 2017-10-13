@@ -8,7 +8,8 @@
   <string name="activate_feature_call_log_sync">Çağrı geçmişini eşitle</string>
   <string name="activate_feature_default_name">Mi Hizmetleri</string>
   <string name="activate_feature_find_device">Telefonu Bul</string>
-  <string name="activate_feature_live_talk">Telefon Kontör Paketi</string>
+  <string name="activate_feature_live_talk">Kontör Paketi</string>
+  <string name="activate_feature_mi_roaming">Mi Dolaşım</string>
   <string name="activate_feature_mms_sync">Mesajları eşitle</string>
   <string name="activate_feature_mx">Mi Mesaj</string>
   <string name="activate_feature_mx_and_voip">Mi Mesaj ve Ses</string>
@@ -103,9 +104,16 @@
   <string name="activate_status_desc_wait_for_sms_success">Sunucudan etkinleştirme mesajı alındı</string>
   <string name="activate_status_title_activating">SIM kartı etkinleştiriliyor...</string>
   <string name="activate_status_title_activating_msim">SIM kart %s etkinleştiriliyor…</string>
+  <string name="agree">Kabul</string>
   <string name="app_name">Xiaomi Framework Hizmetleri</string>
   <string name="explain_send_sms_permission_button">Doğrula</string>
   <string name="explain_send_sms_permission_msg">%s açmak için, Xiaomi Hizmet Çerçevesi telefon numarasını doğrulamak için SMS gönderir. Bu işlem sonucunda operatör sizden SMS ücreti alabilir.</string>
   <string name="explain_send_sms_permission_title">Telefon numarasını doğrula</string>
+  <string name="phone_get_processing">Alınıyor…</string>
+  <string name="phone_get_text">Telefon numaranızı alıp %1$s kabul ediyorsunuz：%2$s</string>
+  <string name="phone_get_title">Telefon numaranızı alıp %1$s kabul ediyorsunuz</string>
+  <string name="phone_verify_processing">Doğrulanıyor…</string>
+  <string name="phone_verify_text">Telefon numaranızı alıp %1$s kabul etmiyorsunuz，telefon numaranızı doğrulayın.</string>
+  <string name="phone_verify_title">%1$s kabul etmek için telefon numarasını doğrulayın</string>
   <string name="sim_unactivated_title">"SIM kartınız etkin değil"</string>
 </resources>
