@@ -1084,7 +1084,7 @@ Değiştirmek için, TV'nun Güç Düğmesine uzun süre basın"</string>
   <string name="video_filter_all">Tümünü Filtrele</string>
   <string name="video_history">Geçmiş</string>
   <string name="video_history_before_yestory">2 gün önce</string>
-  <string name="video_history_earlier">Erken</string>
+  <string name="video_history_earlier">Önceki</string>
   <string name="video_history_title">Geçmiş</string>
   <string name="video_history_today">Bugün</string>
   <string name="video_history_yestoday">Dün</string>
