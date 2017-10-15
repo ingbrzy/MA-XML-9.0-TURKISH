@@ -129,8 +129,8 @@
   <string name="wait_wifi">WLAN bağlantısı bekleniyor</string>
   <string name="waiting">Bekliyor</string>
   <string name="wangpan_root_path">Sürücüm</string>
-  <stringname="xiaomi_drive_description_content">Mi Drive çevrimiçi depolama aracı olup, dosyalarınızı çevrimiçi saklar ve depolama alanının boş kalmasını sağlar.</string> 
-  <stringname="xiaomi_drive_description_title">Mi Drive Hakkında</string>   
+  <string name="xiaomi_drive_description_content">Mi Drive çevrimiçi depolama aracı olup, dosyalarınızı çevrimiçi saklar ve depolama alanının boş kalmasını sağlar.</string> 
+  <string name="xiaomi_drive_description_title">Mi Drive Hakkında</string>   
   <string name="year_month_day_format">dd MMM yyyy</string>
   <string name="yesterday">Dün</string>
 </resources>
