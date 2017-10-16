@@ -208,6 +208,8 @@
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
+  <string name="config_export_vcard_type">v30_generic</string>
+  <string name="config_import_vcard_type">Varsayılan</string>
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Çağrı geçmişi silinsin mi?</string>
   <string name="confirm_delete_selected_all_call_logs">Çağrı geçmişi silinsin mi?</string>
@@ -1079,8 +1081,8 @@ Favorilerinize bir kişi eklemek için:
   <string name="preference_phone">Telefon</string>
   <string name="preference_phone_more_title">Çağrı Ayarları</string>
   <string name="preference_remove_duplicate">Aynı kişileri birleştir</string>
-  <string name="preference_show_yellowpage_tab_description">Sarı Sayfalar sekmesini kapatın, Sarı Sayfalar işlevi düzgün çalışmıyor</string>
-  <string name="preference_show_yellowpage_tab_title">Sarı Sayfalar sekmesini göster</string>
+  <string name="preference_show_yellowpage_tab_description">Bu özellik kapalı olduğunda Sarı Sayfalar düzgün çalışmayabilir.</string>
+  <string name="preference_show_yellowpage_tab_title">Sarı Sayfaları Göster</string>
   <string name="preference_simple_mode_description">Fotoğraf ve diğer kişi bilgilerini liste halinde görüntüler</string>
   <string name="preference_simple_mode_title">Fotoğraf ve Bilgiyi Görüntüle</string>
   <string name="preference_smart_group_company_summary">Şirkete Göre Grupla</string>
@@ -1363,7 +1365,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="toast_for_saving_nickname">Rumuz saklandı</string>
   <string name="toast_join_with_empty_contact">Birbiri ile birleştirmeden önce kişinin adını yazın</string>
   <string name="toast_making_personal_copy">Şahsi kopya oluşturuluyor…</string>
-  <string name="toast_start_intent_failed">Uygun uygulama bulunamadı</string>
+  <string name="toast_start_intent_failed">"Bu işlemi gerçekleştirecek uygulamalar bulunamadı"</string>
   <string name="toast_text_copied">Kopyalandı</string>
   <string name="today">Bugün</string>
   <string name="tomorrow">Yarın</string>
@@ -1376,13 +1378,13 @@ Favorilerinize bir kişi eklemek için:
   <string name="type_outgoing">Giden Arama</string>
   <string name="type_voicemail">Sesli Mesaj</string>
   <string name="unable_get_device_id">IMEI alınamıyor</string>
-  <string name="unfold_all">Tümünü Aç</string>
+  <string name="unfold_all">Tümünü Göster</string>
   <string name="unknow_phone_number_call_failed">"Bilinmeyen numara aranamıyor"</string>
   <string name="unknow_phone_number_mms_failed">"Bilinmeyen numaraya mesaj gönderilemiyor"</string>
   <string name="unknown">Bilinmiyor</string>
   <string name="unknown_contact_name">Bilinmeyen Kişi</string>
   <string name="unknown_details_add_to_contact">Varolan</string>
-  <string name="unknown_details_new_contact">Yeni Kişi</string>
+  <string name="unknown_details_new_contact">Yeni</string>
   <string name="update_sim_contact_photo_toast">SIM kartvizitleri için profil fotoğrafları ayarlanamıyor</string>
   <string name="upgrade_in_progress">Kişi listesi güncelleniyor.</string>
   <string name="upgrade_out_of_memory">"Kişiler güncellenme sürecindedir. 
