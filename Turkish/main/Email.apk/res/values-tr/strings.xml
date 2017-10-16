@@ -48,9 +48,9 @@
   <string name="account_settings_notify_summary">Yeni E-Posta geldiğinde bildirim göster</string>
   <string name="account_settings_param">Hesap Ayarları</string>
   <string name="account_settings_policies">Güvenlik Kuralları</string>
-  <string name="account_settings_preference_add_account">Bir Posta Kutusu Hesabı Ekle</string>
-  <string name="account_settings_preference_head_icon">Ana Hesaba Geç</string>
-  <string name="account_settings_preference_notify">Sonuç</string>
+  <string name="account_settings_preference_add_account">E-posta hesabı ekle</string>
+  <string name="account_settings_preference_head_icon">Profil Fotoğrafı</string>
+  <string name="account_settings_preference_notify">Bildir</string>
   <string name="account_settings_retry_label">Eşitleme Girişimi</string>
   <string name="account_settings_retry_summary">Hesabı eşitlemek için dokunun</string>
   <string name="account_settings_ringtone">Bildirim Sesi</string>
@@ -72,9 +72,10 @@
   <string name="account_setup_address_label">E-Posta</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Hesap ayarlarının, kullanıcı adının ve şifrenizin doğru olduğunu onaylayın.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">"Hesap ayarlanamadı!"</string>
-  <string name="account_setup_basics_email_label">E-Posta Adresi</string>
+  <string name="account_setup_basics_email_label">Hesap Kimliğini Gir</string>
+  <string name="account_setup_basics_login_gmail_without_proxy">Mevcut şebekeyi kullanarak oturum aç</string>
   <string name="account_setup_basics_manual_setup_action">Elle Kurulum</string>
-  <string name="account_setup_basics_password_label">Şifre</string>
+  <string name="account_setup_basics_password_label">Şifreyi girin</string>
   <string name="account_setup_basics_title">Hesap ekle</string>
   <string name="account_setup_check_settings_check_incoming_msg">"   Sunucu ayarları doğrulanıyor..."</string>
   <string name="account_setup_check_settings_check_outgoing_msg">"   SMTP ayarları doğrulanıyor…"</string>
@@ -94,7 +95,7 @@
   <string name="account_setup_failed_dlg_certificate_message">"Güvenli bir şekilde sunucuya bağlanamıyor."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Güvenli bir şekilde sunucuya bağlanamıyor.
 (%s)"</string>
-  <string name="account_setup_failed_dlg_device_locked">"Oturum açılamadı. Bu hesap kilitlendi.​"</string>
+  <string name="account_setup_failed_dlg_device_locked">Hesabınız korunuyor. Bu cihazı QQ Güvenliği kullanarak doğrulayın veya korumayı kaldırın.</string>
   <string name="account_setup_failed_dlg_edit_details_action">Detayları düzenle</string>
   <string name="account_setup_failed_dlg_error_code">Hata Kodu: %s</string>
   <string name="account_setup_failed_dlg_server_message">"Sunucuya bağlanamıyor."</string>
@@ -125,8 +126,8 @@
   <string name="account_setup_incoming_server_label">Sunucu</string>
   <string name="account_setup_incoming_username_label">Kullanıcı Adı</string>
   <string name="account_setup_incoming_username_label_default_hint">Alan adını eklemelisiniz</string>
-  <string name="account_setup_need_password_verification">Hesabınızda ikinci parola kimlik doğrulaması vardır. Kimlik doğrulaması gerekir.</string>
-  <string name="account_setup_options_actionbar_title">Müşterek Ayarlar</string>
+  <string name="account_setup_need_password_verification">Hesabınızın 2 adımlı kimlik denetimi var. Kimlik doğrulama gerekiyor.</string>
+  <string name="account_setup_options_actionbar_title">Hızlı Ayarlar</string>
   <string name="account_setup_options_mail_check_frequency_10min">Her 10 dakikada</string>
   <string name="account_setup_options_mail_check_frequency_12hour">Her 12 saatte</string>
   <string name="account_setup_options_mail_check_frequency_1hour">Her saatte</string>
@@ -143,7 +144,7 @@
   <string name="account_setup_options_mail_window_all">Herşey</string>
   <string name="account_setup_options_mail_window_auto">Otomatik</string>
   <string name="account_setup_options_mail_window_default">Varsayılan hesabı kullan</string>
-  <string name="account_setup_options_mail_window_label">Postayı Eşitle</string>
+  <string name="account_setup_options_mail_window_label">Eşitleme Sıklığı</string>
   <string name="account_setup_options_mail_window_label_imap_or_pop3">Koru</string>
   <string name="account_setup_options_title">Hesap Ayarları</string>
   <string name="account_setup_outgoing_port_label">Port</string>
@@ -154,8 +155,8 @@
   <string name="account_setup_server_acc_manager_title">Hesaplar</string>
   <string name="account_setup_username_password_toast">Geçerli bir E-Posta adresi ve şifre yazın.</string>
   <string name="account_sync_off">Hesap eşitlemesi kapalı.</string>
-  <string name="account_sync_settings_settings">Hesabın kişilerini ve takvimi eşitle</string>
-  <string name="account_sync_settingstip_description">Eşitleme Ayarları</string>
+  <string name="account_sync_settings_settings">Kişileri ve takvimi eşitle</string>
+  <string name="account_sync_settingstip_description">Eşitle</string>
   <string name="account_waiting_for_folders_msg">Klasörler yükleniyor...</string>
   <string name="actionbar_large_unread_count">%1$d+ okunmamış</string>
   <string name="activity_folder_selection">Dizini Seç</string>
@@ -296,6 +297,7 @@
   <string name="confirm_before_delete_keywords">onayla;silmeden önce onayla;silmeyi onayla</string>
   <string name="confirm_before_send">Göndermeden önce onayla</string>
   <string name="confirm_before_send_keywords">onayla;gönderirken onayla;göndermeden önce onayla;gönderirken onayla</string>
+  <string name="confirm_delete_attachment">Ek silinsin mi?</string>
   <string name="confirm_delete_conversation_title">Sil</string>
   <string name="confirm_discard_text">Bu mesajı silinsin mi?</string>
   <string name="confirm_response">Gönderiliyor...</string>
@@ -346,7 +348,7 @@
   <string name="conversation_item_mark_unread">Okunmadı</string>
   <string name="conversation_msg_header_collapsed_sent_to">"Gönder "</string>
   <string name="conversation_photo_welcome_text">Bu postayı seçmek için gönderenin resmine dokunun.</string>
-  <string name="conversation_pull_ad_content">Verimli Posta Yöneticisi</string>
+  <string name="conversation_pull_ad_content">E-postalarınızı zahmetsizce yönetin</string>
   <string name="conversation_quick_button_approve">Tamam</string>
   <string name="conversation_quick_button_disapprove">İptal</string>
   <string name="conversation_quick_button_received">Alındı</string>
@@ -379,14 +381,14 @@
   <string name="device_admin_label">E-Posta</string>
   <string name="device_not_activiey_lint1">Cihaz yöneticisi etkin değil</string>
   <string name="device_not_activiey_lint2">Posta hizmeti Exchange ile çalışmıyor</string>
-  <string name="dialog_account_auto_sync_setting_no_open">"Elle eşitlemeyi değiştirdiniz, posta almak için elle yenilemeniz gerekiyor."</string>
+  <string name="dialog_account_auto_sync_setting_no_open">E-Postaları elle eşitlemeyi seçtiniz. Eşitlemek için yenileyin.</string>
   <string name="dialog_auto_sync_setting_no_open">"Yeni mesajları otomatik alamazsınız. Eşitleme kapalı."</string>
   <string name="dialog_change_sync_lookback">Alınan posta %s önce otomatik olarak silindi. Dokunup değiştirin.</string>
   <string name="dialog_gmail_proxy_server_is_error">Gmail Proxy sunucu hatası.</string>
   <string name="dialog_insufficient_space_on_external">"Ek indirilemiyor. Harici depolama biriminde yeterli alan yok."</string>
   <string name="dialog_insufficient_space_on_internal">Dahili depolamada yeterli alan yok.</string>
-  <string name="dialog_system_auto_sync_account_no_open">Hesap eşitlemesi etkin değil ve mesajlar otomatik olarak eşitlenemiyor</string>
-  <string name="dialog_system_auto_sync_master_no_open">Sistem eşitlemesi etkin değil ve mesajlar otomatik olarak eşitlenemiyor</string>
+  <string name="dialog_system_auto_sync_account_no_open">"Hesap eşitlemesi kapalı. E-Posta eşitlenemiyor."</string>
+  <string name="dialog_system_auto_sync_master_no_open">Sistem eşitlemesi kapalı. E-Postalar eşitlenemiyor.</string>
   <string name="disable_admin_warning">"UYARI: Cihazınızı yönetmek için E-Posta uygulamasının yetkisinin devre dışı bırakılması, E-Posta, kişiler, takvim olayları ve diğer verilerle birlikte tüm E-Posta hesaplarını da silecektir."</string>
   <string name="discard">Reddet</string>
   <string name="discard_drafts">Taslakları Reddet</string>
@@ -433,6 +435,7 @@
   <string name="email_setting_keywords">Hesaplar;Hesap Ekle; Posta hesabı ekle; silmeyi onayla;göndermeyi onayla;direkt sil; postayı görüntüle;pil tasarrufu; geribildirim gönder; günlüğü gönder</string>
   <string name="email_sina">Sina Posta</string>
   <string name="email_suggestions_authority">com.android.email.provider</string>
+  <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
   <string name="empty_account_tip">"Hesap bulunamadı"</string>
   <string name="empty_email_tip">"Boş E-Posta gönderilemez"</string>
   <string name="empty_spam">İstenmeyenleri temizle</string>
@@ -586,17 +589,17 @@
   <string name="login139">Çin Mobil üzerinden oturum aç</string>
   <string name="login_failed_ticker">%s oturum açıldı</string>
   <string name="login_failed_title">"Oturum açılamadı"</string>
-  <string name="login_support_tip_text">Tüm müşterek posta kutusu hesap girişini destekle</string>
+  <string name="login_support_tip_text">Tüm büyük e-posta hesaplarını destekler</string>
   <string name="long_press_to_select_tip">Dokunun &amp; bir postayı seçmek için basılı tutun, daha sonra seçmek için dokunun.</string>
   <string name="long_string">çoooooooooooooooooooooooooooooooooooooooooooooooookkkkkkk uzzzzzzzzzzzzzzzzuuuuuunnnnnnnnnnnnnn</string>
   <string name="mail">Posta</string>
   <string name="mail_body_turncated">Bu E-Posta yüklemek için çok büyük, sadece bir kısmını görüntülenecek ve lütfen PC\'de tamamını görüntüleyin.</string>
   <string name="mail_description_content">E-posta, birden fazla posta kutusunu yönetebilen, posta gönderip alma, etiketleme ve oturum modu, faturalandırma posta, posta sıralama ve diğer hizmetler gibi hizmetleri sağlayan bir posta istemcisidir. Postayı kaldırdıktan sonra posta verileri silinir.</string>
-  <string name="mail_description_title">E-Posta Tanıtımı</string>
+  <string name="mail_description_title">Posta Hakkında</string>
   <string name="mail_header_network_not_available">"Bir ağ bağlantısı yok."</string>
   <string name="mailbox_list_account_selector_combined_view">Birleştirilmiş hesap</string>
   <string name="mailbox_name_display_ad">Reklamlar</string>
-  <string name="mailbox_name_display_add_account">Bir posta kutusu hesabı ekle</string>
+  <string name="mailbox_name_display_add_account">E-Posta hesabı ekle</string>
   <string name="mailbox_name_display_circular">Bildirimler</string>
   <string name="mailbox_name_display_drafts">Taslaklar</string>
   <string name="mailbox_name_display_inbox">Gelen Kutusu</string>
@@ -639,9 +642,9 @@
   <string name="megabytes">%s MB</string>
   <string name="menu_att_mgr">Ekler</string>
   <string name="menu_att_mgr_order_default">Önceden görüntülenen</string>
-  <string name="menu_att_mgr_order_mime">Biçim</string>
-  <string name="menu_att_mgr_order_name">Ad</string>
-  <string name="menu_att_mgr_order_rev_date">Alınma Tarihi</string>
+  <string name="menu_att_mgr_order_mime">Biçimi</string>
+  <string name="menu_att_mgr_order_name">Adı</string>
+  <string name="menu_att_mgr_order_rev_date">Tarih</string>
   <string name="menu_att_mgr_order_size">Dosya Adı</string>
   <string name="menu_change_folders">Taşı</string>
   <string name="menu_compose">Yaz</string>
@@ -691,7 +694,7 @@
   <string name="network_unavailable">Ağ mevcut değil</string>
   <string name="new_incoming_messages_one"> %s\'dan yeni posta. Göster.</string>
   <string name="new_messages">%1$d yeni posta</string>
-  <string name="new_signature_has_saved">Yeni imza kaydedildi</string>
+  <string name="new_signature_has_saved">Başarıyla kaydedildi</string>
   <string name="next_action">Sonraki</string>
   <string name="no">Hayır</string>
   <string name="no_address_email">raocakmak@gmail.com</string>
@@ -725,8 +728,13 @@ Farklı bir gelen kutusu deneyin."</string>
   <string name="oauth_gmail_login_notify">Aşağıdaki oturum sayfasından Google Hesabı kullanıcı adınızı ve şifrenizi girin.</string>
   <string name="oauth_login_continue">Devam</string>
   <string name="oauth_login_continue_qq"> &gt; bir şifre alın ve oturum açın.</string>
+  <string name="oauth_login_usr_proxy">Proxy kullanarak oturum aç</string>
   <string name="ok">Tamam</string>
   <string name="okay_action">Tamam</string>
+  <string name="open_calendar_and_contacts_permission">"Lütfen Sistem Ayarları'ndaki takvim ve kişiler izinlerini etkinleştirin"</string>
+  <string name="open_external_storage_and_calendar_permission">"Lütfen Sistem Ayarları'nda ki harici depolama ve takvim iznini etkinleştirin"</string>
+  <string name="open_external_storage_and_contacts_and_calendar_permission">"Lütfen Sistem Ayarları'nda ki harici depolama, takvim, kişi iznini etkinleştirin"</string>
+  <string name="open_external_storage_and_contacts_permission">"Lütfen Sistem Ayarları'nda ki harici depolama ve kişi iznini etkinleştirin"</string>
   <string name="outbox_alert_button_no_resend">"Gönderme!"</string>
   <string name="outbox_alert_button_resend">Tekrar Gönder</string>
   <string name="outbox_alert_certificate_error">"E-Posta sistem yöneticinizle görüşün ve sertifikanızı güncelleyin."</string>
@@ -862,7 +870,7 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="qq_uthentication_failed">"Hesap doğrulanamadı, tekrar oturum açın"</string>
   <string name="qq_webview_loading">Biraz bekleyin…</string>
   <string name="questionnair_body_invisibility">"Mesajlar görüntülenmiyor"</string>
-  <string name="questionnair_confirm_delete">Kaldır</string>
+  <string name="questionnair_confirm_delete">Hesap kaldırılsın mı?</string>
   <string name="questionnair_instability">Sıklıkla Çökenler</string>
   <string name="questionnair_not_send">"Posta gönderilemiyor"</string>
   <string name="questionnair_not_sync">Eşitleme kararsız</string>
@@ -962,7 +970,7 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="saved">%s kaydedildi.</string>
   <string name="saving">Saklanıyor...</string>
   <string name="sdcard_cannot_use">"SD kart kullanılamıyor"</string>
-  <string name="search_bar_text">Posta, göndericiyi ara</string>
+  <string name="search_bar_text">Posta ve kişileri ara</string>
   <string name="search_hint">E-Posta ara</string>
   <string name="search_result">Sonuçlar</string>
   <string name="search_tabs_name_all">Tümü</string>
@@ -1041,11 +1049,14 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Konu</string>
   <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
+  <string name="sync_contacts_fail_per_content">Kişi izinlerini uygulayın, uygulamak için tıklayın</string>
+  <string name="sync_contacts_fail_per_title">Kişi eşitlemesi başarısız oldu</string>
+  <string name="sync_contacts_fail_permission">"Kişi eşitlemesi başarısız oldu, mobil telefon kişisine erişim yok. Lütfen Telefon Ayarları'den Yönetim Hakları bölümünü açın"</string>
+  <string name="sync_contacts_req_per_ignored">Telefon kişisi açık değil ve kişiler eşitlenemez</string>
   <string name="sync_error">"Eşitlenemedi."</string>
   <string name="sync_error_message">"Cihazınızı eşitlemek için yeterli depolama alanı yok."</string>
-  <string name="syncing_wait_restart">Yenilemek için tekrarla</string>
-  <string name="syncing_wait_restart_title">"Sunucu bağlantısı zaman aşımına uğradı, 
- mesajı yükleyemedi"</string>
+  <string name="syncing_wait_restart">Yeniden dene</string>
+  <string name="syncing_wait_restart_title">Sunucu bağlantısı zaman aşımına uğradı</string>
   <string name="system_account_create_failed">"Hesap oluşturulamadı. Tekrar deneyin."</string>
   <string name="system_folders_sent_dlg">"Sunucunuzun gönderilen öğeler klasörünü seçin"</string>
   <string name="system_folders_sent_summary">"Sunucunuzun gönderilen öğeler klasörünü seçin"</string>
@@ -1054,7 +1065,8 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="system_folders_trash_dlg">"Sunucunuzun Çöp Kutusu klasörünü seçin"</string>
   <string name="system_folders_trash_summary">"Sunucunuzun Çöp Kutusu klasörünü seçin"</string>
   <string name="system_folders_trash_title">Çöp Kutusu Klasörleri</string>
-  <string name="system_setup_open_error">"Hesap eşitlemesi açılamıyor, lütfen eşitlemek için posta hesabındaki 'kurulum' sistemini açınız."</string>
+  <string name="system_security_open_error">Güvenlik merkezi ayarlayamıyor. Lütfen izinlerinizi telefon ayarlarından açın</string>
+  <string name="system_setup_open_error">"Ayarlar'dan eşitlemeye izin ver"</string>
   <string name="tablet">Tablet</string>
   <string name="tap_to_configure">Ayarlamak için dokunun</string>
   <string name="tap_to_enable_sync">Açmak için dokunun.</string>
@@ -1066,12 +1078,18 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="toast_bar_invalid_account">Tekrar oturum açmanız gerekir</string>
   <string name="toast_bar_no_connection_network">"İnternet bağlantısı yok"</string>
   <string name="toast_bar_open_gmail_synchronization">Gmail proxy sunucusunu kullanmak için dokunun</string>
+  <string name="toastbar_calendar_and_contacts_permission_switch_close">Takvim ve kişi izinleri kapalı. Takvim ve kişiler eşitlenemez</string>
+  <string name="toastbar_calendar_permission_switch_close">Takvim izni kapalı. Takvim eşitlenemiyor</string>
+  <string name="toastbar_contacts_permission_switch_close">Kişi izni kapalı. Kişiler eşitlenemiyor</string>
+  <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Takvim ve Kişiler eşitlemesi kapalı. Takvim ve kişiler eşitlenemez</string>
+  <string name="toastbar_local_calendar_sync_switch_close">Takvim eşitlemesi kapalı. Takvim eşitlenemiyor</string>
+  <string name="toastbar_local_contacts_sync_swtich_close">Kişiler eşitlemesi kapalı. Kişiler eşitlenemiyor</string>
   <string name="today_text">Bugün</string>
   <string name="too_large_to_attach_additional">"Dosya boyutu %1$s\'i geçemez."</string>
   <string name="too_large_to_attach_multiple">"Bir veya daha fazla dosya ekli değil. Dosya boyutu %1$s geçemez."</string>
   <string name="too_large_to_attach_single">"%1$s\'den daha büyük dosya ekleyemiyorum."</string>
-  <string name="topic_merge">E-Posta Ekranı</string>
-  <string name="topic_merge_summary">Düzenlenme sırasına göre</string>
+  <string name="topic_merge">Ekran Ayarları</string>
+  <string name="topic_merge_summary">Konuya göre grupla</string>
   <string name="translation_loading">Biraz bekleyin...</string>
   <string name="translation_no_result">Sonuç yok</string>
   <string name="translation_pronunciation_am">AmE</string>
@@ -1097,7 +1115,7 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="unsent_messages_in_outbox">%2$s içinde gönderilmemiş %1$s</string>
   <string name="unzip_file_failed">"Dosya açılamadı"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
-  <string name="update_to_wps_mail">Daha fazla özellik için WPS-postayı güncelleyin</string>
+  <string name="update_to_wps_mail">WPS Mail ile daha fazla özellikten yararlanın</string>
   <string name="updated_at"> %1$s\'da yenilendi</string>
   <string name="upload_log">Günlükleri Gönder</string>
   <string name="upload_log_failed">"Günlükler gönderilemedi"</string>
@@ -1118,6 +1136,7 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="wait_for_manual_sync_body">"Bu hesap otomatik eşitlemeye ayarlanmadı
 Posta eşitlenmeden önce "Şimdi Eşitleye dokunun veya bu hesabın postaları otomatik eşitlemesi için Eşitleme Ayarlarını Değiştir seçeneğini kullanın</string>
   <string name="wait_for_sync_title">Eşitlemek için bekleniyor</string>
+  <string name="wait_help_context">Bekleyin</string>
   <string name="webview_logout">Tekrar oturum açmayı deneyebilirsiniz</string>
   <string name="webview_logout_cancel">Şimdi değil</string>
   <string name="webview_logout_sure">Yeniden dene</string>
