@@ -174,7 +174,6 @@
   <string name="color_picker_dialog_title">Rengi Seç</string>
   <string name="color_picker_hue">Ton</string>
   <string name="color_picker_saturation">Doygunluk</string>
-  <string name="color_picker_value">Değer</string>
   <string name="com_taobao_tae_sdk_alert_message">您离开太久了，请重新操作</string>
   <string name="com_taobao_tae_sdk_authorize_title">登录授权</string>
   <string name="com_taobao_tae_sdk_back_message">返回</string>
@@ -205,15 +204,8 @@
   <string name="comment_hint">Yorum</string>
   <string name="comment_menu">Yorum</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.tr</string>
-  <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
-  <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
-  <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
-  <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
-  <string name="common_use_phrase_bottom_bar_point_txt">.</string>
-  <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
   <string name="common_use_phrase_bottom_bar_text_next">Sonraki</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Önceki</string>
-  <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
   <string name="config_webSettingsDefaultTextEncoding">UTF-8</string>
   <string name="contextmenu_add_contact">Kişi Ekle</string>
   <string name="contextmenu_copy">Kopyala</string>
