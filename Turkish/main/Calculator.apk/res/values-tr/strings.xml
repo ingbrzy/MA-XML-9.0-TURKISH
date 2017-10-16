@@ -126,7 +126,6 @@
   <string name="copyright">Telif Hakkı: </string>
   <string name="cos">cos</string>
   <string name="cosDesc">kosinüs</string>
-  <string name="cos_mathematical_value">cos</string>
   <string name="country_name_ac">AC</string>
   <string name="country_name_ad">AD</string>
   <string name="country_name_ae">AE</string>
@@ -393,7 +392,6 @@
   <string name="dotDesc">Nokta</string>
   <string name="e">e</string>
   <string name="eDesc">"Euler Sayısı"</string>
-  <string name="e_mathematical_value">e</string>
   <string name="early_morning">ÖÖ</string>
   <string name="earthly_branches_chen">辰</string>
   <string name="earthly_branches_chou">丑</string>
@@ -544,10 +542,8 @@
   <string name="leftParenDesc">Sol parantez</string>
   <string name="lg">log</string>
   <string name="lgDesc">Logaritma</string>
-  <string name="lg_mathematical_value">lg</string>
   <string name="ln">ln</string>
   <string name="lnDesc">Tabii Logaritma</string>
-  <string name="ln_mathematical_value">ln</string>
   <string name="loan_edittext_hint_commercial">Miktarı Girin</string>
   <string name="loan_edittext_hint_commercial_combined">Ticari</string>
   <string name="loan_edittext_hint_fund">Miktarı Girin</string>
@@ -708,7 +704,6 @@
   <string name="sim_unavailable">SIM kart mevcut değil.</string>
   <string name="sin">sin</string>
   <string name="sinDesc">Sinüs</string>
-  <string name="sin_mathematical_value">sin</string>
   <string name="sip_phone">SIP Telefonu</string>
   <string name="size_byte">B</string>
   <string name="size_giga_byte">GB</string>
@@ -1069,11 +1064,8 @@
   <string name="word_figure_unit_shi">拾</string>
   <string name="word_figure_yuan">元</string>
   <string name="word_figure_zheng">整</string>
-  <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_connect_download_manager_fail">"İndirme Yöneticisine bağlantı başarısız oldu, lütfen Uygulama Yönetimi'ndeki İndirme Yöneticisinden durumunu kontrol edin."</string>
   <string name="xiaomi_external_storage_unavailable">Depolama alanı kullanılamıyor, lütfen SD kartını kontrol edin.</string>
-  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-  <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_mobile">Mi Mobil</string>
   <string name="xiaomi_update_dialog_message">"Tanıtım Sürümü: %1$s
 Boyut: %2$s"</string>
