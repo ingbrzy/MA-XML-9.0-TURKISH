@@ -277,7 +277,7 @@
   <string name="trans_device_disconnected">Bağlantı kesildi</string>
   <string name="trans_device_wait_for_reconnecting">Bağlantı kesildi. Devam etmek için yeniden bağlanın.</string>
   <string name="trans_generate_qr_code_failed">"QR Kod oluşturulamadı"</string>
-  <string name="trans_intro_desc_2">Transferi iptal edin, Mi Transfer'den çıkın ve yeniden başlayın. Yeni aktarım yapılırken varolan dosyaların üzerine yazılır.</string>
+  <string name="trans_intro_desc_2">"Transferi iptal edin, Mi Transfer'den çıkın ve yeniden başlayın. Yeni aktarım yapılırken varolan dosyaların üzerine yazılır."</string>
   <string name="trans_intro_desc_3">"Mi Transfer, dosya aktarımında WLAN kullanır, bu nedenle aktarım sırasında her iki cihazda da WLAN kullanarak internete bağlanamazsınız.Yine de mobil veriyi kullanabilirsiniz ancak bazı yeni cihazlar (mesela Mi 6) transferler esnasında WLAN da kullanarak internete bağlanabilir. "</string>
   <string name="trans_intro_desc_4">Eski cihazlardaki depolama alanı, aktarma paketleri oluşturmak için kullanılır. Aktarıma başlamadan önce eski telefonunuzda en az 500MB - 1GB kullanılabilir depolama alanına sahip olduğunuzdan emin olun.</string>
   <string name="trans_intro_desc_5">Bunun olmasının çeşitli nedenleri vardır: sistem ve uygulama sürümünün uyumluluğuyla ilgili sorunlar, ağ sorunları, belirli bir cihaza özgü uyumluluk sorunları vs.</string>

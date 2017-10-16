@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_alarm">Alarm ekle</string>
+  <string name="add_timezone_title">Zaman Dilimi Ekle</string>
   <string name="alarm_alert">Varsayılan zil sesi</string>
   <string name="alarm_alert_alert_silenced">Alarm %d dakika sonra susturulur.</string>
   <string name="alarm_alert_snooze_set">%d dakika ertelendi.</string>
@@ -58,6 +59,7 @@
   <string name="force_touch_enter_stopwatch">Kronometre</string>
   <string name="force_touch_enter_timer">Zamanlayıcı</string>
   <string name="full_wday_month_day_no_year">dd MMMM EEEE</string>
+  <string name="go_back">Geri</string>
   <string name="hour">1 saat</string>
   <string name="hour_unit">Sa</string>
   <string name="hours">%d saat</string>
@@ -76,6 +78,7 @@
   <string name="legal_workday_message">" (Tatillerde alarmı kapat)"</string>
   <string name="life_post_setting">Sabah Raporu</string>
   <string name="life_post_setting_FBE_remind">Sistem kısıtlaması nedeniyle, sabah raporundaki hava durumu bilgileri, yeniden başlatılana kadar doğru şekilde görüntülenmeyebilir</string>
+  <string name="life_post_setting_close_title">Sabah raporlarını kapat</string>
   <string name="life_post_setting_open_subtitle">Alarmları 4:00-09:30 arasında kapattığınızda hava durumu hakkında bilgi alın</string>
   <string name="life_post_setting_open_title">Sabah Raporları Al</string>
   <string name="life_post_setting_wake_up_list_title">Uyanma Geçmişi</string>
@@ -101,6 +104,7 @@
   <string name="menu_item_sort_by_name">Ada Göre Sırala</string>
   <string name="minute">1 dakika</string>
   <string name="minutes">%d dakika</string>
+  <string name="more_setting">Diğer Ayarlar</string>
   <string name="more_settings">Ayarlar</string>
   <string name="never">Birkez</string>
   <string name="oneshot_alarm">Kapatıldıktan sonra sil</string>
