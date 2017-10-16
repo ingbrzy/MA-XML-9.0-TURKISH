@@ -23,6 +23,7 @@
   <string name="add_contact_dlg_message_fmt">\"%s\" kişilere eklensin mi?</string>
   <string name="add_display_photo_entry">Profil fotoğrafı ekle</string>
   <string name="add_field">Başka bir alan ekle</string>
+  <string name="add_field_toast">Eklenecek başka alan yok.</string>
   <string name="add_incall_show_entry">Video ekle</string>
   <string name="add_new_account">Yeni hesap ekle</string>
   <string name="add_new_entry_for_section">Yeni ekle</string>
@@ -95,6 +96,7 @@
   <string name="call_radio">Telsizi Ara</string>
   <string name="call_record_setting_miui">Çağrı Kayıt Ayarları</string>
   <string name="call_settings">Ayarlar</string>
+  <string name="call_settings_primary_user_only">Cağrı ayarları yalnızca birincil kullanıcı tarafından değiştirilebilir.</string>
   <string name="call_sim1_description">SIM 1</string>
   <string name="call_sim1_menu_title">"SIM 1'den Ara"</string>
   <string name="call_sim2_description">SIM 2</string>
@@ -206,6 +208,8 @@
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix"/>
   <string name="config_export_file_suffix"/>
+  <string name="config_export_vcard_type">v30_generic</string>
+  <string name="config_import_vcard_type">Varsayılan</string>
   <string name="config_prohibited_phone_number_regexp"/>
   <string name="confirm_delete_contact_all_call_logs">Çağrı geçmişi silinsin mi?</string>
   <string name="confirm_delete_selected_all_call_logs">Çağrı geçmişi silinsin mi?</string>
@@ -438,7 +442,7 @@ Kartvizitler kapalı"</string>
   <string name="disclaimer_text">"Sarı sayfalar SMS göndererek bakiyenizle ilgili bilgi alır. Operatörünüz bu bilgiyi bir gecikme ile güncelleyebilir, dolayısıyla aldığınız sayılar doğru olmayabilir. Bir hata görürseniz, bu hizmeti iyileştirmemize yardımcı olmak için soruşturma SMS'iyle bildirebilirsiniz. 
 
 Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelliyoruz."</string>
-  <string name="disclaimer_title">Disclaimer</string>
+  <string name="disclaimer_title">Feragat</string>
   <string name="display_all_contacts">Tüm Kişiler</string>
   <string name="display_more_groups">Diğer Grup</string>
   <string name="display_only_phones">Eksik Numaraları Gizle</string>
@@ -549,7 +553,8 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
   <string name="group_delete_success_toast">Grup silindi</string>
   <string name="group_detail_label_placeholder"> </string>
   <string name="group_edit_field_hint_text">Grup Adı</string>
-  <string name="group_member_remove_toast">Gruptan kaldırıldı</string>
+  <string name="group_member_remove_fail_toast">Gruptan kaldırılmadı</string>
+  <string name="group_member_remove_success_toast">Gruptan kaldırıldı</string>
   <string name="group_move_fail_toast">Kişiler taşınamadı</string>
   <string name="group_name">Gruplarım</string>
   <string name="group_name_contacts">Kişiler</string>
@@ -584,6 +589,7 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
   <string name="hybrid_network_unavaliable">"Ağa bağlanamadı"</string>
   <string name="hybrid_service_unavailiable">Servis geçersiz</string>
   <string name="hybrid_try_again">Yeniden deneyin</string>
+  <string name="hybrid_webpage_not_available">Web sayfası mevcut değil</string>
   <string name="ic_menu_back">Geri</string>
   <string name="ic_menu_done">Tamam</string>
   <string name="imLabelsGroup">Anlık Mesaj</string>
@@ -872,8 +878,8 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
   <string name="noContacts">Kişi yok</string>
   <string name="noContactsHelpText">"Görüntülenecek herhangi bir kişi yok.
 
-To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
-    "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Hesapları eklemek veya bir hesaptaki kişileri telefonla eşitle
+Kişi eklemek için, "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt;&lt;/b&gt;", dokunun ve sonra:
+    "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Telefonunuza eşitleyeceğiniz kişilerle hesaplar ekler veya bunları hesaplarını ayarlar
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Sıfırdan yeni bir kişi oluşturun
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
@@ -897,7 +903,7 @@ Kişi eklemek için, "&lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt;" tuşun
   <string name="noContactsHelpTextWithSyncForCreateShortcut">"Görüntülenecek herhangi bir kişi yok. (Sadece bir hesap eklediyseniz, kişileri eşitlemek birkaç dakika sürebilir.)"</string>
   <string name="noContactsNoSimHelpText">"Görüntülenecek herhangi bir kişi yok.
 
-To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+Kişi eklemek için, "&lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt;" tuşuna dokunun, dokunduğunda:
     "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Hesapları eklemek veya bir hesaptaki kişileri telefonla eşitle
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Sıfırdan yeni bir kişi oluşturun
@@ -907,7 +913,7 @@ To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&g
 "</string>
   <string name="noContactsNoSimHelpTextWithSync">"Görüntülenecek herhangi bir kişi yok. (Sadece bir hesap eklediyseniz, kişileri eşitlemek birkaç dakika sürebilir.)
 
-To add contacts, touch "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;Menu&lt;/font&gt;&lt;/b&gt;", then touch:
+Kişi eklemek için, "&lt;font fgcolor="#ffffffff"&gt;Menü&lt;/font&gt;" tuşuna dokunun, dokunduğunda:
     "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Hesapları eklemek veya bir hesaptaki kişileri telefonla eşitle
 "&lt;/li&gt;&lt;/font&gt;&lt;/b&gt;" 
 "&lt;b&gt;&lt;font fgcolor="#ffffffff"&gt;&lt;li&gt;"Görünür kişiler için ekran seçeneklerini değiştir
@@ -1207,6 +1213,8 @@ Favorilerinize bir kişi eklemek için:
   <string name="search_wipe_data">Düzenle;Kişiler</string>
   <string name="searching_vcard_message">Depolama birimindeki vCard dosyaları aranıyor...\u2026</string>
   <string name="select_all">Hepsi</string>
+  <string name="select_all_exceed">"%1$d'den daha fazlasını seçilemedi, hepsi seçilemez"</string>
+  <string name="select_exceed">"%1$d'den daha fazlasını seçilemedi"</string>
   <string name="select_device">Cihazı seçin</string>
   <string name="select_done">Daha fazla seçmeyin</string>
   <string name="select_groups">Grubu seçin</string>
@@ -1319,6 +1327,10 @@ Favorilerinize bir kişi eklemek için:
   <string name="strequentList">Favoriler</string>
   <string name="success_message_import_from_account">Aktarım bitti</string>
   <string name="summary_kind_title">Sonuç</string>
+  <string name="t9_search_empty_create_contact">Yeni Kişi</string>
+  <string name="t9_search_empty_edit_contact">Kişilere Ekle</string>
+  <string name="t9_search_empty_send_sms">Mesaj Gönder</string>
+  <string name="t9_search_empty_video_call">Görüntülü Çağrı</string>
   <string name="summer_begins">Yaz Başlangıcı</string>
   <string name="summer_solstice">Günötesi</string>
   <string name="t9_search_guide_pinyin">"Orhan'ı aramak için 6 ve 7 harflerine tıklayın."</string>
@@ -1370,8 +1382,8 @@ Favorilerinize bir kişi eklemek için:
   <string name="unknow_phone_number_call_failed">"Bilinmeyen numara aranamıyor"</string>
   <string name="unknow_phone_number_mms_failed">"Bilinmeyen numaraya mesaj gönderilemiyor"</string>
   <string name="unknown">Bilinmiyor</string>
-  <string name="unknown_caller">Bilinmeyen Kişi</string>
   <string name="unknown_contact_name">Bilinmeyen Kişi</string>
+  <string name="unknown_details_add_to_contact">Varolan</string>
   <string name="unknown_details_new_contact">Yeni Kişi</string>
   <string name="update_sim_contact_photo_toast">SIM kartvizitleri için profil fotoğrafları ayarlanamıyor</string>
   <string name="upgrade_in_progress">Kişi listesi güncelleniyor.</string>
@@ -1393,7 +1405,7 @@ Aşağıdaki seçeneklerden birini seçin:"</string>
   <string name="vcard_import_will_start_message">%s kısa zamanda içe aktarılacaktır.</string>
   <string name="vcard_import_will_start_message_with_default_name">Dosya kısa sürede içeri aktarılacak</string>
   <string name="vcard_info_send_error">vCard gönderilemedi</string>
-  <string name="vcard_unknown_filename">kişi</string>
+  <string name="vcard_unknown_filename">Kişi</string>
   <string name="video_call">Video Çağrısı</string>
   <string name="video_chat">Videolu Sohbet</string>
   <string name="viewContactDesription">Kişiyi Görüntüle</string>
