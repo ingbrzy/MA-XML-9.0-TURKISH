@@ -88,7 +88,7 @@
   <string name="delete_backup_title">Yedeği Sil</string>
   <string name="delete_failed_backup_confirm">Yedekleme hatalar içeriyor.</string>
   <string name="deselect_all">Vazgeç</string>
-  <string name="dir_date_format">yyyyMMdd_HHmmss</string>
+  <string name="dir_date_format">ddMMyyyy_HHmmss</string>
   <string name="disable_encrypt_title">Şifreleme Pasif</string>
   <string name="enable_encrypt">Şifreleme Etkin</string>
   <string name="enable_encrypt_fail">Şifreleme başarısız</string>
@@ -164,7 +164,7 @@
   <string name="notif_trans_receiving_failed">Veri alınamadı</string>
   <string name="notif_trans_sending_completed">Veri başarıyla gönderildi</string>
   <string name="notif_trans_sending_failed">"Veri gönderilemedi"</string>
-  <string name="notif_trans_wait_for_reconnecting">Kumanda cihazının bağlantısı kesildi. Lütfen yrniden bağlayın.</string>
+  <string name="notif_trans_wait_for_reconnecting">Bağlantı kesildi. Tekrar bağlanın.</string>
   <string name="page_loading">Biraz bekleyin...</string>
   <string name="progress_backup_hint">Yedekleniyor...</string>
   <string name="progress_restore_hint">Geri Yükleniyor...</string>
@@ -264,7 +264,7 @@
   <string name="trans_calculating_base_size">"Uygulamanın uygulama boyutu hesaplanıyor"</string>
   <string name="trans_cancel_confirm">Transfer devam ediyor, iptal edilsin mi?</string>
   <string name="trans_cancelling">İptal ediliyor...</string>
-  <string name="trans_connect_failed_device_incompatible">cihaz uyumlu değil. Lütfen transfer işlemini iptal edin ve yeniden deneyin.</string>
+  <string name="trans_connect_failed_device_incompatible">Cihaz uyumlu değil. Transfer işlemini iptal edin ve yeniden deneyin.</string>
   <string name="trans_connect_failed_message">"Bağlanamadı, cihazı yeniden bağlayın veya yeniden başlatın. Yeniden başlattıktan sonra Mi Transfer\'i başlatın veya Ayarlar &gt; Ek Ayarlar &gt; Mi Transfer bölümüne gidip [Göndericiyim] seçeneğini seçin."</string>
   <string name="trans_connect_failed_title">"Bağlanamadı"</string>
   <string name="trans_connect_failed_toast">"Bağlanamadı"</string>
@@ -274,9 +274,36 @@
   <string name="trans_detail_category_files">Dosyalar</string>
   <string name="trans_detail_category_sysdata">Sistem Verisi</string>
   <string name="trans_detail_category_userdata">Uygulamalar</string>
-  <string name="trans_device_disconnected">Cihaz bağlantısı kesildi</string>
-  <string name="trans_device_wait_for_reconnecting">Cihaz bağlantısı kesildi. Lütfen yeniden bağlayın.</string>
+  <string name="trans_device_disconnected">Bağlantı kesildi</string>
+  <string name="trans_device_wait_for_reconnecting">Bağlantı kesildi. Devam etmek için yeniden bağlanın.</string>
   <string name="trans_generate_qr_code_failed">"QR Kod oluşturulamadı"</string>
+  <string name="trans_intro_desc_2">Transferi iptal edin, Mi Transfer'den çıkın ve yeniden başlayın. Yeni aktarım yapılırken varolan dosyaların üzerine yazılır.</string>
+  <string name="trans_intro_desc_3">"Mi Transfer, dosya aktarımında WLAN kullanır, bu nedenle aktarım sırasında her iki cihazda da WLAN kullanarak internete bağlanamazsınız.Yine de mobil veriyi kullanabilirsiniz ancak bazı yeni cihazlar (mesela Mi 6) transferler esnasında WLAN da kullanarak internete bağlanabilir. "</string>
+  <string name="trans_intro_desc_4">Eski cihazlardaki depolama alanı, aktarma paketleri oluşturmak için kullanılır. Aktarıma başlamadan önce eski telefonunuzda en az 500MB - 1GB kullanılabilir depolama alanına sahip olduğunuzdan emin olun.</string>
+  <string name="trans_intro_desc_5">Bunun olmasının çeşitli nedenleri vardır: sistem ve uygulama sürümünün uyumluluğuyla ilgili sorunlar, ağ sorunları, belirli bir cihaza özgü uyumluluk sorunları vs.</string>
+  <string name="trans_intro_desc_6">"Bazı uygulama profilleri (e-bankacılık, finans, vb.), Güvenlik nedenlerinden dolayı belirli cihazla ilişkilendirilir. Uygulama verilerini temizlemeyi deneyin veya uygulamayı yeni bir cihaza yeniden yüklemeyi deneyin."</string>
+  <string name="trans_intro_desc_7">"WeChat uygulama verileri ve sohbet geçmişi Mi Transfer ile tam olarak aktarılamayabilir, başarılı bir aktarım için daha fazla sonuç elde etmek için WeChat'ın ayarlarına gidin ve hesabınızdan çıkış yapın."</string>
+  <string name="trans_intro_desc_account">Güvenlik nedenleriyle yeni bir cihazdaki hesaplarınızda (ör. Mi Hesabı, Exchange, Google vb.) Tekrar oturum açmanız gerekir.</string>
+  <string name="trans_intro_desc_multiapp">"Mi Transfer, dosyalar arasındaki çakışmaları önlemek için Klonlu uygulamaların verilerini aktarmaz."</string>
+  <string name="trans_intro_desc_multiuser">"Mi Transfer, İkinci alandaki öğelere erişemez, öğeleri Birinci alana taşıyın ve Mi Transfer'ı orada başlatın."</string>
+  <string name="trans_intro_desc_new">"\"Alıcıyım\" seçeneğine dokunun. Bir QR kodu oluşturulacak."</string>
+  <string name="trans_intro_desc_old">"\"Göndericiyim\" seçeneğine dokunun. İlk telefondan QR kodunu tarayın, Mi Transfer'ın hangi dosyaların gönderileceğini bulana kadar beklyin ve \"Gönder\" seçeneğine dokunun."</string>
+  <string name="trans_intro_desc_private">"Mi Transfer, gizli oldukları için gizli albümdeki fotoğraflara erişemez, bu fotoğrafları Mi Bulut'tan yeni bir cihaza geri yükleyebilirsiniz."</string>
+  <string name="trans_intro_question_1">"1. Mi Transfer'ı nasıl kullanabilirim?"</string>
+  <string name="trans_intro_question_2">2. Mi Transfer belirli bir adımda takılırsa ne yapmam gerekir?</string>
+  <string name="trans_intro_question_3">"3. Neden transferler sırasında WLAN kullanamıyorum?"</string>
+  <string name="trans_intro_question_4">"4. Mi Transfer bana neden eski telefonumda yeterli yer kalmadığını söylüyor?"</string>
+  <string name="trans_intro_question_5">"5. Neden bazı uygulamalar başarılı bir şekilde aktarılamadı?"</string>
+  <string name="trans_intro_question_6">"6. Neden bazı uygulamalar yeni bir cihazda başlamıyor?"</string>
+  <string name="trans_intro_question_7">"7. Neden WeChat geçmişi tamamen aktarılamadı?"</string>
+  <string name="trans_intro_question_8">"8. Hangi öğelerler aktarılamıyor?"</string>
+  <string name="trans_intro_title">SSS</string>
+  <string name="trans_intro_title_account">Hesaplar ve Şifreler:</string>
+  <string name="trans_intro_title_multiapp">Klonlu Uyg. Verisi:</string>
+  <string name="trans_intro_title_multiuser">İkinci Alan Verisi:</string>
+  <string name="trans_intro_title_new">Yeni Telefon:</string>
+  <string name="trans_intro_title_old">Önceki Telefon:</string>
+  <string name="trans_intro_title_private">Gizli Albüm:</string>
   <string name="trans_main_tutor">Kişileri, arama geçmişinizi, ayarlarınızı, uygulamalarınızı ve ana ekran düzenini yeni cihazınıza Transfer edin.</string>
   <string name="trans_my_device">Cihazım</string>
   <string name="trans_native_no_space">"Bu cihazda yeterli depolama alanı yok
@@ -290,9 +317,9 @@ Lütfen en az %s kadar boş alan temizleyin"</string>
 2. Uygulamayı açın ve [Göndericiyim] seçeneğini seçin
 3. Eski aygıtla QR kodunu tarayın"</string>
   <string name="trans_operate_old_phone_tips2">"Ayarlar &gt; Ek Ayarlar &gt; Transfer yerinde [Göndericiyim] seçeneğini seçin"</string>
-  <string name="trans_operate_reconnect_new_tips">"Yeni telefonda \"Cihaz bağlantısı kesildi\" gözükene kadar bekleyin.
+  <string name="trans_operate_reconnect_new_tips">"Yeni telefonda \"Bağlantı kesildi\" gözükene kadar bekleyin.
 O zaman [Yeniden Bağlan] seçeneğiyle QR kodunu oluşturun."</string>
-  <string name="trans_operate_reconnect_old_tips">"Eski telefonda \"Cihaz bağlantısı kesildi\" gözükene kadar bekleyin.
+  <string name="trans_operate_reconnect_old_tips">"Önceki telefonda \"Bağlantı kesildi\" gözükene kadar bekleyin.
 O zaman [Yeniden Bağlan] seçeneğiyle QR kodunu tarayın."</string>
   <string name="trans_please_waiting">Biraz bekleyin...</string>
   <string name="trans_progress_subdescript_br_receiver"> %1$s geri yükleniyor, %2$s tamamlandı</string>
