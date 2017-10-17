@@ -31,7 +31,7 @@
   <string name="alert_dialog_yes">Evet</string>
   <string name="antispam_local_marked">Yerel işaretli</string>
   <string name="antispam_marked_count">%1$d MIUI kullanıcısı tarafından bildirildi</string>
-  <string name="antispam_notification_title">Bilinmeyen numara</string>
+  <string name="antispam_notification_title">Bilinmeyen Numara</string>
   <string name="antispam_provider">%s tarafından tespit edildi</string>
   <string name="apn_settings">Erişim Noktasının Adları</string>
   <string name="areacode_set_default">Varsayılan olarak ayarla</string>
@@ -151,6 +151,7 @@
   <string name="card_title_video_call_paused">Görüntü durduruldu</string>
   <string name="card_title_video_conf_call">Görüntülü Konferans Çağrısı</string>
   <string name="card_video_hold_swap">Değiştir</string>
+  <string name="change_to_voice_tips_when_background">Sesli çağrı için diğer grup değişti</string>
   <string name="cb_all_languages">Tüm Diller</string>
   <string name="cb_channel_dialog_channel_name">Kanal Adı (0-10 karakter)</string>
   <string name="cb_channel_dialog_channel_number">Kanal Numarası (0-65534)</string>
@@ -820,8 +821,8 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="respond_via_sms_canned_response_3">"Daha sonra arayacağım."</string>
   <string name="respond_via_sms_canned_response_4">"Şu anda konuşamıyorum. Daha sonra arar mısın?"</string>
   <string name="respond_via_sms_confirmation_format">Mesaj, %s numaralı telefona gönderildi.</string>
-  <string name="respond_via_sms_custom_message">Size yazılıyor...</string>
-  <string name="respond_via_sms_edittext_dialog_title">Hızlı cevapla</string>
+  <string name="respond_via_sms_custom_message">Özel Mesaj</string>
+  <string name="respond_via_sms_edittext_dialog_title">Hızlı Cevapla</string>
   <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Hızlı Cevaplar</string>
   <string name="respond_via_sms_setting_title_2">Hızlı Cevapları Düzenle</string>
@@ -1027,7 +1028,7 @@ Bu sorun devam ederse operatörünüze danışın."</string>
   <string name="vt_iot_error_01">Görüntülü görüşme kurulamıyor</string>
   <string name="vt_iot_error_02">Telefon meşgul</string>
   <string name="vt_iot_error_03">Cevap yok</string>
-  <string name="vt_iot_error_04">Ağ meşgul</string>
+  <string name="vt_iot_error_04">Şebeke meşgul</string>
   <string name="vt_local_video_brightness">Yerel video parlaklığı</string>
   <string name="vt_local_video_contrast">Yerel video karşıtlığı</string>
   <string name="vt_local_video_display">Yerel video ekranı</string>
