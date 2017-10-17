@@ -3,7 +3,7 @@
   <string name="add_alarm">Alarm ekle</string>
   <string name="add_timezone_title">Zaman Dilimi Ekle</string>
   <string name="alarm_alert">Varsayılan zil sesi</string>
-  <string name="alarm_alert_alert_silenced">Alarm %d dakika sonra susturulur.</string>
+  <string name="alarm_alert_alert_silenced">Alarm %d dakika sonra susturulacak.</string>
   <string name="alarm_alert_snooze_set">%d dakika ertelendi.</string>
   <string name="alarm_ascending_mode_summary">Alarm sesi yavaş yavaş yükselir</string>
   <string name="alarm_ascending_mode_title">Artan alarm sesi</string>
@@ -118,11 +118,11 @@
   <string name="search_timer_keywords">Zamanlayıcı</string>
   <string name="search_worldclock_keywords">Zaman;Dünya Saati;Saat</string>
   <string name="set_alarm">Alarmı Ayarla</string>
-  <string name="setting_alarm_arriving_summary">Zil çalmadan önce bir bildirim gönder</string>
+  <string name="setting_alarm_arriving_summary">Zil çalmadan önce bildirim göster</string>
   <string name="setting_alarm_arriving_title">Zilden Önce Bildirim</string>
   <string name="settings">Ayarlar</string>
-  <string name="shutdown_alarm_disable_summary">Telefon kapatıldığında alarm çalmaz</string>
-  <string name="shutdown_alarm_enable_summary">Telefon kapatıldığında alarm çalar</string>
+  <string name="shutdown_alarm_disable_summary">Telefon kapatıldığında alarm çalmasın</string>
+  <string name="shutdown_alarm_enable_summary">Telefon kapatıldığında alarm çalsın</string>
   <string name="shutdown_alarm_title">Kapalıyken Alarm Durumu</string>
   <string name="silent_alarm_summary">Sessiz</string>
   <string name="skip_alarm_once_hint">%s bir kez devre dışı bırak</string>
@@ -153,7 +153,7 @@
   <string name="timer_continue">Devam</string>
   <string name="timer_delete">Kaldır</string>
   <string name="timer_got_it">Tamam</string>
-  <string name="timer_item_duration_display">%1$d dak %2$d san</string>
+  <string name="timer_item_duration_display">%1$ddak %2$dsan</string>
   <string name="timer_item_label_hint">Zamanlayıcı Adı</string>
   <string name="timer_item_picker_hour">S</string>
   <string name="timer_item_picker_minute">Dak</string>
@@ -166,9 +166,9 @@
   <string name="today">Bugün</string>
   <string name="tomorrow">Yarın</string>
   <string name="turn_off_a_repeat_alarm">Tekrarlanan Alarmı Kapat</string>
-  <string name="turn_off_this_repeat_alarm">Tekrarlanan Bu Alarmı Kapat</string>
-  <string name="upcoming_alarm"> Gelen Alarm</string>
-  <string name="upcoming_alarm_hint">Önceden bu alarmı kapatabilirsiniz</string>
+  <string name="turn_off_this_repeat_alarm">Tekrarlanan Alarmı Kapat</string>
+  <string name="upcoming_alarm">" Gelen Alarm "</string>
+  <string name="upcoming_alarm_hint">Bu alarmı önceden kapatabilirsiniz</string>
   <string name="vibrate_pref_summary">Alarm çaldığında titret</string>
   <string name="vibrate_when_ringing">Alarm çaldığında titret</string>
   <string name="volume_button_dialog_title">Tuş Fonksiyonu</string>
