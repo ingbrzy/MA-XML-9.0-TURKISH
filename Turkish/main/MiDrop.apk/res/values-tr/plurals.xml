@@ -49,8 +49,8 @@
         <item quantity="one">%1$s dosya alınıyor…</item>
     </plurals>
     <plurals name="notif_receive_cancel">
-        <item quantity="other">%1$s dosya transfer edilmedi</item>
-        <item quantity="one">%1$s dosya transfer edilmedi</item>
+        <item quantity="other">%1$s dosya transferi iptal edildi</item>
+        <item quantity="one">%1$s dosya transferi iptal edildi</item>
     </plurals>
     <plurals name="notif_receive_success">
         <item quantity="other">%1$s dosyalar alındı</item>
