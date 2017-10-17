@@ -276,7 +276,7 @@
   <string name="callFailed_cdma_call_limit">Çok fazla etkin görüşme var. Lütfen, yeni bir çağrı almadan önce mevcut aramaları bitirin veya birleştirin.</string>
   <string name="callFailed_channel_unacceptable">Kanal kabul edilemez</string>
   <string name="callFailed_conditional_IE_error">Koşullu IE hatası</string>
-  <string name="callFailed_congestion">Ağ meşgul</string>
+  <string name="callFailed_congestion">Şebeke meşgul</string>
   <string name="callFailed_data_disabled">Hücresel veri devre dışı bırakıldığından arama sona erdi.</string>
   <string name="callFailed_data_limit_reached">Veri sınırına ulaşıldı. Arama sona erdi.</string>
   <string name="callFailed_data_limit_reached_description">Hücresel veri limitine ulaşıldığından arama sona erdi.</string>
