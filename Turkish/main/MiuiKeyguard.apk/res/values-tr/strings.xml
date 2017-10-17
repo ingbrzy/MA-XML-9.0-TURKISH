@@ -164,7 +164,7 @@
   <string name="notification_voicemail_title">Yeni Sesli Mesaj</string>
   <string name="notification_voicemail_title_count">Yeni Sesli Mesaj (%d)</string>
   <string name="open_camera_hint_text">%s açmak için sola kaydırın </string>
-  <string name="open_remote_center_hint_text">%s açmak için sağa kaydırın </string>
+  <string name="open_remote_center_hint_text">Uzaktan Kumandayı açmak için sağa kaydırın </string>
   <string name="open_wifi_settings">Ağ bağlantısını aç</string>
   <string name="phone_locked_foget_password">Şifremi unuttum</string>
   <string name="phone_locked_foget_password_content">"Bu cihazla ilişkili Mi Hesabı kullanarak i.mi.com'da oturum açabilir ve tüm verileri silebilirsiniz. Bu cihazda depolanan tüm kişisel veriler silinecektir. Bundan sonra, cihazı yeniden başlatabilir ve kişileri, mesajları, fotoğrafları ve diğer öğeleri Mi Bulut'tan geri yükleyebilirsiniz. 
