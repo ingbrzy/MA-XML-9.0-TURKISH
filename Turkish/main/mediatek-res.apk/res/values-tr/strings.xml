@@ -6,6 +6,7 @@
   <string name="MMRejectCause3">MM #3 SIM izin verilmedi </string>
   <string name="MMRejectCause5">Çağrı MM #5 başarısız</string>
   <string name="MMRejectCause6">Telefona MM #6 izni verilmedi</string>
+  <string name="Midnight">Geceyarısı</string>
   <string name="Pin2Mmi">PIN2 değiştir</string>
   <string name="Puk2Mmi">PIN2 kilidi aç</string>
   <string name="PukMmi">PIN kilidi aç</string>
@@ -80,6 +81,7 @@
   <string name="day_concat">", "</string>
   <string name="day_month_year_wday" formatted="false">%s %s %s, %s</string>
   <string name="day_year_month_wday" formatted="false">%s %s %s, %s</string>
+  <string name="default_wallpaper_name">Varsayılan</string>
   <string name="delete">Sil</string>
   <string name="deleteApp">Uygulamayı Kaldır</string>
   <string name="deleteMail">Postaları yedekle ve depolamayı boşalt</string>
@@ -287,9 +289,11 @@ Lütfen, %d saniye sonra tekrar deneyin."</string>
   <string name="save_password_never">Asla</string>
   <string name="save_password_notnow">Şimdi değil</string>
   <string name="save_password_remember">Hatırla</string>
+  <string name="sdcard_default_path_change">Varsayılan yazma diski değişti.</string>
   <string name="sd_accessing_swtich_user_message">Sahibin hesabındaki kaydedilmemiş veriler tümü kaybolur veya zarar görür.</string>
   <string name="sd_accessing_swtich_user_title">Kullanıcı değiştirilsin mi?</string>
   <string name="sdcard_ready_title">SD kart hazır</string>
+  <string name="sdcard_select_default_path">Varsayılan yazma diskini değiştirmek istiyor musunuz?</string>
   <string name="searching_simcard">Belirleniyor...</string>
   <string name="serviceClassVideo">Video</string>
   <string name="serviceProvisioned">Hizmet sağlanamadı.</string>
@@ -413,6 +417,7 @@ Lütfen, %d saniye sonra tekrar deneyin."</string>
   <string name="wifi_display_wifi_network_disconnected">%1$s WLAN bağlantısı kesildi.</string>
   <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">Kablosuz Ekran cihazına bağladığınızda geçerli Doğrudan WLAN bağlantısı kesilecektir. Devam etmek istiyor musunuz?</string>
   <string name="wifi_p2p_frequency_conflict_message">"Telefon %1$s bağlandığında WLAN bağlantısı geçici olarak kesilir (Yalnızca geçerli WLAN erişim noktasının kanal bandını ve ID'sini %2$s'ye değiştirirseniz.)"</string>
+  <string name="wifi_tether_configure_ssid_default_for_cmcc">MTK Athens15</string>
   <string name="wifi_wps_failed_overlap">Başka bir WPS oturumu saptandı. Lütfen birkaç dakika içinde tekrar deneyin.</string>
   <string name="wikiPediaName">Vikipedi</string>
   <string name="year_day_month_wday" formatted="false">%s %s %s, %s</string>
