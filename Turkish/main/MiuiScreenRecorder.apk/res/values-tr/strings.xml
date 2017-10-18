@@ -14,7 +14,7 @@
   <string name="button_goon_recorder">Devam</string>
   <string name="cancel_edit">İptal</string>
   <string name="cannot_change_parames">"Kayıt esnasından parametre değiştirilemez"</string>
-  <string name="cannot_record">"Kaydedilemedi, lütfen sonra yeniden deneyin."</string>
+  <string name="cannot_record">"Kaydedilemedi, sonra yeniden deneyin."</string>
   <string name="date_day"/>
   <string name="date_month">/</string>
   <string name="date_year">/</string>
@@ -22,7 +22,7 @@
   <string name="error_open_file_failed_no_app_found">"Bu dosyayı açacak uygulama bulunamadı"</string>
   <string name="frames">Kare Hızı</string>
   <string name="frames_summary">Daha yüksek kare hızları hareket bulanıklığını azaltır</string>
-  <string name="frequently_click_toast">Hizmet başlatılıyor, lütfen biraz bekleyin</string>
+  <string name="frequently_click_toast">Biraz bekleyin...</string>
   <string name="gleam_led_while_recording">Kayıt esnasında bildirim ışığı yansın</string>
   <string name="hint_back">Geri</string>
   <string name="hint_home">Ana Sayfa</string>
@@ -47,8 +47,8 @@
   <string name="operation_delete">Sil</string>
   <string name="operation_send">Gönder</string>
   <string name="quit_recording">Ekran Kaydediciden Çık</string>
-  <string name="recording_failure">Son kayıt başarısız, lütfen Ekran Kaydediciyi yeniden başlatın</string>
-  <string name="recording_max_size">Kayıt durduruldu ve azami video boyutundan dolayı otomatik kaydedildi. Diğer bir kayıtı başlatıp, devam edebilirsiniz.</string>
+  <string name="recording_failure">Kaydedilemedi, yeniden başlayın</string>
+  <string name="recording_max_size">Video limiti aşıldığı için kayıt durduruldu ve video kaydedildi. Kaydiniz bitmemişse kaldığınız yerden kayda başlayabilirsiniz.</string>
   <string name="resolution">Çözünürlük</string>
   <string name="resolution_summary">Daha yüksek çözünürlüklü videolar daha keskin görünür</string>
   <string name="screen_orientation">Döndür</string>
