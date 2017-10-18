@@ -1034,7 +1034,6 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="photo_editor_navigator_export">Bitir</string>
   <string name="photo_editor_navigator_download_network_metered_msg">%s indirilmesi için 4MB mobil veri kullanmaya ihtiyacı var. Şimdi indirilsin mi?</string>
   <string name="photo_editor_navigator_download_network_metered_title">Veri Kullanım Uyarısı</string>
-  <string name="photo_editor_navigator_export">Kaydet</string>
   <string name="photo_editor_navigator_module_download_failed">"%s indirilemedi"</string>
   <string name="photo_editor_navigator_module_download_now">İndir</string>
   <string name="photo_editor_navigator_module_download_success">Başarıyla indirildi</string>
