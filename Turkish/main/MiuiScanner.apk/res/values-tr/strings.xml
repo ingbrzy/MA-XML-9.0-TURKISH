@@ -6,7 +6,7 @@
   <string name="action_search">Ara</string>
   <string name="address">Adres:</string>
   <string name="allow_check_website_security">Websitesi güvenlik bildirimlerini göster</string>
-  <string name="app_description_content">Tarayıcı QR kodlarını, kartvizitleri ve belgeleri tarayabilir. Uygulamayı silmeden önce bu özelliklere sahip olup-olmadığınızdan emin olun.</string>
+  <string name="app_description_content">Tarayıcı QR kodlarını, kartvizitleri, belgeleri ve daha pek çok şeyi tarayabilir. Uygulamayı silmeden önce bu özelliklere sahip uygulamanın olup-olmadığından emin olun.</string>
   <string name="app_description_title">Tarayıcı Hakkında</string>
   <string name="app_details">Uygulama:</string>
   <string name="app_name">Tarayıcı</string>
@@ -58,7 +58,7 @@
   <string name="document_ocr_tip_msg">Okunuyor…</string>
   <string name="document_ocr_vendor_info">OCR, Kingsoft tarafından güçlendirildi</string>
   <string name="document_recognize_fail_tip">"Döküman okunamadı"</string>
-  <string name="document_recognize_null_tip">Döküman sonucu boş</string>
+  <string name="document_recognize_null_tip">Döküman tanımlanamadı</string>
   <string name="document_rectify">Ayarla</string>
   <string name="document_rectify_tip_msg">Ayarlanıyor…</string>
   <string name="document_save_succeed_tip">%1$s döküman kaydedildi</string>
@@ -71,6 +71,7 @@
   <string name="error_cannot_connect_camera">"Kameraya bağlanamadı"</string>
   <string name="error_day_limit">1 günde aşırı girişim</string>
   <string name="error_empty_result">"Sonuç bulunamadı"</string>
+  <string name="error_get_image">"Resim alınamadı"</string>
   <string name="error_hour_limit">1 saatte aşırı girişim</string>
   <string name="error_image_error">"Bu fotoğraf tanımlanamadı"</string>
   <string name="error_invalid_request">Doğruluk hatası</string>
