@@ -445,12 +445,12 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="recents_drag_hint_message">Öğeyi buraya taşıyın</string>
   <string name="recents_empty_message">Geçmiş öğesi yok</string>
   <string name="recents_empty_message_dismissed_all">Tüm öğeleri kaldırdınız</string>
-  <string name="recents_empty_message_multi_window">Açık uygulamalar için Ana Ekrana git</string>
+  <string name="recents_empty_message_multi_window">Uygulamaları Ana Ekranda aç</string>
   <string name="recents_exit_multi_window_mode">Çık</string>
   <string name="recents_incompatible_app_message">"Uygulama Bölünmüş Ekranı desteklemiyor"</string>
-  <string name="recents_launch_disabled_message">%s Güvenli Modda durduruldu</string>
+  <string name="recents_launch_disabled_message">%s Güvenli Modda başlatılamaz</string>
   <string name="recents_launch_error_message">%s başlatılamadı.</string>
-  <string name="recents_lock_to_app_button_label">Ekranı düzelt</string>
+  <string name="recents_lock_to_app_button_label">Ekranı iğnele</string>
   <string name="recents_multi_window_mode">Ekranı böl</string>
   <string name="recents_multistack_add_stack_dialog_split_custom">Özl</string>
   <string name="recents_multistack_add_stack_dialog_split_horizontal">Yatay böl</string>
