@@ -912,7 +912,7 @@ Yinede yeni sağlayıcıya geçilsin mi?"</string>
   <string name="gsm_umts_options">GSM/UMTS Seçenekleri</string>
   <string name="hac_mode_summary">İşitme cihazı uyumluluğu aç</string>
   <string name="hac_mode_title">İşitme Cihazları</string>
-  <string name="handon_ringer_summary">"Telefon yükseltildiğinde gelen aramanın zil sesini azaltır. Gelen aramalar için titreşim açıkken bu özellik çalışmaz."</string>
+  <string name="handon_ringer_summary">"Telefon yükseltildiğinde gelen aramanın zil sesini azaltır."</string>
   <string name="handon_ringer_title">Kaldırırken zil sesini sessize al</string>
   <string name="hdcp_checking_dialog_title">HDCP kontrol davranışını ayarla</string>
   <string name="hdcp_checking_title">HDCP denetleniyor</string>
@@ -2076,7 +2076,7 @@ Sonraki Zamana: %2$d gün (%3$s)"</string>
   <string name="tty_mode_not_allowed_vt_call">Görüntülü görüşme esnasında TTY Moduna geçmeye izin verilmez</string>
   <string name="tty_mode_option_summary">TTY Modunu Ayarla</string>
   <string name="tty_mode_option_title">TTY Modu</string>
-  <string name="turnover_mute_summary">Telefon tersine çevrildiğinde zil sesini sustur, bu özellik gelen çağrıda titreşim açıksa çalışmaz.</string>
+  <string name="turnover_mute_summary">Telefon tersine çevrildiğinde zil sesini sustur.</string>
   <string name="turnover_mute_title">Zil sesini susturmak için çevirin</string>
   <string name="unable_dial_livetalk">"Aramayı tamamlanamadı"</string>
   <string name="unblock_pin2">PIN2 engelini kaldır</string>
