@@ -188,4 +188,20 @@
         <item quantity="other">%1$d yeni fotoğraf bulundu</item>
         <item quantity="one">Yeni bir fotoğraf bulundu</item>
     </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">\"%2$s\", %1$d fotoğraf kaldırıldı.</item>
+        <item quantity="one">\"%2$s\", %1$d fotoğraf kaldırıldı.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">\"%2$s\", %1$d fotoğraf kaldırıldı ve veritabanı için eklendi.</item>
+        <item quantity="one">\"%2$s\", %1$d fotoğraf kaldırıldı ve veritabanı için eklendi.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">\"%2$s\" için %1$d fotoğraf eklendi.</item>
+        <item quantity="one">\"%2$s\" için %1$d fotoğraf eklendi.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">\"%2$s\" için %1$d fotoğraf veritabanı için de eklendi.</item>
+        <item quantity="one">\"%2$s\" için %1$d fotoğraf veritabanı için de eklendi.</item>
+    </plurals>
 </resources>
