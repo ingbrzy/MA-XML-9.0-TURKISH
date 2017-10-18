@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="check_importance_entries">
+        <item>Tavsiyeli</item>
+        <item>Önemli</item>
+        <item>Önemsiz</item>
+    </string-array>
+    <string-array name="check_importance_summary">
+        <item>MIUI hangi bildirimlerin doğrudan görünmesi gerektiğine karar versin</item>
+        <item>Bildirimler bildirim alanında görünsün</item>
+        <item>Bildirimler ayrı bir klasörde görünsün</item>
+    </string-array>
     <string-array name="wifi_status">
         <item></item>
         <item>Taranıyor…</item>
@@ -175,6 +185,11 @@
     <string-array name="status_bar_style_entries">
         <item>Birleştirilmiş</item>
         <item>Ayrı Ayrı</item>
+    </string-array>
+    <string-array name="status_bar_show_carrier_entries">
+        <item>Sadece kilit ekranında ve bildirim panelinde göster</item>
+        <item>Daima operatör adını göster</item>
+        <item>Operatör adını asla gösterme</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>Amerika</item>
@@ -846,10 +861,10 @@ Not: Sadece Ubuntu 8.04 için!"</item>
         <item>Sağ El Stili</item>
         </string-array>
     <string-array name="edge_touch_volume_action">
-        <item>Ayarlamayı tıklayın - Çift tıklama tetiklenir</item>
-        <item>Kayma ayarı - Kayma tetiklenir</item>
-        <item>Ayarlamayı tıklayın - Tıklama tetiklenir</item>
-        <item>Ayarlamayı tıklayın - Uzun tıklama tetiklenir</item>
+        <item>Ayarlamak için basın - Tetiklemek için iki kez basın</item>
+        <item>Ayarlamak için basın - Tetiklemek için iki kez basın...</item>
+        <item>Ayarlamak için kaydırın - Tetiklemek için kaydırın...</item>
+        <item>Ayarlamak için basın - Tetiklemek için basın ve basılı tutun</item>
     </string-array>
     <string-array name="city_name">
         <item>Abidjan</item>
