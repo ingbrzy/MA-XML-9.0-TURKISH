@@ -36,7 +36,7 @@
   <string name="face_data_manage_unlock_title">Yüz verisi kullanarak cihazın kilidini aç</string>
   <string name="face_data_suggesstion_first">Yüz verisini kullanarak kilidi açmak; şifreyi girmekten daha güvenli değildir. Cihazın size benzeyenler tarafından açılabileceğini unutmayın.</string>
   <string name="face_data_suggesstion_second">"Yüzünüzün herhangi bir obje ile kapalı olmadığından ve görünümün güzel olmasından emin olun. Yüzünüz doğal halinde olmalı."</string>
-  <string name="face_unlock_adjust_distance">Yüzünüz ile cihaz arasında ideal bir mesafe olmalı.</string>
+  <string name="face_unlock_adjust_distance">Yüzünüz ile ekran arasında ideal bir mesafe olmalı.</string>
   <string name="face_unlock_be_on_the_screen">Cihazın ön kamerasını yüzünüze tutun</string>
   <string name="face_unlock_by_notification_screen_on_msg">Gelen bildirim ışıkları yandığında; yüz verisini kullanarak ekranın ışığını açabilirsiniz. Sürekli ekranı aydınlatmak, pilin daha hızlı bitmesine sebep olur.</string>
   <string name="face_unlock_by_notification_screen_on_title">Bildirim ışığı yandığında yüzü kullanarak ekran ışığını açmaya izin ver</string>
@@ -79,7 +79,7 @@
   <string name="input_password_after_boot_msg">"Cihaz yeniden başladıktan sonra şifreyi girmeniz gerekecek."</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Görüşme esnasındaki boşluklar arasında geçiş yapılamaz"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Cihaz yeniden başlatıldıktan sonra İlk Alana girmeniz gerekiyor</string>
-  <string name="input_password_handle_sdcard_fs">İkinci Alana girmeden önce \"SD Kartı iyileştirmeye çalış\" kapatılmalı.</string>
+  <string name="input_password_handle_sdcard_fs">İkinci Alana girmeden önce \"SD Kartı Bağla\" kapatılmalı.</string>
   <string name="input_password_hint_text">Şifreyi girin</string>
   <string name="input_pattern_hint_text">Deseni açma desenini çizin</string>
   <string name="input_pin_code">PIN kodunu girin</string>
