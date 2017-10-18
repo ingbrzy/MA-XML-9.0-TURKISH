@@ -54,8 +54,8 @@
   <string name="mark_point_list_title">İşaretliler</string>
   <string name="message_file_size_error">%s tarafından desteklenen kayıt azami uzunluğa ulaşmıştır.</string>
   <string name="network_tip_dialog_cancel">İptal</string>
-  <string name="network_tip_dialog_content">Konuşma tanınması motorunun normal çalışabilmesi için internete bağlanması gerekiyor.</string>
-  <string name="network_tip_dialog_ok">İzin ver</string>
+  <string name="network_tip_dialog_content">Kaydedicinin internete bağlanması ve normal şekilde çalışması için kişilerinizi okuması gerekiyor. Kabul ediyor musunuz?</string>
+  <string name="network_tip_dialog_ok">Kabul et</string>
   <string name="network_tip_dialog_title">İnternet bağlantısı gerekiyor</string>
   <string name="new_record_name">Yeni kayıt</string>
   <string name="no_downloading_file">Şu anda yüklenmek üzere hiçbir dosya yok</string>
