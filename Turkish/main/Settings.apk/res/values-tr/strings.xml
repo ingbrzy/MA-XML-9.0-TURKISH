@@ -176,19 +176,19 @@ Not: Büyütme için üç kez dokunun, klavye ve gezinme çubuğu hariç her yer
   <string name="add_facerecoginition_text">Yüz verisi ekle</string>
   <string name="add_fingerprint_done_msg">Şimdi parmakizi ile bu cihazın kilidi açılabilir.</string>
   <string name="add_fingerprint_done_title">"Artık hazırsın!"</string>
-  <string name="add_fingerprint_edge_instruction_msg">Parmağınız kenarlara doğru kaydırırsanız sensör parmakizinizi kaydeder.</string>
-  <string name="add_fingerprint_edge_instruction_title">Parmağınızı hafifçe kaydırın</string>
+  <string name="add_fingerprint_edge_instruction_msg">Sensörün parmakizinizin kenarlarını kaydedecek şekilde parmağınızı hareket ettirin.</string>
+  <string name="add_fingerprint_edge_instruction_title">Parmağını hafifçe hareket ettirin</string>
   <string name="add_fingerprint_failed_retry_text">"Parmakizi eklenemiyor, yeniden deneyin"</string>
   <string name="add_fingerprint_finished_button_text">Tamam</string>
   <string name="add_fingerprint_instruction_dialog_msg">"Parmakizi bilgileri eklemek için, parmakizi okuyucu üzerinde parmağınızı koyun.
 Parmağınızın sensörün iç kenarını kapsadığından emin olun"</string>
-  <string name="add_fingerprint_instruction_msg">Cihazınızın kilidini açın veya parmakizi ile ödemenizi doğrulayın</string>
-  <string name="add_fingerprint_instruction_title">Parmakizi okuyucuya parmağınızı yerleştirin</string>
+  <string name="add_fingerprint_instruction_msg">Parmakizi sensörü, cihazınızın Ana Ekran düğmesinde bulunur.</string>
+  <string name="add_fingerprint_instruction_title">Parmakizinizi Ekleyin</string>
   <string name="add_fingerprint_name_suggest_text">Parmakizi Adı</string>
-  <string name="add_fingerprint_put_finger_edge_msg">Yerleştirin ve parmakizi tamamen kaydedilene kadar art arda parmağınızı kaldırın.</string>
-  <string name="add_fingerprint_put_finger_msg">Yerleştirin ve parmakizi tamamen kaydedilene kadar art arda parmağınızı kaldırın.</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Parmağınızın hafifçe hareket ettirin ve parmakizinizin tüm farklı kısımlarını eklemek için tekrar sensöre koyun.</string>
+  <string name="add_fingerprint_put_finger_msg">Parmağınızı sensöre yerleştirin ve bir titreşim hissettikten sonra kaldırın.</string>
   <string name="add_fingerprint_put_finger_title">Parmakizi ekle</string>
-  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Parmağınızın tüm bölümünü taramak için birkaç kez sensöre dokunarak hareket ettirin.</string>
+  <string name="add_fingerprint_similar_fingerprint_input_error_msg">Parmağını hafifçe hareket ettirin</string>
   <string name="add_fingerprint_success_msg">Başarıyla eklendi</string>
   <string name="add_fingerprint_text">Parmakizi ekle</string>
   <string name="add_fingerprint_toast_text">Sensöre parmağınızı koyun</string>
@@ -196,9 +196,9 @@ Parmağınızın sensörün iç kenarını kapsadığından emin olun"</string>
   <string name="add_new">Ekle</string>
   <string name="add_rule">Kural ekle</string>
   <string name="add_virtual_keyboard">Klavyeleri Yönet</string>
-  <string name="adding_profile_owner_warning">"Devam ettiğinizde, kullanıcınız sizin yöneticiniz tarafından idare edilecek. Kişisel verilere ek olarak, ilişkili verileri depolamak mümkün olabilir.
+  <string name="adding_profile_owner_warning">"Devam ederek, kullanıcı, kişisel verilerinize ek olarak ilişkili verileri de saklayabilecek olan Yönetici tarafından yönetilecek.
 
-Yöneticiniz; erişim, uygulamalar, cihaz konum bilgisi, ağ etkinliği ve ayarları izleme ve yönetme yetkisine sahiptir."</string>
+Yöneticiniz, ağ etkinliği ve cihazınızın konum bilgisi de dahil olmak üzere bu Kullanıcı ile ilişkili ayarları, erişimi, uygulamaları ve verileri izleyebilir ve yönetebilir. "</string>
   <string name="additional_permissions">Ek İzinler</string>
   <string name="additional_permissions_more">%1$d fazlası</string>
   <string name="additional_system_update"/>
@@ -634,8 +634,8 @@ Bir cihazı diğer cihaza dokundurarak (genellikle sırt sırta), istenilen uygu
   <string name="bind_xiaomi_account_success">Mi Hesabı başarıyla eklendi</string>
   <string name="binded_xiaomi_summary">Geçerli Hesap: %s</string>
   <string name="biometric_weak_improve_matching_title">Yüz eşleştirmeyi iyileştir</string>
-  <string name="biometric_weak_liveliness_summary">Kilit açma sırasında göz kırpmak gerekir</string>
-  <string name="biometric_weak_liveliness_title">Canlılık Denetimi</string>
+  <string name="biometric_weak_liveliness_summary">Kilidini açmak için yanıp-sönme isteğinde bulunun</string>
+  <string name="biometric_weak_liveliness_title">Gerçek Kişi Kontrolü</string>
   <string name="ble_scan_notify_text">Konum hassasiyetini arttırmak için; sistem uygulamaları ve hizmetlerini Bluetooth cihazlar tespit edebilir. Bunu değiştirmek için LINK_BEGINTarama AyarlarıLINK_END seçeneğini kullanabilirsiniz.</string>
   <string name="block_list_connected_devices">Bağlanan Cihazlar</string>
   <string name="block_list_diaglog_cancle">İptal</string>
@@ -644,9 +644,9 @@ Bir cihazı diğer cihaza dokundurarak (genellikle sırt sırta), istenilen uygu
   <string name="block_list_dialog_title">Bağlantı kesilsin mi?</string>
   <string name="block_list_mtk_dialog_content">Bu işlem "%s" bağlantısını bu cihazdan keser</string>
   <string name="block_list_no_device">Engelli Listeside bağlı cihaz yok</string>
-  <string name="block_list_qcom_dialog_content">Bu işlem "%s" cihazının bağlantısını keser ve bunu engelleme listesine ekler.</string>
-  <string name="block_list_remove_dialog_content">Bu cihaz "%s" bu paylaşımına bağlanabilecek</string>
-  <string name="block_list_remove_dialog_title">“%s” Engelli Listesinden kaldırılsın mı?</string>
+  <string name="block_list_qcom_dialog_content">Bu işlem \"%s\" cihazının bağlantısını keser ve bunu engelleme listesine ekler.</string>
+  <string name="block_list_remove_dialog_content">Bu cihaz \"%s\" bu paylaşımına bağlanabilecek</string>
+  <string name="block_list_remove_dialog_title">\"%s\" Engelli Listesinden kaldırılsın mı?</string>
   <string name="block_list_summary">Bu paylaşıma bağlanmasına izin verilmeyen cihazları görüntüleme</string>
   <string name="block_list_title">Engelli Listesi</string>
   <string name="bluetooth">Bluetooth</string>
@@ -731,6 +731,8 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="bluetooth_enter_pin_msg_hs">Cihaz Yüksek Güvenlikli 16 karakter şifre ister</string>
   <string name="bluetooth_enter_pin_other_device">Ayrıca diğer cihazda bu PIN\'i girmeniz gerekebilir.</string>
   <string name="bluetooth_error_title"/>
+  <string name="bluetooth_filter_device_display">Tümünü göster</string>
+  <string name="bluetooth_filter_device_filter">Tavsiyeleri göster</string>
   <string name="bluetooth_headset_profile_summary_connected">Telefon sesi için bağlandı</string>
   <string name="bluetooth_headset_profile_summary_use_for">Telefon sesi için kullan</string>
   <string name="bluetooth_hid_profile_summary_connected">Giriş cihazı için bağlandı</string>
@@ -906,6 +908,7 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="bt_rarely_used_device_title">Nadiren kullanılan cihazlar (%d)</string>
   <string name="bt_trace_log">Bluetooth izleme günlüğü</string>
   <string name="bt_trace_log_summary">Bluetooth izleme günlüğü</string>
+  <string name="bug_report_settings">Geribildirim</string>
   <string name="bugreport_in_power">Hata raporu kısayolu</string>
   <string name="bugreport_in_power_summary">Hata raporu \"Pil\" menüsü içinden eklenebilir </string>
   <string name="bugreport_tool_log">Hata raporu oluştur</string>
@@ -1026,7 +1029,7 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="charge_length_format">%1$s önce</string>
   <string name="charging_sounds_title">Şarj Sesleri</string>
   <string name="check_find_device_status_failure_confirm">Tamam</string>
-  <string name="check_importance">Ehemmiyetini denetle</string>
+  <string name="check_importance">Önemli olarak işaretlensin mi?</string>
   <string name="check_update">Güncellemeleri denetle</string>
   <string name="checkbox_notification_same_as_incoming_call">Bildirimler için gelen çağrı ses seviyesini kullan</string>
   <string name="checking_decryption">Denetleniyor…</string>
@@ -1057,6 +1060,7 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="clear_uri_btn_text">Erişimi temizle</string>
   <string name="close_app">Geçerli uygulamayı kapat</string>
   <string name="clear_user_data_text">Veriyi Temizle</string>
+  <string name="close_app">Geçerli uygulamayı kapat</string>
   <string name="close_dialog">Tamam</string>
   <string name="close_gesture">Kullanılan büyütmeyi kapat</string>
   <string name="close_install_and_connect">Hayır, teşekkürler</string>
@@ -1168,7 +1172,7 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="contributors_title">Katkıda Bulunanlar</string>
   <string name="controls_label">Kontroller</string>
   <string name="controls_subtitle">Güç kullanımını ayarla</string>
-  <string name="convenience_key_category_title">Kısayollar</string>
+  <string name="convenience_key_category_title">Sistem Kontrolu</string>
   <string name="convert_to_fbe_warning">"Veri bölümünü dosya tabanlı şifrelemeye dönüştürün.
  !!Uyarı!! Bu, tüm verilerinizi silecektir.
  Bu özellik Alfa olup doğru çalışmayabilir.
@@ -1530,7 +1534,7 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="disable_encrypt_title">Şifreleme kapalı</string>
   <string name="disable_overlays">Donanım bindirmeleri devre dışı bırak</string>
   <string name="disable_overlays_summary">Her zaman ekran birleştirme için GPU\'yu kullan</string>
-  <string name="disable_power_key_long_press_under_keyguard">Güç düğme menüsünü kapat</string>
+  <string name="disable_power_key_long_press_under_keyguard">Güç düğmesi menüsünü kapat</string>
   <string name="disable_service_message">Tamam\'a dokununca %1$s durur.</string>
   <string name="disable_service_title">%1$s durdurulsun mu?</string>
   <string name="disable_text">Pasif</string>
@@ -1894,7 +1898,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="fingerprint_enable_keyguard_toggle_title">Kilit Ekranı</string>
   <string name="fingerprint_enroll_button_add">Diğerini Ekle</string>
   <string name="fingerprint_enroll_button_next">Sonraki</string>
-  <string name="fingerprint_first_open_screen_password_face_tittle">Biometrik (Kilit ekran şifresini kullanmadan önce）</string>
+  <string name="fingerprint_first_open_screen_password_face_tittle">Yüz (önce Kilit Ekran şifresini ayarla）</string>
   <string name="fingerprint_first_open_screen_password_tittle">Parmakizi (kullanmadan önce ekran şifresini ayarlayın)</string>
   <string name="fingerprint_for_keyguard_disabled">Güvenlik ayarları tarafından Parmakizi devre dışı bırakıldı.</string>
   <string name="fingerprint_identificating_msg">Parmakizi tarandı...</string>
@@ -2223,7 +2227,7 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="key_combination_power_back">Güç + Geri</string>
   <string name="key_combination_power_home">Güç + Ana Ekran</string>
   <string name="key_combination_power_menu">Güç + Menü</string>
-  <string name="key_gesture_function_dialog_message">%1$s %2$s kısayoludur. %3$s ile değiştirilsin mi?</string>
+  <string name="key_gesture_function_dialog_message">%1$s, %2$s kısayoludur. %3$s ile değiştirilsin mi?</string>
   <string name="key_gesture_function_dialog_negative">İptal</string>
   <string name="key_gesture_function_dialog_positive">Değiştir</string>
   <string name="key_gesture_function_optional">Düğme ve Hareket Seçenekleri</string>
@@ -2231,7 +2235,7 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="key_gesture_function_shortcut">Fonksiyon Kısayolları</string>
   <string name="key_none">Yok</string>
   <string name="key_position_cat">Düğme Pozisyonu</string>
-  <string name="key_settings">Düğme Ayarları</string>
+  <string name="key_settings">Düğme ve Hareket Ayarları</string>
   <string name="key_settings_title">Düğme ve Hareket Kısayolları</string>
   <string name="key_system_control">Sistem Kontrolu</string>
   <string name="keyboard_and_input_methods_category">Klavye ve Giriş Usulleri</string>
@@ -2324,10 +2328,12 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="later">SONRA</string>
   <string name="lattice_smartcover_title">Ön Koruma Kapağı</string>
   <string name="launch_by_default">Varsayılanla aç</string>
+  <string name="launch_camera">Kamerayı başlat</string>
   <string name="launch_count_label">Sayımı Başlat</string>
   <string name="launch_defaults_none">Varsayılan ayarlanamadı</string>
   <string name="launch_defaults_some">Benzerlerini Aynı Ayarla</string>
-  <string name="launch_google_search">"Google Yardımcısını başlat"</string>
+  <string name="launch_google_search">"Google Aramasını başlat"</string>
+  <string name="launch_recents">Geçmişi başlat</string>
   <string name="launch_voice_assistant">Sesli Yardımcıyı başlat</string>
   <string name="launcher_auto_fill_empty_title">Boş Hücreleri Doldur</string>
   <string name="launcher_title">Ana Ekran</string>
@@ -2757,7 +2763,7 @@ Burada diğer kullanıcılar var.
   <string name="memory_media_usage">Medya</string>
   <string name="memory_music_usage">Ses (Müzik, Zil Sesleri, Podcast, vb.)</string>
   <string name="memory_performance">Performans</string>
-  <string name="memory_rightvalue">Mevcut: %s</string>
+  <string name="memory_rightvalue">Toplam: %s</string>
   <string name="memory_settings_title">Hafıza</string>
   <string name="memory_size">Toplam Boyut</string>
   <string name="memory_summary">Yaklaşık %2$s/%1$s hafıza kullanıldı</string>
@@ -3677,7 +3683,7 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="privacy_factory_reset_dlg_title">Verilerinizi yedekleyin</string>
   <string name="privacy_file">Dosyalar</string>
   <string name="privacy_gallery">Fotoğraflar</string>
-  <string name="privacy_header_text_less_than_half">Bu uygulamanın alanı çok az. Ayırıcıya sürükleyin.</string>
+  <string name="privacy_header_text_less_than_half">Çok küçük. Biraz daha genişletin</string>
   <string name="privacy_mms">Mesajlar</string>
   <string name="privacy_mode_dialog_message">Mesajlar, notlar, fotoğraflar, ayarlar ve gelen çağrılar gizlensin mi?</string>
   <string name="privacy_mode_dialog_title">Misafir Modu</string>
@@ -3985,7 +3991,7 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="restriction_nfc_enable_title">NFC (Kablosuz Transfer)</string>
   <string name="restriction_settings_title">Kısıtlamalar</string>
   <string name="restriction_wifi_config_summary">WLAN ve Mobil Ayarlarının değişikliğine izin ver</string>
-  <string name="restriction_wifi_config_title">WLAN ve Mobil</string>
+  <string name="restriction_wifi_config_title">WLAN ve Mobil Ağlar</string>
   <string name="retry">Tekrarla</string>
   <string name="reverse_all">Tümünü Temizle</string>
   <string name="ring_volume_option_title">Zil Seviyesi</string>
@@ -4556,13 +4562,16 @@ Not: Parmakiziniz, güçlü bir desen veya PIN'den daha az güvende olabilir. "&
   <string name="settings_toggle_position_divider_list">Geçişler çubuğun üstünde etkin olsun</string>
   <string name="setup_add_fingerprint_failed_retry_text">Parmakizi eklenemedi"</string>
   <string name="setup_choose_unlock_fingerprint_msg">Ekran Kilidini ayarlamadan önce parmakizini ekleyin.</string>
+  <string name="setup_choose_unlock_mixed_password">Şifre</string>
   <string name="setup_choose_unlock_mixed_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Şifre&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="setup_choose_unlock_mixed_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Şifre&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="setup_choose_unlock_mixpassword_title">Şifreyi Ayarla</string>
+  <string name="setup_choose_unlock_password">PIN</string>
   <string name="setup_choose_unlock_password_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="setup_choose_unlock_password_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;PIN&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="setup_choose_unlock_password_msg">4 rakam girin</string>
   <string name="setup_choose_unlock_password_title">PIN kodunu ayarla</string>
+  <string name="setup_choose_unlock_pattern">Desen</string>
   <string name="setup_choose_unlock_pattern_color_normal">&lt;Data&gt;&amp;lt;font color=#000000&amp;gt;Desen&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="setup_choose_unlock_pattern_color_pressed">&lt;Data&gt;&amp;lt;font color=#009dff&amp;gt;Desen&amp;lt;/font&amp;gt;&lt;/Data&gt;</string>
   <string name="setup_choose_unlock_pattern_title">Desen çizerek kilidi açın</string>
@@ -5188,6 +5197,7 @@ Google veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye
   <string name="tethering_settings_not_available">Paylaşım ayarlarını İlk Alanda değiştirin</string>
   <string name="tethering_settings_summary">"Cihazınızın mobil veri bağlantısını USB veya Mobil Paylaşım ile paylaşın"</string>
   <string name="theme_settings_title">Temalar</string>
+  <string name="thememanager_not_found">"Temalar açılamadı. Uygulamanın yüklendiğinden emin olun."</string>
   <string name="three_gesture_down">3 parmağı aşağı kaydırın</string>
   <string name="time_picker_title">Zaman</string>
   <string name="time_zone_auto_stub">Zaman Dilimini Seç</string>
@@ -5230,7 +5240,7 @@ Google veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye
   <string name="track_frame_time">GPU Sahneleme Profili</string>
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">"Trackball'e Uyandır"</string>
-  <string name="traffic_balance">Akıllı Trafik Stratejisi</string>
+  <string name="traffic_balance">Veri Kullanım Modu</string>
   <string name="trans_backingup">Yedekleniyor…</string>
   <string name="trans_backingup_no_items">Eşitleniyor…</string>
   <string name="trans_calculating">Hesaplanıyor…</string>
@@ -5474,7 +5484,7 @@ Kaydettiğiniz parmakizleri de bu profilden kaldırılacak ve profilinizin kilid
   <string name="unlock_set_do_later_title">Şimdi değil</string>
   <string name="unlock_set_enter_system">Ekran kilidini atla</string>
   <string name="unlock_set_enter_system_summary">Uyanınca direk olarak Ana Sayfaya git</string>
-  <string name="unlock_set_unlock_biometric_weak_summary">Düşük güvenlik, deneyimsel</string>
+  <string name="unlock_set_unlock_biometric_weak_summary">Düşük güvenlikli deneme özelliği</string>
   <string name="unlock_set_unlock_biometric_weak_title">Yüz Tanıma Kilidi</string>
   <string name="unlock_set_unlock_disabled_summary">Yönetici tarafından şifreleme politikası veya kimlik bilgilerini depolama devre dışı bırakıldı.</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">Desen, PIN veya Şifrelemeyi değiştir/kapat</string>
@@ -6043,7 +6053,7 @@ Tanıtımı"</string>
   <string name="wifi_hotspot_message">%1$s ağa bağlanmadan önce çevrimiçi oturum açmanızı gerektirir.</string>
   <string name="wifi_hotspot_title">Bağlanmak için oturum açılsın mı?</string>
   <string name="wifi_in_airplane_mode">Uçak Modunda</string>
-  <string name="wifi_info_reconnect">Bağlanamadı, lütfen daha sonra deneyin!</string>
+  <string name="wifi_info_reconnect">Bağlantı başarısız oldu, lütfen tekrar deneyin!</string>
   <string name="wifi_install_credentials">Sertifikaları Yükle</string>
   <string name="wifi_ip_address">IP Adresi</string>
   <string name="wifi_ip_address_hint">192.168.1.128</string>
