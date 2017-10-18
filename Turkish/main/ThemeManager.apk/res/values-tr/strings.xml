@@ -159,7 +159,6 @@
   <string name="purchased_list_current">İyileştirilmiş Temalar</string>
   <string name="purchased_list_legacy">Eski Temalar</string>
   <string name="purchased_list_format">%1$s satın alındı</string>
-  <string name="purchased_list_legacy">Eski Temalar</string>
   <string name="recently_used">Önceden Kullanılan</string>
   <string name="region_not_support">Maalesef, bölgenizde temalar desteklenmiyor.</string>
   <string name="reload">Yeniden dene</string>
