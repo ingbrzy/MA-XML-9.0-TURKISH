@@ -38,8 +38,8 @@
   <string name="alertdialogtitle">Sonuçlar...</string>
   <string name="allContactdeleteFailed">"SIM kişilerini silemezsiniz"</string>
   <string name="allContactdeleteSuccess">SIM karttaki tüm kişiler silindi</string>
-  <string name="always_enable_mms">Daima MMS al</string>
-  <string name="always_enable_mms_summary">Mobil veri kapalıyken bile MMS al</string>
+  <string name="always_enable_mms">Herzaman MMS Mesajlarını Al</string>
+  <string name="always_enable_mms_summary">Mobil veri kapalıyken bile MMS mesajlarını alır</string>
   <string name="anc_off">Aktif Gürültü Azaltma kapalı</string>
   <string name="anc_on">Aktif Gürültü Azaltma açık</string>
   <string name="anc_title">Aktif Gürültü Azaltma</string>
@@ -350,8 +350,8 @@
   <string name="confirm_save_info_saved_to">Kayıt şuraya saklandı:</string>
   <string name="connect_disconnect_vibrate_none">Titreşimsiz</string>
   <string name="connect_disconnect_vibrate_normal">Normal</string>
-  <string name="connect_disconnect_vibrate_summary">"Aradığınız kişi, çağrıyı yanıtladığı zaman titret"</string>
-  <string name="connect_disconnect_vibrate_title">Aramanız Yanıtlandığında Titret</string>
+  <string name="connect_disconnect_vibrate_summary">"Aradığınız kişi, çağrıyı cevapladığı zaman titret"</string>
+  <string name="connect_disconnect_vibrate_title">Aramanız Cevaplandığında Titret</string>
   <string name="connect_disconnect_vibrate_weak">Bağlantı Kesildiğinde Hafif Titret</string>
   <string name="connect_later">"Şu anda bu ağa bağlanamıyor. Daha sonra tekrar deneyin."</string>
   <string name="contactAddFailed">"SIM karta kişi eklenemedi"</string>
@@ -367,7 +367,7 @@
   <string name="creat_account_error">"Hesap oluşturulamadı. Tekrar denensin mi?"</string>
   <string name="creating_account">Hesap oluşturuluyor…</string>
   <string name="cursorError">İmleç hatası</string>
-  <string name="data_enable_summary">Bu cihazın mobil veri kullanmasına izin ver</string>
+  <string name="data_enable_summary">Bu cihazın mobil veri kullanmasına izin verir</string>
   <string name="data_enabled">Mobil Veri</string>
   <string name="deactivate_all">Tümünü iptal et</string>
   <string name="delete">Sil</string>
@@ -1232,14 +1232,14 @@ SIM kartınız bir sonraki başarısız girişimden sonra kilitlenecek."</string
   <string name="reset_my_choice_hint">Varsayılan İnternetten Arama hesabını Telefon -&gt; Ayarlar -&gt; İnternetten Ara -&gt; Hesaplar altında değiştirebilirsin.</string>
   <string name="respond_via_sms_canned_response_1">"Şimdi konuşamam, lütfen daha sonra arar mısın?"</string>
   <string name="respond_via_sms_canned_response_2">"En kısa sürede seni arayacağım."</string>
-  <string name="respond_via_sms_canned_response_3">"Sonra arayacağım."</string>
-  <string name="respond_via_sms_canned_response_4">"Şu an müsait değilim. Ne oldu?"</string>
+  <string name="respond_via_sms_canned_response_3">"Müsait olunca sizi arayacağım."</string>
+  <string name="respond_via_sms_canned_response_4">"Cevap veremiyorum, kısa süre sonra arayacağım."</string>
   <string name="respond_via_sms_cannot_empty">Reddetme mesjları boş olmaz</string>
   <string name="respond_via_sms_confirmation_format">%s mesaj gönderildi.</string>
   <string name="respond_via_sms_edittext_dialog_title">Hızlı Cevap</string>
   <string name="respond_via_sms_setting_summary">Hızlı cevapları yeniden düzenle</string>
   <string name="respond_via_sms_setting_title">Hızlı Cevaplar</string>
-  <string name="response_error">Ağdan beklenmeyen yanıt.</string>
+  <string name="response_error">Ağdan beklenmeyen cevap.</string>
   <string name="restaurants_disable">Lokantalar devre dışı</string>
   <string name="restaurants_enable">Lokantalar etkin</string>
   <string name="retail_directory_disable">Alişveriş Mağazaları devre dışı</string>
@@ -1443,7 +1443,7 @@ Sonraki Zamana: %2$d gün (%3$s)"</string>
   <string name="tty_mode_option_summary">TTY Modunu Ayarla</string>
   <string name="tty_mode_option_title">TTY Modu</string>
   <string name="turnover_mute_summary">Telefon tersine çevrildiğinde zil sesini sustur</string>
-  <string name="turnover_mute_title">Zil sesini susturmak için çevirin</string>
+  <string name="turnover_mute_title">Zil sesini susturmak için çevir</string>
   <string name="unable_dial_livetalk">"Aramayı tamamlanamadı"</string>
   <string name="unblock_pin2">PIN2 engelini kaldır</string>
   <string name="undefined">Yok</string>
@@ -1496,8 +1496,8 @@ Bu sorun devam ederse lütfen operatörünüze başvurun."</string>
   <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
   <string name="voicemail_visual_voicemail_switch_title">Görsel Sesli Mesaj</string>
   <string name="voip_setting">VoIP Ayarları</string>
-  <string name="volte_switch_summary">Sesli ve görüntülü görüşme kalitesini artırmak için VoLTE kullanın</string>
-  <string name="volte_switch_title">VoLTE etkin</string>
+  <string name="volte_switch_summary">Sesli ve görüntülü görüşme kalitesini artırmak için VoLTE özelliğini açmalısınız</string>
+  <string name="volte_switch_title">VoLTE Etkin</string>
   <string name="wait_prompt_str">"Aşağıdaki sesler gönderilsin mi?
 "</string>
   <string name="whole_calls">Tüm çağrılar</string>
