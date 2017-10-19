@@ -30,7 +30,7 @@
   <string name="cloud_staging_addr">Düzenleme sunucu verisini güncelle</string>
   <string name="config_custom_description">Eğer tavsiyeli yapılandırmalara ihtiyaç yoksa, özelleştirilebilir.</string>
   <string name="config_custom_title">Özel</string>
-  <string name="config_description">"MIUI özel arkaplan işlemleri (Mesela; mesajlaşma ve navigasyon uygulamaları, medya oynatıcılar) ile uygulamaları belirleyebilir. Arkapalanda çalışanlara etkisi olmayacak şekilde Pil Tasarrufunu ayarlayın."</string>
+  <string name="config_description">"MIUI özel arkaplan işlemleri (Mesela; mesajlaşma ve navigasyon uygulamaları, medya oynatıcılar) ile uygulamaları belirleyebilir. Arkaplanda çalışanlara etkisi olmayacak şekilde Pil Tasarrufunu ayarlayın."</string>
   <string name="config_mode_title">Arkaplan Ayarları</string>
   <string name="config_no_restrict_description">"Pil tasarrufu uygulama faaliyetini kısıtlamaz"</string>
   <string name="config_no_restrict_title">Kısıtlama yok</string>
@@ -64,7 +64,7 @@ Pil Tasarrufu için önemli uygulamaları seçmeli olarak işleme koyacağız."<
   <string name="full_screen_exit">Tam Ekrandan çık</string>
   <string name="google_base_app_install_choice">\"%s\" normal çalışabilmek için Google Hizmet Çerçevesine ihtiyaç duyar, indirip kurmak ister misiniz?</string>
   <string name="hide_mode">Enerji Tüketimini Yönet</string>
-  <string name="hide_mode_desc">Uygulama arkaplanda çalıştığında, aktiviteler pil kullanım ne şekilde etkileyecek diye izlenecek.</string>
+  <string name="hide_mode_desc">Uygulamalar arkaplanda çalıştığında, faaliyetler esnasında pil kullanım ne şekilde etkilenecek diye izlenecek.</string>
   <string name="hide_mode_desc_title">"Enerji Tüketimini Yönet"</string>
   <string name="hide_mode_ultimate_desc">Ultimate Modu açık. Arkaplanda uygulamalar donmuş olacak. Ultimate Modundan çıkmak için Pil Tasarrufunu kapatın.</string>
   <string name="hide_system_app">Sistem uygulamalarını gizle</string>
@@ -179,7 +179,7 @@ Pil Tasarrufu için önemli uygulamaları seçmeli olarak işleme koyacağız."<
   <string name="power_hide_mode_app_list_summary">Arkaplanda güç tasarrufu yapılıyor</string>
   <string name="power_hide_mode_app_list_total">%d Uygulama</string>
   <string name="power_hide_mode_summary">"Bireysel uygulamalar arkaplan işlemlerini WLAN, GPS, mobil veri bağlantıları kısıtlayarak pil tasarrufu sağlar."</string>
-  <string name="power_hide_mode_title">"Uygulamaların pil kullanımını yönetin"</string>
+  <string name="power_hide_mode_title">"Uygulamaların Pil Kullanımını Düzenle"</string>
   <string name="power_keeper">Pil Tasarrufu</string>
   <string name="power_mode_cpu_state_high">Performans</string>
   <string name="power_mode_cpu_state_high_desc">Pil süresi boyunca performansa öncelik ver</string>
