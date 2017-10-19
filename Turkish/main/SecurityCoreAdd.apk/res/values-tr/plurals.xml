@@ -12,4 +12,8 @@
         <item quantity="other">İkinci Alandaki %d bildirim</item>
         <item quantity="one">İkinci Alandaki %d Bildirim</item>
     </plurals>
+	<plurals name="search_app_count_txt_na">
+        <item quantity="other">%d uygulamada ara</item>
+        <item quantity="one">%d uygulamada ara</item>
+    </plurals>
 </resources>
