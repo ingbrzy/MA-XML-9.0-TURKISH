@@ -104,16 +104,16 @@
   <string name="activate_status_desc_wait_for_sms_success">Sunucudan etkinleştirme mesajı alındı</string>
   <string name="activate_status_title_activating">SIM kartı etkinleştiriliyor...</string>
   <string name="activate_status_title_activating_msim">SIM kart %s etkinleştiriliyor…</string>
-  <string name="agree">Kabul</string>
+  <string name="agree">İzin ver</string>
   <string name="app_name">Xiaomi Framework Hizmetleri</string>
   <string name="explain_send_sms_permission_button">Doğrula</string>
   <string name="explain_send_sms_permission_msg">%s açmak için, Xiaomi Hizmet Çerçevesi telefon numarasını doğrulamak için SMS gönderir. Bu işlem sonucunda operatör sizden SMS ücreti alabilir.</string>
   <string name="explain_send_sms_permission_title">Telefon numarasını doğrula</string>
   <string name="phone_get_processing">Alınıyor…</string>
-  <string name="phone_get_text">Telefon numaranızı alıp %1$s kabul ediyorsunuz：%2$s</string>
-  <string name="phone_get_title">Telefon numaranızı alıp %1$s kabul ediyorsunuz</string>
+  <string name="phone_get_text">%2$s telefon numarasını alıp %1$s izin veriyor musunuz?</string>
+  <string name="phone_get_title">Telefon numarasını almak için %1$s izin ver</string>
   <string name="phone_verify_processing">Doğrulanıyor…</string>
-  <string name="phone_verify_text">Telefon numaranızı alıp %1$s kabul etmiyorsunuz，telefon numaranızı doğrulayın.</string>
-  <string name="phone_verify_title">%1$s kabul etmek için telefon numarasını doğrulayın</string>
-  <string name="sim_unactivated_title">"SIM kartınız etkin değil"</string>
+  <string name="phone_verify_text">%1$s telefon numarasını alamadı. Doğru telefon numarası olduğundan emin olun. Kabul ediyor musunuz?</string>
+  <string name="phone_verify_title">%1$s kabul etmek için telefon numarasına izin verin</string>
+  <string name="sim_unactivated_title">"SIM kartınız etkinleştirilemedi"</string>
 </resources>
