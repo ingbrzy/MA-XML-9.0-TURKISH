@@ -146,8 +146,8 @@ Mobil verileri yeniden açarsanız, operatörünüz ek veriler için ücret iste
         <item quantity="one">%d uygulama korunuyor</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
-        <item quantity="other">%d uygulama otomatik başlar</item>
-        <item quantity="one">%d uygulama otomatik başlar</item>
+        <item quantity="other">%d uygulama otomatik  başlıyor</item>
+        <item quantity="one">%d uygulama otomatik  başlıyor</item>
     </plurals>
     <plurals name="hints_auto_start_disable_title">
         <item quantity="other">"%d uygulamanın otomatik başlama izni yok"</item>
