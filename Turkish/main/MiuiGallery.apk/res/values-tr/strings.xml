@@ -187,7 +187,7 @@
   <string name="baby_sexy">Cinsiyet</string>
   <string name="baby_suffix">Bebek</string>
   <string name="background_effect">Arkaplan Efekti</string>
-  <string name="backup_automatically_summary">Mi Bulut üzerinde tüm cihazların fotoğraf ve videoları yedeklenir. Böylece, tüm cihazlarınızda fotoğraflara ve videolara rahatça göz atabilir, sıralayabilir, düzenleyebilir ve paylaşabilirsiniz. </string>
+  <string name="backup_automatically_summary">Tüm cihazların fotoğraf ve videoları Mi Bulut üzerine yedeklenir. Böylece, tüm cihazlarınızda ki fotoğraflara ve videolara rahatça göz atabilir, sıralayabilir, düzenleyebilir ve paylaşabilirsiniz. </string>
   <string name="backup_automatically_title">Otomatik Yedekle ve Eşitle</string>
   <string name="backup_battery_low_desc">Öğeleri yine de yedeklemeyi seçebilirsiniz</string>
   <string name="backup_battery_low_title">Düşük pil nedeniyle yedekleme duraklatıldı</string>
@@ -1031,9 +1031,9 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="photo_editor_long_crop">Kırp</string>
   <string name="photo_editor_mosaic">Mozaik</string>
   <string name="photo_editor_navigator_cancel">İptal</string>
-  <string name="photo_editor_navigator_export">Bitir</string>
   <string name="photo_editor_navigator_download_network_metered_msg">%s indirilmesi için 4MB mobil veri kullanmaya ihtiyacı var. Şimdi indirilsin mi?</string>
   <string name="photo_editor_navigator_download_network_metered_title">Veri Kullanım Uyarısı</string>
+  <string name="photo_editor_navigator_export">Kaydet</string>
   <string name="photo_editor_navigator_module_download_failed">"%s indirilemedi"</string>
   <string name="photo_editor_navigator_module_download_now">İndir</string>
   <string name="photo_editor_navigator_module_download_success">Başarıyla indirildi</string>
@@ -1074,8 +1074,8 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="picker_tab_photo">Fotoğraf</string>
   <string name="picker_title_format">%d seçebilirsin</string>
   <string name="picker_title_selection_format">%d seçildi</string>
-  <string name="picker_title_specify_format">%d fotoğrafı seç</string>
-  <string name="picker_title_specify_format_one">%d fotoğrafı seç</string>
+  <string name="picker_title_specify_format">%d resim seç</string>
+  <string name="picker_title_specify_format_one">%d resim seç</string>
   <string name="picker_title_unlimit">Resmi seç</string>
   <string name="places_album_empty_title">Fotoğraflar konuma göre sıralanacak</string>
   <string name="pocket_camera_picture">Resimler</string>
