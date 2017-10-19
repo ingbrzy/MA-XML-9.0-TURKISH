@@ -311,7 +311,7 @@ birden fazla fotoğraf çekilecek."</string>
   <string name="pref_camera_jpegquality_entry_low">Düşük</string>
   <string name="pref_camera_jpegquality_entry_normal">Standart</string>
   <string name="pref_camera_jpegquality_title">Resim Kalitesi</string>
-  <string name="pref_camera_long_press_shutter_feature_title">Deklanşöre Basılı Tut</string>
+  <string name="pref_camera_long_press_shutter_feature_title">Deklanşöre Basılı Tutunca</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Seri Çekim</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Odakla</string>
   <string name="pref_camera_long_pressing_shutter_title">AE/AF/AWB kilitlenmek için deklanşöre basılı tutun</string>
