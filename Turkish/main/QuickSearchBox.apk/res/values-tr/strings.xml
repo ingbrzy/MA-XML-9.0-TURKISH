@@ -49,7 +49,7 @@ Tarayıcı geçmişinizi temizlemek için, Tarayıcı ayarlarını kullanın."</
   <string name="device_settings_category_title">Kısayolları temizle</string>
   <string name="distance_unit_kilometer">km</string>
   <string name="distance_unit_meter">m</string>
-  <string name="entrance_setting">Arama açılıyor...</string>
+  <string name="entrance_setting">Arama Nasıl Açılacak?</string>
   <string name="google_app_label">Google Araması</string>
   <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
   <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>
@@ -68,7 +68,7 @@ Tarayıcı geçmişinizi temizlemek için, Tarayıcı ayarlarını kullanın."</
   <string name="network_unavailable">"Ağa bağlanamadı"</string>
   <string name="permission_prompt_detail">Filmleri, kitapları, müzik ve fazlasını ara...</string>
   <string name="permission_prompt_start">İzin ver</string>
-  <string name="permission_prompt_started_info">"Global aramaya izin verdin"</string>
+  <string name="permission_prompt_started_info">"Genel aramaya izin verdiniz"</string>
   <string name="permission_prompt_title">Fazlasını ister misin?</string>
   <string name="pull_to_input">Arama çubuğunu göstermek için aşağı doğru çekin</string>
   <string name="recent_apps">Önceki Uygulamalar</string>
@@ -117,9 +117,9 @@ Bunu Ayarlar &gt; Yüklü Uygulamalar &gt; Ara altından değiştirebilirsiniz"<
   <string name="setting_version">Uygulama Sürümü</string>
   <string name="setting_version_title">Uygulama Sürümü</string>
   <string name="settings_description">Yüklü uygulamaların adları</string>
-  <string name="show_more">Fazlasını Göster</string>
+  <string name="show_more">Diğerlerini Göster</string>
   <string name="suggest_open_app_failed">"Bu uygulama açılamadı"</string>
-  <string name="swipe_up_summary">Global aramayı açmak için yukarı kaydırın</string>
+  <string name="swipe_up_summary">Genel aramayı açmak için yukarı doğru kaydırın</string>
   <string name="swipe_up_title">Yukarı Kaydır</string>
   <string name="switch_application">Uygulamalar</string>
   <string name="switch_browser">Tarayıcı</string>
