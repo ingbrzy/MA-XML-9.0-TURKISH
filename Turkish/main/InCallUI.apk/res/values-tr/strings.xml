@@ -221,7 +221,7 @@
   <string name="copy_number">Telefon numarasını kopyala</string>
   <string name="custom_message_cancel">İptal</string>
   <string name="custom_message_send">Gönder</string>
-  <string name="data_enable_summary">Bu cihazın mobil veri kullanmasına izin ver</string>
+  <string name="data_enable_summary">Bu cihazın mobil veri kullanmasına izin verir</string>
   <string name="data_enabled">Veri etkin</string>
   <string name="deactivate_all">Tümünü iptal</string>
   <string name="default_area_code_setting">Varsayılan alan kodu</string>
@@ -826,7 +826,7 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Hızlı Cevaplar</string>
   <string name="respond_via_sms_setting_title_2">Hızlı Cevapları Düzenle</string>
-  <string name="response_error">Ağdan beklenmeyen yanıt.</string>
+  <string name="response_error">Ağdan beklenmeyen cevap.</string>
   <string name="restaurants_disable">Restoranlar devre dışı</string>
   <string name="restaurants_enable">Restoranlar etkin</string>
   <string name="retail_directory_disable">Sarı Sayfalar devre dışı</string>
