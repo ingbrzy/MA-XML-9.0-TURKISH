@@ -268,8 +268,8 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="unit">Birim</string>
   <string name="unit_temperature">Sıcaklık Birimi</string>
   <string name="unit_wind">Rüzgar Hızı Birimi</string>
-  <string name="update_night_setting_summary_text">Hava Durumunu 23:00 ile 07:00 arasında güncelle</string>
-  <string name="update_night_setting_title_text">Hava Durumunu geceleyin otomatik güncelle</string>
+  <string name="update_night_setting_summary_text">Hava Durumunu 23:00 - 07:00 arasında güncelle</string>
+  <string name="update_night_setting_title_text">Geceleyin Otomatik Güncelle</string>
   <string name="update_setting_title_text">Hava Durumu Güncelleme Bilgisi</string>
   <string name="video_dialog_no_play"/>
   <string name="video_dialog_play"/>
