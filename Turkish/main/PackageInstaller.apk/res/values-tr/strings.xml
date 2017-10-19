@@ -59,9 +59,9 @@
   <string name="app_name_unknown">Bilinmiyor</string>
   <string name="app_not_found_dlg_text">"Uygulama yüklü uygulamalar listesinde bulunamadı."</string>
   <string name="app_not_found_dlg_title">Uygulama bulunamadı</string>
-  <string name="app_permissions">Uygulama izinleri</string>
+  <string name="app_permissions">Uygulama İzinleri</string>
   <string name="app_permissions_breadcrumb">Uygulamalar</string>
-  <string name="app_permissions_group_summary">%2$d  %1$d uygulamaya izin verildi</string>
+  <string name="app_permissions_group_summary">Uygulamaya %2$d izinden %1$d izin verildi</string>
   <string name="app_process_limit_title">Arkaplan işlem sınırı</string>
   <string name="app_store_install_hint">Şimdi Yükle</string>
   <string name="app_store_installing_message">Yükleniyor...</string>
@@ -274,8 +274,8 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="install_failed_verify_timeout">Bu paketi doğrulamak için çalışırken zaman aşımı oluştu. Daha sonra tekrar yüklemeyi deneyin.</string>
   <string name="install_from_appstore_hint">&lt;u&gt;&lt;font color=#91c727&gt;Uygulama Mağazası&lt;/font&gt;&lt;/u&gt;ndan uygulama yüklemenizi öneririz</string>
   <string name="installing">Yükleniyor…</string>
-  <string name="keep_screen_on">Uyanık kal</string>
-  <string name="keep_screen_on_summary">Şarj olurken ekran hiçbir zaman uyumaz</string>
+  <string name="keep_screen_on">Uyanık Kalsın</string>
+  <string name="keep_screen_on_summary">Şarj olurken ekran hiçbir zaman uyku moduna geçmez</string>
   <string name="launch">Aç</string>
   <string name="launch_defaults_none">Varsayılan ayar yok</string>
   <string name="launch_defaults_some">Bazı varsayılan ayarlar</string>
