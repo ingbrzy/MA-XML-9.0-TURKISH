@@ -325,8 +325,8 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="incall_error_supp_service_unknown">Hizmet desteklenmiyor.</string>
   <string name="incoming_call_failed_low_battery">Gelen Çağrı düşük pil nedeniyle başarısız oldu</string>
   <string name="ip_dial_error_for_sip_call">IP arama fonksiyonu internet çağrısı için geçerli değildir.</string>
-  <string name="keep_screen_on">Uyanık kal</string>
-  <string name="keep_screen_on_summary">Şarj olurken ekran hiçbir zaman uyumaz</string>
+  <string name="keep_screen_on">Uyanık Kalsın</string>
+  <string name="keep_screen_on_summary">Şarj olurken ekran hiçbir zaman uyku moduna geçmez</string>
   <string name="launch_defaults_none">Varsayılan ayar yok</string>
   <string name="launch_defaults_some">Bazı varsayılan ayar</string>
   <string name="lch_dtmf_key">D</string>
