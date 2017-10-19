@@ -169,7 +169,7 @@ Cihazınız şarj olurken pil tasarrufu otomatik olarak kapatılır."</string>
   <string name="beforeOneMonthDurationPast">1 ay önce</string>
   <string name="bluetooth_a2dp_audio_route_name">Bluetooth ses</string>
   <string name="bugreport_message">Bu rapor,  E-Posta iletisi olarak göndermek üzere cihazınızın şu anki durumuyla ilgili bilgi toplar. Hata raporu başlatıldıktan sonra hazır olması biraz zaman alabilir, lütfen sabırlı olun.</string>
-  <string name="bugreport_option_full_summary">Cihazınız yanıt vermiyorsa veya çok yavaş olduğunda veya tüm rapor bölümlerine ihtiyacınız olduğunda en düşük sistem tepkisi için bu seçeneği kullanın. Daha fazla bilgi girmenize veya ekran görüntüsü eklemenize izin vermiyor.</string>
+  <string name="bugreport_option_full_summary">Cihazınız cevap vermiyorsa veya çok yavaş olduğunda veya tüm rapor bölümlerine ihtiyacınız olduğunda en düşük sistem tepkisi için bu seçeneği kullanın. Daha fazla bilgi girmenize veya ekran görüntüsü eklemenize izin vermiyor.</string>
   <string name="bugreport_option_full_title">Tam Rapor</string>
   <string name="bugreport_option_interactive_summary">Çoğu durumda bunu kullanın. Raporun ilerlemesini izlemenize, soruyla ilgili daha fazla ayrıntı girmenize ve ekran görüntüleri almanıza olanak tanır. Raporlamak uzun zaman alacak, daha az kullanılan bölümleri atlayabilir.</string>
   <string name="bugreport_option_interactive_title">Etkileşimli Rapor</string>
@@ -965,7 +965,7 @@ Kullanıcı Rehberi'ne bakın, Müşteri Hizmetleri'ne başvurun."</string>
   <string name="permdesc_nfc">Uygulamaya, Near Field Communication (NFC) etiketleri, kartlar ve okuyucular ile iletişim kurma izni verir.</string>
   <string name="permdesc_persistentActivity">Uygulamaya kendisinin bir bölümünü bellekte kalıcı yapma izni verir. Bu izin, diğer uygulamaların kullanabileceği belleği sınırlandırarak telefonun yavaş çalışmasına neden olabilir.</string>
   <string name="permdesc_processOutgoingCalls">Uygulamaya, giden bir çağrının numarası çevrilirken çağrıyı farklı bir numaraya yönlendirme veya tamamen kapatma seçeneğiyle birlikte numarayı görme izni verir.</string>
-  <string name="permdesc_provide_trust_agent">Bir uygulama içinden bir güven ajanı sağlamaya olanak tanır</string>
+  <string name="permdesc_provide_trust_agent">Bir uygulama içinden bir güvenli ajansı sağlamaya olanak tanır</string>
   <string name="permdesc_readCalendar">Uygulamaya, arkadaşlarınızın ve iş arkadaşlarınızın etkinlikleri de dahil olmak üzere telefonunuzda depolanan tüm takvim etkinliklerini okuma izni verir. Bu izin, uygulamanın takvim verilerinizi gizliliğine ve hassaslığına bakmaksızın paylaşmasına ve kaydetmesine olanak sağlayabilir.</string>
   <string name="permdesc_readCallLog">Uygulamaya, gelen ve giden çağrılarla ilgili veriler de dahil olmak üzere telefonunuzun çağrı günlüğünü okuma izni verir. Bu izin, uygulamanın çağrı günlüğünüzü kaydetmesine olanak sağlar ve kötü amaçlı uygulamalar çağrı günlüğü verilerini sizden habersiz paylaşabilir.</string>
   <string name="permdesc_readCellBroadcasts">Uygulamaya, cihazınız tarafından alınan hücre yayını mesajlarını okuma izni verir. Hücre yayını uyarıları bazı yerlerde acil durumlar konusunda sizi uyarmak için gönderilir. Kötü amaçlı uygulamalar acil hücre yayını alındığında cihazınızın performansına veya çalışmasına engel olabilir.</string>
@@ -1542,7 +1542,7 @@ Uzun süre yüksek ses seviyesinde dinlemek işitme duyunuza zarar verebilir."</
   <string name="wait">Bekle</string>
   <string name="wallpaper_binding_label">Duvar Kağıdı</string>
   <string name="web_user_agent_target_content">"Mobil "</string>
-  <string name="webpage_unresponsive">"Sayfa yanıt vermiyor.
+  <string name="webpage_unresponsive">"Sayfa cevap vermiyor.
 
 Kapatmak ister misiniz?"</string>
   <string name="websearch">Google Web Araması</string>
