@@ -66,7 +66,7 @@ SIM kartları geçerseniz, başka bir SMS bu özelliği etkinleştirmek için ot
   <string name="unlock_error_device_id">"Aygıt kimliği alınamıyor"</string>
   <string name="unlock_error_interrupted">Kesildi</string>
   <string name="unlock_error_network">"Ağa bağlantı kuramıyor"</string>
-  <string name="unlock_error_passport_sdk_timeout">Mi hesabı yanıt vermiyor</string>
+  <string name="unlock_error_passport_sdk_timeout">Mi hesabı cevap vermiyor</string>
   <string name="unlock_error_rpc">RPC hatası</string>
   <string name="unlock_error_server">Sunucu hatası</string>
   <string name="unlock_error_ssl_hand_shake">"Sunucuya bağlanamıyor. Tarih ve saati elle ayarlamayı deneyin."</string>
