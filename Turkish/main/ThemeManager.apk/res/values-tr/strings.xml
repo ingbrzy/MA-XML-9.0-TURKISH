@@ -156,7 +156,7 @@
   <string name="provision_second_title">Varsayılan birkaç temadan birini seçin</string>
   <string name="provision_title">Bir tema seçin</string>
   <string name="purchased_list">Alınanlar</string>
-  <string name="purchased_list_current">İyileştirilmiş Temalar</string>
+  <string name="purchased_list_current">Düzenlenmiş Temalar</string>
   <string name="purchased_list_legacy">Eski Temalar</string>
   <string name="purchased_list_format">%1$s satın alındı</string>
   <string name="recently_used">Önceden Kullanılan</string>
