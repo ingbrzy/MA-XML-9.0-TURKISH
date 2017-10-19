@@ -55,7 +55,7 @@ Güncellemeler sizin için uygun değildir!"</string>
   <string name="server_error">Sunucu cevap vermiyor, uygulama düzgün çalışmayabilir!</string>
   <string name="share_title">Paylaş:</string>
   <string name="stable">Stabil</string>
-  <string name="version">Şu anda yüklü:</string>
+  <string name="version">Yüklü Sürüm:</string>
   <string name="weekly">Haftalık</string>
   <string name="wifi_recommended">Güvenli bir şekilde indirmek için  WiFi bağlantısı yok!</string>
 </resources>
