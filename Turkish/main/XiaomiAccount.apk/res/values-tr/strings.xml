@@ -241,9 +241,9 @@
   <string name="mipay">Öde</string>
   <string name="mipay_balance">Bakiye</string>
   <string name="mipay_bank_card">Banka Kartı</string>
-  <string name="mipay_identitiy_no">Hayır</string>
+  <string name="mipay_identitiy_no">Doğrulanmadı</string>
   <string name="mipay_identity">Kimlik Doğrulaması</string>
-  <string name="mipay_indentity_done">Tamam</string>
+  <string name="mipay_indentity_done">Doğrulandı</string>
   <string name="mipay_center">Mi Cüzdanı</string>
   <string name="mipay_others">Diğer</string>
   <string name="mipay_transit_card">Taşıma Kartı</string>
@@ -588,6 +588,7 @@ Bu soruların cevaplarını hatırlayacağınızdan olun."</string>
   <string name="theme_store">MIUI Tema Mağazası</string>
   <string name="theme_store_dspt">Görünümü seçin. Özelleştirilebilir ücretsiz yüzlerce tema ile telefonunuzu benzersiz yapın.</string>
   <string name="timeout_retry">İstek zaman aşımına uğradı, lütfen tekrar deneyin.</string>
+  <string name="talkback_scan_barcode">QR kodunu tara</string>
   <string name="title_reg">Hesap oluştur</string>
   <string name="trusted_browsers">Güvenilir Tarayıcılar</string>
   <string name="trusted_browsers_prompt">Eğer Çerezleri silerseniz, tarayıcınız güvenilir olmaktan çıkar.</string>
