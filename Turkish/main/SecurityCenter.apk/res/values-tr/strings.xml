@@ -135,7 +135,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="antivirus_longtime_no_update">"Virüs tanımlarınız eski gibi görünüyor. Düzenli güncellemeler daha iyi tarama sonuçları elde etmemize yardımcı olur. Güvenliğin internete bağlanmasına ve virüs tanımlarını güncellemesine izin verilsin mi?"</string>
   <string name="antivirus_longtime_no_update1">Virüs tanımlarınız eski gibi görünüyor. Düzenli güncellemeler daha iyi tarama sonuçları elde etmemize yardımcı olur. Tanımı güncelleyin ve tekrar deneyin.</string>
   <string name="antivirus_main_activity_back">Güvenli taramasına geri dön</string>
-  <string name="antivirus_monitor_btn_text_clean_risk">Riskli uygulamaları sil</string>
+  <string name="antivirus_monitor_btn_text_clean_risk">Riskli uygulamaları silebilirsiniz</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Virüsleri sil</string>
   <string name="antivirus_monitor_clean_tips">Silinen Öğeler: %s</string>
   <string name="antivirus_monitor_risk_advice">"Bu uygulama güvenli olmadığından silin"</string>
@@ -319,8 +319,8 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="app_summary">"微信/QQ/米聊抢红包神器
 支持个人红包与群红包
 春节红包活动，不错过每一个红包"</string>
-  <string name="app_usage_never">Asla Kullanılmayan</string>
-  <string name="app_usage_recently">Bazen Kullanılan</string>
+  <string name="app_usage_never">Hiç kullanılmadı</string>
+  <string name="app_usage_recently">Nadiren kullanılıyor</string>
   <string name="app_version">Sürüm</string>
   <string name="app_wifi">WLAN</string>
   <string name="application_item_already_permission">İzinli</string>
@@ -353,7 +353,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="apps_item_virus_summary_uninstalled">APK</string>
   <string name="apps_list_header_title_sms">Mesajlaşma Uygulamasını Denetle</string>
   <string name="apps_list_header_title_sms_access">Doğrulama koduna sınırlı eriş</string>
-  <string name="auto_atsk_condition_battery_level_text_down">Pil şuraya eriştiğinde: %s</string>
+  <string name="auto_atsk_condition_battery_level_text_down">Pil Şuna Eriştiğinde: %s</string>
   <string name="auto_atsk_condition_battery_level_text_up">Pil şu kadar şarj ettiğinde: %s</string>
   <string name="auto_clean_close">Otomatik temizleme kapalı</string>
   <string name="auto_handle_title">GENEL</string>
@@ -391,14 +391,14 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="auto_task_manager_group_title">Otomatik Görevlerim</string>
   <string name="auto_task_notify_do_task_title">Otomatik görev başladı</string>
   <string name="auto_task_notify_exit_task_title">Otomatik görev bitti</string>
-  <string name="auto_task_notify_task_cancel_count_down">Otomatik eylem 5 saniye sonra bitecek</string>
-  <string name="auto_task_notify_task_cancel_do">Eylemi iptal et</string>
+  <string name="auto_task_notify_task_cancel_count_down">Otomatik faaliyet 5 saniye sonra bitecek</string>
+  <string name="auto_task_notify_task_cancel_do">Faaliyeti iptal et</string>
   <string name="auto_task_notify_task_canceled_summary">Arama yapabilir ve alabilirsiniz</string>
   <string name="auto_task_notify_task_canceled_summary2">"Görünüşe göre bir oyun oynuyorsun."</string>
   <string name="auto_task_notify_task_canceled_summary3">İkinci Alan tarafından iptal edildi</string>
   <string name="auto_task_notify_task_canceled_summary4">İlk Alan tarafından iptal edildi</string>
   <string name="auto_task_notify_task_canceled_title">Eylem iptal edildi</string>
-  <string name="auto_task_notify_task_continue_do">Eylemi başlat</string>
+  <string name="auto_task_notify_task_continue_do">Faaliyeti başlat</string>
   <string name="auto_task_notify_task_count_down">Otomatik eylem 5 saniye sonra başlayacak</string>
   <string name="auto_task_notify_task_exit_task">Çıkış Görevi</string>
   <string name="auto_task_operation_airplane_mode">Uçak Modu</string>
@@ -644,7 +644,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="clean_immediately">Temizle</string>
   <string name="cleaned">Temizlendi</string>
   <string name="clear_bigfiles">Büyük dosyaları, yenilenen fotoğrafları ve diğer gereksiz öğeleri sil</string>
-  <string name="clear_garbage">Boş yer kazanmak için çöpü boşalt</string>
+  <string name="clear_garbage">Boş yer kazanmak için çöpü boşaltınız</string>
   <string name="clear_immediately">Temizle</string>
   <string name="close">Kapat</string>
   <string name="close_callwait">Kapalı</string>
@@ -756,9 +756,9 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="datausage_purchase_title_order">Kontör</string>
   <string name="datausage_purchase_title_pkglist">Kontör</string>
   <string name="datausage_purchase_view_detail">Detaylara Bak</string>
-  <string name="declaration_dialog_msg">Bu özelliğin kullanılması durumunda izlemenize yardımcı olabilir, ancak ek ücretleri önlemek için garanti edilemez. En iyi sonuç için, ideal bir sınır belirleyebilirsiniz.</string>
-  <string name="deep_clean_disconnect_data_title">Cihaz kilitlendiğinde mobil veriyi kapat</string>
-  <string name="deep_clean_memory_clean_title">Cihaz kilitlendiğinde önbelleğini temizle</string>
+  <string name="declaration_dialog_msg">Bu özelliğin kullanılması sizin izlemenize neden olabilir, ancak ek ücretleri önlemek için garanti edilemez. En iyi sonuç için, ideal bir sınır belirleyebilirsiniz.</string>
+  <string name="deep_clean_disconnect_data_title">Telefon kilitlenince mobil veri kapansın</string>
+  <string name="deep_clean_memory_clean_title">Telefon kilitlenince önbellek temizlensin</string>
   <string name="deep_clean_never_memory_clean">Asla</string>
   <string name="deep_save_memory_clean_summary">Pil kullanıldığında cihazınız kilitlenirse ödeme verisi temizlenir</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Cihaz açılıp/kapanma program zamanı</string>
@@ -1011,7 +1011,7 @@ Ağ Yardımcısını açın"</string>
   <string name="header_antivirus">"Bu özellik cihazınızın kimliğini şifreler ve sonra Tencent gönderir (%s)."</string>
   <string name="header_info_scan_progress">%%%d</string>
   <string name="help_label">Yardım</string>
-  <string name="hide_mode_app_background_setting_text">Uygulama Pil Tasarrufu</string>
+  <string name="hide_mode_app_background_setting_text">Uygulamanın Pil Tasarrufu</string>
   <string name="hide_mode_summary_text">"Pil tasarrufu için uygulamaların arkaplan faaliyetlerini yönet"</string>
   <string name="hide_mode_title_text">Gizleme Modu</string>
   <string name="hide_system_app">Sistem Uygulamaları Gizle</string>
@@ -1117,7 +1117,7 @@ Ağ Yardımcısını açın"</string>
   <string name="keywords_antispam">Engelleme listeleri; Engelleme; Engelli Listesi; Akıllı Engelleme Listesi; Dolandırıcılık; Satışlar; Ajanlar; Arama engelleme listesi; Mesaj engelleme listesi; Mesajlaşma engelleme listesi; SMS engelleme listesi; Engelli Listesi; Engelli Listesi; blok listesi; engelleme listesi; dolandırıcılık; kişiyi engelleme; kişileri engelleme</string>
   <string name="keywords_antivirus">Virüs;Risk;Antivirüs;Tara</string>
   <string name="keywords_applicationlock">Şifre;Gizlilik;Uygulama Kiliti;Erişim;Koruma</string>
-  <string name="keywords_app_permissions">Permissions;Location;Access contacts;Permissions;App permissions</string>
+  <string name="keywords_app_permissions">İzinler;Konum;Kişilere erişim;İzinler;Uygulama İziinleri</string>
   <string name="keywords_auto_restart">Otomatik başlatma; İzinler; Otomatik başlatma; Otomatik başlatma; Otomatik başlatmayı yönetin; MIUI otomatik başlatma; Uygulama otomatik başlatma; Otomatik başlatma uygulamaları, tetikleyerek başlatma, tetikleyerek başlat, başlatılan başlatma</string>
   <string name="keywords_buy_flow">Veri; mobil veri; ancak veriler; mobil veri satın al; veri topla; veri planı</string>
   <string name="keywords_cleanmaster">Çöp Kutusu; Hurda; Depolama; Depolama alanı; Depolama alanını temizle; Çöp Kutusunu temizle; Çöp Kutusu; boşaltın; Depoyu boşaltın, Alanı boşaltın; Temizleyin; Derin Temiz;</string>
@@ -1735,7 +1735,7 @@ Bu faaliyet pil ömrünü kısaltır."</string>
   <string name="power_apply_toast">%s Moduna geç</string>
   <string name="power_auto_save_title">Güç Tasarruf Modu</string>
   <string name="power_bluetooth">Bluetooth</string>
-  <string name="power_btn_analyze">Pil kullanımını analiz et</string>
+  <string name="power_btn_analyze">Analiz Et</string>
   <string name="power_button_delete">Sil</string>
   <string name="power_cell">Şebeke Beklemedeyken</string>
   <string name="power_center_auto_shutdown">Açma/Kapatma Zamanlaması</string>
@@ -2010,7 +2010,7 @@ Bu faaliyet pil ömrünü kısaltır."</string>
   <string name="pref_specified_adjust">Özel veri sınırı ayarı</string>
   <string name="pref_specified_traffic_settings">Veri limiti ayarları</string>
   <string name="pref_summary_lock_screen_memory_clean">Cihaz kilitlenince otomatik temizle</string>
-  <string name="pref_summary_upload_data_usage">"MIUI'yi geliştirmemize yardımcı olması için veri kullanım istatistiklerinizi bildirin. Raporlama, Gizlilik Politikamız uyarınca yürütülür."</string>
+  <string name="pref_summary_upload_data_usage">"MIUI'yi geliştirmemize yardımcı olması için veri kullanım istatistiklerinizi bize gönderin. Raporlamalar, Gizlilik Politikamız uyarınca değerlendirilir."</string>
   <string name="pref_summary_virus_white_list">Seçili uygulamaların temizlenmesini önle</string>
   <string name="pref_title_declaration">Önemli Feragat</string>
   <string name="pref_title_diagnostics_show_float_notification">Kayan Bildirimler</string>
@@ -2020,12 +2020,12 @@ Bu faaliyet pil ömrünü kısaltır."</string>
   <string name="pref_title_network_diagnostics">Ağı test et</string>
   <string name="pref_title_over_traffic_limit_warning">Limit Aşılınca</string>
   <string name="pref_title_traffic_limit_number">Boyut</string>
-  <string name="pref_title_traffic_speed_state">Ağ hızını göster</string>
-  <string name="pref_title_update_notification">Veri kullanım bildirimleri</string>
-  <string name="pref_title_upload_data_usage">Veri kullanımı istatistiklerini bildir</string>
+  <string name="pref_title_traffic_speed_state">Ağ Hızını Göster</string>
+  <string name="pref_title_update_notification">Veri Kullanım Bildirimleri</string>
+  <string name="pref_title_upload_data_usage">Veri Kullanım İstatistiklerini Gönder</string>
   <string name="pref_title_virus_white_list">İstisnalar</string>
   <string name="pref_traffic_manage_title">Veri Kullanımı</string>
-  <string name="pref_warning_values">Veri kullanımı uyarı düzeyi</string>
+  <string name="pref_warning_values">Veri kullanım uyarı düzeyi</string>
   <string name="pref_traffic_saving_auto_add_whitelist">Akıllı istisnalara izin ver</string>
   <string name="pref_traffic_saving_auto_add_whitelist_hint">Yeni yüklenen uygulamalar için veri tasarrufunu otomatik olarak etkinleştir</string>
   <string name="pref_traffic_saving_compressed">Sıkıştırıldı</string>
@@ -2255,7 +2255,7 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="setting_traffic_pkg">Veri Paketini Ayarla</string>
   <string name="settings">Veri Kullanım Ayarları</string>
   <string name="settings_battery_consume_abnormal_summary">Pil hızlı boşaldığında bildirim al</string>
-  <string name="settings_battery_consume_abnormal_title">Pil Boşalma Bildirimleri</string>
+  <string name="settings_battery_consume_abnormal_title">Pilin Hızlı Boşalma Bildirimleri</string>
   <string name="settings_battery_over_heat_summary">Cihazın normal bildirimlerini al</string>
   <string name="settings_battery_over_heat_title">Isınma Bildirimleri</string>
   <string name="settings_category_other">Diğer Ayarlar</string>
@@ -2381,8 +2381,8 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="st_antispam_mode_smart">Raporlu numaralar</string>
   <string name="st_antispam_mode_smart_sum">"Diğer kullanıcılar ve sizin elle eklediğiniz numaraları engeller"</string>
   <string name="st_antispam_notification_sum">Engellenmiş numaradan gelen çağrı veya mesaj için bildirim göster</string>
-  <string name="st_antispam_title_anoy_incoming">Yabancılardan gelen çağrılar</string>
-  <string name="st_antispam_title_anoy_sms">Yabancılardan gelen mesajlar</string>
+  <string name="st_antispam_title_anoy_incoming">Bilinmeyenleden Gelen Çağrılar</string>
+  <string name="st_antispam_title_anoy_sms">Bilinmeyenleden Gelen Mesajlar</string>
   <string name="st_antispam_title_contact_incoming">Kişilerden gelen çağrılar</string>
   <string name="st_antispam_title_contact_sms">Kişilerden gelen mesajlar</string>
   <string name="st_antispam_title_contactandanoy_group">Ayarlar</string>
@@ -2403,7 +2403,7 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="st_call_intercept_contacts">Kişilerden gelen aramaları engelle</string>
   <string name="st_call_intercept_forwarding">Yönlendirilen çağrıları engelle</string>
   <string name="st_call_intercept_reported">Bildirilen çağrıları engelle</string>
-  <string name="st_call_intercept_stranger">Yabancılardan gelen çağrıları engelle</string>
+  <string name="st_call_intercept_stranger">Bilinmeyenleden Gelen Çağrıları engelle</string>
   <string name="st_call_intercept_unknown">Bilinmeyen numaralardan gelen çağrıları engelle</string>
   <string name="st_call_other_group">Diğer</string>
   <string name="st_call_settings">Çağrıyı Engelle</string>
@@ -2665,7 +2665,7 @@ Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak
   <string name="timeshow_s">%dsan</string>
   <string name="tips_dialog_title">"Limitinizi bilmiyorsanız"</string>
   <string name="tips_message">"Veri planı ayrıntılarını görüntülemek için, %2$s (%1$s) arayın."</string>
-  <string name="tips_of_app_manage">Depolama alanından yer kazanmak için nadiren kullanılan uygulamaları sil</string>
+  <string name="tips_of_app_manage">Depolama alanından yer kazanmak için nadiren kullanılan uygulamaları silebilirsiniz</string>
   <string name="tips_of_auto_launch_manage">Nadiren kullanılan uygulamaların otomatik başlamasını önle</string>
   <string name="tips_of_operators_set">Veri kullanım istatistiğini otomatik ayarla</string>
   <string name="tips_of_package_set">Kullanılan trafik miktarını ve veri planını ayarla</string>
