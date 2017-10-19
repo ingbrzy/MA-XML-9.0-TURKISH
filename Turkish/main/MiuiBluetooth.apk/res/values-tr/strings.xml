@@ -35,13 +35,13 @@
   <string name="mi_key_summary_take_photo">"Fotoğraf çekmek için Mi Key'e tıklayın"</string>
   <string name="mi_key_take_photo">Fotoğraf çek</string>
   <string name="notify_device_lose_connection_text">%1$s eşlemesini kaldırmak için dokunun</string>
-  <string name="notify_device_lose_connection_title">%1$s ile bağlantısı kaybedildi</string>
+  <string name="notify_device_lose_connection_title">%1$s ile bağlantı sağlanamadı</string>
   <string name="ok_button">Tamam</string>
   <string name="progress_scanning">Aranıyor…</string>
   <string name="reset_function_msg">Normal çalışan %1$s bu özelliği sıfırlamasını önle.</string>
   <string name="some_app_taking">(%1$s bu özelliği zaten kullanıyor)</string>
   <string name="unbind_device_alert_cancel">İptal</string>
-  <string name="unbind_device_alert_content">%1$s ile bağlantı kaybedildi. Pil tasarrufu için; bu cihaz eşlemesi kaldırılıyor.</string>
+  <string name="unbind_device_alert_content">%1$s ile bağlantı kaybedildi. Pil tasarrufu için; bu cihazla olan eşleşme kaldırılacak.</string>
   <string name="unbind_device_alert_ok">Eşlemeyi kaldır</string>
   <string name="unbind_device_alert_title">Cihaz eşlemeyi kaldır</string>
 </resources>
