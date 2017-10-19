@@ -187,9 +187,9 @@
         <item>Ayrı Ayrı</item>
     </string-array>
     <string-array name="status_bar_show_carrier_entries">
-        <item>Sadece kilit ekranında ve bildirim panelinde göster</item>
-        <item>Daima operatör adını göster</item>
-        <item>Operatör adını asla gösterme</item>
+        <item>Kilit ekran ve bildirimde</item>
+        <item>Daima göster</item>
+        <item>Asla gösterme</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>Amerika</item>
