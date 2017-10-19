@@ -39,12 +39,12 @@
   <string name="cloud_app_restore_success">Uygulamalar geri yüklendi</string>
   <string name="cloud_app_restore_wifi_prompt">Bir Mi Bulut yedeğini geri yükle</string>
   <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
-  <string name="cloud_back_up_detail_discription">"Cihazınız WLAN'a bağlıyken şu gibi ürün Mi Bulut yedeklenir: 
+  <string name="cloud_back_up_detail_discription">"Cihazınız WLAN'a bağlıyken şu bileşenler Mi Bulut üzerine yedeklenir: 
 *\u0009\u0009\u0009\u0009Uygulamalar, Ana Ekran Düzeni ve Duvar Kağıtları 
 *\u0009\u0009\u0009\u0009Alarm, Saat ve Saat Ayarları
 *\u0009\u0009\u0009\u0009Bildirim Ayarları 
 *\u0009\u0009\u0009\u0009MIUI ve Sistem Ayarları 
-Not: Yüklediğiniz uygulamalar için verileri Mi Bulut'ta yedeklenmiyecek"</string>
+Not: Yüklediğiniz uygulamaların verileri Mi Bulut'ta yedeklenmeyecek"</string>
   <string name="cloud_back_up_frequence_choice_title">Yedekleme Planı</string>
   <string name="cloud_back_up_frequence_long">Her 7 günde bir</string>
   <string name="cloud_back_up_frequence_short">Hergün</string>
