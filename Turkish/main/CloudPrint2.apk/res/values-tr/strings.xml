@@ -157,7 +157,7 @@ Daha sonra istediğiniz zaman tekrar ekleyebilirsiniz."</string>
   <string name="failure_msg_could_not_create_http_request">HTTP isteği oluşturulamadı</string>
   <string name="failure_msg_could_not_create_request">Sunucu isteği oluşturulamadı</string>
   <string name="failure_msg_could_not_execute_http_request">HTTP isteği yürütülemedi</string>
-  <string name="failure_msg_could_not_parse">Sunucunun yanıtı ayrıştırılamadı</string>
+  <string name="failure_msg_could_not_parse">Sunucunun cevabı ayrıştırılamadı</string>
   <string name="failure_msg_file_not_found">Dosya bulunamadı veya erişilebilir değil</string>
   <string name="failure_msg_format_printer_delete">"Yazıcı silinemedi. 
 Hata: %1$s"</string>
