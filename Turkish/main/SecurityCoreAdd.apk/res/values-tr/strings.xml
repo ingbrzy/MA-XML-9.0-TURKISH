@@ -52,6 +52,7 @@ daima görüntüleyebilirsiniz"</string>
   <string name="createUserFail">"Oluşturulamadı"</string>
   <string name="create_app_icon_failed">"Simge oluşturulamadı"</string>
   <string name="create_app_icon_success">Simge başarıyla oluşturuldu</string>
+  <string name="create_second_space">Başarıyla oluşturuldu</string>
   <string name="create_space_loading">İkinci Alan oluşturuluyor…</string>
   <string name="create_work_space">Çalışma Alanı oluştur</string>
   <string name="creating_app_icon">Simge oluşturuluyor…</string>
@@ -68,6 +69,7 @@ daima görüntüleyebilirsiniz"</string>
   <string name="delete_src_photo">Fotoğrafları sil</string>
   <string name="dir_switch_out_all_photos">İkinci Alan Galerisi</string>
   <string name="disable">Kapalı</string>
+  <string name="do_not_ask">"Tekrar sorma"</string>
   <string name="dont_import">Şimdi değil</string>
   <string name="downloading_space">İndiriliyor…</string>
   <string name="enable">Aç</string>
@@ -88,9 +90,14 @@ daima görüntüleyebilirsiniz"</string>
   <string name="finger_print_num">Parmakizi %d</string>
   <string name="finger_print_of_use">Parmakizi kullan</string>
   <string name="fingerprint_removal_failed">"Parmakizi silinemedi"</string>
-  <string name="function_not_support">Bu alan desteklenmiyor</string>
+  <string name="function_not_support">Bu cihaz desteklenmiyor</string>
+  <string name="gms_message">Google Hizmetleriyle çalışabilecek klonlu uygulamaların oluşturulması isteniyor. Google Hizmetleriyle çalışacak klonlu uygulama oluşturulsun mu?</string>
+  <string name="gms_open_button">Aç</string>
+  <string name="gms_title">Google Hizmelerini Aç</string>
   <string name="goToSecondSpacce">İkinci Alana git</string>
   <string name="go_on_import">Aktarmayı koru</string>
+  <string name="gpg_message">Google Play Games ile çalışabilecek uygulamaların oluşturulması isteniyor. Google Play Games için klonlu uygulama oluşturulsun mu?</string>
+  <string name="gpg_title">Google Play Games için Klonlu Uygulama</string>
   <string name="guide_contact_sub_title_desc">"İkinci Alana kişiler özel olarak eklendi.
 Mesajlar sadece İkinci Alanda gözükür."</string>
   <string name="guide_contact_suc_sub_title_desc">Sadece özel kişiler ve mesajlar İkinci Alanda gösterilir</string>
@@ -99,6 +106,10 @@ Mesajlar sadece İkinci Alanda gözükür."</string>
   <string name="guide_pwd_detail_title">"Verinizi koruyun
 Kilit Ekranında İkinci Alana giriş"</string>
   <string name="guide_setting_guide_title">İkinci Alanı Yönet</string>
+  <string name="guide_start_ads_text">Yeni bir güvenlik seviyesini tamamla</string>
+  <string name="guide_start_text">İki alan. Tek cihaz</string>
+  <string name="has_created_second_space">"Şimdi İkinci Alanı açabilirsiniz.
+İki alan. Tek cihaz"</string>
   <string name="hidden_app">İkinci Alan</string>
   <string name="imageData">Fotoğraflar</string>
   <string name="import_application">Uygulama Aktar</string>
@@ -112,6 +123,8 @@ Ayrı ayrı indirme yapabilirsiniz."</string>
   <string name="import_photo">Fotoğrafları aktar</string>
   <string name="import_photo_desc">İkinci Alanda paylaşılan öğeleri görüntüle</string>
   <string name="import_photo_suc">Fotoğraflar aktarıldı</string>
+  <string name="input_space_finger">Ayarla</string>
+  <string name="input_space_password">Ayarla</string>
   <string name="invalid_qr_code">Geçersiz QR kodu</string>
   <string name="keywords_sspace">İkinci alan; İki boşluk; Uygulamaları gizle; Dosyaları gizle; Fotoğrafları gizle; Ekran kilidi; Ekran şifresini gizle; Gizlilik; Gizlilik modu; Özel mod; Özel; Konuk modu; Misafir oturumu; Konuk erişimi; Konuk hesabı; Konuk</string>
   <string name="keywords_xspace">İkili uygulama, İkili uygulamalar, İkili uygulamalar, İkili uygulamalar, Uygulamayı kopyalama, Uygulamaları çoğaltma, Uygulama klonlama, Uygulama klonları, İki hesap, 2 hesap</string>
@@ -157,6 +170,8 @@ Ayrı ayrı indirme yapabilirsiniz."</string>
 Kilit Ekranında İkinci Alana giriş yapılamaz."</string>
   <string name="privacyContactsSummary">İkinci Alanda özel öğeleri göster</string>
   <string name="privacyContactsTitle">Özel mesajlar ve kişiler</string>
+  <string name="privacy_password_fingerprint_dialog_message">Parmağınızı sensöre yerleştirin</string>
+  <string name="privacy_password_fingerprint_dialog_title">Parmakizinizi tarayın</string>
   <string name="private_sms_show_sub_title">Mesaj verisi iki alan arasında paylaştırılacak​</string>
   <string name="private_sms_show_title">İkinci Alanda özel mesajlar gösterilir</string>
   <string name="private_space_setting">Yönet</string>
@@ -184,7 +199,10 @@ Kilit Ekranında İkinci Alana giriş yapılamaz."</string>
   <string name="scanner_fingerprint_error_tips_title">"Parmakizi eşlenemedi"</string>
   <string name="scanner_fingerprint_tips_desc">Varolan parmakizini İkinci Alana eklemek için seçin. Bu işlem Birinci Alanada kullanılmaz.</string>
   <string name="scanner_fingerprint_tips_title">Varolan parmakizini İkinci Alana eklemek için girin</string>
-  <string name="scanner_second_space_fingerprint">İkinci Alan parmakizini tara</string>
+  <string name="scanner_second_space_fingerprint">İkinci Alan parmakizini tarayın</string>
+  <string name="sdcardfs_dialog_message">İkinci Alana girmeden önce \"SD Kartı Bağla\" özelliğini Geliştirici Seçenekler içinden kapatın.</string>
+  <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+  <string name="search_result_text">"Herhangi uygulama bulunamadı"</string>
   <string name="secondSpace">İkinci Alan</string>
   <string name="second_owner_finger_print">İkinci Alan parmakizi</string>
   <string name="second_space_finger_printf_desc">İkinci Alana giriş yapmak için parmakizi ekle</string>
@@ -196,6 +214,9 @@ Kilit Ekranında İkinci Alana giriş yapılamaz."</string>
   <string name="setSecondSpacePasswordGuideDes">Kilit Ekranda İkinci Alan şifresi olarak bunu gir</string>
   <string name="setSpacePasswordGuide">Kilit Ekranda iki alan için farklı şifre kullan</string>
   <string name="setSuccess">Şifreler başarıyla ayarlandı</string>
+  <string name="set_space_finger">Parmakizini ayarla</string>
+  <string name="set_space_finger_sub_text_suc">Parmakizi başarıyla ayarlandı</string>
+  <string name="set_space_password">Şifre ayarla</string>
   <string name="set_space_pwd_detail">Şifre kullanarak İkinci Alana girebilirsiniz.</string>
   <string name="set_space_pwd_suc">İkinci Alan şifresi eklendi</string>
   <string name="setting_finger_print_sub_title">Birinci Alan parmakizi diğerinden farklı olmalı</string>
@@ -212,13 +233,21 @@ Kilit Ekranında İkinci Alana giriş yapılamaz."</string>
   <string name="settings_status_icon_title">İkinci Alan Simgesi</string>
   <string name="settings_switch_shortcut_summary">İlk Alan kısayolunu Ana Ekranda göster</string>
   <string name="settings_switch_shortcut_title">Geçiş için kısayola dokunun</string>
+  <string name="show_decktop_quick_switch_icon">Ana Ekran Kısayolu</string>
+  <string name="show_decktop_quick_switch_icon_detail">İlk Alanın Ana Sayfasında alanlar arasında geçiş için kısayol oluştur</string>
   <string name="show_normal_content">"Özel öğeleri gösterme!"</string>
+  <string name="show_noti_from_owner">Diğer Alanın Bildirimleri</string>
+  <string name="show_noti_from_owner_detail">Diğer alana gelen bildirimleri geçerli alanda da göster</string>
+  <string name="show_noti_quick_switch_icon">Bildirim Alanı Kısayolu</string>
+  <string name="show_noti_quick_switch_icon_detail">Diğer alanın bildirimlerini görebilmek için kısayol oluştur</string>
   <string name="show_private_content">Özel öğeleri göster</string>
   <string name="show_private_msg">Özel mesajları göster</string>
   <string name="show_private_msg_summary">İkinci Alanda özel mesajları göster</string>
+  <string name="skip">Atla</string>
   <string name="spaceSetting">Ayarlar</string>
   <string name="space_deleted">Bu alan silindi</string>
-  <string name="space_des_default">Şifrelenmiş verilerle birlikte izalanı koru</string>
+  <string name="space_des_default">Şifrelenmiş verilerle birlikte izalosyonu koru</string>
+  <string name="space_finger_sub_text">Hızlı geçiş için İkinci Alan parmakizini ayarla</string>
   <string name="space_name_default">Çalışma Alanı</string>
   <string name="startSet">Ayarla</string>
   <string name="startTransfer">Taşı</string>
@@ -228,6 +257,7 @@ Kilit Ekranında İkinci Alana giriş yapılamaz."</string>
  parmakizi kullanarak gir"</string>
   <string name="start_setting_guide_desc_title">Ayarlanacak bir kaç şey var</string>
   <string name="summary_switch_apps_settings">Geçerli Alanda kullanılan uygulamaları seçin</string>
+  <string name="support_desc">Güvenlik hizmetleri Graphite tarafından sağlanmaktadır</string>
   <string name="sure_to_use">Onayla</string>
   <string name="switchDataSummary">Alanlar arasında öğeleri taşı</string>
   <string name="switch_apps_settings">Uygulama Ayarları</string>
@@ -269,9 +299,12 @@ Kilit Ekranında İkinci Alana giriş yapılamaz."</string>
   <string name="tryNow">Tekrar dene</string>
   <string name="wating">Biraz bekleyin…</string>
   <string name="xpsace_guide_button">Oluştur</string>
+  <string name="xspace_account">Klonlu Uygulama Hesabı</string>
   <string name="xspace_chocie">Klonlu Uygulamalar Desteği</string>
   <string name="xspace_creating">Klonlu Uygulama oluşturuluyor…</string>
-  <string name="xspace_description">Klonlu uygulamalar ayrı alan kullanır. Klonlu uygulamaların Ana Ekranda simgesi tanımlanacak.</string>
+  <string name="xspace_description">"Klonlu uygulamaların kopyaları farkl ıhesap kullanır.
+
+Bazı klonlu uygulamalar Google Hizmet Çerçevesine ihtiyaç duyar. Bu durumda Google Hizmet ÇErçevesi oluşturulur."</string>
   <string name="xspace_guide_des">İki hesabı geçiş yapmadan kullan</string>
   <string name="xspace_guide_title">%s için Klonlu uygulama kullan</string>
   <string name="xspace_header">Klonlu Uygulama</string>
@@ -281,6 +314,7 @@ Kilit Ekranında İkinci Alana giriş yapılamaz."</string>
   <string name="xspace_introduce">Tavsiyeli</string>
   <string name="xspace_label">Klonlu Uygulama</string>
   <string name="xspace_loading_msg">Uygulamalar yükleniyor…</string>
+  <string name="xspace_setting_label">Klonlu Uygulama Ayarı</string>
   <string name="xspace_uninstall_completed">Klonlu uygulamalar başarıyla kaldırıldı</string>
   <string name="xspace_uninstall_dialog_content">Klonlu uygulama tüm uygulama verisini kaldırıyor.</string>
   <string name="xspace_uninstall_dialog_title">Klonlu uygulamayı kaldır</string>
