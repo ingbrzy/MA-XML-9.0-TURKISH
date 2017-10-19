@@ -315,8 +315,8 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="inactive_apps_title">Etkin olmayan uygulamalar</string>
   <string name="invalid_charger">"USB şarj desteklenmiyor.
 Daima orjinal aksesuar kullanın."</string>
-  <string name="keep_screen_on">Uyanık kal</string>
-  <string name="keep_screen_on_summary">Şarj olurken ekran hiçbir zaman uyumaz</string>
+  <string name="keep_screen_on">Uyanık Kalsın</string>
+  <string name="keep_screen_on_summary">Şarj olurken ekran hiçbir zaman uyku moduna geçmez</string>
   <string name="keyboard_shortcut_group_system_recents">Öncekiler</string>
   <string name="kilobyte_per_second">K/sn</string>
   <string name="label_view">Gözat</string>
