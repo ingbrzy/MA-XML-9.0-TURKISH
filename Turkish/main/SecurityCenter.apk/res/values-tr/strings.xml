@@ -928,6 +928,10 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="firewall_service_network_blocked">%1$s, %2$s ağları sınırlı olarak kullanıyor</string>
   <string name="firewall_wifi_dialog_message">"Yüklü uygulama, bu anahtar kapalıyken WLAN kullanarak internete bağlanamaz."</string>
   <string name="five_percent_total_pkg">%s (%%5 aylık veri)</string>
+  <string name="float_window">桌面悬浮窗</string>
+  <string name="float_window_summary">支持快速跳转至摇一摇与咻一咻页面</string>
+  <string name="float_window_tips">小米手机就是快！</string>
+  <string name="forbid_autobright_title">Ekran parlaklığını düzelt</string>
   <string name="flow_rank_title">Veri Kullanımı</string>
   <string name="force_stop_dlg_text">"Arkaplan mobil veriyi kısıtlamak, bir WLAN ağına bağlı olduğunuz sürece bazı uygulamalar ve hizmetleri çalıştırmaz."</string>
   <string name="force_stop_dlg_title">Arkaplan Verilerini Sınırla</string>
@@ -947,9 +951,12 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="fw_blocked_count">"Engelli: "</string>
   <string name="fw_blocked_join">" ve "</string>
   <string name="game_anti_disturb_msg">Oyunda Rahatsız Etme</string>
-  <string name="game_booster">Oyun Hızını Arttır</string>
-  <string name="game_booster_intro">Oyun Hızını Arttırma Hakkında</string>
+  <string name="game_booster">Oyunu Hızlandır</string>
+  <string name="game_booster_intro">Hızlandırıcı Hakkında</string>
+  <string name="game_booster_jump_webview">Biraz bekleyin...</string>
+  <string name="game_booster_tab_top">Yukarı</string>
   <string name="game_booster_title">Hızlandır</string>
+  <string name="game_bootser_tab_settings">Hızlandırıcı Ayarları</string>
   <string name="game_improve_text1">Oyun esnasında arkaplan ön belleğini boşaltıp, hafızada yer açar</string>
   <string name="game_improve_text2">Oyun esnasında arkaplan ön belleğini boşaltıp, hafızada yer açar ve CPU performansını arttırır</string>
   <string name="game_improve_title">Performansı İyileştir</string>
@@ -958,7 +965,9 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="game_net_text2">"Ağ gecikmesini en aza indirmek için arkaplan indirme hızını ayarlandığında oyunun bağlantı hızı artar</string>
   <string name="game_net_title">Bağlantı Hızını İyileştir</string>
   <string name="game_setting">Oyun Ayarları</string>
-  <string name="gamebooster_main_activity_back">Oyun Hızlandırıcısına geri dön</string>
+  <string name="gamebooster_lowbattery_notification_summary">Kapatmadan önce cihazı şarj edin.</string>
+  <string name="gamebooster_lowbattery_notification_title">Batarya %%5 altına düştü</string>
+  <string name="gamebooster_main_activity_back">Geri</string>
   <string name="gamebooster_network_dialog_message">Oyun Hızını Arttırmak için ağ bağlantı güvenliğinin tüm özelliklerine erişmeye izin veriyor musunuz?</string>
   <string name="gamebooster_network_dialog_title">"Bazı özellikler mevcut değil"</string>
   <string name="garbage_clean_detail">Detaylar</string>
@@ -977,9 +986,12 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="gs_anto_clean_memory_whitelist">İstisnalar</string>
   <string name="gs_app_back_self_start">Pil Tasarrufu</string>
   <string name="gs_auto_clean_memory">Önbelleği Temizle</string>
-  <string name="gs_auto_clean_memory_detail">Oyun esnasında önbelleiğ otomatik temizler</string>
+  <string name="gs_auto_clean_memory_detail">Oyun esnasında önbelleği otomatik temizler</string>
+  <string name="gs_call_handsfree">Çağrıyı eller serbest olarak cevapla</string>
+  <string name="gs_call_handsfree_mute">Sessiz Mod</string>
   <string name="gs_dialog_confirm_close_msg">Kısayol Ana Ekrandan kaldırılacak. Geri yüklemek için Güvenlik > Ayarlar bölümünden geri yükleyebilirsiniz.</string>
   <string name="gs_dialog_confirm_close_title">Kapat</string>
+  <string name="gs_forbid_autosync">Arkaplan eşitlemesini kısıtla</string>
   <string name="gs_game_disturb_msg">Rahatsız Etme</string>
   <string name="gs_game_duration">Zaman</string>
   <string name="gs_game_net_priority">Bağlantı Önceliği</string>
@@ -1121,6 +1133,7 @@ Ağ Yardımcısını açın"</string>
   <string name="keywords_auto_restart">Otomatik başlatma; İzinler; Otomatik başlatma; Otomatik başlatma; Otomatik başlatmayı yönetin; MIUI otomatik başlatma; Uygulama otomatik başlatma; Otomatik başlatma uygulamaları, tetikleyerek başlatma, tetikleyerek başlat, başlatılan başlatma</string>
   <string name="keywords_buy_flow">Veri; mobil veri; ancak veriler; mobil veri satın al; veri topla; veri planı</string>
   <string name="keywords_cleanmaster">Çöp Kutusu; Hurda; Depolama; Depolama alanı; Depolama alanını temizle; Çöp Kutusunu temizle; Çöp Kutusu; boşaltın; Depoyu boşaltın, Alanı boşaltın; Temizleyin; Derin Temiz;</string>
+  <string name="keywords_gamebooster">Oyunu Hızlandır, oyun, Performans modu, Rahatsız etme</string>
   <string name="keywords_networkassistant_1">Veri;Trafik</string>
   <string name="keywords_networkassistant_2">Veri;Veri Tarifesi</string>
   <string name="keywords_networkassistant_3">Veri;Tasarruf</string>
@@ -1129,7 +1142,7 @@ Ağ Yardımcısını açın"</string>
   <string name="keywords_powercenter">Batarya tasarrufu, Isıtma; Açma; Kapama; Batarya; Boşaltma; Batarya sorunları; Enerji; Boşaltma; Isıtma; Batarya tasarrufu; Enerji tasarrufu; Enerji tasarrufu; Pil tasarrufu</string>
   <string name="keywords_powercenter_powerrank">Pil Kullanımı</string>
   <string name="keywords_securitycenter">Güvenlik;Denetle;Tara</string>
-  <string name="keywords_securitycenter_settings">Pil kullanımı, Otomatik başlatmayı yönetme, USB ile yükleme, Uygulama izinleri, Mobil veri al, Blok listeleri, Veri kullanımı, Veri planını kalibre etme, Şebekeyi test etme; Pil tasarrufu, Isıtma; Açma; Kapama; Pil; Boşaltma; Pil sorunları; Enerji; Batarya tasarrufu; Enerji tasarrufu; Enerji tasarrufu; Pil tasarrufu; Autostart; İzinler; Otomatik başlatma; MIUI autostart; Uygulama otomatik başlatma; Otomatik başlatma uygulamaları, Zincir başlatma, zincirleme başlatma, başlatılan başlatma; USB kurulumu, bilgisayardan kurulum, ADB kurulumu; Konum; Erişim kişileri; Veri, mobil veri, veri satın alma, topup verileri; veri planı; Blok; Engelli Listesi; Akıllı blok listesi; Dolandırıcılık; Satış; Ajanlar; Arama engelleme listesi; Mesaj engelleme listesi; ileti bloğu listesi; SMS engelleme listesi; Engelli Listesi; Engelli Listesi; blok listesi; engelleme listesi; dolandırıcılık; kişiyi engellemek; kişileri engellemek; Trafik; Kalibre etme; Bağlantı, İnternet, Test; Pil kullanımı</string>
+  <string name="keywords_securitycenter_settings">Pil kullanımı, Otomatik başlatmayı yönetme, USB ile yükleme, Uygulama izinleri, Mobil veri al, Blok listeleri, Veri kullanımı, Veri planını kalibre etme, Şebekeyi test etme; Pil tasarrufu, Isıtma; Açma; Kapama; Pil; Boşaltma; Pil sorunları; Enerji; Batarya tasarrufu; Enerji tasarrufu; Enerji tasarrufu; Pil tasarrufu; Autostart; İzinler; Otomatik başlatma; MIUI autostart; Uygulama otomatik başlatma; Otomatik başlatma uygulamaları, Zincir başlatma, zincirleme başlatma, başlatılan başlatma; USB kurulumu, bilgisayardan kurulum, ADB kurulumu; Konum; Erişim kişileri; Veri, mobil veri, veri satın alma, topup verileri; veri planı; Blok; Engelli Listesi; Akıllı blok listesi; Dolandırıcılık; Satış; Ajanlar; Arama engelleme listesi; Mesaj engelleme listesi; ileti bloğu listesi; SMS engelleme listesi; Engelli Listesi; Engelli Listesi; blok listesi; engelleme listesi; dolandırıcılık; kişiyi engellemek; kişileri engellemek; Trafik; Kalibre etme; Bağlantı, İnternet, Test; Pil kullanımı;Oyun hızlandırıcısı;Performans modu</string>
   <string name="keywords_usb_install">USB kurulumu, bilgisayardan yükleme, ADB kurulumu</string>
   <string name="kilobyteShort">KB</string>
   <string name="kilobyte_per_second">K/san</string>
@@ -1425,6 +1438,7 @@ için bekleniyor"</string>
   <string name="name">Adı</string>
   <string name="net_booster">Ağ hızını hızlandır</string>
   <string name="net_booster_expire_notification">Ağ hızını hızlandırma oturumunun sonu hakkında</string>
+  <string name="net_booster_expire_notification_tip">Ağ Hızını Arttırmanının bitmesine %d dakika kaldı.. Renew the session to avoid network speed problems.</string>
   <string name="net_booster_overdue_notification">Ağ hızını arttırma oturumunun sonu hakkında</string>
   <string name="net_booster_overdue_notification_tip">Ağ hızını arttırma oturumunun sonu hakkında. Oturum yenilensin mi?</string>
   <string name="net_booster_tip">WLAN bağlantısının daha stabil ve ağ gecikmesini daha az olması için Ağ Hızını Arttırma özelliğini açın.</string>
@@ -1672,6 +1686,7 @@ Bu faaliyet pil ömrünü kısaltır."</string>
   <string name="path_buy_flow">Sistem Uygulamaları/Güvenlik/Veri Kullanımı/Mobil Veri Satınal</string>
   <string name="path_applicationlock">Sistem Uygulamaları/Güvenlik</string>
   <string name="path_cleanmaster">Sistem Uygulamaları/Güvenlik/Temizleyici</string>
+  <string name="path_gamebooster">Sistem Uygulamaları/Güvenlik/Oyun Hızlandırıcı</string>
   <string name="path_monthreport">Sistem Uygulamaları/Güvenlik</string>
   <string name="path_networkassistant_1">Sistem Uygulamaları/Güvenlik/Ağ Yardımcısı</string>
   <string name="path_networkassistant_2">Sistem Uygulamaları/Güvenlik/Ağ Yardımcısı</string>
@@ -2147,6 +2162,7 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="resource_buy_flow">Mobil Veri Satınal</string>
   <string name="resource_applicationlock">Uygulama Kilidi</string>
   <string name="resource_cleanmaster">Temizleyici</string>
+  <string name="resource_gamebooster">Oyun Hızlandırıcı</string>
   <string name="resource_monthreport">Güvenlik Raporu</string>
   <string name="resource_networkassistant_1">Veri Kullanımı</string>
   <string name="resource_networkassistant_2">Veri planını tanımla</string>
@@ -2653,6 +2669,10 @@ Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak
   <string name="text_button">Anladım</string>
   <string name="text_cycle_day">%s</string>
   <string name="text_day"/>
+  <string name="text_error">相关软件版本过低或未安装</string>
+  <string name="text_lucky_alarm_before">红包活动即将开始</string>
+  <string name="thermal_tips_message">Performans Modunda oyun oynamak; sistemin ısınmasına yol açabilir.</string>
+  <string name="thermal_tips_title">Dikkat</string>
   <string name="text_lock_info">Kilit açma desenini çizin</string>
   <string name="there_is_no">Herşey güzel gözüküyor, daha sonra deneyin.</string>
   <string name="third_application">Üçüncü taraf uygulamalar</string>
@@ -2946,8 +2966,8 @@ Kalan veri içeriği önceki aydan artakalanlardan yuvarlatılmış"</string>
   <string name="virus_scan_process_pre">%</string>
   <string name="virus_update_fail">"Güncellenemedi"</string>
   <string name="virus_update_success">Başarıyla güncellendi</string>
-  <string name="virus_update_tips_title">WLAN ağına bağlan</string>
-  <string name="virus_wait_network_dialog_message">"Güncellemeler büyük. İndirmek için WLAN'a bağlanın."</string>
+  <string name="virus_update_tips_title">Uyarı</string>
+  <string name="virus_wait_network_dialog_message">Telefonunuz WLAN ağına bağlı değil. Mobil veri kullanımı sürüyor. Devam edilsin mi?</string>
   <string name="voltage_symbol">V</string>
   <string name="wakepath_confirm_start_activity">İzin verilen %2$s,  %1$s açsın mı?</string>
   <string name="warn_function_no_work">&lt;u&gt;来红包时无法正常提醒？&lt;/u&gt;</string>
