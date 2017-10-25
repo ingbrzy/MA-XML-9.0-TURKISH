@@ -19,7 +19,7 @@
   <string name="accessibility_setting_button">Ek Ayar Düğmesi</string>
   <string name="accessibility_shutter_button">Deklanşör Düğmesi</string>
   <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
-  <string name="accessibility_stereo_button">Çift Kamera Modu</string>
+  <string name="accessibility_stereo_button">Odak Ayarı</string>
   <string name="accessibility_video_capture_button">VideoCaptureButton</string>
   <string name="accessibility_video_module_picker">VideoModulePicker</string>
   <string name="accessibility_video_pause_button">VideoPauseButton</string>
@@ -83,7 +83,7 @@
   <string name="dual_camera_low_constract_toast">Çift Kamera Efektleri düşük ışıkta etkilidir.</string>
   <string name="dual_camera_lowlight_toast">Çift Kamera Etkileri düşük ışıkta etkilidir.</string>
   <string name="dual_camera_too_close_toast">Çift Kamera Efekti için obje çok yakın.</string>
-  <string name="dual_camera_use_hint">Çift modlu kamera ile bulanıklık efekti, kamera ve obje arasında iki metreden daha az mesafe olduğunda çeker</string>
+  <string name="dual_camera_use_hint">Nesnenin 2 metreden daha uzak olmadığından emin olun.</string>
   <string name="duration">Süre</string>
   <string name="edit">Düzenle</string>
   <string name="edit_eye_large">Büyük Gözler</string>
@@ -134,6 +134,7 @@ birden fazla fotoğraf çekilecek."</string>
   <string name="height">Yükseklik</string>
   <string name="hibernate_hint">Kamerayı açmak için ekrana dokunun</string>
   <string name="hine_hht">"Kamera düşük ışıkta birden fazla resim çekmek ve tek çekimde minik bir ses çıkartır."</string>
+  <string name="hint_device_water_mark">Cihazın filigranı otomatik olarak eklenecek.</string>
   <string name="hint_fast_motion">Video normal oynatım hızından daha hızlı oynatılacak.</string>
   <string name="hint_groupshot">"Kamera birden fazla fotoğraf çekecek ve en iyi görününleri saklayacak."</string>
   <string name="hint_slow_motion">Video normal oynatım hızından daha yavaş gösterilecek.</string>
@@ -210,7 +211,7 @@ birden fazla fotoğraf çekilecek."</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Çerçeveye Ortala</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Nokta Metrajı</string>
   <string name="pref_camera_autoexposure_title">Otomatik Pozlama Ayarı</string>
-  <string name="pref_camera_beautify_entry_auto">Otomatik</string>
+  <string name="pref_camera_beautify_entry_auto">Kapalı</string>
   <string name="pref_camera_beautify_entry_close">Kapalı</string>
   <string name="pref_camera_beautify_entry_high">Yüksek</string>
   <string name="pref_camera_beautify_entry_low">Düşük</string>
@@ -252,6 +253,7 @@ birden fazla fotoğraf çekilecek."</string>
   <string name="pref_camera_delay_capture_entry_audio">Ses</string>
   <string name="pref_camera_delay_capture_entry_off">Kapalı</string>
   <string name="pref_camera_delay_capture_title">Zamanlayıcı</string>
+  <string name="pref_camera_device_watermark_title">Cihazın Filigranı</string>
   <string name="pref_camera_exposuretime_entry_0.5">2s</string>
   <string name="pref_camera_exposuretime_entry_1">1s</string>
   <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
@@ -270,6 +272,7 @@ birden fazla fotoğraf çekilecek."</string>
   <string name="pref_camera_exposuretime_entry_8s">8s</string>
   <string name="pref_camera_exposuretime_entry_auto">Otomatik</string>
   <string name="pref_camera_face_info_watermark_title">Fotoğrafta yüz bilgilerini göster</string>
+  <string name="pref_camera_facedetection_auto_hidden_title">Yüz tanımasını otomatik gizle</string>
   <string name="pref_camera_facedetection_title">Yüz Tanıma</string>
   <string name="pref_camera_fisheye_title">Balık Gözü</string>
   <string name="pref_camera_flashmode_entry_auto">Otomatik</string>
@@ -277,7 +280,7 @@ birden fazla fotoğraf çekilecek."</string>
   <string name="pref_camera_flashmode_entry_on">Açık</string>
   <string name="pref_camera_flashmode_entry_torch">El Feneri</string>
   <string name="pref_camera_flashmode_title">Flaş Modu</string>
-  <string name="pref_camera_focus_shoot_summary">Odaklanmak için ekrana dokunun, çekmek için ikinci kez dokunun.</string>
+  <string name="pref_camera_focus_shoot_summary">Odaklanmak için hafifçe dokunun, sonra bir fotoğraf çekmek için tekrar dokunun.</string>
   <string name="pref_camera_focus_shoot_title">Odakla &amp; Çek</string>
   <string name="pref_camera_focusmode_entry_auto">Otomatik</string>
   <string name="pref_camera_focusmode_entry_infinity">Sonsuzluk</string>
@@ -407,7 +410,7 @@ birden fazla fotoğraf çekilecek."</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"\"Ses Düğmeleriyle Uyan\" açıkken Seri Çekim Moduna geçilemiyor."</string>
   <string name="pref_camera_sound_title">Kamera Sesleri</string>
   <string name="pref_camera_square_mode_title">Kare</string>
-  <string name="pref_camera_stereo_mode_title">Stereo</string>
+  <string name="pref_camera_stereo_mode_title">Odak Ayarı</string>
   <string name="pref_camera_tilt_shift_entry_circle">Çember</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Paralel</string>
   <string name="pref_camera_tilt_shift_title">Eğim-Kaydırma</string>
@@ -432,6 +435,7 @@ birden fazla fotoğraf çekilecek."</string>
   <string name="pref_camera_whitebalance_entry_manual">Elle Ayar</string>
   <string name="pref_camera_whitebalance_entry_measure">Ölçü</string>
   <string name="pref_camera_whitebalance_title">Beyaz Dengesi</string>
+  <string name="pref_camera_zoom_value_title">Yakınlaştır</string>
   <string name="pref_camera_zsl_entry_off">Kapalı</string>
   <string name="pref_camera_zsl_entry_on">Açık</string>
   <string name="pref_capture_settings">Kamera</string>
@@ -447,7 +451,7 @@ birden fazla fotoğraf çekilecek."</string>
   <string name="pref_qc_focus_position_title">Odakla</string>
   <string name="pref_retain_camera_mode_summary">Uygulama açıldığında önceki çekimde kullanılan moda geçiş yap.</string>
   <string name="pref_retain_camera_mode_title">Önceki Modu Kaydet</string>
-  <string name="pref_scan_qrcode_summary">Sadece arka kamera QR Kodları tarar</string>
+  <string name="pref_scan_qrcode_summary">Arka kamera; QR kodlarını yalnızca \"Fotoğraf\" modunda tarayabilir.</string>
   <string name="pref_scan_qrcode_title">QR Kodlarını Tara</string>
   <string name="pref_setting_title">Ayarlar</string>
   <string name="pref_simple_hdr_entry_off">Kapalı</string>
@@ -517,7 +521,7 @@ birden fazla fotoğraf çekilecek."</string>
   <string name="simple_mode_button_text_scene">Sahne Modunu Kapat</string>
   <string name="simple_mode_button_text_slow_video">Zaman Aralığını Kapat</string>
   <string name="simple_mode_button_text_square">Kare Modunu kapat</string>
-  <string name="simple_mode_button_text_stereo_mode">Stereo Modu kapat</string>
+  <string name="simple_mode_button_text_stereo_mode">Odak Ayarını kapat</string>
   <string name="simple_mode_button_text_tilt_shift">Eğim/Kaydırmayı Kapat</string>
   <string name="simple_mode_button_text_ubifocus">Yeniden Odaklanmayı Kapat</string>
   <string name="snap_cancel">İptal et</string>
