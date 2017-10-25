@@ -75,6 +75,7 @@
   <string name="account_setup_basics_email_label">Hesap Kimliğini Gir</string>
   <string name="account_setup_basics_login_gmail_without_proxy">Mevcut şebekeyi kullanarak oturum aç</string>
   <string name="account_setup_basics_manual_setup_action">Elle Kurulum</string>
+  <string name="account_setup_basics_mi_mail_login_help">Mi Postaya başarıyla girildi, Mesaji kontrol edin ve gönderilen etkinleştirme bağlantısıyla işlemi gerçekleştirin</string>
   <string name="account_setup_basics_password_label">Şifreyi girin</string>
   <string name="account_setup_basics_title">Hesap ekle</string>
   <string name="account_setup_check_settings_check_incoming_msg">"   Sunucu ayarları doğrulanıyor..."</string>
@@ -634,6 +635,7 @@
   <string name="meeting_canceled">İptal Edildi: %s</string>
   <string name="meeting_declined">Kabul Edilmedi: %s</string>
   <string name="meeting_recurring">Ne Zaman: %s (devirli)</string>
+  <string name="meeting_responded_failed">Cevap başarısız</string>
   <string name="meeting_tentative">Tereddütlü: %s</string>
   <string name="meeting_updated">Güncellendi: %s</string>
   <string name="meeting_when">Ne Zaman: %s</string>
