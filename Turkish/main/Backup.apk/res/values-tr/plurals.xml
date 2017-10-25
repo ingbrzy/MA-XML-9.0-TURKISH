@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+     <plurals name="backup_items_sysdata_tailer">
+        <item quantity="other">%d sistem veri dosyası</item>
+        <item quantity="one">%d sistem veri dosyası</item>
+    </plurals>
+    <plurals name="backup_items_app_tailer">
+        <item quantity="other">%d uygulama veri dosyası</item>
+        <item quantity="one">%d uygulama veri dosyası</item>
+    </plurals>
     <plurals name="data_item_count">
         <item quantity="other">%d öğe</item>
         <item quantity="one">%d öğe</item>
@@ -11,5 +19,29 @@
     <plurals name="trans_time_format_hours">
         <item quantity="other">%d saat</item>
         <item quantity="one">%d saat</item>
+    </plurals>
+	<plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d öğe</item>
+        <item quantity="one">%1$s | %2$d öğe</item>
+    </plurals>
+    <plurals name="select_item_count_unit">
+        <item quantity="other">öğe</item>
+        <item quantity="one">öğe</item>
+    </plurals>
+    <plurals name="save_item_saving_summary">
+        <item quantity="other">%d öğe geri yüklendi</item>
+        <item quantity="one">%d öğe geri yüklendi</item>
+    </plurals>
+    <plurals name="save_item_saved_summary">
+        <item quantity="other">%d öğe aktarıldı ve geri yüklendi</item>
+        <item quantity="one">%d öğe aktarıldı ve geri yüklendi</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg1">
+        <item quantity="other">"%d öğe aktarıldı, "</item>
+        <item quantity="one">"%d öğe aktarıldı, "</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg2">
+        <item quantity="other">%d öğenin yeniden aktarılması lazım</item>
+        <item quantity="one">%d öğenin yeniden aktarılması lazım</item>
     </plurals>
 </resources>
