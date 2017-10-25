@@ -2853,7 +2853,7 @@ Burada diğer kullanıcılar var.
   <string name="miui_lab_gallery_search_desc">Gelişmiş Resim Araması</string>
   <string name="miui_lab_gallery_search_title">Galerideki fotoğrafları bul</string>
   <string name="miui_lab_settings">MIUI Lab.</string>
-  <string name="miui_lab_slogan">Öğren. Gez. Keşfet.</string>
+  <string name="miui_lab_slogan">Öğren Gez Keşfet</string>
   <string name="miui_lab_taplus_desc">Tetikleme faaliyetleri için öğelere uzunca basın</string>
   <string name="miui_lab_taplus_title">Taplus</string>
   <string name="miui_screen_config_title">Ana Ekran Ayarları</string>
@@ -3066,6 +3066,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="night_mode_title">Tema</string>
   <string name="night_mode_yes">Koyu</string>
   <string name="no">Hayır</string>
+  <string name="no_account_found">Hesap eklemeyi destekleyen uygulama yok</string>
   <string name="no_all_caps">HAYIR</string>
   <string name="no_application">Hiçbir şey</string>
   <string name="no_applications">Uygulama yok.</string>
@@ -6374,7 +6375,7 @@ Farklı bir WLAN ağına başlanmak için "Geri tuşuna dokunun.</string>
   <string name="xiaomi_account">Mi Hesabı</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_cloud_service">Mi Bulut</string>
-  <string name="xiaomi_cloud_service_description">Mi Bulut kişilerinizi ve fotoğraflarınızı eşitler, uygulamalarınızı ve ayarlarınızı yedekler ve Telefonu Bul özelliğini kullanarak telefonunuzu bulmanıza yardımcı olur.</string>
+  <string name="xiaomi_cloud_service_description">Mi Bulut kişilerinizi, fotoğraflarınızı ve diğer öğeleri eşitler. Uygulamalarınızı ve ayarlarınızı yedekler ve Telefonu Bul özelliğini kullanarak telefonunuzu bulmanıza yardımcı olur.</string>
   <string name="xiaomi_cloud_service_disabled">Kapalı</string>
   <string name="xiaomi_cloud_service_unknown">Bilinmiyor</string>
   <string name="xiaomi_connect_download_manager_fail">İndirme yöneticisi başarısız oldu, lütfen uygulama yöneticisinden indirme yöneticisinin durumunun kontrol edin.</string>
