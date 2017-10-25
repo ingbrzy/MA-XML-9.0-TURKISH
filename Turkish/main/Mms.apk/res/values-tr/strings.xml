@@ -213,8 +213,8 @@
   <string name="group_message">Grup mesajı</string>
   <string name="group_message_failed_title">"%d kişiye mesaj gönderilemedi"</string>
   <string name="group_resend_message">Tekrar gönder (%d)</string>
-  <string name="group_verification_codes_summary">Bir kerelik parolaları otomatik olarak grupla</string>
-  <string name="group_verification_codes_title">OTP mesajlar grubu</string>
+  <string name="group_verification_codes_summary">Bir seferlik şifreleri otomatik olarak grupla</string>
+  <string name="group_verification_codes_title">Tek seferde şifreleme grubu</string>
   <string name="guild_add_attachments">İfadeler ve diğer öğeleri eklemek için dokunun</string>
   <string name="guild_add_recipients">Kişilerden alıcı eklemek için dokunun</string>
   <string name="guild_msim_switcher">SIM kartı değiştirmek için dokunun</string>
@@ -280,7 +280,7 @@
   <string name="message_number">Telefon Numarası:</string>
   <string name="message_pending">Gönderiliyor</string>
   <string name="message_queued">"Şu an mesajınız gönderilemiyor. Hizmet kullanılabilir olduğunda gönderilecektir."</string>
-  <string name="message_queued_second_space">"Şu an mesajınız gönderilemiyor. Lütfen veri ağını açın."</string>
+  <string name="message_queued_second_space">"Mesaj gönderilemiyor. Göndermek için mobil veriyi açın."</string>
   <string name="message_readed">Okundu</string>
   <string name="message_received">Alındı</string>
   <string name="message_rejected">Reddedildi</string>
@@ -394,7 +394,7 @@
   <string name="notification_multiple_title">Yeni mesaj</string>
   <string name="number_add_hint">Telefon numarasını girin</string>
   <string name="open_audio_record_panel">Ses kayıt panelini aç</string>
-  <string name="open_edit_sms_panel">Mesaj düzenleme bölümünü aç</string>
+  <string name="open_edit_sms_panel">Mesaj düzenleme panelini aç</string>
   <string name="open_url_with_web">Tarayıcıda bu URL açılsın mı?</string>
   <string name="over_max_mms_size">MMS çok büyük!</string>
   <string name="overwrite_edited_content">"Düzenlediğiniz içeriğin üzerine yazılır."</string>
@@ -634,8 +634,8 @@
   <string name="sp_mark_as_read_menu_title">Okundu diye işaretle</string>
   <string name="sp_mark_as_read_progress">Çalışıyor...</string>
   <string name="sp_mark_as_read_title">Hepsi okundu olarak işaretlensin mi?</string>
-  <string name="sqlite_disk_full">Veritabanı veya disk doldu</string>
-  <string name="sqlite_low_memory">Düşük Hafıza</string>
+  <string name="sqlite_disk_full">Cihazın depolama alanı dolu.</string>
+  <string name="sqlite_low_memory">Yeterli alan yok</string>
   <string name="status_failed">Başarısız</string>
   <string name="status_label">"Durum: "</string>
   <string name="status_pending">Beklemede</string>
