@@ -235,6 +235,8 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="demo_mode">Demo Modu</string>
   <string name="description_direction_left">%s için sola hızlıca kaydır.</string>
   <string name="description_direction_up">%s kilidini açmak yukarı kaydırın.</string>
+  <string name="description_image_button_answer">Cevapla</string>
+  <string name="description_image_button_reject">Reddet</string>
   <string name="description_target_search">Ara</string>
   <string name="dev_settings_warning_message">Bu ayarlar geliştirme kullanımı için tasarlanmıştır. Bunlar cihazınızın ve üzerindeki uygulamaların zararlı veya hatalı çalışmasına neden olabilir.</string>
   <string name="dev_settings_warning_title">Geliştirici seçeneklerine izin verilsin mi?</string>
