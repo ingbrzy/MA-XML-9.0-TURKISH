@@ -101,14 +101,16 @@
         <item>Depolama Kullanımı</item>
         <item>Veri Kullanımı</item>
         <item>Pil Kullanımı</item>
+		<item>Kurulum Zamanı</item>
     </string-array>
     <string-array name="sort_title">
-        <item>Durumuna göre sırala</item>
-        <item>Uygulama adına göre sırala</item>
-        <item>Kul. sıklığına göre sırala</item>
-        <item>Depolama kul. alanına göre sırala</item>
-        <item>Veri kullanımına göre sırala</item>
-        <item>Pil kullanımına göre sırala</item>
+        <item>Durumuna göre</item>
+        <item>Uygulama adına göre</item>
+        <item>Kul. sıklığına göre</item>
+        <item>Depolama kul. alanına göre</item>
+        <item>Veri kullanımına göre</item>
+        <item>Pil kullanımına göre</item>
+		<item>Kurulum zamanına göre</item>
     </string-array>
     <string-array name="sms_report_type">
         <item>Veri Kullanımı</item>
