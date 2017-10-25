@@ -384,9 +384,10 @@
   <string name="filter_by_size">Boyuta göre</string>
   <string name="filter_by_size_max">%dMB</string>
   <string name="filter_by_size_min">%dKB</string>
-  <string name="filter_by_size_prefix">"Kısa dosyaları gizle "</string>
-  <string name="filter_by_size_summary">Kısa ses dosyaları gizle</string>
-  <string name="find_music">Yeni şarkılar keşfet</string>
+  <string name="filter_by_size_prefix">"Küçük dosyaları gizle "</string>
+  <string name="filter_by_size_summary">Küçük ses dosyalarını gizle</string>
+  <string name="filter_size_unit">%dKB</string>
+  <string name="find_music">Yeni şarkıları keşfet</string>
   <string name="follow">Takip et</string>
   <string name="followed">Takipte:</string>
   <string name="font_family">miui</string>
@@ -633,6 +634,9 @@
   <string name="notification_recommend_title">Önemli Bildirimleri</string>
   <string name="notification_setting">Bildirim Ayarları</string>
   <string name="notification_title_no_song">"Herkesin ne dinlediğini göz atın!"</string>
+  <string name="nowplaying_circle_style">Oynatmanın Döngü Stili</string>
+  <string name="nowplaying_circle_style_rainbow">Gökkuşağı</string>
+  <string name="nowplaying_circle_style_wave">Dalga</string>
   <string name="nowplaying_dialog_title_delete_tracks">Listeden kaldırılsın mı?</string>
   <string name="nowplaying_menu_item_delete">Temizle</string>
   <string name="ok">Tamam</string>
