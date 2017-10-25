@@ -175,7 +175,6 @@ https://appleid.apple.com/#!&amp;page=kapanmak için giriş yap"</string>
 2.\u0009 Mi Talk Ayarlarına gidin ve ”Kişileri Mi Hesabına Yedekle” seçeneğini seçin"</string>
   <string name="import_from_xiaomi_account_hint2"> Mevcut bir yedeğiniz varsa, Sonraki tuşuna dokunun.</string>
   <string name="import_from_xiaomi_account_hint_title">Cihazlar arasında kişilerinizi yedeklemek için Mi Talk kullanın.</string>
-  <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
   <string name="import_tip_summary">"Uyumluluk nedeniyle, yalnızca rehber ve fotoğraflar desteklenir. Önce eski cihazlarda iCloud'a veri yüklemeniz gerekir."</string>
   <string name="import_tip_title">İpuçları:</string>
   <string name="loading_data">Veri yükleniyor</string>
