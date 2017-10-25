@@ -50,6 +50,7 @@
   <string name="button_cancel">İptal Et</string>
   <string name="button_continue">Devam Et</string>
   <string name="button_finish">Tamam</string>
+  <string name="button_import">Aktar</string>
   <string name="button_next">Sonraki</string>
   <string name="button_ok">Tamam</string>
   <string name="button_return">Geri</string>
@@ -57,9 +58,21 @@
   <string name="call_title">Çağrı Geçmişi</string>
   <string name="camera_summary">Kamera Ayarları(Fotoğraflar hariç)</string>
   <string name="cancel">İptal Et</string>
-  <string name="cancel_backup">Durdur</string>
+  <string name="cancel_backup">DurdurStop</string>
+  <string name="cancel_moving_dialog_message">Aktarmak istediğinizden emin misiniz?</string>
+  <string name="cancel_moving_dialog_title">Aktarmayı Durdur</string>
   <string name="cancel_restore">Durdur</string>
   <string name="click_to_view">Görüntülemek için dokunun</string>
+  <string name="close_twice_auth_btn">İki faktörlü doğrulamayı kapat</string>
+  <string name="close_twice_auth_note">"Not:
+Yeni bir güvenlik sorusu oluşturduktan ve doğum tarihinizi doğruladıktan sonra, ikili kimlik doğrulama işlevi kapatılacaktır. Apple kimliği hesap sayfasında ikili kimlik doğrulamayı kapatma seçeneğini görmüyorsanız, bunu kapatamazsınız."</string>
+  <string name="close_twice_auth_operation">"Bilgisayar tarafında erişim:
+https://appleid.apple.com/#!&amp;page=kapanmak için giriş yap"</string>
+  <string name="close_twice_auth_step_1">1. Apple ID hesabı sayfasına girin</string>
+  <string name="close_twice_auth_step_2">"2. Güvenlik bölümünde, Düzenle'yi tıklayın."</string>
+  <string name="close_twice_auth_step_3">3. Çift/iki adımlı yetkilendirmeyi kapatı tıklayın. Onaylamak için tekrar tıklayın</string>
+  <string name="close_twice_auth_steps">İkili faktör yetkisini kapatın, şu adımı uygulayın:</string>
+  <string name="close_twice_auth_tutor">Apple ID İkili Faktör Yetkilendirmesini Kapat</string>
   <string name="cloud_app_name">Mi Bulut Yedeği</string>
   <string name="cloud_backup_hint">Yedeklerinize erişmek için giriş yapın</string>
   <string name="cloud_backup_login">Mi Hesabınızla giriş yapınız</string>
@@ -74,6 +87,8 @@
   <string name="cloud_search">Aranıyor...</string>
   <string name="compute_backup_info">Yedekleme bilgileri alınıyor...</string>
   <string name="compute_delete_contact_info">Bilgiler alınıyor…</string>
+  <string name="connect_wifi">WLAN Ağına Bağlan</string>
+  <string name="connect_wifi_tip">"Ağ bağlantısı kesildi. ICloud'dan veri içe aktarmak için WLAN bağlantısı gerekiyor."</string>
   <string name="contact_title">Kişiler</string>
   <string name="current_account">Merhaba %s</string>
   <string name="current_pad_location">Tablet</string>
@@ -89,8 +104,10 @@
   <string name="delete_failed_backup_confirm">Yedekleme hatalar içeriyor.</string>
   <string name="deselect_all">Vazgeç</string>
   <string name="dir_date_format">ddMMyyyy_HHmmss</string>
+  <string name="disable_encrypt_description">Şifresiz</string>
   <string name="disable_encrypt_title">Şifreleme Pasif</string>
   <string name="enable_encrypt">Şifreleme Etkin</string>
+  <string name="enable_encrypt_description">Şifrele</string>
   <string name="enable_encrypt_fail">Şifreleme başarısız</string>
   <string name="enable_encrypt_indicator">Şifrelemek için dokunun</string>
   <string name="enable_encrypt_ok">Tamam</string>
@@ -121,13 +138,47 @@
   <string name="findlost_contact_online">Mi Bulut kişilerini geri yükle</string>
   <string name="guarded_mode_dialog_backup_message">"Yedeklemeye Misafir Modunda izin verilmez."</string>
   <string name="guarded_mode_dialog_title">"Misafir Modundasınız"</string>
-  <string name="guarded_mode_dialog_transfer_message">"Misafir Modunda Mi Tranfer kullanılamaz."</string>
+  <string name="guarded_mode_dialog_transfer_message">"Misafir Modunda Mi Transfer kullanılamaz."</string>
+  <string name="hsa_code_null">Doğrulama kodu boş olamaz</string>
+  <string name="hsa_input_hint">Doğrulama kodunu giriniz</string>
+  <string name="hsa_input_tip">ICloud Kimliğiniz iki faktörlü kimlik doğrulamasını etkinleştirir. Lütfen doğrulama kodunu giriniz.</string>
+  <string name="hsa_send_again">Yeniden gönder</string>
+  <string name="hsa_send_again_countdown">(%ds) yeniden gönder</string>
+  <string name="hsa_send_failed">Doğrulama kodu gönderilemedi. Lütfen tekrar deneyin.</string>
+  <string name="hsa_sending">Gönderiliyor...</string>
+  <string name="hsa_tip_message">"1.ICloud için telefona doğrulama kodunu içeren bir mesaj gönderilecek.
+2.Doğrulamada başarısız olursa, iki faktörlü kimlik doğrulamayı kapatın."</string>
+  <string name="hsa_tip_message_shutdown_hsa">İki faktörlü doğrulama kodu nasıl kapatılır?</string>
+  <string name="hsa_tip_message_with_device">"1.ICloud için %s telefona doğrulama kodunu içeren bir mesaj gönderilecek.
+2.Doğrulamada başarısız olursa, iki faktörlü kimlik doğrulamayı kapatın."</string>
+  <string name="hsa_tip_title">İpuçları:</string>
+  <string name="hsa_title">İki Faktörlü Doğrulama</string>
+  <string name="hsa_verify_failed">İki Faktörlü Doğrulama başarısız</string>
+  <string name="hsa_verify_failed_message">İki Faktörlü Doğrulama başarısız. İki faktörlü kimlik doğrulamayı yeniden deneyebilir veya kapatabilirsiniz.</string>
+  <string name="hsa_verify_retry">Y. Dene</string>
+  <string name="hsa_verify_shutdown">Kapat</string>
+  <string name="icloud_backup_tip">Eski Apple cihazının iCloud Kimlik girişi</string>
+  <string name="icloud_how_to_backup_tip_steps">"1.IOS cihazında Ayarlara girin ve ardından iCloud'u seçin.
+2.Kişileri açın.
+3.Fotoğraflar'ı seçin ve iCloud Fotoğraf Kitaplığı'nı açın."</string>
+  <string name="icloud_how_to_backup_tip_summary">"IOS'tan veri aktarmak için eski cihazlarda iCloud'a veri yüklemeniz gerekir."</string>
+  <string name="icloud_how_to_backup_tip_title">İpuçları:</string>
+  <string name="icloud_login_title">"iCloud'a oturum aç"</string>
+  <string name="icloud_need_sync">"IOS'tan veri aktarmak için eski cihazlarda iCloud'a veri yüklemeniz gerekir"</string>
+  <string name="icloud_need_wifi_message">"WLAN şu anda bağlı değil. ICloud'dan veri aktarmak için, giriş yapmak ve veri indirmek için WLAN gereklidir."</string>
+  <string name="icloud_need_wifi_title">WLAN gerekli</string>
+  <string name="import_again">Yeniden aktar</string>
+  <string name="import_data_from_icloud">"iCloud'tan veri aktar"</string>
   <string name="import_from_xiaomi_account_hint1">"1.\u0009 Mi Talk uygulamasını indirin ve oturum açın.
 \u0009http://www.miliao.com
 
 2.\u0009 Mi Talk Ayarlarına gidin ve ”Kişileri Mi Hesabına Yedekle” seçeneğini seçin"</string>
   <string name="import_from_xiaomi_account_hint2"> Mevcut bir yedeğiniz varsa, Sonraki tuşuna dokunun.</string>
   <string name="import_from_xiaomi_account_hint_title">Cihazlar arasında kişilerinizi yedeklemek için Mi Talk kullanın.</string>
+  <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
+  <string name="import_tip_summary">"Uyumluluk nedeniyle, yalnızca rehber ve fotoğraflar desteklenir. Önce eski cihazlarda iCloud'a veri yüklemeniz gerekir."</string>
+  <string name="import_tip_title">İpuçları:</string>
+  <string name="loading_data">Veri yükleniyor</string>
   <string name="local_app_name">Yedekle</string>
   <string name="local_backup_window_title">Dahili Yedek Verisi</string>
   <string name="local_home_title">Dahili Yedekle</string>
@@ -141,6 +192,9 @@
   <string name="local_select_sysdata">Sistem</string>
   <string name="local_select_userapp">Uygulamalar</string>
   <string name="local_select_video">Videolar</string>
+  <string name="login">Oturum aç</string>
+  <string name="login_failed">Oturum açılamadı. Yeniden deneyin.</string>
+  <string name="logining">Oturum açılıyor...</string>
   <string name="miliao_account_guide">Herhangi bir yerden, Mi Bulut, Tema Mağazası ve diğer MI hizmetlerinden faydalanabilmek için MI Hesabını kullanın.</string>
   <string name="miliao_account_login">Mi Talk ile oturum açın</string>
   <string name="mms_title">Multimedya Mesajlaşma</string>
@@ -148,6 +202,7 @@
   <string name="multi_user_mode_backup_message">"Çoklu Kullanıcı Modunda Yedekleme kullanılamaz. Çoklu Kullanıcı Modunu kapatıp devam edin."</string>
   <string name="multi_user_mode_dialog_message">"Çoklu-Kullanıcı Modunda Mi Transfer kullanılamaz. Çoklu-Kullanıcı Modunu kapatıp devam edin."</string>
   <string name="multi_user_mode_dialog_title">"Çoklu-Kullanıcı Modundasınız"</string>
+  <string name="name_password_not_consistent">Kullanıcı ismi veya parola yanlış</string>
   <string name="never">Asla</string>
   <string name="new_backup">Yedekle</string>
   <string name="no_encrypt_password">Şifre yok</string>
@@ -157,15 +212,32 @@
   <string name="notif_backup_complete_title">Başarıyla yedeklendi</string>
   <string name="notif_backup_content">Kullanıcı verileri yedekleniyor</string>
   <string name="notif_backup_title">Verileri Yedekle</string>
+  <string name="notif_icloud_canceled_summary">İptal edildi</string>
+  <string name="notif_icloud_canceling_summary">İptal ediliyor...</string>
+  <string name="notif_icloud_import_title">"iCloud'tan veri aktar"</string>
+  <string name="notif_icloud_loaded_summary">Verinin indirilmesi için bekleniyor</string>
+  <string name="notif_icloud_loading_summary">Veri yükleniyor...</string>
+  <string name="notif_icloud_logining">Eski Apple cihazının iCloud kimliğiyle oturum açılıyor...</string>
+  <string name="notif_icloud_need_wifi_summary">WLAN bekleniyor</string>
+  <string name="notif_icloud_saved_summary">Aktarma tamamlandı</string>
+  <string name="notif_icloud_saving_summary">Veri geri yükleniyor</string>
   <string name="notif_restore_complete_title">Başarıyla geri yüklendi</string>
   <string name="notif_restore_content">Kullanıcı verileri geri yükleniyor</string>
-  <string name="notif_restore_title">Verileri geri yükle</string>
+  <string name="notif_restore_title">Veriyi geri yükle</string>
+  <string name="notif_trans_auto_reconnecting_content">Gerekirse mevcut görevi iptal edebilirsiniz.</string>
+  <string name="notif_trans_auto_reconnecting_title">Bağlantı kesildi. Otomatik olarak yeniden bağlanılıyor...</string>
   <string name="notif_trans_receiving_completed">Veri başarıyla alındı</string>
   <string name="notif_trans_receiving_failed">Veri alınamadı</string>
   <string name="notif_trans_sending_completed">Veri başarıyla gönderildi</string>
   <string name="notif_trans_sending_failed">"Veri gönderilemedi"</string>
   <string name="notif_trans_wait_for_reconnecting">Bağlantı kesildi. Tekrar bağlanın.</string>
   <string name="page_loading">Biraz bekleyin...</string>
+  <string name="password">Şifre</string>
+  <string name="password_null">Şifre boş olamaz</string>
+  <string name="pause">Duraklat</string>
+  <string name="platform_chooser_item_android">"Android'ten aktar"</string>
+  <string name="platform_chooser_item_ios">"Apple cihazdan aktar"</string>
+  <string name="platform_chooser_title">Eski Cihazı Seçin</string>
   <string name="progress_backup_hint">Yedekleniyor...</string>
   <string name="progress_restore_hint">Geri Yükleniyor...</string>
   <string name="prompt_reading">Okunuyor...</string>
@@ -192,6 +264,13 @@
   <string name="retry">Tekrar Dene</string>
   <string name="reverse_all">Tümünü Temizle</string>
   <string name="router_backup_hint">Cihazınızı açık tutun</string>
+  <string name="save_finish_with_failing_items">"İçe aktarma kesildi. Bazı veriler içe aktarıldı
+Verilerin kaldığı yerden tekrar aktarılması gerekiyor"</string>
+  <string name="saving_data">"ICloud'dan veri içe aktarılıyor
+Lütfen WLAN'ı kapatmayın veya WLAN'ı değiştirmeyin."</string>
+  <string name="saving_data_no_time">Veri geri yükleniyor</string>
+  <string name="saving_data_space_low">"Yeterli alan yok
+Lütfen en az %s alan açın"</string>
   <string name="sc_bad_request">Geçersiz istek</string>
   <string name="sc_internal_server_error">İç Sunucu Hatası</string>
   <string name="sc_network_unavailable">Bağlantınızı kontrol edin ve tekrar deneyin.</string>
@@ -208,6 +287,12 @@
   <string name="see_backup_files_on_router"> Mi Yönlendirici\'deki %s yedeklere gözat</string>
   <string name="select_all">Hepsi</string>
   <string name="select_backup_item">Öğeleri Seç</string>
+  <string name="select_empty">Aktarılacak öğeleri seçin</string>
+  <string name="select_item_contacts">Kişiler</string>
+  <string name="select_item_empty_summary">İçerik yok</string>
+  <string name="select_item_photos">Fotoğraflar</string>
+  <string name="select_item_summary_loading">Veri yükleniyor...</string>
+  <string name="select_item_summary_wait">Veri yüklemek için bekliyor</string>
   <string name="select_storage_location">Yedekleme konumunu seçin</string>
   <string name="service_stoped">Hizmet durduruldu</string>
   <string name="settings_summary">Telefon ve Mesaj Ayarları</string>
@@ -259,6 +344,7 @@
   <string name="total_size">, %s</string>
   <string name="trans_backingup">Yedekleniyor...</string>
   <string name="trans_backingup_no_items">Eşitleniyor...</string>
+  <string name="trans_button_cancel">İptal et</string>
   <string name="trans_calculating">Hesaplanıyor...</string>
   <string name="trans_calculating_app_sd_size">Gönderilecek veri boyutu hesaplanıyor: %s</string>
   <string name="trans_calculating_base_size">"Uygulamanın uygulama boyutu hesaplanıyor"</string>
@@ -274,15 +360,19 @@
   <string name="trans_detail_category_files">Dosyalar</string>
   <string name="trans_detail_category_sysdata">Sistem Verisi</string>
   <string name="trans_detail_category_userdata">Uygulamalar</string>
+  <string name="trans_device_auto_reconnecting">Cihaz bağlantısı kesildi. Otomatik olarak yeniden bağlanıyor...</string>
   <string name="trans_device_disconnected">Bağlantı kesildi</string>
   <string name="trans_device_wait_for_reconnecting">Bağlantı kesildi. Devam etmek için yeniden bağlanın.</string>
+  <string name="trans_disconnected_tips_message">Uzak aygıt bağlantısı kesildi. Lütfen elle tekrar bağlayın. Gerekirse mevcut görevi iptal edebilirsiniz.</string>
+  <string name="trans_disconnected_tips_title">Uzak aygıt bağlantısı kesildi</string>
   <string name="trans_generate_qr_code_failed">"QR Kod oluşturulamadı"</string>
-  <string name="trans_intro_desc_2">"Transferi iptal edin, Mi Transfer'den çıkın ve yeniden başlayın. Yeni aktarım yapılırken varolan dosyaların üzerine yazılır."</string>
+  <string name="trans_intro_desc_1">"Xiaomi cihazından WLAN'a bağlanın \"Alıcıyım\"a dokunun ve sonra \"Apple Cihazı\"nı seçin, iCloud'a giriş yapın ve verileri aktarın."</string>
   <string name="trans_intro_desc_3">"Mi Transfer, dosya aktarımında WLAN kullanır, bu nedenle aktarım sırasında her iki cihazda da WLAN kullanarak internete bağlanamazsınız.Yine de mobil veriyi kullanabilirsiniz ancak bazı yeni cihazlar (mesela Mi 6) transferler esnasında WLAN da kullanarak internete bağlanabilir. "</string>
   <string name="trans_intro_desc_4">Eski cihazlardaki depolama alanı, aktarma paketleri oluşturmak için kullanılır. Aktarıma başlamadan önce eski telefonunuzda en az 500MB - 1GB kullanılabilir depolama alanına sahip olduğunuzdan emin olun.</string>
   <string name="trans_intro_desc_5">Bunun olmasının çeşitli nedenleri vardır: sistem ve uygulama sürümünün uyumluluğuyla ilgili sorunlar, ağ sorunları, belirli bir cihaza özgü uyumluluk sorunları vs.</string>
   <string name="trans_intro_desc_6">"Bazı uygulama profilleri (e-bankacılık, finans, vb.), Güvenlik nedenlerinden dolayı belirli cihazla ilişkilendirilir. Uygulama verilerini temizlemeyi deneyin veya uygulamayı yeni bir cihaza yeniden yüklemeyi deneyin."</string>
-  <string name="trans_intro_desc_7">"WeChat uygulama verileri ve sohbet geçmişi Mi Transfer ile tam olarak aktarılamayabilir, başarılı bir aktarım için daha fazla sonuç elde etmek için WeChat'ın ayarlarına gidin ve hesabınızdan çıkış yapın."</string>
+  <string name="trans_intro_desc_7">Bazı uygulama profilleri (e-bankacılık, finans, vb.), Güvenlik nedenlerinden dolayı belirli cihazla ilişkilendirilir. Uygulama verilerini temizlemeyi deneyin veya uygulamayı yeni bir cihaza yeniden yüklemeyi deneyin.</string>
+  <string name="trans_intro_desc_8">"WeChat uygulama verilerini ve sohbet geçmişini, Mi Transfer kullanmakla tam olarak aktarılamayabilirsiniz. Başarılı bir aktarım elde edebilmek için WeChat'ın ayarlarına gidin ve hesabınızdan çıkış yapın."</string>
   <string name="trans_intro_desc_account">Güvenlik nedenleriyle yeni bir cihazdaki hesaplarınızda (ör. Mi Hesabı, Exchange, Google vb.) Tekrar oturum açmanız gerekir.</string>
   <string name="trans_intro_desc_multiapp">"Mi Transfer, dosyalar arasındaki çakışmaları önlemek için Klonlu uygulamaların verilerini aktarmaz."</string>
   <string name="trans_intro_desc_multiuser">"Mi Transfer, İkinci alandaki öğelere erişemez, öğeleri Birinci alana taşıyın ve Mi Transfer'ı orada başlatın."</string>
@@ -297,6 +387,7 @@
   <string name="trans_intro_question_6">"6. Neden bazı uygulamalar yeni bir cihazda başlamıyor?"</string>
   <string name="trans_intro_question_7">"7. Neden WeChat geçmişi tamamen aktarılamadı?"</string>
   <string name="trans_intro_question_8">"8. Hangi öğelerler aktarılamıyor?"</string>
+  <string name="trans_intro_question_9">"9. Hangi öğeler aktarılamıyor?"</string>
   <string name="trans_intro_title">SSS</string>
   <string name="trans_intro_title_account">Hesaplar ve Şifreler:</string>
   <string name="trans_intro_title_multiapp">Klonlu Uyg. Verisi:</string>
@@ -335,8 +426,8 @@ O zaman [Yeniden Bağlan] seçeneğiyle QR kodunu tarayın."</string>
   <string name="trans_progress_subdescript_waiting">%s alınması için bekliyor</string>
   <string name="trans_receiver">"Alıcıyım"</string>
   <string name="trans_receiver_time_remained">"%s kaldı.
-WLAN iNet\'i kapatmayın.
-İki aygıtı birbirine yakın tutun"</string>
+WLAN Paylaşımı\'nı kapatmayın.
+İki cihazı birbirine yakın tutun"</string>
   <string name="trans_receiving_completed">Veri alındı</string>
   <string name="trans_restoring">Geri yükleniyor...</string>
   <string name="trans_restoring_no_items">Öğeler eşitleniyor</string>
@@ -349,7 +440,7 @@ WLAN iNet\'i kapatmayın.
   <string name="trans_select_data_no_space">"Gönderilecek cihazda yeterli alan yok. 
 Dosyaları yeniden seçin veya %s kadar boş alan oluşturun"</string>
   <string name="trans_select_data_tips">"Aktarmak için dosyaları seçin
-Benzer dosyalar Alıcı cihazınızın üstüne yazılır"</string>
+Benzer dosyalar, Alıcı cihazınızın üstüne yazılır"</string>
   <string name="trans_select_device_receive">Veri almak için tek bir cihaz seçin.</string>
   <string name="trans_select_device_send">Veri aktarmak için tek bir cihaz seçin.</string>
   <string name="trans_sender">"Göndericiyim"</string>
@@ -358,7 +449,7 @@ Benzer dosyalar Alıcı cihazınızın üstüne yazılır"</string>
   <string name="trans_sender_searching_ensurance">"Gönderici cihazın açık olduğundan emin olun
 Gönderici cihaz bağlamak için bekliyor..."</string>
   <string name="trans_sender_time_remained">"%s kaldı.
-WLAN\i kapatmayın.
+WLAN bağlantısını kapatmayın.
 Cihazlarınızı birbirine yakın tutun."</string>
   <string name="trans_sending_completed">Veri gönderildi</string>
   <string name="trans_show_qr_code_label">Gönderenin cihazına bağlantı kurun</string>
@@ -368,14 +459,18 @@ Cihazlarınızı birbirine yakın tutun."</string>
   <string name="trans_time_format_second">Bir dakikadan daha az</string>
   <string name="trans_time_spent">"
 Geçen Zaman: %s"</string>
-  <string name="trans_wait_trans_data">"Alıcı aygıtı bağlı.
+  <string name="trans_wait_trans_data">"Alıcı cihaz bağlı.
 Transferi için bekleniyor..."</string>
   <string name="trans_waiting_ensurance">"Mi Transferin etkin ve
-alıcı aygıtın açık olduğundan emin olun"</string>
-  <string name="trans_waiting_for_sender">Alıcı aygıttın bağlanması için bekliyor...</string>
+alıcı cihazın açık olduğundan emin olun"</string>
+  <string name="trans_waiting_for_sender">Alıcı cihazın bağlanması için bekliyor...</string>
+  <string name="trans_wlan_tips_message">"Veri aktarımı yaparken lütfen WLAN'ı kapatmayın veya değiştirmeyin. Aksi takdirde, transfer işelemi başarısız olabilir."</string>
+  <string name="trans_wlan_tips_title">"Lütfen WLAN'ı kapatmayın veya WLAN'ı değiştirmeyin."</string>
   <string name="unit_byte">B</string>
   <string name="unit_piece">" öğe"</string>
-  <string name="unknown_hint">Bilinmeyen</string>
+  <string name="unknown_hint">Bilinmiyor</string>
+  <string name="user_name">Apple Kimliği veya E-Posta</string>
+  <string name="user_name_null">Kullanıcı adı boş olamaz</string>
   <string name="user_notice_declaration_ignore">Tekrar Gösterme</string>
   <string name="user_notice_message">Bazı özelliklerin normal çalışması için internet bağlantısına erişmesi gerekiyor</string>
   <string name="user_notice_title">Dikkat</string>
