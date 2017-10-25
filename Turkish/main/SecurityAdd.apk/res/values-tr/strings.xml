@@ -134,4 +134,5 @@
   <string name="usage_sorted_loading_text">Biraz bekleyin...</string>
   <string name="wlan_change_protection_detail">"Mobil veri şebekesine bağlandığında WLAN'a otomatik olarak geçme"</string>
   <string name="wlan_change_protection_title">Anahtarlama ağlarını önle</string>
+  <string name="xunyou_pay_webview">Xunyou Hizmetleri</string>
 </resources>
