@@ -1438,6 +1438,7 @@ Tekrar deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."</
   <string name="path_auto_answer_pref_title">Sistem Uygulamaları/Telefon/Otomatik Cevapla</string>
   <string name="path_auto_retry_mode_title">Sistem Uygulamaları/Telefon/Gelişmiş Ayarlar/Otomatik Dene</string>
   <string name="path_autoip">Sistem Uygulamaları/Telefon/Gelişmiş Ayarlar/Otomatik IP Araması</string>
+  <string name="path_call_advanced_settings_title">Sistem Uygulamaları/Telefon/Gelişmiş Ayarlar</string>
   <string name="path_call_background_setting_name">Sistem Uygulamaları/Telefon/Gelişmiş Ayarlar/Çağrı Arkaplanı</string>
   <string name="path_call_forwarding_settings">Sistem Uygulamaları/Telefon/Çağrı Yönlendirme Ayarları</string>
   <string name="path_call_record_auto_title">Sistem Uygulamaları/Telefon/Çağrı Kaydı/Çağrıları Otomatik Kaydet</string>
