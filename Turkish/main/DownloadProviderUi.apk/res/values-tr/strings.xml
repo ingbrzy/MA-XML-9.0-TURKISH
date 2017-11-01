@@ -70,7 +70,7 @@
   <string name="dialog_insufficient_space_on_external">İndirme tamamlanamıyor. Harici hafızada yeterli boş alan yok.</string>
   <string name="dialog_media_not_found">İndirme yapılamıyor. Harici depolama alanı kullanılamaz.</string>
   <string name="dialog_msg_disabled_net">Geçerli ağdaki indirmeler %1$s tarafından kısıtlandı. Güvenlik uygulamasına gitmek için Ağ ayarlarını dokunun.</string>
-  <string name="dialog_msg_recommend">"Mevcut ağda %1$s kısıtlı yükleme var. Güvenlik uygulamasına gitmek için Ağ Ayarları'na dokunun."</string>
+  <string name="dialog_msg_recommend">"Önerilen kaynakları, kapattıktan sonra görüntüleyemezsiniz."</string>
   <string name="dialog_queued_body">Bu dosya daha sonra indirilmek üzere sıraya alındı.</string>
   <string name="dialog_title_disabled_net">İnternet Erişimi</string>
   <string name="dialog_title_not_available">İndirme Hatası</string>
