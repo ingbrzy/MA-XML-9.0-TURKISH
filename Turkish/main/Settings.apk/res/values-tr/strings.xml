@@ -2864,6 +2864,7 @@ Burada diğer kullanıcılar var.
   <string name="miui_screensaver_title">Ekran Koruyucu</string>
   <string name="miui_screensaver_usage">Açıldıktan sonra her 5 saniyede bir resimler gösterilir ve kapatılır.</string>
   <string name="miui_silent_title">Sessiz Mod</string>
+  <string name="miui_updater">Güncelleyici</string>
   <string name="mms_breathing_light_color_title">Mesajların Işık Rengi</string>
   <string name="mms_breathing_light_freq_title">Mesajların Yanıp-Sönme Aralığı</string>
   <string name="mms_privacy_password_role_instruction">Mesajlar ile özel kişiler burada saklanır</string>
@@ -4373,7 +4374,7 @@ Ekran iğnelemeyi kullanmak için:
   <string name="search_status_bar_settings_toggle_collapse_after_clicked">Dokunduktan sonra kapat</string>
   <string name="search_status_bar_settings_toggle_position">Konumları aç;araçları değiştir;Geçiş</string>
   <string name="search_storage">Depolama,Hafıza</string>
-  <string name="search_storage_settings">Temizleyici</string>
+  <string name="search_storage_settings">Depolama;Hafıza</string>
   <string name="search_sync">Eşitleme</string>
   <string name="search_sync_settings">Eşitle;Otomatik;Sadece WLAN</string>
   <string name="search_system_app_settings">Sistem Uygulamaları</string>
@@ -5048,7 +5049,7 @@ Devam etmek için; fakat uygulamalar bu konumdan taşınırken ve veri transferi
   <string name="storageuse_settings_title">Depolama Kullanımı</string>
   <string name="strict_mode">Sıkı Mod etkin</string>
   <string name="strict_mode_summary">Uygulamalar uzun işlemleri yaptığında ekranı flaşla</string>
-  <string name="suggest_unrestrict_max_aspect_ratio_title">Bu yugulamalar tam ekran modun da çok iyi çalışır</string>
+  <string name="suggest_unrestrict_max_aspect_ratio_title">Bu uygulamalar tam ekran modun da çok iyi çalışır</string>
   <string name="sub_activate_failed">Etkinleştirme başarısız.</string>
   <string name="sub_activate_not_supported">Etkinleştirme desteklenmiyor</string>
   <string name="sub_activate_success">Başarıyla etkinleştirildi.</string>
