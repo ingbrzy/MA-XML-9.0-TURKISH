@@ -72,17 +72,41 @@
         <item quantity="other">%d bulut fotoğraflarına eklendi, görüntülemek için \"Sadece yerel albümleri göster\" özelliğini kapatın.</item>
         <item quantity="one">%d bulut fotoğraflarına eklendi, görüntülemek için \"Sadece yerel albümleri göster\" özelliğini kapatın.</item>
     </plurals>
-    <plurals name="delete_photo_msg_format">
-        <item quantity="other">%2$s, %1$d fotoğraf silinsin mi?</item>
-        <item quantity="one">%2$s fotoğraf silinsin mi?</item>
+    <plurals name="delete_photo_from_local">
+        <item quantity="other">%d fotoğraf silinsin mi?</item>
+        <item quantity="one">Fotoğraf silinsin mi?</item>
+      </plurals>
+    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
+        <item quantity="other">"%d fotoğraf tüm cihazlardan ve Mi Bulut'tan silinsin mi?"</item>
+        <item quantity="one">"Fotoğraf tüm cihazlardan ve Mi Bulut'tan silinsin mi?"</item>
     </plurals>
-    <plurals name="delete_video_msg_format">
-        <item quantity="other">%2$s, %1$d video silinsin mi?</item>
-        <item quantity="one">%2$s video silinsin mi?</item>
+    <plurals name="delete_photo_from_this_album_and_cloud_msg">
+        <item quantity="other">"%d fotoğraf bu albümden ve Mi Bulut'tan silinsin mi?"</item>
+        <item quantity="one">"Fotoğraf bu albümden ve Mi Bulut'tan silinsin mi?"</item>
     </plurals>
-    <plurals name="delete_media_msg_format">
-        <item quantity="other">%2$s, %1$d öğe silinsin mi?</item>
-        <item quantity="one">%2$s, %1$d öğe silinsin mi?</item>
+    <plurals name="delete_video_from_local">
+        <item quantity="other">%d video silinsin mi?</item>
+        <item quantity="one">Video silinsin mi?</item>
+    </plurals>
+    <plurals name="delete_video_from_all_devices_and_cloud_msg">
+        <item quantity="other">"%d video tüm cihazlardan ve Mi Bulut'tan silinsin mi?"</item>
+        <item quantity="one">"Video tüm cihazlardan ve Mi Bulut'tan silinsin mi?"</item>
+    </plurals>
+    <plurals name="delete_video_from_this_album_and_cloud_msg">
+        <item quantity="other">"%d video bu albümden ve Mi Bulut'tan silinsin mi?"</item>
+        <item quantity="one">"Video bu albümden ve Mi Bulut'tan silinsin mi?"</item>
+    </plurals>
+    <plurals name="delete_media_from_local">
+        <item quantity="other">%d öğeler silinsin mi?</item>
+        <item quantity="one">%d öğe silinsin mi?</item>
+    </plurals>
+    <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">"%d öğe tüm cihazlardan ve Mi Bulut'tan silinsin mi?"</item>
+        <item quantity="one">"%d öğe tüm cihazlardan ve Mi Bulut'tan silinsin mi?"</item>
+    </plurals>
+    <plurals name="delete_media_from_this_album_and_cloud_msg">
+        <item quantity="other">"%d öğe bu albümden ve Mi Bulut'tan silinsin mi?"</item>
+        <item quantity="one">"%d öğe bu albümden ve Mi Bulut'tan silinsin mi?"</item>
     </plurals>
     <plurals name="album_item_msg_format">
         <item quantity="other">(%d öğe)</item>
@@ -145,7 +169,7 @@
         <item quantity="one">1 video</item>
     </plurals>
     <plurals name="number_of_images_to_upload">
-        <item quantity="other">%1$d photos waiting to back up</item>
+        <item quantity="other">%1$d fotoğraf yedeklenmek için bekliyor</item>
         <item quantity="one">1 fotoğraf yedeklenmek için bekliyor</item>
     </plurals>
     <plurals name="number_of_videos_to_upload">
