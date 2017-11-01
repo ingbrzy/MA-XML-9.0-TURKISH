@@ -89,6 +89,7 @@ daima görüntüleyebilirsiniz"</string>
   <string name="exit_private_space">Geçiş Yap</string>
   <string name="finger_print_num">Parmakizi %d</string>
   <string name="finger_print_of_use">Parmakizi kullan</string>
+  <string name="fingerprint_number_upper_limit">Çok fazla başarısız kilit açma girişimi yapıldı</string>
   <string name="fingerprint_removal_failed">"Parmakizi silinemedi"</string>
   <string name="function_not_support">Bu cihaz desteklenmiyor</string>
   <string name="gms_message">Google Hizmetleriyle çalışabilecek klonlu uygulamaların oluşturulması isteniyor. Google Hizmetleriyle çalışacak klonlu uygulama oluşturulsun mu?</string>
@@ -200,7 +201,7 @@ Kilit Ekranında İkinci Alana giriş yapılamaz."</string>
   <string name="scanner_fingerprint_tips_desc">Varolan parmakizini İkinci Alana eklemek için seçin. Bu işlem Birinci Alanada kullanılmaz.</string>
   <string name="scanner_fingerprint_tips_title">Varolan parmakizini İkinci Alana eklemek için girin</string>
   <string name="scanner_second_space_fingerprint">İkinci Alan parmakizini tarayın</string>
-  <string name="sdcardfs_dialog_message">İkinci Alana girmeden önce \"SD Kartı Bağla\" özelliğini Geliştirici Seçenekler içinden kapatın.</string>
+  <string name="sdcardfs_dialog_message">İkinci Alana girmeden önce \"SD Kartı Bağla\" özelliğini Ayarlar > Ek Ayarlar > Geliştirici Seçenekler içinden kapatın.</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
   <string name="search_result_text">"Herhangi uygulama bulunamadı"</string>
   <string name="secondSpace">İkinci Alan</string>
