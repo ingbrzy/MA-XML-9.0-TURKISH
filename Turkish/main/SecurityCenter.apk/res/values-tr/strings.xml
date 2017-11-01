@@ -940,6 +940,8 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="forget_password_button_text_normal">Şifremi Unuttum</string>
   <string name="forget_pattern">Deseni Unuttum</string>
   <string name="free_send_net_booster">Serbest Ağ Hızını Arttır</string>
+  <string name="free_send_net_booster_busniess">Ücretsiz Xunlei Hızlandırıcı al</string>
+  <string name="free_send_net_booster_busniess_tip">Almak için dokunun</string>
   <string name="free_send_net_booster_tip">Serbest Ağ Hızını Arttır ile oyunların akıcılığından zevk alın.</string>
   <string name="free_time_traffic">Veri Üst Limiti</string>
   <string name="free_time_traffic_hint">Veri üst limitini girin</string>
@@ -950,6 +952,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="fw_blocked">Engelli Listesi</string>
   <string name="fw_blocked_count">"Engelli: "</string>
   <string name="fw_blocked_join">" ve "</string>
+  <string name="game_ad_recommendation">Herkes oynuyor...</string>
   <string name="game_anti_disturb_msg">Oyunda Rahatsız Etme</string>
   <string name="game_booster">Oyunu Hızlandır</string>
   <string name="game_booster_intro">Hızlandırıcı Hakkında</string>
@@ -1252,12 +1255,15 @@ mobil veri bağlantısını desteklemiyor"</string>
   <string name="main_button_idel_traffic">Üst Limit</string>
   <string name="main_button_normal_traffic">Üst Limit</string>
   <string name="main_bill_remained">Telefon Bakiyesi</string>
+  <string name="main_button_mi_sim_close">"Mi SIM'i Etkinleştir"</string>
+  <string name="main_button_mi_sim_open">Detayları göster</string>
   <string name="main_button_usage_adjust">Mobil veri kullanımını eşitle</string>
   <string name="main_button_usage_adjust_manual">Veri kullanım limitini ayarla</string>
   <string name="main_button_usage_adjusting">Değiştiriliyor…</string>
   <string name="main_button_usage_adjusting_bill">Değiştiriliyor…</string>
   <string name="main_button_usage_package_setting">Veri kullanım limitini ayarla</string>
   <string name="main_daily_package">Günlük veri planı</string>
+  <string name="main_indicator_title">Etkinleştirilmesi bekleniyor</string>
   <string name="main_message_no_package_by_dual">%s için veri limitini ayarla</string>
   <string name="main_leisure_remained">Kalan üst veri limiti:</string>
   <string name="main_month_total_used">Bu ay kullanılan:</string>
@@ -1293,6 +1299,7 @@ mobil veri bağlantısını desteklemiyor"</string>
 SMS gönder"</string>
   <string name="main_tc_wait_result">"Operatörün cevap vermesi
 için bekleniyor"</string>
+  <string name="main_tobe_added_desc">Mobil Veri: ¥0.03/MB </string>
   <string name="main_today_used">Bugün Kullanılan:</string>
   <string name="main_toolbar_firewall">Veri kullanımını kısıtla</string>
   <string name="main_toolbar_internet_by_mobiledata">Mobil Veri</string>
@@ -2969,6 +2976,8 @@ Kalan veri içeriği önceki aydan artakalanlardan yuvarlatılmış"</string>
   <string name="virus_update_tips_title">Uyarı</string>
   <string name="virus_wait_network_dialog_message">Telefonunuz WLAN ağına bağlı değil. Mobil veri kullanımı sürüyor. Devam edilsin mi?</string>
   <string name="voltage_symbol">V</string>
+  <string name="vpn_disabled_by_user">Belirlenen veri bağlantısı kapalı</string>
+  <string name="vpn_unbale_get_phonenum">"Belirlenen veri planlarını kullanarak telefon numaraları alınamıyor"</string>
   <string name="wakepath_confirm_start_activity">İzin verilen %2$s,  %1$s açsın mı?</string>
   <string name="warn_function_no_work">&lt;u&gt;来红包时无法正常提醒？&lt;/u&gt;</string>
   <string name="warning_open_mi_sim">Mi SIM açık</string>
