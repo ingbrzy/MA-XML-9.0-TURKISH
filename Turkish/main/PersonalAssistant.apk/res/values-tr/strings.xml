@@ -34,6 +34,7 @@
   <string name="cleanup_power">Derin Temizlik</string>
   <string name="clear">Temizle</string>
   <string name="closed">Kapat</string>
+  <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleri ile ilgili sorun yaşıyor. Sorun devam ederse, lütfen yardım için geliştiriciyle iletişime geçin.</string>
   <string name="commute">Harita Tavsiyeleri</string>
   <string name="commute_open">Harita tavsiyeleri için kartı göster</string>
   <string name="commute_setting_brief">Ayrılmadan önce rota ve trafik tavsiyelerini alın.</string>
