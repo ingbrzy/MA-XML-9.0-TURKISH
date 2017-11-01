@@ -32,7 +32,7 @@
   <string name="download_queued">Sıraya alındı</string>
   <string name="download_remaining">%s kaldı</string>
   <string name="download_running">Devam ediyor</string>
-  <string name="download_running_percent">Devam ediyor: %%%d</string>
+  <string name="download_running_percent">Devam ediyor: %s</string>
   <string name="download_unknown_title">&lt;İsimsiz&gt;</string>
   <string name="enter_garbage_clean">Dahili depolama alanını temizleyin</string>
   <string name="insufficient_space">Cihazınızın dahili depolama alanında yeterli boş alan yok</string>
