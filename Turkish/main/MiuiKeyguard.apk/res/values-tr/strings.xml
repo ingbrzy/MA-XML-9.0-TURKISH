@@ -79,7 +79,7 @@
   <string name="input_password_after_boot_msg">"Cihaz yeniden başladıktan sonra şifreyi girmeniz gerekecek."</string>
   <string name="input_password_after_boot_msg_can_not_switch_when_calling">"Görüşme esnasındaki boşluklar arasında geçiş yapılamaz"</string>
   <string name="input_password_after_boot_msg_must_enter_owner_space">Cihaz yeniden başlatıldıktan sonra İlk Alana girmeniz gerekiyor</string>
-  <string name="input_password_handle_sdcard_fs">İkinci Alana girmeden önce \"SD Kartı Bağla\" kapatılmalı.</string>
+  <string name="input_password_handle_sdcard_fs">İkinci Alana girmeden önce \"SD Kartı Bağla\" özelliğini Ayarlar > Ek Ayarlar > Geliştirici Seçenekler altından kapatılmalı.</string>
   <string name="input_password_hint_text">Şifreyi girin</string>
   <string name="input_pattern_hint_text">Deseni açma desenini çizin</string>
   <string name="input_pin_code">PIN kodunu girin</string>
