@@ -37,11 +37,11 @@
         <item quantity="one">%d öğe aktarıldı ve geri yüklendi</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
-        <item quantity="other">"%d öğe aktarıldı, "</item>
-        <item quantity="one">"%d öğe aktarıldı, "</item>
+        <item quantity="other">"%d öğe aktarıldı "</item>
+        <item quantity="one">"%d öğe aktarıldı "</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg2">
-        <item quantity="other">%d öğenin yeniden aktarılması lazım</item>
-        <item quantity="one">%d öğenin yeniden aktarılması lazım</item>
+        <item quantity="other">%d öğenin yeniden aktarılması lazım.</item>
+        <item quantity="one">%d öğenin yeniden aktarılması lazım.</item>
     </plurals>
 </resources>
