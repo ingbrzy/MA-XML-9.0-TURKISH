@@ -192,7 +192,7 @@ Parmağınızın sensörün iç kenarını kapsadığından emin olun"</string>
   <string name="add_fingerprint_success_msg">Başarıyla eklendi</string>
   <string name="add_fingerprint_text">Parmakizi ekle</string>
   <string name="add_fingerprint_toast_text">Sensöre parmağınızı koyun</string>
-  <string name="add_front_fingerprint_instruction_msg">Parmakizi sensörü cihazınız arkasında.</string>
+  <string name="add_front_fingerprint_instruction_msg">Parmakizi sensörü cihazınızın Ana Ekran düğmesindedir.</string>
   <string name="add_new">Ekle</string>
   <string name="add_rule">Kural ekle</string>
   <string name="add_virtual_keyboard">Klavyeleri Yönet</string>
@@ -2864,7 +2864,7 @@ Burada diğer kullanıcılar var.
   <string name="miui_screensaver_title">Ekran Koruyucu</string>
   <string name="miui_screensaver_usage">Açıldıktan sonra her 5 saniyede bir resimler gösterilir ve kapatılır.</string>
   <string name="miui_silent_title">Sessiz Mod</string>
-  <string name="miui_updater">Güncelleyici</string>
+  <string name="miui_updater">Sistemi Güncelle</string>
   <string name="mms_breathing_light_color_title">Mesajların Işık Rengi</string>
   <string name="mms_breathing_light_freq_title">Mesajların Yanıp-Sönme Aralığı</string>
   <string name="mms_privacy_password_role_instruction">Mesajlar ile özel kişiler burada saklanır</string>
