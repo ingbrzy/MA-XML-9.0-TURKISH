@@ -117,6 +117,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="alarm_lockscreen_btn">开始抢红包</string>
   <string name="alarm_setting_title">红包闹钟设置</string>
   <string name="all_address_choose_hint">Bu ildeki tüm numaralar</string>
+  <string name="already_close_gamebooster">Hızlandırıcı kapalı</string>
   <string name="anim_gamebooster_text">Biraz bekleyin…</string>
   <string name="anti_disturb_msg_detail">Gelen çağrı esnasındanki tüm bildirimleri kapat</string>
   <string name="anti_disturb_msg_title">Rahatsız Etme</string>
@@ -490,6 +491,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="block_message_number">"Mesaj: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;"</string>
   <string name="block_phone_number">"Çağrı: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;"</string>
   <string name="boost_done">Başarıyla hızlandırıldı</string>
+  <string name="boost_stop">Hızlandırıcıyı kapat</string>
   <string name="booster_immediately">Hızlandır</string>
   <string name="booster_suc">Başarıyla hızlandırıldı</string>
   <string name="boostering">Hızlandırılıyor…</string>
@@ -726,6 +728,8 @@ Mobil verileri yeniden açarsanız, operatörünüz sizden ek veri ücreti alabi
   <string name="data_usage_warning_body_notify">Detayları görüntülemek için dokunun</string>
   <string name="data_usage_warning_title">Veri Kullanımı Uyarısı</string>
   <string name="data_usage_warning_title_notify">Veri sınırını aştın</string>
+  <string name="databooster_tips_message">Veri kartı haricindeki tüm SIM kartları kısıtlamak için açın. Seçtiğiniz oyunlarda hatalar oluşursa, bu özelliği kapatın.</string>
+  <string name="databooster_tips_title">Dikkat</string>
   <string name="datausage_ignore_app_list_count">"Yoksayılan %d uygulamanın veri kullanımı"</string>
   <string name="datausage_purchase_backto_ns">Geri</string>
   <string name="datausage_purchase_banner_title">%s Kontör Teklifi (özel)</string>
@@ -931,6 +935,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="float_window">桌面悬浮窗</string>
   <string name="float_window_summary">支持快速跳转至摇一摇与咻一咻页面</string>
   <string name="float_window_tips">小米手机就是快！</string>
+  <string name="forbid_autobright_summary">"Oyun oynarken ekran parlaklığı aynı kalır"</string>
   <string name="forbid_autobright_title">Ekran parlaklığını düzelt</string>
   <string name="flow_rank_title">Veri Kullanımı</string>
   <string name="force_stop_dlg_text">"Arkaplan mobil veriyi kısıtlamak, bir WLAN ağına bağlı olduğunuz sürece bazı uygulamalar ve hizmetleri çalıştırmaz."</string>
@@ -955,6 +960,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="game_ad_recommendation">Herkes oynuyor...</string>
   <string name="game_anti_disturb_msg">Oyunda Rahatsız Etme</string>
   <string name="game_booster">Oyunu Hızlandır</string>
+  <string name="game_booster_close">Oyun Hızlandırıcısı kapalı</string>
   <string name="game_booster_intro">Hızlandırıcı Hakkında</string>
   <string name="game_booster_jump_webview">Biraz bekleyin...</string>
   <string name="game_booster_tab_top">Yukarı</string>
@@ -3004,6 +3010,8 @@ Kalan veri içeriği önceki aydan artakalanlardan yuvarlatılmış"</string>
   <string name="wlan_booster">"WLAN'i İyileştir"</string>
   <string name="wlan_change_protection_detail">"Mobil veri ağına bağlandığında otomatik olarak WLAN seçeneğine geçemez"</string>
   <string name="wlan_change_protection_title">Ağ Geçişini Önle</string>
+  <string name="xunyou_net_booster">Ağı Hızlandır</string>
+  <string name="xunyou_net_booster_detail">Oyun için Xunyou hız arttırma servislerini kullanın</string>
   <string name="xiaomi_traffic_pass_btn_purchase">Fazlasını öde</string>
   <string name="xiaomi_traffic_pass_dialog_warning_title">Mi Veri Plan Bildirimi</string>
   <string name="xiaomi_traffic_pass_exhausted">"Mi Veri Plani mobil veride mevcut değil. Operatörün veri planına geçildi."</string>
