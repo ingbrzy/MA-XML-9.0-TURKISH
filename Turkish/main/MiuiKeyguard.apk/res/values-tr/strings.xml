@@ -194,5 +194,6 @@ i.mi.com adresinde oturum açın, "Telefonu Bul" bölümüne gidin, cihazı seç
   <string name="unlockscreen_quick_charging_message">%%%d hızlı şarj ediliyor</string>
   <string name="unlockscreen_recharge_completed">Pil şarj edildi</string>
   <string name="unlockscreen_recharging_message">Şarj ediliyor: %%%d</string>
+  <string name="wallpaper_global_des_drop_down_notify_text">Detaylari göstermek için bırakın</string>
   <string name="wrong_password">Yanlış şifre</string>
 </resources>
