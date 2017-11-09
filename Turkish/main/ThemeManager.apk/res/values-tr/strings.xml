@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_id_not_login">Oturum açmak için dokunun</string>
-  <string name="account_info">Mi Hesabı</string>
+  <string name="account_info">Hesabım</string>
   <string name="account_name_not_login">Oturum aç</string>
   <string name="account_unactivated">Hesap etkinleştirilmedi</string>
   <string name="ad_app_download_start">İndirmeye başlıyor…</string>
@@ -43,7 +43,7 @@
   <string name="component_title_wallpaper">Duvar Kağıdı</string>
   <string name="current_using_desktop_wallpaper_text">Ana Ekran</string>
   <string name="current_using_lockscreen_wallpaper_text">Kilit Ekranı</string>
-  <string name="current_version_incompatible">Uyumsuzluk Sürümü</string>
+  <string name="current_version_incompatible">Bu tema uyumsuzdur</string>
   <string name="deleting">Siliniyor...</string>
   <string name="description_author">Yazar:</string>
   <string name="description_designer">Tasarımcı:</string>
@@ -96,8 +96,8 @@
   <string name="gift_use_confirmation_dlg_title">Bu hediye gönderilsin mi?</string>
   <string name="gift_use_fail_dlg_title">Bir şeyler yanlış gitti</string>
   <string name="gift_used">Gönderildi</string>
-  <string name="hide_free">"Ücretsizi gizle "</string>
-  <string name="hide_incompatible">"Uyumsuzu gizle "</string>
+  <string name="hide_free">"Ücretsiz temaları gizle "</string>
+  <string name="hide_incompatible">"Uyumsuz temaları gizle"</string>
   <string name="home_apply_failured">"Ana Ekrana duvar kağıdı uygulanamıyor"</string>
   <string name="home_apply_success">Ana Ekran duvar kağıdı uygulandı</string>
   <string name="in_the_end">Gösterilecek başka öğe yok</string>
@@ -154,8 +154,8 @@
   <string name="online_precust_scenery">Manzara</string>
   <string name="online_precust_tiny">Minik</string>
   <string name="online_search_hint">Çevrimiçi kaynakları arayın</string>
-  <string name="present_local_themes">Tema Kaynaklarım</string>
-  <string name="present_official_themes">Resmi Seçimler</string>
+  <string name="present_local_themes">Temalarım</string>
+  <string name="present_official_themes">Seçtiklerimiz</string>
   <string name="present_online_themes">Daha fazla çevrimiçi tema al</string>
   <string name="provision_default_theme_title">Varsayılan</string>
   <string name="provision_loading_tips">Biraz bekleyin…</string>
@@ -166,7 +166,7 @@
   <string name="purchased_list_legacy">Eski Temalar</string>
   <string name="purchased_list_format">%1$s satın alındı</string>
   <string name="recently_used">Önceden Kullanılan</string>
-  <string name="region_not_support">Maalesef, bölgenizde temalar desteklenmiyor.</string>
+  <string name="region_not_support">Temalar bölgenizde desteklenmiyor.</string>
   <string name="reload">Yeniden dene</string>
   <string name="resource_account_abnormal_state">Hesap hatası. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="resource_account_fail_to_add">"Hesap eklenemedi"</string>
