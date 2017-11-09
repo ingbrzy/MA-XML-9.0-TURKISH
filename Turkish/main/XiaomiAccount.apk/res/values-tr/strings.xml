@@ -32,6 +32,7 @@
   <string name="account_none_binded_info">Yok</string>
   <string name="account_none_binded_secure_phone">Telefon numarası yok</string>
   <string name="account_none_user_name">Yok</string>
+  <string name="account_notification_message">Oturum süresi doldu. Tekrar oturum açın.</string>
   <string name="account_protection">Hesap Koruması</string>
   <string name="account_protection_off">Kapalı</string>
   <string name="account_protection_on">Açık</string>
