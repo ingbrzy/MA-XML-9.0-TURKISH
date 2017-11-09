@@ -25,7 +25,7 @@
   <string name="delete_dialog_message">Kayıt silinsin mi?</string>
   <string name="deleting_message">Siliniyor...</string>
   <string name="details">Detaylar</string>
-  <string name="dialog_content_storage_full">"Cihazın depolama alanının az olmasından dolayı kayıt işlemi durduruldu."</string>
+  <string name="dialog_content_storage_full">"Cihazınızda yeterli depolama alanı kalmadığından kayıt durdu."</string>
   <string name="dialog_title_storage_full">Yetersiz alan</string>
   <string name="duration_format_hour">%ss</string>
   <string name="duration_format_minute">%sdak</string>
