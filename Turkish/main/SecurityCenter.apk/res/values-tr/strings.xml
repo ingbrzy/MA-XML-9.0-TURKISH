@@ -135,7 +135,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="antivirus_choose_engine_update_disable_toast">"Güncelleme devam ederken tanımlar değiştirilemez"</string>
   <string name="antivirus_longtime_no_update">"Virüs tanımlarınız eski gibi görünüyor. Düzenli güncellemeler daha iyi tarama sonuçları elde etmemize yardımcı olur. Güvenliğin internete bağlanmasına ve virüs tanımlarını güncellemesine izin verilsin mi?"</string>
   <string name="antivirus_longtime_no_update1">Virüs tanımlarınız eski gibi görünüyor. Düzenli güncellemeler daha iyi tarama sonuçları elde etmemize yardımcı olur. Tanımı güncelleyin ve tekrar deneyin.</string>
-  <string name="antivirus_main_activity_back">Güvenli taramasına geri dön</string>
+  <string name="antivirus_main_activity_back">Geri</string>
   <string name="antivirus_monitor_btn_text_clean_risk">Riskli uygulamaları silebilirsiniz</string>
   <string name="antivirus_monitor_btn_text_clean_virus">Virüsleri sil</string>
   <string name="antivirus_monitor_clean_tips">Silinen Öğeler: %s</string>
@@ -179,6 +179,8 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="app_install_tips_go_to">Aç</string>
   <string name="app_install_tips_install_success">%1$s başarıyla yüklendi</string>
   <string name="app_maanger_app_uninstalled_toast">Bu uygulama kaldırıldı</string>
+  <string name="app_manager_advanced_setting">Gelişmiş Ayarlar</string>
+  <string name="app_manager_allow">Evet</string>
   <string name="app_manager_app_ifno_version">Uygulama Sürümü</string>
   <string name="app_manager_app_info_label">Uygulama Bilgisi</string>
   <string name="app_manager_app_info_name">Uygulama Adı</string>
@@ -201,6 +203,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="app_manager_clear_failed_dlg_message">Uygulama için veri silinemedi.</string>
   <string name="app_manager_clear_failed_dlg_title">Veriyi Temizle</string>
   <string name="app_manager_copy_pkg_to_clip">Panoya kopyalandı</string>
+  <string name="app_manager_default_cleared">Temizlendi</string>
   <string name="app_manager_default_close_summary">Varsayılan ayar yok.</string>
   <string name="app_manager_default_open">Varsayılan olarak aç</string>
   <string name="app_manager_default_open_summary">Bazı işlemler için bu uygulamayı varsayılan olarak başlatmayı seçtiniz.</string>
@@ -210,10 +213,11 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="app_manager_details_storage_title">Depolama</string>
   <string name="app_manager_details_traffic_title">Veri Kullanımı:</string>
   <string name="app_manager_disable">"İzin verme!"</string>
-  <string name="app_manager_disable_dlg_text">Eğer bu uygulamayı pasif hale getirirseniz diğer uygulamalar istenilen fonksiyonları yerine getirmeyebilir.</string>
-  <string name="app_manager_disable_dlg_title">Dahili uygulama pasif hale getirilsin mi?</string>
+  <string name="app_manager_disable_dlg_text">Bu uygulamayı devre dışı bırakırsanız, diğer uygulamalar normal şekilde çalışmayabilir.</string>
+  <string name="app_manager_disable_dlg_title">Sistem uygulaması devre dışı bırakılsın mı?</string>
   <string name="app_manager_disable_text">Pasif</string>
   <string name="app_manager_disabled">Pasif</string>
+  <string name="app_manager_disabled_by_admin">Yönetici tarafından devre dışı bırakıldı</string>
   <string name="app_manager_dlg_cancel">İptal</string>
   <string name="app_manager_dlg_ok">Tamam</string>
   <string name="app_manager_enable_text">Aktif</string>
@@ -229,6 +233,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="app_manager_go_to_manger_app">Yönet</string>
   <string name="app_manager_have_not_consume">Yok</string>
   <string name="app_manager_hide_system_server">Sistem servislerini gizle</string>
+  <string name="app_manager_install_other_app">Bilinmeyen kaynaklardan uygulamalar yükle</string>
   <string name="app_manager_instruction">Talimat</string>
   <string name="app_manager_loading_data">Veri yükleniyor…</string>
   <string name="app_manager_manage_space">Alanı Yönet</string>
@@ -238,6 +243,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="app_manager_net_control_title">Veri Kullanımını Kısıtla</string>
   <string name="app_manager_net_mobile">Mobil</string>
   <string name="app_manager_net_wifi">WLAN</string>
+  <string name="app_manager_not_allow">Hayır</string>
   <string name="app_manager_not_record">"İzin gerektiren uygulamalar bulunamadı"</string>
   <string name="app_manager_notify_bar">Bildirimler</string>
   <string name="app_manager_notify_floating">Kayar Bildirimler</string>
@@ -794,6 +800,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="dialog_msg_auto_start_declare">Bazı güvenlik uygulamaları yanlış bir şekilde MIUI\'ın başlamalarını engellediğini belirtebilir. Her uygulamanın kendine ait izinlerini görmek için Ayarlar &gt; Uygulamalar bölümünü inceleyiniz.</string>
   <string name="dialog_msg_stop_paysafety_scan">Ödeme güvenlik denetimi durdurulsun mu？</string>
   <string name="dialog_msg_stop_virus_scan">"Tarama henüz tamamlanmadı, durdurmak istiyor musunuz?"</string>
+  <string name="dialog_no_longer_alert">"Tekrar gösterme"</string>
   <string name="dialog_remobe_luckymoney_cancle">Eski</string>
   <string name="dialog_remobe_luckymoney_ok">Yeni</string>
   <string name="dialog_remove_luckymoney">Yeni yerleşik kızıl zarf asistanını kullanabilir veya faal olanı kullanmaya devam edebilirsiniz. Hangisini tercih ediyorsun?</string>
@@ -891,6 +898,14 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="exception_notify_message">网络统计模块异常，建议重启恢复</string>
   <string name="exception_titile">网络助手异常</string>
   <string name="exit">Çık</string>
+  <string name="fast_open">速抢模式</string>
+  <string name="fast_open_dialog_message">开启速抢模式后，当您收到红包时，系统将自动打开抢红包页面，抢红包更快更方便。</string>
+  <string name="fast_open_dialog_message_summary">注意：建议关闭导航类、视频类、游戏类应用的速抢模式，以免影响应用的正常操作。手机锁屏状态下不会进行红包速抢。</string>
+  <string name="fast_open_dialog_ok">开启</string>
+  <string name="fast_open_list_not_open_title">禁止在%s个应用中速抢</string>
+  <string name="fast_open_list_open_title">允许在%s个应用中速抢</string>
+  <string name="fast_open_noti_summary">%s给你发来一个红包</string>
+  <string name="fast_open_summary">开启速抢模式后，收到红包新消息将打断当前使用应用切换到抢红包窗口。</string>
   <string name="file_manager_need_update_desc">当前文件管理器版本过低，无法使用随机表情功能，请先更新文件管理器。</string>
   <string name="file_manager_need_update_title">文件管理器版本过低</string>
   <string name="finger_remind_message">Uygulama Kilidinde parmakizinizi kullanabilirsiniz.</string>
@@ -2238,7 +2253,7 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="safe_result_item_info_wifi_encryption">WLAN şifrelendi</string>
   <string name="safe_result_item_info_wifi_fake">Sahte değil</string>
   <string name="safepay_alert_dialog_button_continue">Devam edildi</string>
-  <string name="safepay_alert_dialog_button_risk">Onar</string>
+  <string name="safepay_alert_dialog_button_fix">Onar</string>
   <string name="save_energy_text">"Cihazın pilini iyileştirmek için arkaplandaki uygulama eşitlemelerini ve otomatik başlatmaları kısıtlar"</string>
   <string name="save_energy_title">Pili İyileştir</string>
   <string name="safepay_alert_dialog_button_unknown">Yeniden denetle</string>
@@ -2250,7 +2265,7 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="saving_conflict_restrictbackground_msg">"Arkaplan verileri kısıtlı olduğunda veri koruyucusunu kullanamazsınız. Veri koruyucuyu açıp arkaplan verilerine izin verilsin mi?"</string>
   <string name="sc_allow_network_dialog_message">Bu uygulama normal bir şekilde çalışması için internete bağlı olması gerekiyor.</string>
   <string name="sc_allow_network_dialog_tiltle">"Bu özelliği kullanamazsınız"</string>
-  <string name="sc_system_risk_fix_info_xspace">xspace alanındaki risk düzeltilemez, kullanıcı alanına geçip düzeltme yapın.</string>
+  <string name="sc_system_risk_fix_info_xspace">Bunu İkinci Alanda çözemezsiniz. İlk Alanda tekrar deneyin.</string>
   <string name="scan_installed_games">Yüklü oyunlar denetleniyor…</string>
   <string name="scan_status_risk">Riskli</string>
   <string name="scan_status_safe">Güvenli</string>
@@ -2346,7 +2361,9 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="sorted_dialog_title">Sırala</string>
   <string name="sp_back_title_text_zero">Güvenli</string>
   <string name="sp_background_risk_dialog_summary">, ödeme sorunlarını kontrol edin ve düzeltin.</string>
+  <string name="sp_background_risk_dialog_summary_wifi_approve">Güvensiz olabilecek bir kamu WLAN ağına bağlısınız. Ödemenizin tamamlanmadan önce korunduğunuzdan emin olun.</string>
   <string name="sp_background_risk_dialog_title">Dikkat</string>
+  <string name="sp_background_risk_dialog_title_wifi_approve">Kamu WLAN Uyarısı</string>
   <string name="sp_background_risk_type_messaging">Sistemin mesajlaşma uygulamasının yerine geçmiş</string>
   <string name="sp_background_risk_type_root">Sistem ROOT erişimli halde</string>
   <string name="sp_background_risk_type_sign">Gayri resmi uygulama çalışıyor</string>
@@ -2514,6 +2531,13 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="start_diagnostic_botton">Başlat</string>
   <string name="start_downloading_app">İndirme Başlangıcı: %1$s</string>
   <string name="start_game">Başlat</string>
+  <string name="status_bar_network_flow_content">Bugün: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Kalan: %2$s</string>
+  <string name="status_bar_network_flow_content_not_setting">Bugün: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Bu ay: %2$s</string>
+  <string name="status_bar_network_flow_exceed_content">Bugün: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan Aşıldı: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+  <string name="status_bar_network_flow_phone_balance">"   Kalan Bakiye:%1$s "</string>
+  <string name="status_bar_network_flow_purchase">"   Satınal &gt;"</string>
+  <string name="status_bar_network_flow_setup_data_plan">"   Veri Planını Ayarla &gt;"</string>
+  <string name="status_bar_network_flow_today">Bugün: %1$s</string>
   <string name="still_retain_btn">Koru</string>
   <string name="start_install">Şimdi yükle</string>
   <string name="start_tc_button">Kalibre</string>
@@ -2980,7 +3004,7 @@ Kalan veri içeriği önceki aydan artakalanlardan yuvarlatılmış"</string>
   <string name="virus_update_fail">"Güncellenemedi"</string>
   <string name="virus_update_success">Başarıyla güncellendi</string>
   <string name="virus_update_tips_title">Uyarı</string>
-  <string name="virus_wait_network_dialog_message">Telefonunuz WLAN ağına bağlı değil. Mobil veri kullanımı sürüyor. Devam edilsin mi?</string>
+  <string name="virus_wait_network_dialog_message">Telefonunuz WLAN ağına bağlı değil. Mobil veri kullanımına devam edilsin mi?</string>
   <string name="voltage_symbol">V</string>
   <string name="vpn_disabled_by_user">Belirlenen veri bağlantısı kapalı</string>
   <string name="vpn_unbale_get_phonenum">"Belirlenen veri planlarını kullanarak telefon numaraları alınamıyor"</string>
