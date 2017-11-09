@@ -72,8 +72,8 @@ Pil Tasarrufu için önemli uygulamaları seçmeli olarak işleme koyacağız."<
   <string name="hints_loading_text">Biraz bekleyin...</string>
   <string name="important_warning">Dikkat</string>
   <string name="invalid_size_value">"Paket boyutu elde edilemedi."</string>
-  <string name="lasttime_applist_cloud">Uygulama Listesi Güncellendi:</string>
-  <string name="lasttime_feature_cloud">Özellikler Güncellendi:</string>
+  <string name="lasttime_applist_cloud">Güncellenen Uygulama:</string>
+  <string name="lasttime_feature_cloud">Güncellenen Özellik:</string>
   <string name="keep_connect_description">Uygulamalar arkaplanda ağa bağlanıyor olabilir</string>
   <string name="keep_connect_title">Bağlantıyı koru</string>
   <string name="location_disable_description">Sürekli erişim kısıtlı olduğunda arkaplanda uygulamaları sadece kısa bir süre için konum servislerine erişebilir</string>
@@ -96,6 +96,8 @@ Pil Tasarrufu için önemli uygulamaları seçmeli olarak işleme koyacağız."<
   <string name="new_group_name">Özel Mod</string>
   <string name="no_applications">Boş</string>
   <string name="none">İşlem yok</string>
+  <string name="nonui_mode_config_description">"MIUI; cihazınızı kullanmadığınızı saptadığında, pil tasarrufu yapmak için ekranı aydınlatmayabilir, LED ışığını, parmakizi sensörünü kapatır ve kontrollere dokunmayı iptal edebilir."</string>
+  <string name="nonui_mode_config_title">Etkileşimsiz Mod</string>
   <string name="normal">Varsayılan Mod</string>
   <string name="notify_app_consume_abnormal_title">pili boşaltıyor</string>
   <string name="operation_create_group">Adı</string>
