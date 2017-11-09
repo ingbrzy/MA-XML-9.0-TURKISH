@@ -141,7 +141,7 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="license_host_unreachable">"Ağa bağlanamadı. Bu bilgiyi şimdi görüntülemek için buraya gidin: %s."</string>
   <string name="loading">Biraz bekleyin...</string>
   <string name="loading_hint">Yükleniyor…</string>
-  <string name="master_alert_notif_content">%d veri eşitlenemedi.</string>
+  <string name="master_alert_notif_content">Eşitlenemedi.</string>
   <string name="master_alert_notif_dspt_add">Eşitlenmek için bekleyen öğe: %s</string>
   <string name="master_alert_notif_dspt_no">Eşitlendi</string>
   <string name="master_alert_notif_title">Mi Bulut ile eşitlemeyi aç</string>
