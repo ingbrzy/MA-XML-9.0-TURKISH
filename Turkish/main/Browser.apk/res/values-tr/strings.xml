@@ -23,14 +23,14 @@
   <string name="action_menu_account_not_login_hint">Mi Bulut ile eşitlemek için oturum açın</string>
   <string name="action_menu_bookshelf">Kitaplık</string>
   <string name="action_menu_current_version">Güncel Sürüm</string>
-  <string name="action_menu_request_desktop_site">Masaüstü sitesini talep et</string>
-  <string name="action_menu_request_desktop_site_off">Masaüstü sitesini talep etme</string>
-  <string name="action_menu_request_desktop_site_on">Masaüstü sitesini talep et</string>
+  <string name="action_menu_request_desktop_site">Site Erişimi</string>
+  <string name="action_menu_request_desktop_site_off">Site Erişimi kapalı</string>
+  <string name="action_menu_request_desktop_site_on">Site Erişimi açık</string>
   <string name="action_menu_text_add_bookmark">Favoriye Ekle</string>
   <string name="action_menu_text_bandwidth">Veri Tasarrufu</string>
   <string name="action_menu_text_bandwidth_off">Veri Tasarrufu</string>
   <string name="action_menu_text_bandwidth_on">Veri Tasarrufu</string>
-  <string name="action_menu_text_bookmark_add_off">Hiçbir web sayfası eklenemez.</string>
+  <string name="action_menu_text_bookmark_add_off">Web sayfası eklenemez.</string>
   <string name="action_menu_text_bookmark_added">Favorilere eklendi</string>
   <string name="action_menu_text_copy_url">Adresi Kopyala</string>
   <string name="action_menu_text_create_qr_code">QR Kodu</string>
@@ -65,7 +65,7 @@
   <string name="add_favorites_to">Favorilere ekle</string>
   <string name="add_new_bookmark">Favorilere Ekle</string>
   <string name="add_new_quicklink">Başlangıç Sayfasına Ekle</string>
-  <string name="add_pwa_to_homescreen">Bu site Ana Ekrana eklensin mi?</string>
+  <string name="add_pwa_to_homescreen">Ana Ekrana kısayol eklensin mi?</string>
   <string name="add_ql_bm_title">Kaydet</string>
   <string name="add_quicklink_to_popular">Başlangıç Sayfasına Ekle</string>
   <string name="add_quicklinks">Ekle</string>
@@ -79,7 +79,7 @@
   <string name="added_to_bookmarks">Favorilere eklendi</string>
   <string name="adjust_text_zoom_toast">Metin yakınlaştırmayı değiştirmek bazı web sitelerinin hatalı görüntülenmesine neden olabilir</string>
   <string name="agree">Kabul</string>
-  <string name="agree_permissions_request">Kabul</string>
+  <string name="agree_permissions_request">İzin ver</string>
   <string name="alert_tips">Bu sitede bir güvenlik riski olabilir</string>
   <string name="allow">İzin Ver</string>
   <string name="app_new_version">Bu uygulamanın son sürümü zaten yüklü</string>
@@ -155,7 +155,7 @@
   <string name="close_cloud_tab_tip">%s üstündeki tüm bulut sekmeleri kapatılsın mı?</string>
   <string name="cloud_loading_tips">Eşitlemek için aşağıya doğru çekin </string>
   <string name="cloud_no_new_data_toast">"Herşey güncel"</string>
-  <string name="cloud_sync_closed_toast">"Eşitleme devre dışı olduğundan güncellenemiyor"</string>
+  <string name="cloud_sync_closed_toast">"Güncelleme yapmak için eşitlemeyi etkinleştir"</string>
   <string name="cloud_sync_failed_toast">"Güncellenemedi"</string>
   <string name="cloud_tab">Bulut sekmeleri</string>
   <string name="cloud_time_tips">Son Eşitleme: </string>
@@ -319,8 +319,8 @@
   <string name="empty_app_name">Diğer uygulama</string>
   <string name="empty_bookmark">Boş</string>
   <string name="empty_cloud_tab_login_hint">Bulut sekmesi yok</string>
-  <string name="empty_cloud_tab_logout_hint">"Diğer cihazlarda açılan giriş 
-hesabı sekmeleri burada gösterilir"</string>
+  <string name="empty_cloud_tab_logout_hint">"Diğer cihazlardan açık sekmeleri
+görüntülemek için Mi Hesabınızda oturum açın."</string>
   <string name="empty_history_hint">Geçmiş boş</string>
   <string name="empty_snapshot_hint">Boş</string>
   <string name="enable_geolocation_confirm_message">Bu özelliği kapatmak bazı web sitelerinin hatalı davranmasına neden olabilir.</string>
@@ -348,7 +348,7 @@ hesabı sekmeleri burada gösterilir"</string>
   <string name="find_on_page_next">Sonraki</string>
   <string name="find_on_page_prev">Önceki</string>
   <string name="find_previous">Öncekini bul</string>
-  <string name="finish_sync_cloud_tabs">Eşitleme bitti</string>
+  <string name="finish_sync_cloud_tabs">Başarıyla eşitlendi</string>
   <string name="firstUsingSearchEngineTips">Arama motoru değiştirilsin mi?</string>
   <string name="fling_on_border_gesture_hint">"Bu hareketin işlevini Ayarlar'dan seçebilirsiniz"</string>
   <string name="force_quick_search_title">Ara</string>
@@ -599,7 +599,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="permissions_prompt_message">"%s şunu istiyor: "</string>
   <string name="popup_window_attempt">Bu sitenin açılır pencere açmasına izin verilsin mi?</string>
   <string name="positive_confirm_message">Yine de kapat</string>
-  <string name="pref_accept_quicklink_push">Başlangıç sayfasına gönder</string>
+  <string name="pref_accept_quicklink_push">Haber Akışı</string>
   <string name="pref_accessibility">Erişebilirlik</string>
   <string name="pref_accessibility_title">Erişebilirlik</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Ortak harf kombinasyonları adres çubuğunda tek dokunuşla girilebilir</string>
@@ -639,7 +639,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="pref_extras_reset_default_summary">Varsayılan ayarları geri yükle</string>
   <string name="pref_extras_reset_default_title">Diğer</string>
   <string name="pref_extras_send_feedback">Geribildirim Gönder</string>
-  <string name="pref_extras_title">Gelişmiş Ayarlar</string>
+  <string name="pref_extras_title">Ek Ayarlar</string>
   <string name="pref_extras_title_version">Sürüm Bilgisi</string>
   <string name="pref_file_downlaod_save_is_reset_default_settings">"Tarayıcının varsayılan konumuna kaydet"</string>
   <string name="pref_file_downlaod_save_reset_default_settings">Varsayılan konumu geri yükle</string>
@@ -720,7 +720,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="quicklink_cannot_save_url">"Bu bağlantı eklenemedi."</string>
   <string name="quicklink_folder_text">En İyi Uygulama</string>
   <string name="quicklink_not_saved">"Başlangıç Sayfasına eklenemedi"</string>
-  <string name="quicklink_push_confirm_message">Bu özelliği kapattığınızda, başlangıç sayfası gönderme işlemi etkilenir.</string>
+  <string name="quicklink_push_confirm_message">Bu özelliği kapattığınızda Akışların güncellemesi almaz. Şimdi kapatılsın mi?</string>
   <string name="quicklink_saved">Başlangıç Sayfasına kaydedildi</string>
   <string name="quicklink_saved_before">Bu site zaten eklenmiş</string>
   <string name="quicklink_user_define_webpage_title">Adı</string>
@@ -743,7 +743,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="readmode_recommend_message"> Bu kitabı zaten okudunuz. :)</string>
   <string name="readmode_refresh"> Yenile </string>
   <string name="readmodelist_bookmarks_to_show">Okunacaklar listesi</string>
-  <string name="refuse_permissions_request">Reddet</string>
+  <string name="refuse_permissions_request">Kısıtla</string>
   <string name="remember_passwords_confirm_message">Bu özelliği kapamak kullanımınızı etkileyebilir.</string>
   <string name="remove_bookmark">Favoriyi sil</string>
   <string name="remove_bookmark_group">Grubu sil</string>
@@ -829,7 +829,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="skip_current_version">Bu sürümü atla</string>
   <string name="snapshot">Yerel</string>
   <string name="snapshot_failed">"Çevrimdışı okumak için kaydedilemedi"</string>
-  <string name="snapshot_successed">Çevrimdışı okumak için kaydedildi</string>
+  <string name="snapshot_successed">Yerimi &amp; Geçmişi Aç -&gt; Yerelde göster</string>
   <string name="ssl_bad_clock_date_settings">Tarih Ayarları</string>
   <string name="ssl_bad_clock_warning" formatted="false">"%s1 özel bağlantısı sağlanamadı çünkü cihazın tarih ve zaman (%s2) doğru değil."</string>
   <string name="ssl_certificate">Güvenlik Sertifikası</string>
@@ -925,7 +925,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="version_check_button_no_network">"Ağa bağlanamıyor"</string>
   <string name="version_check_button_resume_download">İndirmeye devam et</string>
   <string name="version_check_button_update">Güncelle</string>
-  <string name="version_check_failed">Güncellemeleri denetleme başarısız oldu</string>
+  <string name="version_check_failed">Güncellemeler denetlenemedi</string>
   <string name="version_dialog_buttion_ok">Tamam</string>
   <string name="version_dialog_buttion_update">Güncelle</string>
   <string name="version_update_file_download_toast">İndiriliyor</string>
@@ -995,7 +995,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="voice_title">Komutunuzu söyleyin...</string>
   <string name="voice_title_distinguish">İşleniyor…</string>
   <string name="voice_title_listening">Dinleniyor…</string>
-  <string name="voice_title_please">Konuşmaya başlayın...</string>
+  <string name="voice_title_please">Konuşma başlatılıyor...</string>
   <string name="voice_title_speech_again">"Seni anlayamadık"</string>
   <string name="weather_location_confirm_message">Bu özelliği kapatmak kullanımınızı etkileyebilir.</string>
   <string name="webpage_bookmark_title">Favoriler</string>
