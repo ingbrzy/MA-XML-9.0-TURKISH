@@ -1040,7 +1040,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="photo_editor_crop_reset">Sıfırla</string>
   <string name="photo_editor_crop_rotation_format">%d°</string>
   <string name="photo_editor_doodle">Karala</string>
-  <string name="photo_editor_filter">Filtre</string>
+  <string name="photo_editor_filter">Filtreler</string>
   <string name="photo_editor_label">Düzenle</string>
   <string name="photo_editor_long_crop">Kırp</string>
   <string name="photo_editor_miui_beauty">Güzellik</string>
@@ -1069,7 +1069,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="photo_editor_navigator_need_download">%s indirmek için internete bağlanın.</string>
   <string name="photo_editor_rotate">Döndür</string>
   <string name="photo_editor_saving">Kaydediliyor...</string>
-  <string name="photo_editor_sticker">Etiket</string>
+  <string name="photo_editor_sticker">Etiketler</string>
   <string name="photo_editor_text">Metin</string>
   <string name="photo_page_always_rotate">Resmi otomatik döndür</string>
   <string name="photo_page_detail_show_in_the_map">Haritada konumu göster</string>
