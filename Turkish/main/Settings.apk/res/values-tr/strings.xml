@@ -1467,7 +1467,7 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="device_admin_status">Bu yönetici etkin ve %1$s uygulamasının şu işlemleri gerçekleştirmesine izin veriyor:</string>
   <string name="device_admin_title">Cihaz Yönetimi</string>
   <string name="device_admin_warning">Bu yöneticinin etkinleştirilmesi %1$s uygulamasının şu işlemleri gerçekleştirilmesine izin verir:</string>
-  <string name="device_available_memory">Mevcut Hafıza</string>
+  <string name="device_available_memory">Mevcut Depolama</string>
   <string name="device_battery">Pil</string>
   <string name="device_build_id">Sürüm Numarası</string>
   <string name="device_complete_parameters">Tamamla</string>
@@ -1484,7 +1484,7 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="device_info_label">Cihaz Bilgisi</string>
   <string name="device_info_not_available">Mevcut değil</string>
   <string name="device_info_settings">Telefon Durumu</string>
-  <string name="device_internal_memory">Dahili Hafıza</string>
+  <string name="device_internal_memory">Dahili Depolama</string>
   <string name="device_memory">RAM</string>
   <string name="device_miui_more">Detaylara Bak</string>
   <string name="device_miui_version">MIUI Sürümü</string>
@@ -1505,7 +1505,7 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="device_status">Durum Bilgisi</string>
   <string name="device_status_activity_title">Durum</string>
   <string name="device_status_summary">Telefon Numarası ve IMEI, Sinyal, Pil Seviyesi vb.</string>
-  <string name="device_total_memory">Toplam Hafıza</string>
+  <string name="device_total_memory">Toplam Depolama</string>
   <string name="dial_application_title">Ara</string>
   <string name="dial_pad_tones_title">Tuş Takımı Sesleri</string>
   <string name="dialog_content_login">Güncellemek için Mi Hesabına girilsin mi?</string>
@@ -2188,7 +2188,7 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="install_master_key_and_connect">WLAN Ana Şifresini kullanarak bu ağa bağlanabilirsiniz. Bu araç yüklensin mi</string>
   <string name="install_no_market_app_summary">Uygulama Mağazası dışındaki kaynaklardan uygulama kurulmasına izin verir</string>
   <string name="install_no_market_app_title">Bilinmeyen Kaynaklar</string>
-  <string name="install_preinstall_app">Uygulamalar yükleniyor...</string>
+  <string name="install_preinstall_app">Bölge değiştiriliyor...</string>
   <string name="install_text">Yükle</string>
   <string name="install_unknown_applications">Bilinmeyen kaynaklardan gelen uygulamaların yüklenmesine izin ver</string>
   <string name="install_unknown_applications_title">Google Play dışındaki kaynaklardan uygulama yüklemeye imkan sağlar</string>
@@ -2485,7 +2485,8 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="lock_screen_notifications_summary_show">Tüm bildirim içeriğini göster</string>
   <string name="lock_screen_notifications_summary_show_profile">Tüm iş bildiriminin içeriğini göster</string>
   <string name="lock_screen_notifications_title">Kilit ekranında</string>
-  <string name="lock_screen_secure_after_timeout_immediately_summary">Şifre her zaman gerekli. </string>
+  <string name="lock_screen_secure_after_timeout_immediately_never">Asla şifre gerekmesin</string>
+  <string name="lock_screen_secure_after_timeout_immediately_summary">Herzaman şifre iste</string>
   <string name="lock_screen_secure_after_timeout_summary">%1$s içinde şifre iste</string>
   <string name="lock_screen_secure_after_timeout_title">Şifre istendi</string>
   <string name="lock_screen_signature_summary">Kilit ekranında görülmesini istediğiniz mesajı gösterir</string>
@@ -3067,7 +3068,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="night_mode_title">Tema</string>
   <string name="night_mode_yes">Koyu</string>
   <string name="no">Hayır</string>
-  <string name="no_account_found">Hesap eklemeyi destekleyen uygulama yok</string>
+  <string name="no_account_found">Hesap ekleyecek uygulama yok</string>
   <string name="no_all_caps">HAYIR</string>
   <string name="no_application">Hiçbir şey</string>
   <string name="no_applications">Uygulama yok.</string>
@@ -3601,7 +3602,8 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="power_wifi">WLAN</string>
   <string name="ppp_number">ppp_number</string>
   <string name="pref_button_light">Tuş Işıkları</string>
-  <string name="pref_button_light_summary">Menü, Ana Sayfa ve Geri düğmelerini aydınlat</string>
+  <string name="pref_button_light_summary">Menü, %1$s ve Geri düğmelerini aydınlat</string>
+  <string name="pref_button_light_summary_sub">Ana Sayfa</string>
   <string name="pref_edge_handgrip">Kenar Kontrolleri</string>
   <string name="pref_operational_key">Kenar Kontrolleri</string>
   <string name="pref_title_lang_selection">Dil Seçenekleri</string>
@@ -3669,8 +3671,8 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="print_settings_title">Yazdırma Hizmetleri</string>
   <string name="printer_info_desc">Bu yazıcı hakkında daha fazla bilgi</string>
   <string name="priority_storage_app_settings">Veri %1$s yerine saklanacak</string>
-  <string name="priority_storage_settings_summary">"Depolama kartı tespit edildiğinde; veriler otomatik olarak cihazın dahili depolama alanına kaydedilir."</string>
-  <string name="priority_storage_summary">Verilerinizi kaydetmek için yeri seçin</string>
+  <string name="priority_storage_settings_summary">"Depolama kartı algılanırsa; veriler otomatik olarak cihazın dahili depolama alanına kaydedilir."</string>
+  <string name="priority_storage_summary">Verilerinizi kaydetmek için konumu seçin</string>
   <string name="priority_storage_title">Depolama Ayarları</string>
   <string name="privacy_applock">Uygulama Kilidi</string>
   <string name="privacy_childmode">Çocuk Modu</string>
@@ -4545,7 +4547,7 @@ Not: Parmakiziniz, güçlü bir desen veya PIN'den daha az güvende olabilir. "&
   <string name="settings_backup">Ayarları yedekle</string>
   <string name="settings_backup_summary">Ayarlarımı yedekle</string>
   <string name="settings_button">Ayarlar</string>
-  <string name="settings_forbidden_message">Bu ayar devre dışı</string>
+  <string name="settings_forbidden_message">Bu ayar kısıtlanmış</string>
   <string name="settings_label">Ayarlar</string>
   <string name="settings_label_launcher">Ayarlar</string>
   <string name="settings_license_activity_loading">Yükleniyor...</string>
