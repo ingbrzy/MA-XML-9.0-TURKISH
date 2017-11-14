@@ -312,7 +312,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_copy_message_text_success">Başarıyla kopyalandı</string>
   <string name="passport_copy_message_vcode">Kodu kopyala</string>
   <string name="passport_delete_account">Oturumu kapat</string>
-  <string name="passport_downlink_reg">Telefon numarası kullanarak hesap oluştur</string>
+  <string name="passport_downlink_reg">Telefon Numarası</string>
   <string name="passport_email">E-Posta adresi</string>
   <string name="passport_email_or_id_hint_text">E-Posta veya Mi Hesap ID</string>
   <string name="passport_email_reg_success_summary">%1$s hesabınız ile bağlandı. Oturum açmak veya şifrenizi sıfırlamak için kullanabilirsiniz.</string>
