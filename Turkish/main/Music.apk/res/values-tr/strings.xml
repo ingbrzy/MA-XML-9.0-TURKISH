@@ -634,7 +634,7 @@
   <string name="notification_recommend_title">Önemli Bildirimleri</string>
   <string name="notification_setting">Bildirim Ayarları</string>
   <string name="notification_title_no_song">"Herkesin ne dinlediğini göz atın!"</string>
-  <string name="nowplaying_circle_style">Oynatmanın Döngü Stili</string>
+  <string name="nowplaying_circle_style">Döngü Stilini Oynat</string>
   <string name="nowplaying_circle_style_rainbow">Gökkuşağı</string>
   <string name="nowplaying_circle_style_wave">Dalga</string>
   <string name="nowplaying_dialog_title_delete_tracks">Listeden kaldırılsın mı?</string>
