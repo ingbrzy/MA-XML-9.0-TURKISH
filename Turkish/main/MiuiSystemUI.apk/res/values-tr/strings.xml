@@ -495,6 +495,7 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="screenshot_saving_ticker">Ekran görüntüsü kaydediliyor...</string>
   <string name="screenshot_saving_title">Ekran görüntüsü kaydediliyor...</string>
   <string name="screenshot_send">Gönder</string>
+  <string name="search_hint">Siteleri, uygulamaları, kişileri ve videoları ara...</string>
   <string name="select_application">Uygulamayı seç</string>
   <string name="select_logd_size_dialog_title">Günlük tamponun her boyutunu seç</string>
   <string name="select_logd_size_title">Günlük arabellek boyutları</string>
