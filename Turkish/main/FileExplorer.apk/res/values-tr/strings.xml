@@ -795,6 +795,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="search_file_type_other">Diğer</string>
   <string name="search_file_type_picture">Fotoğraf</string>
   <string name="search_file_type_video">Video</string>
+  <string name="search_guid_hint">Dosyaları ara</string>
   <string name="search_hint">Ara</string>
   <string name="search_history">Geçmişte Ara</string>
   <string name="search_hot_sticker">Etiketler; Etiketleri indir</string>
