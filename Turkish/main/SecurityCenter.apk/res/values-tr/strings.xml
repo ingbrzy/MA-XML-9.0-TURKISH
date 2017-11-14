@@ -27,8 +27,10 @@
   <string name="ac_enter_applock">Uygulama Kilidini girin</string>
   <string name="ac_firstUseApplock_subTitle">Uygulama kilidi gizli bilgilerinizi korumakta kullanılır</string>
   <string name="ac_firstUseApplock_title">Seçili uygulamaları açmak için şifre gereklidir</string>
+  <string name="ac_mask_all_apps">Tüm uygulamalarda gizle</string>
   <string name="ac_summaryOff">Kapatıldı, uygulamaları açmak için şifre gerekmez</string>
   <string name="ac_summaryOn">Açık, uygulamaları açmak için şifre gereklidir</string>
+  <string name="ac_unmask_all_apps">Tüm uygulamalarda göster</string>
   <string name="access_control_app_is_launching">Uygulama başlıyor...</string>
   <string name="access_control_failed_need_to_unlock_nofingerprint">Yeni bir parmakizi için desen kilidini açmalısınız</string>
   <string name="access_control_fingerprint_not_identified_msg">"Parmakizi okunamadı."</string>
@@ -2554,7 +2556,7 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="summary_cleaner_cloudscan">Yükleyin ve çevrimiçi tanımlarla klasör adlarını karşılaştırabilirsiniz</string>
   <string name="summary_cloud_account">Mi aygıtınızdan en iyi şekilde alın</string>
   <string name="summary_cloud_service">Fotoğraflarınızı, kişileri ve tüm genel cihazlarınızı eşitleyin</string>
-  <string name="summary_cloud_space_almost_full">Daha fazla depolama alanı al</string>
+  <string name="summary_cloud_space_almost_full">Depolama alanı satınal</string>
   <string name="summary_cloud_space_full">Daha fazla özelliklere daha fazla depolama alanıyla erişin</string>
   <string name="summary_cmcc_app_check">"Bazı uygulamalar doğrulanamadı"</string>
   <string name="summary_consume_power">Isınma problemleri bulundu, bu pilin ömrünü etkiler </string>
