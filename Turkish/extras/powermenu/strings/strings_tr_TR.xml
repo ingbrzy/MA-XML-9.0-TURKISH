@@ -8,5 +8,5 @@
     <string name="label_alert_recovery">Kurtarma Modu</string>
     <string name="label_alert_shutdown">Kapatmak için dokunun</string>
     <string name="label_blank">Uyku Modu</string>
-	<string name="label_blank">Geri</string>
+    <string name="label_blank">Geri</string>
 </resources>
