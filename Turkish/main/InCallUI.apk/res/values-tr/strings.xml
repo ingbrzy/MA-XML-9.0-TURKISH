@@ -668,7 +668,7 @@ Tavsiyemiz \"Otomatik Olarak Seç\", seçeneğini kullanmanız veya elle başka 
   <string name="onscreen_audio_mode">Cevapla</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
   <string name="onscreen_audio_mode_conference">Konferans</string>
-  <string name="onscreen_audio_mode_handset">Eller Serbest</string>
+  <string name="onscreen_audio_mode_handset">Kulaklık</string>
   <string name="onscreen_audio_mode_headset">Kulaklık</string>
   <string name="onscreen_audio_mode_speaker">Hoparlör</string>
   <string name="onscreen_audio_switch_mode">Sesi Değiştir</string>
