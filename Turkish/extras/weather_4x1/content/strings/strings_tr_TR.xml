@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="weather_type_0">Açık</string>
+    <string name="date_format">d MMMM EEEE</string>
+    <string name="today">Bugün</string>
+    <string name="tomorrow">Yarın</string>
+    <string name="weather_type_null">'Verisiz'</string>
+	<string name="weather_type_0">Açık</string>
     <string name="weather_type_1">Bulutlu</string>
     <string name="weather_type_2">Kapalı</string>
     <string name="weather_type_3">Sisli</string>
@@ -20,7 +24,7 @@
     <string name="weather_type_17">Hafif Kar Yağışı</string>
     <string name="weather_type_18">Güçlü Kum Fırtınası</string>
     <string name="weather_type_19">Kum Fırtınası</string>
-    <string name="weather_type_20">Hafif Kum Fırtınası</string>
+    <string name="weather_type_20">>Hafif Kum Fırtınası</string>
     <string name="weather_type_21">Kum Fırtınası</string>
     <string name="weather_type_22">Dolu</string>
     <string name="weather_type_23">Dalgalı Kum Fırtınası</string>
