@@ -102,6 +102,8 @@ Pil Tasarrufu için önemli uygulamaları seçmeli olarak işleme koyacağız."<
   <string name="notify_app_consume_abnormal_title">pili boşaltıyor</string>
   <string name="operation_create_group">Adı</string>
   <string name="operation_create_group_message">Yeni grup adı girin</string>
+  <string name="performance_category">Performans</string>
+  <string name="power_center">Güç</string>
   <string name="power_checker_background_cpu_multi_apps_title">%1$s anormal çalışıyor</string>
   <string name="power_checker_background_cpu_title">%1$s anormal çalışıyor</string>
   <string name="power_checker_background_gps_multi_apps_title">%1$s sıklıkla konum bilgisini alıyor</string>
@@ -181,8 +183,9 @@ Pil Tasarrufu için önemli uygulamaları seçmeli olarak işleme koyacağız."<
   <string name="power_hide_mode_app_list_summary">Arkaplanda güç tasarrufu yapılıyor</string>
   <string name="power_hide_mode_app_list_total">%d Uygulama</string>
   <string name="power_hide_mode_summary">"Bireysel uygulamalar arkaplan işlemlerini WLAN, GPS, mobil veri bağlantıları kısıtlayarak pil tasarrufu sağlar."</string>
-  <string name="power_hide_mode_title">"Uygulamaların Pil Kullanımını Düzenle"</string>
+  <string name="power_hide_mode_title">"Pil &amp; Performans"</string>
   <string name="power_keeper">Pil Tasarrufu</string>
+  <string name="power_mode">Güç Ayarları</string>
   <string name="power_mode_cpu_state_high">Performans</string>
   <string name="power_mode_cpu_state_high_desc">Pil süresi boyunca performansa öncelik ver</string>
   <string name="power_mode_cpu_state_low">Pil tasarruf ediliyor</string>
@@ -193,6 +196,7 @@ Pil Tasarrufu için önemli uygulamaları seçmeli olarak işleme koyacağız."<
   <string name="power_mode_view_event_title">Etkinlikler</string>
   <string name="power_mode_view_user_define_title">Yeni Etkinlik</string>
   <string name="power_optimize_activity_profile_file_error">Pil Tasarruf hatası</string>
+  <string name="power_usage">Güç Kullanımı</string>
   <string name="quick_disconnect_description">Uygulamalar arkaplanda sadece internete erişiyor. Kalıcı erişim kısıtlandı</string>
   <string name="quick_disconnect_title">Ayrılmış</string>
   <string name="ragment_sys_listempty">Sistem uygulaması yok</string>
