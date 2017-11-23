@@ -551,7 +551,6 @@ Check your tracking number."</string>
   <string name="express_inquiry_status_sign_out">Rejected</string>
   <string name="express_inquiry_status_unknown">Unknown</string>
   <string name="express_install_cainiao_description">%s requires installing the Cainiao app. Install now?</string>
-  <string name="express_install_cainiao_hidden">&lt;u&gt;"Don't show again"&lt;/u&gt;</string>
   <string name="express_install_cainiao_ok">Install</string>
   <string name="express_install_cainiao_title">Install Cainiao</string>
   <string name="express_install_delivery_service">Track your orders, contact delivery personnel, and more.</string>
