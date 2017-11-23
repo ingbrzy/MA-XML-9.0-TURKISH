@@ -1916,6 +1916,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="fingerprint_manage_tittle">Parmakizi</string>
   <string name="fingerprint_not_identified_msg">"Parmakizi okunamadı. Şifrenizi girin"</string>
   <string name="fingerprint_not_recognized">Tanımlanamadı</string>
+  <string name="fingerprint_payment">Parmakiziyle Ödeme</string>
   <string name="fingerprint_removal_failed">"Parmakizi kaldırılamadadı, sonra tekrar deneyin"</string>
   <string name="fingerprint_unlock_set_unlock_password">Parmakizi Şifre</string>
   <string name="fingerprint_unlock_set_unlock_pattern">Parmakizi Desen</string>
@@ -5171,7 +5172,7 @@ Google veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye
   <string name="tether_and_hotspot_title">Paylaşım &amp; Mobil Hotspot</string>
   <string name="tether_devices_management_title">Cihazları yönet</string>
   <string name="tether_devices_max_number">Bağlı cihazların limiti</string>
-  <string name="tether_settings_disabled">Kişisel Paylaşım kapalı</string>
+  <string name="tether_settings_disabled">Mobil Paylaşım kapalı</string>
   <string name="tether_settings_disabled_on_data_saver">Veri Tasarrufu açıkken mobil paylaşım yapamaz veya kullanamazsınız</string>
   <string name="tether_settings_launch_title">Mobil HotSpot</string>
   <string name="tether_settings_title_all">Paylaşım &amp; Mobil Hotspot</string>
