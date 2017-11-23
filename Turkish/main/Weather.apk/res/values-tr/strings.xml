@@ -210,9 +210,13 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="precipitation_degree_three">Orta</string>
   <string name="precipitation_degree_two">Hafif</string>
   <string name="pressure_connect">%1$s mb</string>
+  <string name="pull_fresh_updated">Başarıyla güncellendi</string>
+  <string name="pull_fresh_updating">Güncelleniyor…</string>
   <string name="radar_cloud_image_title">Radar Haritası</string>
   <string name="rainfall_settings_summary">Sağanak Alarmı</string>
   <string name="rainfall_settings_title">Sağanak</string>
+  <string name="real_time_sunrise">Gündoğumu: %1$s</string>
+  <string name="real_time_sunset">Günbatımı: %1$s</string>
   <string name="realtime_aqi_connection">%1$s</string>
   <string name="realtime_aqi_title">Hava Kalite İndeksi</string>
   <string name="realtime_humidity_title">Bağıl Nem</string>
@@ -241,7 +245,8 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="some_where_on_earth">Dünyada bir yerde</string>
   <string name="sunrise">Gündoğumu</string>
   <string name="sunset">Günbatımı</string>
-  <string name="temperature_unit">%1$s°</string>
+  <string name="temperature_unit_C">%1$s°</string>
+  <string name="temperature_unit_F">%1$s°</string>
   <string name="title_share_link">Bağlantıyı Paylaş</string>
   <string name="top_pollution_co">CO</string>
   <string name="top_pollution_no2">NO2</string>
@@ -271,6 +276,8 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="update_night_setting_summary_text">Hava Durumunu 23:00 - 07:00 arasında güncelle</string>
   <string name="update_night_setting_title_text">Geceleyin Otomatik Güncelle</string>
   <string name="update_setting_title_text">Hava Durumu Güncelleme Bilgisi</string>
+  <string name="updated_a_moment_ago">Az önce güncellendi</string>
+  <string name="updating">Güncelleniyor…</string>
   <string name="video_dialog_no_play"/>
   <string name="video_dialog_play"/>
   <string name="video_dialog_subtitle"/>
