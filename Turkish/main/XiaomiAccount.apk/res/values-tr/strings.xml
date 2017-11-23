@@ -191,7 +191,6 @@
   <string name="get_back_pwd">Şifre sıfırlanıyor</string>
   <string name="forget_password">Şifremi unuttum</string>
   <string name="forward_to_bind">Ekle</string>
-  <string name="get_back_pwd">Şifreyi sıfırla</string>
   <string name="get_device_list_failed">"Cihaz listesi alınamıyor"</string>
   <string name="get_email_verifycode_exceed_limit">Çok fazla doğrulama kodu bu numaraya gönderildi. 24 saat bekleyin ve tekrar deneyin.</string>
   <string name="get_phone_bind_exceed_limit">"Mi Hesaba 3 kadar bir telefon numarası ile ilişkilendirebilirsiniz. Yeni yeni hesap ekleyemezsiniz."</string>
