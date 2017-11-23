@@ -87,6 +87,10 @@
         <item>Varsayılan Sıcaklık Kontrol Modu</item>
         <item>Geçerli Performans Modu</item>
     </string-array>
+    <string-array name="power_mode_entries">
+        <item>Performans</item>
+        <item>Dengeli</item>
+    </string-array>
     <string-array name="thermal_summaries">
         <item>Mevcut sıcaklık kontrol modu, sıcaklığın durumuna göre hareket eder</item>
         <item>Mevcut performans modeli, performans deneyimi için tercih edilir, sıcaklık artabilir</item>
