@@ -433,6 +433,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="auto_task_operation_vibration">Titreşim</string>
   <string name="auto_task_operation_wifi">WLAN</string>
   <string name="back_app_name">Uygulama Kilidine dön</string>
+  <string name="back_description_securitycenter">Geri</string>
   <string name="back_modifypassword">Şifreyi değiştire dön</string>
   <string name="background_restrict_app_dialog_message">Bu uygulama normal çalışmasında mesaj almak, içerik indirmek gibi biz dizi faalliyetlerde bulunduğundan arkapalnda ağ erişimini kısıtlamamak gerekir. Yine de kısıtlansın mı?</string>
   <string name="back">Geri</string>
@@ -1182,7 +1183,7 @@ Ağ Yardımcısını açın"</string>
   <string name="last_checked_default">%s gün önce tarandı</string>
   <string name="later">Daha sonra işlenecek</string>
   <string name="left_precent">%60</string>
-  <string name="legal_workday">Tatil</string>
+  <string name="legal_workday">Resmi İşgünü</string>
   <string name="legal_workday_invalidate">Ptesi-Cuma (Tatil bilgisi geçti)</string>
   <string name="legal_workday_invalidate_message">Yasal tatil bilgisini güncellemek için dokunun.</string>
   <string name="legal_workday_message">(Tatilleri atla)</string>
