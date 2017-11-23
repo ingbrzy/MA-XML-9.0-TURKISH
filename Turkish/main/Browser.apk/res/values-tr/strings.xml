@@ -35,6 +35,7 @@
   <string name="action_menu_text_copy_url">Adresi Kopyala</string>
   <string name="action_menu_text_create_qr_code">QR Kodu</string>
   <string name="action_menu_text_download">İndirilenleri Yönet</string>
+  <string name="action_menu_text_drop">Menüye çık</string>
   <string name="action_menu_text_exit">Çıkış</string>
   <string name="action_menu_text_find_in_page">Sayfada Bul</string>
   <string name="action_menu_text_fullscreen">Tam Ekran</string>
@@ -114,6 +115,7 @@
   <string name="bookmark_cannot_save_url">"Bu adres yerimlerine eklenemiyor."</string>
   <string name="bookmark_folder_needs_title">Bir grup ismi girin</string>
   <string name="bookmark_group_lable">Grup</string>
+  <string name="bookmark_move_to">Taşı:</string>
   <string name="bookmark_needs_title">Favorinin bir adı olmalı</string>
   <string name="bookmark_needs_url">Favori bir adres içermeli</string>
   <string name="bookmark_not_saved">"Favori kaydedilemedi"</string>
@@ -140,6 +142,8 @@
   <string name="cancel">İptal</string>
   <string name="cancle_sync_cloud_tabs">Eşitlemeyi iptal et</string>
   <string name="cannot_download">Sadece \"http\" veya \"https\" adreslerinden indirilebilir</string>
+  <string name="check_security_tip_privacy_policy">Gizlilik Politikası</string>
+  <string name="check_security_tip_user_agreement">Kullanıcı Sözleşmesi</string>
   <string name="choosertitle_sharevia">Paylaş:</string>
   <string name="clear_history">Geçmişi Temizle</string>
   <string name="clear_most_visited">En Son Geçmiş</string>
@@ -248,6 +252,7 @@
   <string name="date_time_picker_dialog_title">Tarih ve Zaman Ayarı</string>
   <string name="delete">Sil</string>
   <string name="delete_bookmark">Sil</string>
+  <string name="delete_bookmark_action_warning">Yerimi silinsin mi*</string>
   <string name="delete_bookmark_group_warning">\"%s\" silinsin mi? Bu grupta yer alan tüm yerimleri silinecek.</string>
   <string name="delete_bookmark_warning">\"%s\" favori silinsin mi?</string>
   <string name="delete_download">Sil</string>
@@ -367,6 +372,7 @@ görüntülemek için Mi Hesabınızda oturum açın."</string>
   <string name="geolocation_settings_page_summary_allowed">Bu site konum bilginize erişebilir.</string>
   <string name="geolocation_settings_page_summary_not_allowed">"Bu site konum bilginize erişemiyor."</string>
   <string name="geolocation_settings_page_title">Konum erişimini temizle</string>
+  <string name="go_back_descirption">Geri dön</string>
   <string name="go_supermarket_button">Git</string>
   <string name="go_supermarket_title">Uygulama Mağazası daha hızlı, pekçok uygulama ve daha az veri kullanımı içerir.</string>
   <string name="gold_medals">Altın Madalyalar</string>
@@ -555,9 +561,14 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="more_option">Diğer Seçenekler</string>
   <string name="nav_bottom_bar_back">Geri</string>
   <string name="nav_bottom_bar_close_all">Tümünü Kapat</string>
+  <string name="nav_bottom_bar_close_description">Kapat</string>
   <string name="nav_bottom_bar_new_tab">Yeni sekme</string>
   <string name="nav_screen_container_tab_incognito">Gizli sekme</string>
   <string name="nav_screen_container_tab_normal">Normal sekme</string>
+  <string name="nav_screen_incognito_message">"Göz atma ve arama geçmişi Gizli Modda saklanmaz.
+İndirdiğiniz dosyaların ve eklediğiniz yerimlerinin yine de kaydedileceğini unutmayın."</string>
+  <string name="nav_screen_incognito_time">%s saniye sonra yeni bir sayfayı otomatik olarak oluştur</string>
+  <string name="nav_screen_incognito_title">Gizli Mod</string>
   <string name="navigationbar_rightbutton_actiontext_cancle">İptal</string>
   <string name="navigationbar_rightbutton_actiontext_go">Git</string>
   <string name="navigationbar_rightbutton_actiontext_search">Ara</string>
@@ -818,19 +829,26 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="send_comment_title">Yorum</string>
   <string name="senddesktop">Ana Ekran</string>
   <string name="sendstartpage">Başlangıç Sayfası</string>
+  <string name="sequence_bookmark_description">Yerimi sırasını değiştir</string>
   <string name="share_image_text">Bakın, ne buldum!</string>
   <string name="share_page_text">"%1$s zevk alıyorum | %2$s"</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Bu web sitesinin URL\'si güvenli olduğundan emin olmak için Xiaomi sunucularına gönderilir. Ayarlar bölümünden istediğiniz zaman bu özelliği kapatabilirsiniz.</string>
-  <string name="show_check_security_url_check_tip_dialog_description_international">Tarayıcının normal çalışabilmesi için internet bağlantısına ihtiyacı var. Tarayıcı, konumunuza göre tavsiye edilen sitelerin bağlantı adreslerini alabilir.</string>
-  <string name="show_security_tip_dialog_title">Kullanım Koşulları</string>
-  <string name="show_weather_location_getter_tip_dialog_description">"Tarayıcının normal çalışması için internete bağlanması gerekiyor. Güvenliği artırmak için, daha alakalı tavsiyeler ve hava durumu bilgileri alın; Tarayıcının ziyaret ettiğiniz web sitelerinin bağlantıları almasını ve konum bilgilerinize erişmesini sağlayın."</string>
+  <string name="show_check_security_url_check_tip_dialog_description">"Hizmetlerimizi kullanmayı seçerseniz kişisel verilerinizi toplayıp kullanacağız.
+İşte topladığımız veriler:
+1. Güvenli URL'ler: Hizmetlerimizi kullanırken ziyaret ettiğiniz web sitelerinin URL'lerini toplayacağız.
+2. Konum verileri: Konum bilgilerinize erişiriz.
+Topladığımız verileri böyle kullanırız:
+1. Güvenlik: Cihazınızı dolandırıcılık ve virüslerden koruduğumuzda, ayrıca depolama ve yedekleme nedenleriyle verilerinizi kullanırız.
+2. İçerik: Verileriniz, ilgili yerelleştirilmiş haber içeriği sağlamamıza yardımcı oluyor.
+Tarayıcının normal çalışması için internete bağlanması gerekiyor. Bu Tarayıcıyı kullanarak; bizim %2$s ve %1$s içeriklerimizi kabul etmiş olursunuz.​"</string>
+  <string name="show_security_tip_dialog_title">Gizlilik Politikası</string>
   <string name="sign_in_to" formatted="false"> %s1 için oturum aç \"%s2\"</string>
   <string name="skip_button_label">Atla</string>
   <string name="skip_current_version">Bu sürümü atla</string>
   <string name="snapshot">Yerel</string>
   <string name="snapshot_failed">"Çevrimdışı okumak için kaydedilemedi"</string>
   <string name="snapshot_successed">Yerimi &amp; Geçmişi Aç -&gt; Yerelde göster</string>
-  <string name="ssl_bad_clock_date_settings">Tarih Ayarları</string>
+  <string name="soft_toast_see_view">Gözat</string>
+   <string name="ssl_bad_clock_date_settings">Tarih Ayarları</string>
   <string name="ssl_bad_clock_warning" formatted="false">"%s1 özel bağlantısı sağlanamadı çünkü cihazın tarih ve zaman (%s2) doğru değil."</string>
   <string name="ssl_certificate">Güvenlik Sertifikası</string>
   <string name="ssl_certificate_is_valid">Bu sertifika geçerli.</string>
@@ -859,14 +877,14 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="suggest_access_item_app_mark">UYGULAMA</string>
   <string name="suggest_access_item_app_size">%.2fMB</string>
   <string name="suggest_access_item_app_update">Güncelleme: %s</string>
-  <string name="suggest_access_item_book_mark">KİTAP</string>
-  <string name="suggest_access_item_mina_mark">DİREKT SERVİS</string>
-  <string name="suggest_access_item_music_mark">MÜZİK</string>
+  <string name="suggest_access_item_book_mark">Kitaplar</string>
+  <string name="suggest_access_item_mina_mark">Anında Uygulamalar</string>
+  <string name="suggest_access_item_music_mark">Müzik</string>
   <string name="suggest_access_item_singer_albums">%d albüm</string>
   <string name="suggest_access_item_singer_pop">%d popüler şarkı</string>
-  <string name="suggest_access_item_site_mark">SİTELER</string>
-  <string name="suggest_access_item_video_mark">VİDEO</string>
-  <string name="suggest_access_item_website_mark">WEBSİTESİ</string>
+  <string name="suggest_access_item_site_mark">Siteler</string>
+  <string name="suggest_access_item_video_mark">Video</string>
+  <string name="suggest_access_item_yellow_mark">Sarı Sayfalar</string>
   <string name="suggest_access_music">Mi Müzik</string>
   <string name="suggest_item_delete_text">Sil</string>
   <string name="suggest_open_app_failed">"Bu uygulama açılamadı"</string>
@@ -891,6 +909,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="title_bar_loading">Yükleniyor...</string>
   <string name="too_many_windows_dialog_message">"Başka bir sekme kapatılıncaya kadar tarayıcı yeni sekme açamıyor"</string>
   <string name="too_many_windows_dialog_title">"Daha fazla sekme açılamıyor"</string>
+  <string name="transfer_prompt_0">Videoyu oynat</string>
+  <string name="transfer_restart">Y. Başlat</string>
   <string name="unSwitchText">HAYIR</string>
   <string name="undo">Geri Al</string>
   <string name="unknown_title">Bilinmiyor</string>
@@ -937,7 +957,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="video_collect_success">Favoriler</string>
   <string name="video_download_clear_info">%d seçili video önbellekten silindi</string>
   <string name="video_download_clear_prompt">%d seçili video önbellekten silinsin mi?</string>
-  <string name="video_download_complete">İndirme tamamlandı.</string>
+  <string name="video_doenload_complete">Video başarıyla indirildi</string>
+  <string name="video_download_complete">Başarıyla indirildi</string>
   <string name="video_download_downloaded">Yüklendi</string>
   <string name="video_download_downloading">Yükleniyor</string>
   <string name="video_download_empty">Video yok</string>
@@ -949,9 +970,9 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="video_download_finding_address">İndirme bağlantısı alınıyor</string>
   <string name="video_download_pause">Durduruldu</string>
   <string name="video_download_start">İndiriliyor…</string>
-  <string name="video_download_success">Tamamlandı</string>
-  <string name="video_download_unknown_name">Bilinmeyen Ad</string>
-  <string name="video_download_unknown_size">Bilinmeyen Boyut</string>
+  <string name="video_download_success">Başarıyla indirildi</string>
+  <string name="video_download_unknown_name">Bilinmeyen ad</string>
+  <string name="video_download_unknown_size">Bilinmeyen boyut</string>
   <string name="video_download_unsupport">Desteklenmiyor</string>
   <string name="video_download_wait_for_wifi">"Wi-Fi için bekleniyor..."</string>
   <string name="video_downloaded_group">İndirildi</string>
@@ -975,6 +996,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="video_push_multi_message">%1$d güncelleme mevcut.</string>
   <string name="video_push_multi_title">Güncelleme mevcut</string>
   <string name="video_push_single_message">Güncelleme için %1$d dokunun.</string>
+  <string name="video_service_notification_title">Video açılır pencerede oynatılıyor</string>
   <string name="video_subtitle_last_message1">Bir dakikadan az kaldı</string>
   <string name="video_subtitle_prefix1">"İzlendi: "</string>
   <string name="video_subtitle_prefix2">"İzlendi: "</string>
