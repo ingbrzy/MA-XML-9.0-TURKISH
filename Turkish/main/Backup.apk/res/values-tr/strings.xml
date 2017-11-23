@@ -124,6 +124,7 @@ https://appleid.apple.com/#!&amp;page=kapanmak için giriş yap"</string>
   <string name="err_unknown">Bilinmeyen hata</string>
   <string name="err_version_too_old">Yedek dosyası çok eski.</string>
   <string name="err_version_unsupported">"Yedekleme sürümü desteklenmiyor"</string>
+  <string name="error_permissions">"Bu uygulamanın Takvim'e erişmesi için gerekli izinlere sahip değilsiniz. Devam etmek için Ayarlar'a gidin ve izinleri kontrol edin."</string>
   <string name="every_day">Hergün</string>
   <string name="exchange_account">Hesabı değiştir</string>
   <string name="fail">Başarısız</string>
@@ -175,7 +176,7 @@ https://appleid.apple.com/#!&amp;page=kapanmak için giriş yap"</string>
 2.\u0009 Mi Talk Ayarlarına gidin ve ”Kişileri Mi Hesabına Yedekle” seçeneğini seçin"</string>
   <string name="import_from_xiaomi_account_hint2"> Mevcut bir yedeğiniz varsa, Sonraki tuşuna dokunun.</string>
   <string name="import_from_xiaomi_account_hint_title">Cihazlar arasında kişilerinizi yedeklemek için Mi Talk kullanın.</string>
-  <string name="import_tip_summary">"Uyumluluk nedeniyle, yalnızca rehber ve fotoğraflar desteklenir. Önce eski cihazlarda iCloud'a veri yüklemeniz gerekir."</string>
+  <string name="import_tip_summary">"Uyumluluk sorunları nedeniyle, yalnızca kısmi verileri iOS cihazlarından aktarabilirsiniz. Aktarmaya başlamadan önce bir iCloud yedeklemesi oluşturduğunuzdan emin olun."</string>
   <string name="import_tip_title">İpuçları:</string>
   <string name="loading_data">Veri yükleniyor</string>
   <string name="local_app_name">Yedekle</string>
@@ -287,8 +288,10 @@ Lütfen en az %s alan açın"</string>
   <string name="select_all">Hepsi</string>
   <string name="select_backup_item">Öğeleri Seç</string>
   <string name="select_empty">Aktarılacak öğeleri seçin</string>
+  <string name="select_item_calendar">Takvim</string>
   <string name="select_item_contacts">Kişiler</string>
   <string name="select_item_empty_summary">İçerik yok</string>
+  <string name="select_item_notes">Notlar</string>
   <string name="select_item_photos">Fotoğraflar</string>
   <string name="select_item_summary_loading">Veri yükleniyor...</string>
   <string name="select_item_summary_wait">Bekliyor...</string>
