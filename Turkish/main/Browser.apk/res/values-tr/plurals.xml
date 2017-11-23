@@ -16,6 +16,10 @@
         <item quantity="other">"%2$d'de %1$d</item>
         <item quantity="one">1 eşleşme</item>
     </plurals>
+    <plurals name="transfer_prompt">
+        <item quantity="other">Videoyu %1$d saniye içinde oynat</item>
+        <item quantity="one">Videoyu %1$d saniye içinde oynat</item>
+    </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d seçildi</item>
         <item quantity="one">%1$d seçildi</item>
