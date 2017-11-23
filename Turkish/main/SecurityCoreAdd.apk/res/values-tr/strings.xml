@@ -29,6 +29,7 @@ bu özellik İkinci Alana otomatik olarak eklenir."</string>
   <string name="closeSecondSpace">İkinci Alanı sil</string>
   <string name="closeSecondSpaceSummary">Veri ile beraber İkinci Alanı sil</string>
   <string name="closeSuccess">Kapatıldı</string>
+  <string name="close_second_space">İkinci Alanı sil</string>
   <string name="close_second_space_success">İkinci Alanı silindi</string>
   <string name="closed">Kapalı</string>
   <string name="complete_setting">Tamam</string>
@@ -130,6 +131,7 @@ Ayrı ayrı indirme yapabilirsiniz."</string>
   <string name="keywords_sspace">İkinci alan; İki boşluk; Uygulamaları gizle; Dosyaları gizle; Fotoğrafları gizle; Ekran kilidi; Ekran şifresini gizle; Gizlilik; Gizlilik modu; Özel mod; Özel; Konuk modu; Misafir oturumu; Konuk erişimi; Konuk hesabı; Konuk</string>
   <string name="keywords_xspace">İkili uygulama, İkili uygulamalar, İkili uygulamalar, İkili uygulamalar, Uygulamayı kopyalama, Uygulamaları çoğaltma, Uygulama klonlama, Uygulama klonları, İki hesap, 2 hesap</string>
   <string name="list_empty_text">Boş</string>
+  <string name="list_empty_text_xspace">"WeChat/QQ/Weibo'yu yükleyin, klonlu uygulamalar oluşturun ve tekrar deneyin."</string>
   <string name="loading">Biraz bekleyin...</string>
   <string name="loading_apps">Uygulamalar yükleniyor…</string>
   <string name="loading_space">Biraz bekleyin…</string>
@@ -177,6 +179,7 @@ Kilit Ekranında İkinci Alana giriş yapılamaz."</string>
   <string name="private_sms_show_title">İkinci Alanda özel mesajlar gösterilir</string>
   <string name="private_space_setting">Yönet</string>
   <string name="public_app">İki Alan</string>
+  <string name="qq_send">QQ arkadaşlarına/cihazlarına gönder</string>
   <string name="removeSuccess">Başarıyla silindi</string>
   <string name="remove_second_space_msg">İkinci Alan silindiğinde tüm İkinci Alan uygulama veriside silinir. İkinci Alan silinsin mi?</string>
   <string name="remove_user_click_message">"*İkinci alanda önemli bir öğeniz yoksa, %s"</string>
@@ -309,11 +312,18 @@ Güncelleme yapmazsanız, ikili uygulamalar da düzgün çalışmayabilir."</str
   <string name="transferMessage">İkinci Alandaki mesajlar İlk Alana taşınacak</string>
   <string name="tryNow">Tekrar dene</string>
   <string name="wating">Biraz bekleyin…</string>
+  <string name="weibo_send">Weibo için gönder</string>
+  <string name="weixin_pay">WeChat Ödemesi</string>
+  <string name="weixin_share">WeChat Anları</string>
   <string name="xpsace_guide_button">Oluştur</string>
   <string name="xspace_account">Klonlu Uygulama Hesabı</string>
   <string name="xspace_chocie">Klonlu Uygulamalar Desteği</string>
   <string name="xspace_creating">Klonlu Uygulama oluşturuluyor…</string>
-  <string name="xspace_description">"Klonlu uygulamaların kopyaları farkl ıhesap kullanır.
+  <string name="xspace_default_app_summary">Ödemeler, paylaşım, sık kullanılanlar ve daha fazlası için varsayılan uygulamayı ayarlayın.</string>
+  <string name="xspace_default_app_title">Varsayılan Uygulama</string>
+  <string name="xspace_default_setting_dialog_title">Varsayılan</string>
+  <string name="xspace_default_setting_label">Varsayılan Uygulama</string>
+   <string name="xspace_description">"Klonlu uygulamaların kopyaları farkl ıhesap kullanır.
 
 Bazı klonlu uygulamalar Google Hizmet Çerçevesine ihtiyaç duyar. Bu durumda Google Hizmet ÇErçevesi oluşturulur."</string>
   <string name="xspace_guide_des">İki hesabı geçiş yapmadan kullan</string>
@@ -325,9 +335,12 @@ Bazı klonlu uygulamalar Google Hizmet Çerçevesine ihtiyaç duyar. Bu durumda 
   <string name="xspace_introduce">Tavsiyeli</string>
   <string name="xspace_label">Klonlu Uygulama</string>
   <string name="xspace_loading_msg">Uygulamalar yükleniyor…</string>
+  <string name="xspace_qq_title">QQ</string>
   <string name="xspace_setting_label">Klonlu Uygulama Ayarı</string>
   <string name="xspace_uninstall_completed">Klonlu uygulamalar başarıyla kaldırıldı</string>
   <string name="xspace_uninstall_dialog_content">Klonlu uygulama tüm uygulama verisini kaldırıyor.</string>
   <string name="xspace_uninstall_dialog_title">Klonlu uygulamayı kaldır</string>
   <string name="xspace_uninstalling">Kaldırılıyor…</string>
+  <string name="xspace_weibo_title">Weibo</string>
+  <string name="xspace_weixin_title">WeChat</string>
 </resources>
