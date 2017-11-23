@@ -703,6 +703,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
 %s
  erişmesi gerekir, İzinlerden ayarlamak için \"Ayarla\" dokunun."</string>
   <string name="grant_permission_title">Erişime izin ver</string>
+  <string name="grant_permission_unlock_and_set">Kilidi aç ve ayarla</string>
   <string name="grayscale">Gri Ton</string>
   <string name="group_by">Grupla</string>
   <string name="group_by_album">Albüme Göre</string>
@@ -1248,10 +1249,12 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="search_feedback_false_positive_title">Sanki \"%s\" görünüyor</string>
   <string name="search_feedback_likely_check_title">Denetle</string>
   <string name="search_feedback_likely_title">\"%s\" fotoğraf var</string>
-  <string name="search_feedback_task_finish_title">Ödülü almak için dokunun!</string>
-  <string name="search_feedback_task_progress">%1$d/%2$d</string>
+  <string name="search_feedback_task_complete">Tüm görevler tamamlandı</string>
+  <string name="search_feedback_task_progress">Görev: %1$d/%2$d</string>
   <string name="search_feedback_task_request_award_failed">"Ödül alınamadı. Sonra yeniden deneyin.​"</string>
   <string name="search_feedback_task_requesting_award">Ödül alınıyor…</string>
+  <string name="search_feedback_user_notice">"Okudum ve %s kabul ettim."</string>
+  <string name="search_feedback_user_policy">MIUI Galeri AI Algoritma Programı Gizlilik Politikası</string>
   <string name="search_hint">Resimleri ara​</string>
   <string name="search_image_result_title">Arama sonuçları</string>
   <string name="search_load_complete">Öğe yok</string>
@@ -1496,6 +1499,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="tip_screenshot_package_info">Uygulama Adı:</string>
   <string name="title">Dosya Adı</string>
   <string name="title_set_name">Adı Girin</string>
+  <string name="title_tip">İpucu</string>
   <string name="title_warn">Uyarı</string>
   <string name="to_count">Toplam: %d</string>
   <string name="to_enable_gallery_sync_dialog_message">Önce Galeri eşitleme özelliğini açın</string>
