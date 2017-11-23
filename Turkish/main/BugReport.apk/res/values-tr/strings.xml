@@ -58,12 +58,14 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s problemi \"%2$s\"</string>
   <string name="feedback_choose_module">Öğeyi Seç</string>
   <string name="feedback_choose_module_hint">İstenen:</string>
+  <string name="feedback_choose_third_app_name">Uygulama adını seçin</string>
   <string name="feedback_collect_log_failed">"Günlük alınamadı"</string>
   <string name="feedback_contact_info_hint">Telefon Numarası/E-Posta</string>
   <string name="feedback_continue">Geribildirimle devam et</string>
   <string name="feedback_delete_images">Resimleri sil</string>
   <string name="feedback_description">Açıklama</string>
   <string name="feedback_description_bugreport_hint">Bazı işaretler (...) telefonumun bozulmasına neden oldu (...).</string>
+  <string name="feedback_description_hint">"Karşılaştığınız sorunu tanımlayın"</string>
   <string name="feedback_description_label">Açıklama</string>
   <string name="feedback_description_suggest_hint">"Yeni bir özellik eklemenizi istiyorum () çünkü şuna ihtiyacımız var ()."</string>
   <string name="feedback_detail_tile">İşlem</string>
@@ -96,6 +98,7 @@
   <string name="feedback_status_recorded">Geribildirim alındı</string>
   <string name="feedback_status_replyed">Cevaplandı</string>
   <string name="feedback_status_reresolved">Çözüldü</string>
+  <string name="feedback_status_submit_attachment">Ek başarıyla gönderildi</string>
   <string name="feedback_status_supplement">"Probleminizin detaylarını tanımlayın"</string>
   <string name="feedback_status_supplement_more">Yorum ekle</string>
   <string name="feedback_submit_failed_notification_desc">Detayları görüntüle</string>
@@ -263,6 +266,7 @@
   <string name="section_description">Açıklama</string>
   <string name="section_err_type">Hatanın Türü</string>
   <string name="section_screenshot">Ekran Görüntüsü</string>
+  <string name="select_system_app_tag">Etiketi seç</string>
   <string name="server_error_message">Sunucu Hatası (Kod:%1$s), daha sonra tekrar deneyin</string>
   <string name="server_unknown_error_message">Sunucu hatası, lütfen tekrar deneyin</string>
   <string name="submit_dialog_cancel">İptal</string>
@@ -295,6 +299,7 @@
   <string name="toast_feedbackservice_in_submit">Önceki geribildirim gönderiliyor...</string>
   <string name="toast_fill_brackets">Raporda bazı bilgiler eksik</string>
   <string name="toast_log_not_exists">"Gerekli günlük silindi veya mevcut değil"</string>
+  <string name="toast_log_too_large">"Yüklenemedi. Dosya çok büyük."</string>
   <string name="toast_module_required">Öğe seç</string>
   <string name="toast_network_unavailable">"Gönderilemedi. Ağa bağlanamıyor."</string>
   <string name="toast_pending_log_collection">Günlükler halen toplanıyor...</string>
