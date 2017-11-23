@@ -2077,7 +2077,7 @@ Sonraki Zamana: %2$d gün (%3$s)"</string>
   <string name="tty_mode_not_allowed_vt_call">Görüntülü görüşme esnasında TTY Moduna geçmeye izin verilmez</string>
   <string name="tty_mode_option_summary">TTY Modunu Ayarla</string>
   <string name="tty_mode_option_title">TTY Modu</string>
-  <string name="turnover_mute_summary">Telefon tersine çevrildiğinde zil sesini sustur, bu özellik gelen çağrıda titreşim açıksa çalışmaz.</string>
+  <string name="turnover_mute_summary">Telefon ekranı yukarı bakacak şekilde yatay bir yüzeye çevrildiğinde, telefon zilini susturur.</string>
   <string name="turnover_mute_title">Zil sesini susturmak için çevir</string>
   <string name="unable_dial_livetalk">"Aramayı tamamlanamadı"</string>
   <string name="unblock_pin2">PIN2 engelini kaldır</string>
