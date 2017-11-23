@@ -71,6 +71,8 @@
   <string name="account_vip_achievements">Arşivler</string>
   <string name="account_vip_level">Hesap</string>
   <string name="account_xiaomi_service">Hizmetler</string>
+  <string name="action_add_phone">Telefon numarası ekle</string>
+  <string name="action_update_phone">Telefon numarasını değiştir</string>
   <string name="activate_email_notice">24 saat içinde hesabınızı etkinleştirin</string>
   <string name="activity_not_found_notice">"Uygulama bulunamadı"</string>
   <string name="add_account">Hesaba bağlan</string>
@@ -186,6 +188,7 @@
   <string name="find_device_unknown_error">"Cihaz durumu alınamıyor, bir iki dakika bekleyip tekrar deneyin"</string>
   <string name="find_password_on_web_msg">Şifrenizi sıfırlamak için account.mi.com ziyaret edin</string>
   <string name="first_login_time">Önce giriş yapın: %s</string>
+  <string name="get_back_pwd">Şifre sıfırlanıyor</string>
   <string name="forget_password">Şifremi unuttum</string>
   <string name="forward_to_bind">Ekle</string>
   <string name="get_back_pwd">Şifreyi sıfırla</string>
@@ -194,6 +197,7 @@
   <string name="get_phone_bind_exceed_limit">"Mi Hesaba 3 kadar bir telefon numarası ile ilişkilendirebilirsiniz. Yeni yeni hesap ekleyemezsiniz."</string>
   <string name="get_phone_verifycode_exceed_limit">Çok fazla doğrulama kodu bu numaraya gönderildi. 24 saat bekleyin ve tekrar deneyin.</string>
   <string name="guest_account_label">Mi Misafir Hesabı</string>
+  <string name="identity">Kimlik</string>
   <string name="i_know">Biliyorum</string>
   <string name="ignore">Şimdi değil</string>
   <string name="input_captcha_hint">Kodu girin</string>
@@ -258,6 +262,7 @@
   <string name="next">Devam</string>
   <string name="no_network_btn">Yenile</string>
   <string name="no_network_title">"Ağa bağlanılamıyor."</string>
+  <string name="no_phone">Telefon yok</string>
   <string name="no_response_retry">Cevap yok, lütfen tekrar deneyin.</string>
   <string name="no_sim_card">SIM Kart yok</string>
   <string name="no_sim_card_or_unactivated">"SIM Kart yüklenmedi veya etkinleştirilmedi"</string>
@@ -503,6 +508,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_xiaomi_account_sec_dspt2_vip">İnternet bağlantısı Mi Hesabınızda oturum açmak için gereklidir. Konum erişimi, Mi Bulut ve Mi VIP otomatik olarak açılacaktır.</string>
   <string name="password">Şifreyi girin</string>
   <string name="phone_activated">%s etkinleştirildi</string>
+  <string name="phone_num_use_for">Telefon numarası aşağıdakiler için kullanır:</string>
   <string name="phone_send_verify_code_prompt">Doğrulama kodunu şuraya gönder: %s</string>
   <string name="phone_unactivated">Etkinleştirilmedi</string>
   <string name="phone_unknown">Bilinmeyen</string>
@@ -579,6 +585,8 @@ Bu soruların cevaplarını hatırlayacağınızdan olun."</string>
   <string name="select_location_title">Konumunuzu seçin</string>
   <string name="send_email_activate_message">Doğrulama E-Postası gönderildi</string>
   <string name="service_error">Servis hatası</string>
+  <string name="set_success">Başarıyla değiştirildi</string>
+  <string name="sign_in">Oturum aç</string>
   <string name="set_security_question_title">Güvenlik sorusunu ayarla</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_register">Bu adımı atla</string>
@@ -606,6 +614,7 @@ Bu soruların cevaplarını hatırlayacağınızdan olun."</string>
   <string name="update_contacts_description">Sina Weibo platformlarında kişileri eşitlemek üzere Mi Hesabınızı kullanmasına izin verin</string>
   <string name="update_email_address_dialog_message">Kimliğinizi doğrulamadan önce mail adresinizi güncellemelisiniz.</string>
   <string name="update_email_address_dialog_title">E-Postayı güncelle</string>
+  <string name="update_phone_notice">Güvenlik ayarlarını değiştir</string>
   <string name="update_phone_number_notice_message">Kimliğinizi doğrulamadan önce telefon numarasını güncelleyin</string>
   <string name="update_recovery_info_dialog_message">Eğer kimliğinizi kanıtlamak zorunda kalırsanız önce E-Posta adresini güncelleyin.</string>
   <string name="update_recovery_info_dialog_title">E-Posta adresini güncelleyin</string>
