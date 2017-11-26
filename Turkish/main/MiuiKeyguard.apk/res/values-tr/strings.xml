@@ -118,10 +118,6 @@
   <string name="keyguard_charging_info_tip_text4">"Cihazınızın aşırı ısınmasını önlemek için şarj ederken aktif olarak kullanmayın."</string>
   <string name="keyguard_charging_info_tip_text5">Piller normalden daha sıcak olduklarında daha fazla şarj olurlar.</string>
   <string name="keyguard_charging_info_tip_text6">Ekranı kapatın ve soğutmak için cihazı kullanmayı bırakın.</string>
-  <string name="keyguard_left_bankcard">Mi Ödeme</string>
-  <string name="keyguard_left_buscard">Taşıma Kartı</string>
-  <string name="keyguard_left_remotecentral">Mi Kumanda</string>
-  <string name="keyguard_left_smarthome">Mi Ev</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Hızlı şarj ediliyor. Ayrıntıları görüntülemek için dokunun.</string>
   <string name="keyguard_quickly_charging_info_charging_text">Hızlı şarj ediliyor...</string>
   <string name="keyguard_torch_cover_text">Feneri açık tutmak için düğmeye basılı tutun</string>
