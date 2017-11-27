@@ -421,24 +421,15 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="picture_color_mode_desc">sRGB kullan</string>
   <string name="pointer_location">İşaretleyici Konumu</string>
   <string name="pointer_location_summary">Geçerli dokunmatik verileri gösteren ekranın yer paylaşımı</string>
-  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">Doluma: %1$s - %2$s</string>
   <string name="power_charging_duration_ac">AC ile Doluma: %1$s - %2$s </string>
-  <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-  <string name="power_charging_duration_short">%1$s - %2$s</string>
   <string name="power_charging_duration_usb">USB ile Doluma: %1$s - %2$s</string>
-  <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
   <string name="power_charging_duration_wireless">Kablosuz ile Doluma: %1$s - %2$s</string>
-  <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
   <string name="power_discharging_duration">%1$s - yaklaşık %2$s kaldı</string>
   <string name="power_discharging_duration_short">%1$s - %2$s kaldı</string>
   <string name="power_remaining_duration_only">Yaklaşık %1$s kaldı</string>
   <string name="power_remaining_duration_only_short">%1$s kaldı</string>
   <string name="process_kernel_label">Android OS</string>
-  <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-  <string name="proxy_hostname_hint">proxy.example.com</string>
-  <string name="proxy_port_hint">8080</string>
-  <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Mevcut cihazlarla eşlenmedi</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Bağlandı</string>
@@ -544,7 +535,6 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
   <string name="status_bar_date_format">"d MMMM EEEE"</string>
   <string name="status_bar_date_format_12">"d MMMM EEEE"</string>
-  <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow_content">"Bugün: %1$s | Kalan: %2$s"</string>
   <string name="status_bar_network_flow_exceed_content">Bugün: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Aşılan: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
   <string name="status_bar_network_flow_limit">"   Aylık Limit: %1$s    "</string>
@@ -568,7 +558,6 @@ Kilitlemek için aşağı kaydırın "</string>
   <string name="status_bar_safepay_scanning">Ödeme ortamı denetleniyor…</string>
   <string name="status_bar_safepay_unknown">"Ödeme ortamı denetlenemiyor"</string>
   <string name="status_bar_settings_airplane">Uçak Modu</string>
-  <string name="status_bar_settings_battery_meter_format">%%%d</string>
   <string name="status_bar_settings_signal_meter_disconnected">İnternet bağlantısı yok!</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN bağlandı</string>
   <string name="status_bar_style_settings">Bildirimler</string>

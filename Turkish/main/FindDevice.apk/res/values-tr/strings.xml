@@ -27,7 +27,6 @@ Lütfen satış temsilcinize başvurun."</string>
   <string name="find_device_error_unknown">Bilinmeyen Hata (%s).</string>
   <string name="find_device_noise_title">Telefonu Bul Alarmı</string>
   <string name="find_device_notice_p1">Git</string>
-  <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">"Tespit et, kilitle veya telefonu geri yükle.
 SIM kartları geçerseniz, başka bir SMS bu özelliği etkinleştirmek için otomatik olarak gönderilecektir."</string>
   <string name="find_device_stop_noise">Sessiz için Tamam\'a dokunun</string>

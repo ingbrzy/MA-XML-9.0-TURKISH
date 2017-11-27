@@ -1544,15 +1544,10 @@ Telefonunuz başka bir başarısız girişiminden sonra otomatik olarak kilitlen
   <string name="pointer_location">İşaretleyici Konumu</string>
   <string name="pointer_location_summary">Geçerli dokunmatik verileri gösteren ekranın yer paylaşımı</string>
   <string name="port_title">Port Numarası</string>
-  <string name="power_charging">%1$s - %2$s</string>
   <string name="power_charging_duration">Doluma: %1$s - %2$s</string>
   <string name="power_charging_duration_ac">AC üzerinden doluma: %1$s - %2$s </string>
-  <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-  <string name="power_charging_duration_short">%1$s - %2$s</string>
   <string name="power_charging_duration_usb">USB üzerinden doluma: %1$s - %2$s</string>
-  <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
   <string name="power_charging_duration_wireless">Kablosuzla doluma: %1$s - %2$s</string>
-  <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
   <string name="power_discharging_duration">%1$s - yaklaşık %2$s kaldı</string>
   <string name="power_discharging_duration_short">%1$s - %2$s kaldı</string>
   <string name="power_remaining_duration_only">Yaklaşık %1$s kaldı</string>
@@ -1667,10 +1662,6 @@ Telefonunuz başka bir başarısız girişiminden sonra otomatik olarak kilitlen
   <string name="propmpt_dialog_not_activate_sim_title">Telefon numarası doğrulanamadı</string>
   <string name="proxy_address">Proxy Adresi</string>
   <string name="proxy_address_title">Giden Proxy Adresi</string>
-  <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-  <string name="proxy_hostname_hint">proxy.example.com</string>
-  <string name="proxy_port_hint">8080</string>
-  <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
   <string name="pstn_connection_service_label">Dahili SIM Kartlar</string>
   <string name="pstn_phone">Cep telefonu çağrısı</string>
   <string name="psw_enter_new">Yeni Şifre</string>

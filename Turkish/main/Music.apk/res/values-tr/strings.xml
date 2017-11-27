@@ -280,7 +280,6 @@
   <string name="download_paused">İndirme durduruldu</string>
   <string name="download_paused_in_power_save_mode">Cihaz Güç Tasarrufu Modunda, indirme duraklatıldı</string>
   <string name="download_pending">İndirme askıda</string>
-  <string name="download_percent">%%%d</string>
   <string name="download_processing">İndiriliyor...</string>
   <string name="download_quality">İndir kalitesi</string>
   <string name="download_quality_summary">Favori şarkılar için ek ayarlar</string>
@@ -318,9 +317,6 @@
   <string name="downloaded_empty">Boş</string>
   <string name="downloading_empty">Boş</string>
   <string name="downloads_operating">Çalışıyor…</string>
-  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-  <string name="durationformatshort">%2$d:%5$02d</string>
-  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="editmode_menu_delete">Sil</string>
   <string name="editmode_menu_share">Paylaş</string>
   <string name="empty_page_no_album">Albüm yok.</string>

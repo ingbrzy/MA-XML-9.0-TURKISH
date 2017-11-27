@@ -217,7 +217,6 @@
   <string name="dialog_type_text">Dökümanlar</string>
   <string name="dialog_type_video">Videolar</string>
   <string name="dir_not_support">"Bu klasör gizlenemez"</string>
-  <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Boş</string>
   <string name="disk_available">"Kullanılabilir: "</string>
   <string name="disk_total">"Toplam: "</string>
@@ -435,11 +434,9 @@ Sunucumuz şu anda çalışmıyor. Rahatsızlıktan dolayı özür dileriz. "</s
   <string name="message_comment_prefix">"Yorum: "</string>
   <string name="message_my_received_notification">Yeni Mesaj</string>
   <string name="message_my_received_praise">Sevdiklerim</string>
-  <string name="message_my_received_praise_count">+%1$s</string>
   <string name="message_praise_comment">" bu yorumu sevdi"</string>
   <string name="message_praise_video">" bu videoyu sevdi"</string>
   <string name="message_reply_prefix">Cevapla</string>
-  <string name="message_reply_suffix">": "</string>
   <string name="message_title">Mesajlarım</string>
   <string name="mi_router_label">Yönlendirici</string>
   <string name="midrive_network_connect_confirm">Mi Drive normal şekilde çalışabilmek için internete ihtiyaç duyar.</string>

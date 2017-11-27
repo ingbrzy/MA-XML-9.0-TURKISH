@@ -123,7 +123,6 @@ Uzunluk: %s
   <string name="search_null_text">Lütfen anahtar kelimeyi girin</string>
   <string name="select_all">Tümünü Seç</string>
   <string name="send">Gönder</string>
-  <string name="send_video_type">video/*</string>
   <string name="settings">Ayarlar</string>
   <string name="show_all_files_tips">Tüm dosyaları göster</string>
   <string name="show_all_folder_tips">Tüm dizinleri göster</string>

@@ -698,7 +698,6 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="go_setting">Ayarları Göster</string>
   <string name="grain">Rengi Sınıflandır</string>
   <string name="grant_permission_go_and_set">Ayarla</string>
-  <string name="grant_permission_item">\"%s\"</string>
   <string name="grant_permission_text">"Galerinin normal çalışması için 
 %s
  erişmesi gerekir, İzinlerden ayarlamak için \"Ayarla\" dokunun."</string>
@@ -1250,7 +1249,6 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="search_feedback_likely_check_title">Denetle</string>
   <string name="search_feedback_likely_title">\"%s\" fotoğraf var</string>
   <string name="search_feedback_task_complete">Tüm görevler tamamlandı</string>
-  <string name="search_feedback_task_progress">Görev: %1$d/%2$d</string>
   <string name="search_feedback_task_request_award_failed">"Ödül alınamadı. Sonra yeniden deneyin.​"</string>
   <string name="search_feedback_task_requesting_award">Ödül alınıyor…</string>
   <string name="search_feedback_user_notice">"Okudum ve %s kabul ettim."</string>

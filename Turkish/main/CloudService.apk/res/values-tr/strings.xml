@@ -93,8 +93,6 @@ Son yedekleme: %2$s"</string>
   <string name="find_device_disabling">Kapatılıyor…</string>
   <string name="find_device_dspt">Uzaktan cihazın; Konumu, Kilitlenmesi veya Sıfırlanması sağlayın</string>
   <string name="find_device_dspt_provision">"Eğer cihazını kaybedecek olursanız; %s konumu, kilitlenmesini veya sıfırlanmasını yapabilirsiniz. Bu özelliği istediğiniz zaman Ayarlar\'dan açıp/kapatabilirsiniz."</string>
-  <string name="find_device_dspt_provision_2">i.mi.com</string>
-  <string name="find_device_dspt_provision_2_int">"www.mi.com/micloud"</string>
   <string name="find_device_dspt_provision_3">. Bu özelliği istediğiniz zaman Ayarlar\'dan açıp/kapatabilirsiniz.</string>
   <string name="find_device_dspt_provision_4">SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için otomatik olarak bir SMS gönderilecektir.</string>
   <string name="find_device_enabling">Açılıyor...</string>
@@ -103,7 +101,6 @@ Son yedekleme: %2$s"</string>
   <string name="find_device_error_server">Sunucu hatası</string>
   <string name="find_device_error_unknown">Bilinmeyen hata.</string>
   <string name="find_device_notice_p1">Git</string>
-  <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">" telefonunuzu bulmak, kilitlemek ve yeniden yüklemek için.
 SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için otomatik olarak bir SMS gönderilecektir."</string>
   <string name="find_device_operation_failure_rpc">"RPC hatasından dolayı işlem devam edemedi."</string>
@@ -144,10 +141,6 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="ks_download_success">Sertifika başarıyla indirildi</string>
   <string name="ks_fingerprint_payment">Parmakizi ile Ödeme</string>
   <string name="ks_fingerprint_status">Ödeme Durumu</string>
-  <string name="ks_key_download_button">ks_key_download_button</string>
-  <string name="ks_key_status">ks_key_status</string>
-  <string name="ks_key_udpate_time">ks_key_udpate_time</string>
-  <string name="ks_key_version">ks_key_version</string>
   <string name="ks_name_alipay">Alipay</string>
   <string name="ks_name_fido">FIDO</string>
   <string name="ks_name_soter">WeChat</string>
@@ -282,8 +275,6 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="micloud_find_device_open_fail">"Telefonu Bul açılamadı"</string>
   <string name="micloud_find_device_opened">Telefonu Bul açık</string>
   <string name="micloud_find_device_opened_content"> %s telefonunuzu bulun</string>
-  <string name="micloud_find_device_opened_content_url">i.mi.com</string>
-  <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
   <string name="micloud_find_device_verify_button">Telefonu Bul özelliğini yeniden etkinleştir</string>
   <string name="micloud_find_device_verify_close">Telefonu Bul özelliğini kapat</string>
   <string name="micloud_find_device_verify_fail">"Telefonu Bul yeniden etkinleştirilmiyor"</string>
@@ -552,8 +543,6 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="sync_dspt_entrance_provision_network">"Bu uygulamanın normal çalışması için internete bağlanması gerekiyor. Verileri eşitlemek için mobil veri bağlantısı veya WLAN'ı açmak gerektirebilir."</string>
   <string name="sync_dspt_entrance_provision_skip">Bu adımı atla</string>
   <string name="sync_dspt_provision">"Fotoğraflarınızı, şahısları, notları ve daha fazlasını eşitleyin ve her yerden erişin "</string>
-  <string name="sync_dspt_provision2">i.mi.com</string>
-  <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
   <string name="sync_dspt_provision3">". Bu özelliği istediğiniz zaman Ayarlardan açıp/kapatabilirsiniz."</string>
   <string name="sync_dspt_provision_header">Eşitle</string>
   <string name="sync_dspt_provision_title">Mi Bulut</string>
