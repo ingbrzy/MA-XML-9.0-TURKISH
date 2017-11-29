@@ -21,6 +21,7 @@
   <string name="account_error_longer_user_name">"Ad 20 karakterden uzun olamaz"</string>
   <string name="account_error_shorter_user_name">Ad 2 karakterden uzun olmalıdır</string>
   <string name="account_error_user_birthday">Girdiğiniz doğum tarihi geçersiz</string>
+  <string name="account_global_region">Denizaşırı</string>
   <string name="account_has_been_set">Değiştir</string>
   <string name="account_learn_more_title">Ücretsiz Mi Hesabı oluşturun</string>
   <string name="account_limit_update_birthday">"Doğum günü şimdi güncellenemedi"</string>
@@ -423,7 +424,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_reg_sms_send_prompt">Doğrulama kodunu şuraya gönder: %s</string>
   <string name="passport_reg_success">Hesabınız oluşturuldu</string>
   <string name="passport_reg_success_summary">%1$s hesabınızla bağlanmıştır. Oturum açmak için veya şifrenizi sıfırlamak için kullanabilirsiniz.</string>
-  <string name="passport_reg_type_email">E-Posta adresi kullan</string>
+  <string name="passport_reg_type_email">E-Posta Adresi</string>
   <string name="passport_reg_type_other_ways">E-Posta adresinizi veya alternatif bir numarayı kullanın</string>
   <string name="passport_reg_type_other_ways_title">Bir Mi Hesap Oluştur</string>
   <string name="passport_reg_using_other_phone">Alternatif telefon numarasını kullan</string>
