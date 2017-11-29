@@ -375,7 +375,7 @@
   <string name="sdcard_not_mounted_dialog_message">"Şimdi SD kart ekleyin.
 "</string>
   <string name="sdcard_not_mounted_dialog_title">SD Kart tespit edilemedi</string>
-  <string name="search_hint_header_text">Sözler</string>
+  <string name="search_hint_header_text">Kelimeler</string>
   <string name="selected_resource_file_invalid">"Seçilen kaynak dosyası kullanılamıyor"</string>
   <string name="settings">Ayarlar</string>
   <string name="system_precust">Sistemle Gelen</string>
