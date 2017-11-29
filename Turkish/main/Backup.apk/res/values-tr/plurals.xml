@@ -12,6 +12,14 @@
         <item quantity="other">%d öğe</item>
         <item quantity="one">%d öğe</item>
     </plurals>
+    <plurals name="total_num">
+        <item quantity="other">%d öğe,</item>
+        <item quantity="one">%d öğe,</item>
+    </plurals>
+    <plurals name="custom_progress">
+        <item quantity="other">%d öğe</item>
+        <item quantity="one">%d öğe</item>
+    </plurals>
     <plurals name="trans_time_format_minute">
         <item quantity="other">%d dakika</item>
         <item quantity="one">%d dakika</item>
