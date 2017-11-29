@@ -162,6 +162,7 @@
   <string name="cloud_sync_closed_toast">"Güncelleme yapmak için eşitlemeyi etkinleştir"</string>
   <string name="cloud_sync_failed_toast">"Güncellenemedi"</string>
   <string name="cloud_tab">Bulut sekmeleri</string>
+  <string name="cloud_tabs_sync_off">Eşitleme kapalı</string>
   <string name="cloud_time_tips">Son Eşitleme: </string>
   <string name="cloud_up_to_loading_tips">Eşitlemeyi başlatın</string>
   <string name="color_picker_button_black">Siyah</string>
@@ -233,7 +234,7 @@
   <string name="contextmenu_webpage_capture">Ekran Görüntüsü</string>
   <string name="contextmenu_webpage_html">HTML dosyası olarak kaydet</string>
   <string name="contextmenu_webpage_snapshot">Sayfayı kaydet</string>
-  <string name="copy_to_clipboard_failure_message">Panoya kopyalama başarısız</string>
+  <string name="copy_to_clipboard_failure_message">Panoya kopyalanamadı.</string>
   <string name="copy_url">URL\'yi kopyala</string>
   <string name="create_qr_code">QR kodu</string>
   <string name="current_version_pad">Pad</string>
@@ -415,7 +416,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="loading_tips">Yenilemek için aşağı doğru çekin </string>
   <string name="local_bookmarks">Mi</string>
   <string name="login_failed_toast">Oturum açılamadı, yenileyin ve tekrar deneyin.</string>
-  <string name="low_memory_error">Düşük bellek nedeniyle önceki işlemi tamamlanamıyor</string>
+  <string name="low_memory_error">Düşük bellek nedeniyle önceki işlemi tamamlayamadık.</string>
   <string name="low_memory_toast">"Düşük bellek nedeniyle Tarayıcı kullanılamıyor"</string>
   <string name="max_tabs_warning">"Daha fazla sekme açılamıyor"</string>
   <string name="maximum_input_alert">"2048 karakterden daha fazla giremezsiniz"</string>
@@ -429,8 +430,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="media_error_timeout">Ağ bağlantısı zaman aşımına uğradı</string>
   <string name="media_error_video_not_exist">"Video mevcut değil!"</string>
   <string name="media_player_error_button">Tamam</string>
-  <string name="media_player_error_text_invalid_progressive_playback">Üzgünüz, bu video bu cihazda oynatılmak için değil.</string>
-  <string name="media_player_error_text_unknown">Üzgünüz, bu video oynatılamaz.</string>
+  <string name="media_player_error_text_invalid_progressive_playback">Bu video, bu cihazda oynatılması için geçerli değil.</string>
+  <string name="media_player_error_text_unknown">Bu video oynatılamıyor.</string>
   <string name="media_player_error_title">Video oynatılamıyor</string>
   <string name="media_player_loading_video">Video yükleniyor...</string>
   <string name="menu_addtodesk"> Ana Ekrana ekle </string>
@@ -535,7 +536,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="miuichromium_error_page_suggestion_contact_admin">Yenetici ile irtibata geçin.</string>
   <string name="miuichromium_error_page_suggestion_correct_url">"Girdiğiniz adresi kontrol edip, düzelttikten sonra yeniden deneyin."</string>
   <string name="miuichromium_error_page_suggestion_grant_permission">Tarayıcının internet erişim izinlerini garanti altına aldıktan sonra yeniden yükleyin.</string>
-  <string name="miuichromium_error_page_suggestion_title">. Şunu deneyin:</string>
+  <string name="miuichromium_error_page_suggestion_title">Şunu deneyin:</string>
   <string name="miuichromium_error_page_title">"Bir hata oluştu!"</string>
   <string name="miuichromium_error_page_unknown_error">Birşeyler yanlış gitti</string>
   <string name="miuichromium_error_page_wlan">Wi-Fi Açık</string>
@@ -829,7 +830,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="send_comment_title">Yorum</string>
   <string name="senddesktop">Ana Ekran</string>
   <string name="sendstartpage">Başlangıç Sayfası</string>
-  <string name="sequence_bookmark_description">Yerimi sırasını değiştir</string>
+  <string name="sequence_bookmark_description">Yerimlerini yeniden düzenlemek için basılı tutun</string>
   <string name="share_image_text">Bakın, ne buldum!</string>
   <string name="share_page_text">"%1$s zevk alıyorum | %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">"Hizmetlerimizi kullanmayı seçerseniz kişisel verilerinizi toplayıp kullanacağız.
