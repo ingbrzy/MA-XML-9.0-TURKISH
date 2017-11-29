@@ -413,7 +413,7 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="oem_unlock_enable">OEM kilidini aç</string>
   <string name="oem_unlock_enable_summary">Önyükleyicinin kilidinin açılmasına izin ver</string>
   <string name="oldman_airplane_mode_text">Uçak Modu</string>
-  <string name="oldman_incall_text">Çağrıda</string>
+  <string name="oldman_incall_text">Aramaya geri dön</string>
   <string name="oldman_status_bar_time_format_12">h:mm</string>
   <string name="oldman_status_bar_time_format_24">HH:mm</string>
   <string name="overlay_display_devices_title">İkinci ekranı taklit et</string>
