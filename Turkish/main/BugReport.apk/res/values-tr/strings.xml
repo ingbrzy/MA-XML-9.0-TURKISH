@@ -58,6 +58,7 @@
   <string name="feedback_bug_status_change_notification_desc">%1$s problemi \"%2$s\"</string>
   <string name="feedback_choose_module">Öğeyi Seç</string>
   <string name="feedback_choose_module_hint">İstenen:</string>
+  <string name="feedback_choose_reproductivity">Yeniden Üretim</string>
   <string name="feedback_choose_third_app_name">Uygulama adını seçin</string>
   <string name="feedback_collect_log_failed">"Günlük alınamadı"</string>
   <string name="feedback_contact_info_hint">Telefon Numarası/E-Posta</string>
@@ -115,6 +116,7 @@
   <string name="feedback_third_packagename_hint">Hangi üçüncü parti uygulama sorunlara neden oluyor?</string>
   <string name="feedback_title">Başlık</string>
   <string name="feedback_title_hint">Problemin özetini tanımlayın</string>
+  <string name="feedback_title_reproductivity">Yeniden üretimi seçin</string>
   <string name="feedback_tracking">Problemin izleri</string>
   <string name="feedback_version_label">Sürüm</string>
   <string name="feesback_list">Raporlar</string>
