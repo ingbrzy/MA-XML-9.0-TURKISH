@@ -30,6 +30,10 @@
   <string name="downloading">İndiriliyor...</string>
   <string name="downloading_in_3g">3G üzerinden indiriliyor…</string>
   <string name="downloading_in_wifi">İndiriliyor…</string>
+  <string name="drive_low_memory_description_content">Cep telefonu depolama alanı yetersiz, daha fazla alan kazanmak için telefondaki çöpleri silin?</string>
+  <string name="drive_low_memory_description_title">Düşük Hafıza Uyarısı</string>
+  <string name="drive_low_memory_description_toast">"Cep telefonu depolama alanı yetersiz, lütfen MiDrive'ı kullandıktan sonra temizleyin"</string>
+  <string name="drive_low_memory_positive_content">Temizle</string>
   <string name="empty_file_download">"Boş dosyalar desteklenmiyor."</string>
   <string name="empty_file_upload">"Boş dosyalar desteklenmiyor."</string>
   <string name="file_already_downlaoded">Dosya \"%1$s\" kaydedildi</string>
@@ -112,6 +116,7 @@
   <string name="sd_invalid">SD kartınız bozuk.</string>
   <string name="send_to_midrive_failed">"Bu dosya türü desteklenmiyor."</string>
   <string name="slashes">/</string>
+  <string name="source_file_missing">Dosya kayıp.</string>
   <string name="space_full">Bulut alanı yeterli değil.</string>
   <string name="start_use_xiaomi_account">Mi Drive kullanarak başlat</string>
   <string name="system_alert">İnternet bağlantısı</string>
