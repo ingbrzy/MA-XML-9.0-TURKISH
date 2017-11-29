@@ -114,7 +114,11 @@
         <item quantity="other">%d takipçi</item>
         <item quantity="one">%d takipçi</item>
     </plurals>
-	<plurals name="Nunbackup_audios">
+	<plurals name="songs_count">
+        <item quantity="other">%d şarkı</item>
+        <item quantity="one">%d şarkı</item>
+    </plurals>
+    <plurals name="Nunbackup_audios">
         <item quantity="other">"%1$d şarkı yedeklenemedi (%2$.1fMB)"</item>
         <item quantity="one">"%1$d şarkı yedeklenemedi (%2$.1fMB)"</item>
     </plurals>
@@ -144,4 +148,12 @@
         <item quantity="other">%d şarkı atlandı. Ayarlar içinden çevrimiçi hizmetlerden açılabilir.</item>
 		<item quantity="one">%d şarkı atlandı. Ayarlar içinden çevrimiçi hizmetlerden açılabilir.</item>
 	</plurals>
+	<plurals name="Nrecognize_switch_off_alert_message">
+        <item quantity="other">Albüm ve şarkı bilgisini iyileştirme kapalı. %d şarkının iyileştirilmiş bilgi, albüm ve şarkı bilgisi durumunu geri almak istiyor musunuz?</item>
+        <item quantity="one">Albüm ve şarkı bilgisini iyileştirme kapalı. %d şarkının iyileştirilmiş bilgi, albüm ve şarkı bilgisi durumunu geri almak istiyor musunuz?</item>
+    </plurals>
+    <plurals name="Nassociate_songs">
+        <item quantity="other">Albüm ve şarkı bilgisi eşleniyor (%1$d/%2$d şarkı)</item>
+        <item quantity="one">Albüm ve şarkı bilgisi eşleniyor (%1$d/%2$d şarkı)</item>
+    </plurals>
 </resources>
