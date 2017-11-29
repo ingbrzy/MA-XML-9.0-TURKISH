@@ -47,6 +47,7 @@
   <string name="audio_chat">Sesli Sohbet</string>
   <string name="auto_nickname">Otomatik</string>
   <string name="auto_set_nickname">Otomatik</string>
+  <string name="back_description">Önceki</string>
   <string name="back_view_description">Geri dön</string>
   <string name="batch_delete">Kişileri toplu sil</string>
   <string name="batch_delete_msg">%d kişisi silinsin mi?</string>
@@ -108,6 +109,8 @@
   <string name="call_work">İşi Ara</string>
   <string name="call_work_mobile">İş Telefonunu Ara</string>
   <string name="call_work_pager">İş Çağrı Cihazını Ara</string>
+  <string name="calllog_call_note_menu">Çağrı Notları</string>
+  <string name="calllog_call_record_menu">Kaydedilen Çağrılar</string>
   <string name="calllog_menu_blacklist">Engelli Listesine Ekle</string>
   <string name="calllog_menu_edit_before_call">Düzenle</string>
   <string name="calllog_menu_send_sms">Mesaj Gönder</string>
@@ -224,7 +227,7 @@
   <string name="contactSavedErrorToast">"Kişi değişiklikleri kaydedilemiyor"</string>
   <string name="contactSavedToast">Kişi kaydedildi</string>
   <string name="contact_clear_search_history">Geçmişi temizle</string>
-  <string name="contact_delete_toast">Kişi silindi</string>
+  <string name="contact_delete_toast">Kişi başarıyla silindi</string>
   <string name="contact_detail_action_item_calllog">Geçmiş</string>
   <string name="contact_detail_action_item_nocalllog">Geçmiş yok</string>
   <string name="contact_detail_calllog_call_note_tips">Notlar</string>
@@ -265,6 +268,9 @@ Kartvizitler kapalı"</string>
   <string name="contact_editor_prompt_multiple_accounts">Kişiyi kaydet</string>
   <string name="contact_editor_prompt_one_account">Yeni kişi %1$s ile eşitlenecek</string>
   <string name="contact_editor_prompt_zero_accounts">Mobil veya yeni bir çevrimiçi hesabınızda saklayın</string>
+  <string name="contact_import_methods_dialog_bluetooth">Bluetooth</string>
+  <string name="contact_import_methods_dialog_mi_mover">Mi Transfer</string>
+  <string name="contact_import_methods_dialog_title">İçe aktarma usulunu seçin</string>
   <string name="contact_is_readOnly">"Sadece okunur kişiler düzenlenemez"</string>
   <string name="contact_list_loading">Yükleniyor...</string>
   <string name="contact_pick_photo">Fotoğraf</string>
@@ -284,6 +290,8 @@ Kartvizitler kapalı"</string>
   <string name="contacts_unavailable_add_account">Bir hesapta oturum açın</string>
   <string name="contacts_unavailable_create_contact">Yeni kişi oluştur</string>
   <string name="contacts_unavailable_import_contacts">Dosyadaki kişileri içe aktar</string>
+  <string name="contacts_unavailable_import_from_old_device">Önceki cihazdan içeri aktar</string>
+  <string name="contacts_unavailable_import_sim_contacts">SIM rehberini içeri aktar</string>
   <string name="convenient_service">Hizmetler</string>
   <string name="copy_number">Kopyala</string>
   <string name="copy_text">Panoya kopyala</string>
@@ -494,7 +502,7 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
   <string name="export_to_sim_prepare_title">Hazırlanıyor...</string>
   <string name="export_to_sim_title">Aktarılıyor…</string>
   <string name="export_to_storage">Depolamaya Aktar</string>
-  <string name="export_vcard_description">Dahili Depolamaya  vCard olarak aktar</string>
+  <string name="export_vcard_description">Depolamaya  vCard olarak aktar</string>
   <string name="exporting_contact_failed_message">"Kişi bilgisi dışa aktarılamadı. Sebep: \"%s\""</string>
   <string name="exporting_contact_failed_title">"Dışa aktarılamıyor"</string>
   <string name="exporting_contact_list_message">%s aktarılıyor...</string>
@@ -609,6 +617,7 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
   <string name="import_one_vcard_string">Bir vCard dosyasını içe aktar</string>
   <string name="import_percent">%0</string>
   <string name="import_selected_sim_entries_miui">Seçilen kişileri içe aktar</string>
+  <string name="import_sim_contacts_hint_title">SIM rehberini içeri aktar</string>
   <string name="import_sim_entries_finish">SIM karttaki kişiler aktarıldı</string>
   <string name="import_sim_entry_miui">İçe aktar</string>
   <string name="import_to_xiaomi_account_confirm">İçe aktar</string>
@@ -616,7 +625,7 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
   <string name="import_to_xiaomi_account_progress_message">Aktarılıyor...</string>
   <string name="import_to_xiaomi_account_progress_title">Kişileri Mi Hesabına aktar</string>
   <string name="import_to_xiaomi_account_title">Mi Hesabına aktar</string>
-  <string name="import_vcard_description">Kişileri Dahili Depolama alanından içe aktar</string>
+  <string name="import_vcard_description">Kişileri Depolama alanından içe aktar</string>
   <string name="import_vcard_dialog_message">vCard içeri aktarılsın mı?</string>
   <string name="import_weibo_dialog_title">Weibo kişilerini içe aktar</string>
   <string name="import_weibo_error_no_matched_contacts">Eşleşen kişi yok</string>
@@ -1209,7 +1218,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="search_simple_mode">Görüntüle;Bilgi;Fotoğraf;Kişiler</string>
   <string name="search_smart_group_title">Kişiler;Görüntüle</string>
   <string name="search_wipe_data">Düzenle;Kişiler</string>
-  <string name="searching_vcard_message">Depolama birimindeki vCard dosyaları aranıyor...\u2026</string>
+  <string name="searching_vcard_message">SD Karttaki vCard dosyaları aranıyor...\u2026</string>
   <string name="select_all">Hepsi</string>
   <string name="select_all_exceed">"%1$d'den daha fazlasını seçilemedi, hepsi seçilemez"</string>
   <string name="select_exceed">"%1$d'den daha fazlasını seçilemedi"</string>
