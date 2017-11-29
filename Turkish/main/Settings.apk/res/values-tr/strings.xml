@@ -2170,6 +2170,9 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="incoming_call_breathing_light_color_title">Gelen Arama Işık Rengi</string>
   <string name="incoming_call_breathing_light_freq_title">Çağrının Yanıp-Sönme Aralığı</string>
   <string name="incoming_call_volume_title">Zil Sesi</string>
+  <string name="infinity_display_settings">Tam Ekran Görünümü</string>
+  <string name="infinity_display_slogan">Keşfedilmemiş teknolojide devam eden büyüme</string>
+  <string name="infinity_display_title">Tam Ekran Görünümü</string>
   <string name="information_dialog_button_text">Anladım</string>
   <string name="input_method">Giriş Usulu</string>
   <string name="input_method_selector">Giriş Usulu Seçici</string>
@@ -2882,6 +2885,7 @@ Burada diğer kullanıcılar var.
   <string name="mock_location_app_set">Sahte uygulam yeri: %1$s</string>
   <string name="mode_disable">Kapalı</string>
   <string name="mode_enable">Açık</string>
+  <string name="model_name">Model Adı</string>
   <string name="model_number">Model Numarası</string>
   <string name="modem_tool_log">Modem günlüğünü kaydet</string>
   <string name="modem_tool_log_start">Başlat</string>
@@ -2963,6 +2967,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="music_dirac_mode_piston_color">Renkli Sürüm</string>
   <string name="music_dirac_mode_piston_standard">Standart Sürüm</string>
   <string name="music_dirac_mode_piston_youth">Gençlik Sürümü</string>
+  <string name="music_dirac_mode_reduction_noise">TipC Gürültüyü Azalt</string>
   <string name="music_dolby_dialogue_enhancer">Diyalog Geliştirici</string>
   <string name="music_dolby_effects">Dolby Efektleri</string>
   <string name="music_dolby_eq_enter_alert_msg">Yalnızca Dolby Müzik Modunda Ekolayzer kullanabilirsiniz. Şimdi aktifleştirilsin mi?</string>
