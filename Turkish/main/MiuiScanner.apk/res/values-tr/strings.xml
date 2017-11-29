@@ -77,7 +77,7 @@
   <string name="error_invalid_request">Doğruluk hatası</string>
   <string name="error_media_storage_failure">"Fotoğraf saklanamadı"</string>
   <string name="error_minute_limit">1 saatte aşırı girişim</string>
-  <string name="error_permissions">"Tarayıcı yetersiz izinden dolayı normal çalışamıyor. Ayarlara gidin ve yetkileri kontrol edin, devam edin."</string>
+  <string name="error_permissions">"Tarayıcı yetersiz izinden dolayı Takvime erişemiyor. Ayarlara gidin ve yetkileri kontrol edip, devam edin."</string>
   <string name="error_server_error">Sunucu hatası</string>
   <string name="feed_search_fail">Sonuç yok, yeniden deneyin</string>
   <string name="feedback_description_camera_access">"Tarayıcı Kameraya bağlanamadı"</string>
