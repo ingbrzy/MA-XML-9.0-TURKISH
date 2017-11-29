@@ -44,4 +44,8 @@
         <item quantity="other">%d dakika kaldı</item>
         <item quantity="one">%d dakika kaldı</item>
     </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">%d saniye sonra otomatik olarak yeni sayfa oluşturulacak</item>
+        <item quantity="one">%d saniye sonra otomatik olarak yeni sayfa oluşturulacak</item>
+    </plurals>
 </resources>
