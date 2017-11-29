@@ -1426,6 +1426,7 @@ Daha iyi kapsama alanı bulmanız gerekebilir. (bir pencere yanı veya dışarı
 
 Tekrar deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."</string>
   <string name="other">Diğer</string>
+  <string name="other_available_phone_accounts">Mevcut diğer hesaplar</string>
   <string name="other_settings">Diğer çağrı ayarları</string>
   <string name="other_settings_category">Diğer</string>
   <string name="overlay_display_devices_title">İkinci ekranı taklit et</string>
@@ -1476,6 +1477,7 @@ Tekrar deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."</
   <string name="payphone">Ödemeli Telefon</string>
   <string name="phoneAppLabel">Telefon Hizmetleri</string>
   <string name="phoneIconLabel">Telefon</string>
+  <string name="phone_account_settings">Çağrı Hesapları</string>
   <string name="phone_account_settings">Telefon Hesap Ayarları</string>
   <string name="phone_account_wifi_calling">WLAN çağrısı</string>
   <string name="phone_accounts">Telefon Hesap Ayarları</string>
@@ -1645,6 +1647,7 @@ Telefonunuz başka bir başarısız girişiminden sonra otomatik olarak kilitlen
   <string name="preferred_network_type_pref_entries_only_3g">Sadece 3G</string>
   <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title">Tercih Edilen Ağ Tipi</string>
+  <string name="preferred_phone_account">Tercih Edilen Çağrı Hesabı</string>
   <string name="preferred_networks"/>
   <string name="primary_account_summary_with">Birincil Hesap. %s</string>
   <string name="private_num">Özel Numara</string>
@@ -1718,7 +1721,7 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="registration_status_server_unreachable">Hesap kaydı başarısız: Sunucu adını kontrol edin.</string>
   <string name="registration_status_still_trying">Hala deneniyor...</string>
   <string name="reject_via_sms">Hızlı Cevaplar</string>
-  <string name="reject_via_sms_summary">Yeniden yazılacak mesajları düzenle</string>
+  <string name="reject_via_sms_summary">Aramayı bitirmek ve SMS göndermek için düğmeleri göster</string>
   <string name="reject_via_sms_title">Hızlı Cevaplar</string>
   <string name="remain_mins_divider">veya</string>
   <string name="remain_mins_domestic">Kalan (Yerli)</string>
@@ -1859,6 +1862,7 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="simContacts_emptyLoading">SIM Kart okunuyor…</string>
   <string name="simContacts_title">Aktarılacak kişileri seçin</string>
   <string name="simFdnContacts_empty">Sabit arama kişisi yok.</string>
+  <string name="sim_accounts">SIM Hesapları</string>
   <string name="sim_absent">Devamsız</string>
   <string name="sim_activated">Doğrulandı</string>
   <string name="sim_card_activate">Geçerli SIM Kart</string>
@@ -2158,6 +2162,7 @@ Bu sorun devam ederse lütfen operatörünüze başvurun."</string>
   <string name="volte_ss_not_available_tips_data_roaming">Operasyonun tamamlanması için, %s veri bağlantı ve veri dolaşımını açmalısınız.</string>
   <string name="volte_ss_not_available_tips_roaming">Operasyonun tamamlanması için, %s veri dolaşımını açmalısınız.</string>
   <string name="volte_switch_not_support_summary">"Mobil veri SIM kartı için VoLTE aramaları desteklenmiyor."</string>
+  <string name="volte_switch_not_support_summary2">"VoLTE görüşmeleri operatör tarafından desteklenmiyor."</string>
   <string name="volte_switch_summary">Sesli ve görüntülü görüşme kalitesini artırmak için VoLTE özelliğini açmalısınız</string>
   <string name="volte_switch_title">VoLTE Etkin</string>
   <string name="vpn_settings_not_available">VPN ayarları bu kullanıcı için geçerli değil</string>
