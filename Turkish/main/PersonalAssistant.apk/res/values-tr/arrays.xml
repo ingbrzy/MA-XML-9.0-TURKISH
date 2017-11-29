@@ -54,9 +54,9 @@
         <item>严重</item>
     </string-array>
     <string-array name="detail_font_size">
-        <item>小号</item>
-        <item>标准</item>
-        <item>大号</item>
+        <item>Küçük</item>
+        <item>Normal</item>
+        <item>Büyük</item>
     </string-array>
     <string-array name="express_status_detail">
         <item>Yolda</item>
@@ -78,10 +78,9 @@
         <item>支付宝支付</item>
     </string-array>
     <string-array name="express_watched_app_filter">
-        <item>Nakliye Şirketi:</item>
-        <item>İrsaliye Numarası:</item>
-        <item>Bilgi Kaynağı:</item>
-        <item>Lojistik Bilgisi:</item>
+        <item>SMS</item>
+        <item>WeChat</item>
+        <item>Alipay</item>
     </string-array>
     <string-array name="stock_color_schema">
         <item>Kırmızı - yukarı, yeşil - aşağı</item>
