@@ -627,8 +627,9 @@
   <string name="sms_report_dialog_title">Tekrar deneyin</string>
   <string name="sms_report_failed">"Rapor gönderilemedi!"</string>
   <string name="sms_report_success">Rapor iletildi</string>
-  <string name="snippet_audio">[ses]</string>
-  <string name="snippet_picture">[resim]</string>
+  <string name="snippet_audio">[Ses]</string>
+  <string name="snippet_picture">[Resim]</string>
+  <string name="snippet_timed">[Zaman]</string>
   <string name="snippet_red_package">[Kızıl Paket]</string>
   <string name="sp_category_all">Tüm servis mesajları</string>
   <string name="sp_category_bank">Banka Bildirim Mesajları</string>
