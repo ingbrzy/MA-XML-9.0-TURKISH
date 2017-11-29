@@ -297,7 +297,8 @@ Takip numarasını kontrol edin."</string>
   <string name="mark_number_feedback_personal_number">"Kişisel Numara"</string>
   <string name="mark_number_feedback_success">Görüşleriniz başarıyla gönderildi</string>
   <string name="mark_number_marked_maintitle">Bu numara için değiştirme raporu</string>
-  <string name="mark_number_marked_subtitle">%s bu numara bildirildi</string>
+  <string name="mark_number_marked_subtitle">%s (geçerli etiket)</string>
+  <string name="mark_number_notification_title">Şüpheli numarayı bildir</string>
   <string name="mark_number_remove">Etiketi kaldır</string>
   <string name="mark_title_null_hint">Etiketi girin</string>
   <string name="menu_add_black_list">Engelli Listesine ekle</string>
