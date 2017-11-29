@@ -271,7 +271,7 @@ Güncelleme yapmazsanız, ikili uygulamalar da düzgün çalışmayabilir."</str
  parmakizi kullanarak gir"</string>
   <string name="start_setting_guide_desc_title">Ayarlanacak bir kaç şey var</string>
   <string name="summary_switch_apps_settings">Geçerli Alanda kullanılan uygulamaları seçin</string>
-  <string name="support_desc">Güvenlik hizmetleri Graphite tarafından sağlanmaktadır</string>
+  <string name="support_desc">Güvenlik hizmetleri Spaces Mobile tarafından sağlanmaktadır</string>
   <string name="sure_to_use">Onayla</string>
   <string name="switchDataSummary">Alanlar arasında öğeleri taşı</string>
   <string name="switch_apps_settings">Uygulama Ayarları</string>
