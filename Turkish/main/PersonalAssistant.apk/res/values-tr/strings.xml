@@ -386,7 +386,7 @@
   <string name="cta_desc">"Kısayollar, bilgi ve en sevdiğiniz özellikler için idealdir."</string>
   <string name="cta_dialog_negative">Çık</string>
   <string name="cta_dialog_positive">Kabul</string>
-  <string name="cta_dialog_text_all">Uygulama Kasasını kullanmak için, %1$s \"Kullanıcı Sözleşmesi\" %2$s ve %3$s \"Gizlilik Politikası\" %4$s'i okuyup, kabul etmelisiniz. Servis ayrıca internet bağlantısı ve konum servislerine erişim gerektiriyor. Kabul ediyor musunuz?</string>
+  <string name="cta_dialog_text_all">Uygulama Kasasını kullanmak için, %1$s \"Kullanıcı Sözleşmesi\" %2$s ve %3$s \"Gizlilik Politikası\" %4$s\'i okuyup, kabul etmelisiniz. Servis ayrıca internet bağlantısı ve konum servislerine erişim gerektiriyor. Kabul ediyor musunuz?</string>
   <string name="cta_dialog_title">Şartlar ve Hükümler</string>
   <string name="cta_negative">Kapat</string>
   <string name="cta_positive">Detaylar</string>
