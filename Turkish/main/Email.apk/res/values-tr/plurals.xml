@@ -26,6 +26,7 @@
         <item quantity="two">Posta birleştirilmiş öğeler içeriyor. Yine de silinsin mi?</item>
         <item quantity="few">Posta birleştirilmiş öğeler içeriyor. Yine de silinsin mi?</item>
         <item quantity="many">Posta birleştirilmiş öğeler içeriyor. Yine de silinsin mi?</item>
+    </plurals>        
     <plurals name="confirm_delete_draft">
         <item quantity="other">%1$d taslak silinsin mi?</item>
     <item quantity="one">%1$d taslak silinsin mi?</item>
