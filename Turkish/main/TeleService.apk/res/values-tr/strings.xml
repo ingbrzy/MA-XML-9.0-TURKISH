@@ -1478,7 +1478,6 @@ Tekrar deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."</
   <string name="phoneAppLabel">Telefon Hizmetleri</string>
   <string name="phoneIconLabel">Telefon</string>
   <string name="phone_account_settings">Çağrı Hesapları</string>
-  <string name="phone_account_settings">Telefon Hesap Ayarları</string>
   <string name="phone_account_wifi_calling">WLAN çağrısı</string>
   <string name="phone_accounts">Telefon Hesap Ayarları</string>
   <string name="phone_accounts_accounts_header">Hesaplar</string>
