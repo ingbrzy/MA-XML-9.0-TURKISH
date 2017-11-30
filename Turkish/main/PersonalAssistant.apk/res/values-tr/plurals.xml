@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="assistant_day">
-        <item quantity="other">%d gün içinde</item>
-        <item quantity="one">%d gün içinde</item>
     <plurals name="days_ago">
          <item quantity="other">%1$d gün önce</item>
     </plurals>
@@ -43,15 +40,6 @@
     <plurals name="sms_title_minutes">
         <item quantity="other">%d dakika</item>
         <item quantity="one">%d dakika</item>
-    </plurals>
-    <plurals name="mins_ago">
-        <item quantity="other">%1$d dakika önce</item>
-    </plurals>
-    <plurals name="hours_ago">
-        <item quantity="other">%1$d saat önce</item>
-    </plurals>
-    <plurals name="days_ago">
-        <item quantity="other">%1$d gün önce</item>
     </plurals>
     <plurals name="steps">
         <item quantity="other">%d adım</item>
