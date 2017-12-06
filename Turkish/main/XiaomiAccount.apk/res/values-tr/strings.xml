@@ -21,6 +21,7 @@
   <string name="account_error_longer_user_name">"Ad 20 karakterden uzun olamaz"</string>
   <string name="account_error_shorter_user_name">Ad 2 karakterden uzun olmalıdır</string>
   <string name="account_error_user_birthday">Girdiğiniz doğum tarihi geçersiz</string>
+  <string name="account_error_user_name">Girdiğiniz ad geçersiz</string>
   <string name="account_global_region">Denizaşırı</string>
   <string name="account_has_been_set">Değiştir</string>
   <string name="account_learn_more_title">Ücretsiz Mi Hesabı oluşturun</string>
@@ -33,7 +34,7 @@
   <string name="account_none_binded_info">Yok</string>
   <string name="account_none_binded_secure_phone">Telefon numarası yok</string>
   <string name="account_none_user_name">Yok</string>
-  <string name="account_notification_message">Oturum süresi doldu. Tekrar oturum açın.</string>
+  <string name="account_notification_message">&gt;Oturum süresi doldu. Tekrar oturum açın.</string>
   <string name="account_protection">Hesap Koruması</string>
   <string name="account_protection_off">Kapalı</string>
   <string name="account_protection_on">Açık</string>
@@ -312,7 +313,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_completed">Tamam</string>
   <string name="passport_confirm">Tamam</string>
   <string name="passport_confirm_recycle_account">Evet</string>
-  <string name="passport_confirm_recycle_account_msg">%s &lt;font color=Red&gt;疑似&lt;/font&gt;是运营商回收后再次收买的号码，该号码下已有小米帐号，这个帐号是你的吗？</string>
+  <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;%s&lt;/font&gt; \'nin operatör tarafından geri dönüştürülmüş numarası var gibi gözüküyor, bununla alakalı Mi Hesabı var. Bu hesap sizin mi?"</string>
   <string name="passport_continue">Devam</string>
   <string name="passport_copy_message_text_success">Başarıyla kopyalandı</string>
   <string name="passport_copy_message_vcode">Kodu kopyala</string>
@@ -355,6 +356,10 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_forget_password">Şifremi unuttum</string>
   <string name="passport_forget_password_no_underline">Şifremi unuttum</string>
   <string name="passport_get_back_pwd">Hesap şifresini al</string>
+  <string name="passport_get_innetdate_agree">Denetle</string>
+  <string name="passport_get_innetdate_disagree">Hayır</string>
+  <string name="passport_get_innetdate_msg">&lt;font color=Red&gt;%s&lt;/font&gt; \'nin operatör tarafından geri dönüştürülmüş numarası var gibi gözüküyor. Numaranın ne zaman çevrimiçi olduğu kontrol edilsin mi?</string>
+  <string name="passport_get_innetdate_title">Numaranın ne zaman çevrimiçi olduğunu kontrol et</string>
   <string name="passport_get_verify_code">Kod al</string>
   <string name="passport_getting_activator_phone">SIM bilgisi alınıyor…</string>
   <string name="passport_getting_verify_code">Alınıyor</string>
@@ -382,7 +387,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_login_other_account">Diğer hesap</string>
   <string name="passport_login_notice">Oturum açılıyor…</string>
   <string name="passport_login_prompt">Tek Mi Hesabı, tüm Mi Hizmetleri.</string>
-  <string name="passport_login_recycle_account_no">Problem yok</string>
+  <string name="passport_login_recycle_account_no">Hayır</string>
   <string name="passport_login_recycle_account_yes">Evet</string>
   <string name="passport_login_short">Oturum aç</string>
   <string name="passport_login_title">Mi Hesabınızda oturum açın</string>
@@ -521,6 +526,8 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="push_notify_dialog_message">"Bilinmeyen bir cihazda, Mi Hesabınızla oturum açmak için kullanılır. Bu doğrulama kodunu cihaza girin. Eğer siz o değilseniz, Mi Hesap şifrenizi hemen değiştirin. Doğrulama kodunu başkalarına açıklamayın."</string>
   <string name="push_notify_dialog_title">Hesap Doğrulaması</string>
   <string name="qq">QQ</string>
+  <string name="recycle_phone_notification_msg">Telefon numaranız geri dönüştürülmüş gibi görünüyor. Güncellemek için dokunun.</string>
+  <string name="recycle_phone_notification_title">Mi Hesabı Güvenlik Riski</string>
   <string name="quick_login_dialog_step2_title">2-Adımlı Doğrulama</string>
   <string name="quick_login_dialog_title">Şifreyi Doğrula</string>
   <string name="quick_login_step2_title">2-Adımlı Doğrulama</string>
@@ -587,6 +594,8 @@ Bu soruların cevaplarını hatırlayacağınızdan olun."</string>
   <string name="service_error">Servis hatası</string>
   <string name="set_success">Başarıyla değiştirildi</string>
   <string name="sign_in">Oturum aç</string>
+  <string name="sim_changed_notification_msg">Kurtarma telefonunuzu güncellemek ve hesabınızı daha güvenli tutmak için dokunun.</string>
+  <string name="sim_changed_notification_title">Telefon numarası değiştirilsin mi?</string>
   <string name="set_security_question_title">Güvenlik sorusunu ayarla</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_register">Bu adımı atla</string>
