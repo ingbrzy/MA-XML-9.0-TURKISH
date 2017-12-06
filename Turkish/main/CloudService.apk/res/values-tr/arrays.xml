@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Uygulama verisini eşitle</item>
+        <item>Ana Ekran şablonunu yedekle</item>
+        <item>Sistem ayarlarını yedekle</item>
+        <item>Telefonu Bul</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Rehberinizi, mesajlarınızı, notlarınızı, takviminizi ve daha fazlasını eşitlersiniz</item>
+        <item>Ana Ekran şablonunu, duvar kağıdını ve uygulamarı yedekler</item>
+        <item>WLAN ve ekran dahil önemli ayarları yedekler</item>
+        <item>"Cihaz kaybedildiğinde uzaktan kilitlenmesini sağlar"</item>
+    </string-array>
+</resources>
