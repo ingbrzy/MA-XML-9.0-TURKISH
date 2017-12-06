@@ -18,6 +18,8 @@
   <string name="date_day"/>
   <string name="date_month">/</string>
   <string name="date_year">/</string>
+  <string name="description_content">Ekran kaydı, sistem düzeyinde kayıt yapma olanağı sağlar. Bu faaliyet ekran kayıt özelliğinin iptal olacağı anlamına gelir. Devam etmeyi onaylayın.</string>
+  <string name="description_title">Ekran Kaydedici Hakkında</string>
   <string name="deselect_all">Vazgeç</string>
   <string name="error_open_file_failed_no_app_found">"Bu dosyayı açacak uygulama bulunamadı"</string>
   <string name="frames">Kare Hızı</string>
