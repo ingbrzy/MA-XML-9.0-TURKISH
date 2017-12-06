@@ -74,7 +74,7 @@ Son yedekleme: %2$s"</string>
   <string name="enable_cloud_service_notification">Mi Bulutu etkinleştirmeniz gerekiyor</string>
   <string name="enable_find_device_error">"Telefonu Bul hizmeti açılamıyor. %1$s"</string>
   <string name="enable_find_device_success">Telefonu Bul hizmeti açık.</string>
-  <string name="enable_micloud">Mi Bulut kullan</string>
+  <string name="enable_micloud">"Mi Bulut'u kullanmak için oturum aç"</string>
   <string name="enable_sync">Eşleştir</string>
   <string name="enable_sync_dspt">"Eşleşmiyor"</string>
   <string name="error_data_in_transfer">Eşleşme %s saat sonra bitecek.</string>
@@ -562,6 +562,7 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="sync_sub_dspt">Bu servisi etkinleştirmek için bir SMS mesajının gönderilmesi gerekebilir. Operatörünüz bu mesaj için sizden ücret talep edebilir.</string>
   <string name="sync_sub_dspt_provision">Fotoğrafları, şahısları, müzikleri, uygulamaları ve daha fazlasını eşitle</string>
   <string name="sync_sub_int_dspt">Bu servisi etkinleştirmek için uluslararası bir SMS mesajının gelmesi gerekebilir. Operatörünüz bu mesaj için sizden ücret talep edebilir.</string>
+  <string name="title_back">Önceki</string>
   <string name="title_reg">Mi Hesabı oluştur</string>
   <string name="total_space_upgraded_to">Toplam Alan:%s</string>
   <string name="trying_to_connect_to_network">Ağa bağlanıyor…</string>
@@ -591,5 +592,6 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="wipe_data_dialog_title">"Öğeler eşitlenemedi"</string>
   <string name="wipe_secret_photo_dialog_title">"Gizli fotoğraflar eşitlenemedi"</string>
   <string name="xiaomi_cloud_service">Mi Bulut</string>
+  <string name="xiaomi_cloud_service_subtitle">Tüm önemli öğeler bir yerde</string>
   <string name="xmpp_server_addr"/>
 </resources>
