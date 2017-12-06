@@ -548,6 +548,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="miuishare_account_need_activate">Weibo hesabı Mi Hesabı ile eşleştirilmiş olmalıdır. Mi Hesabında oturum açılsın mı?</string>
   <string name="miuishare_account_need_login">Weibo hesabı geçerli Mi Hesabı ile eşleştirilmiş olmalıdır. Girişi paylaşır mısın?</string>
   <string name="miuishare_app_name">MiuiShare</string>
+  <string name="miuishare_dialog_cancel">İptal</string>
   <string name="miuishare_no_network">"Ağa bağlanılamadı"</string>
   <string name="miuishare_publish">Gönder</string>
   <string name="miuishare_share_done">Paylaşıldı</string>
