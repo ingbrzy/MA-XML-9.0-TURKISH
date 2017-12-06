@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="days_ago">
-         <item quantity="other">%1$d gün önce</item>
+    <plurals name="payment_record_menu_select_num">
+        <item quantity="other">%s öğe seçildi</item>
+        <item quantity="one">%s öğe seçildi</item>
     </plurals>
-    <plurals name="hours_ago">
-        <item quantity="other">%1$d saat önce</item>
+    <plurals name="payment_record_dialog_delete_message">
+        <item quantity="other">%s öğe ödemeden silinsin mi?</item>
+        <item quantity="one">%s öğe ödemeden silinsin mi?</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">%d dakika önce</item>
+        <item quantity="one">%d dakika önce</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">%d saat önce</item>
+        <item quantity="one">%d saat önce</item>
     </plurals>
     <plurals name="main_delete_desc">
-        <item quantity="other">%s öğe favoriden silinsin mi?</item>
-        <item quantity="one">%s öğe favoriden silinsin mi?</item>
-    </plurals>
-    <plurals name="main_mark_fav_num">
-        <item quantity="other">%s öğe önemli olarak işaretlendi</item>
-        <item quantity="one">%s öğe önemli olarak işaretlendi</item>
-    </plurals>
-    <plurals name="mins_ago">
-        <item quantity="other">%1$d dakika önce</item>
+        <item quantity="other">%s öğe favorilerden kaldırılsın mı?</item>
+        <item quantity="one">%s öğe favorilerden kaldırılsın mı?</item>
     </plurals>
     <plurals name="main_mark_select_num">
         <item quantity="other">%s öğe seçildi</item>
         <item quantity="one">%s öğe seçildi</item>
+    </plurals>
+    <plurals name="main_mark_fav_num">
+        <item quantity="other">%s öğe önemli olarak işaretlendi</item>
+        <item quantity="one">%s öğe önemli olarak işaretlendi</item>
     </plurals>
     <plurals name="sms_minute_suffix">
         <item quantity="other">%d dakika içinde</item>
@@ -40,6 +47,15 @@
     <plurals name="sms_title_minutes">
         <item quantity="other">%d dakika</item>
         <item quantity="one">%d dakika</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d dakika önce</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d saat önce</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d gün önce</item>
     </plurals>
     <plurals name="steps">
         <item quantity="other">%d adım</item>
