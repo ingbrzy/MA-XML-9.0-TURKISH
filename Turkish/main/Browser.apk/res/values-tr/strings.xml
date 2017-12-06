@@ -16,7 +16,6 @@
   <string name="accessibility_time_picker_hour">Saat</string>
   <string name="accessibility_time_picker_milli">Milisaniye</string>
   <string name="accessibility_time_picker_minute">Dakika</string>
-  <string name="accessibility_time_picker_second">Saniye</string>
   <string name="account_prifix">Hesap:</string>
   <string name="action">Oturum Aç</string>
   <string name="action_menu_account_not_login">Oturum açılmadı</string>
