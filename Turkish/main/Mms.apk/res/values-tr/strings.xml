@@ -152,7 +152,7 @@
   <string name="duration_sec">Süre (%s sn)</string>
   <string name="duration_selector_title">"Slayt Süresi"</string>
   <string name="duration_zero">Süre sıfır saniyeden büyük olmalıdır.</string>
-  <string name="earlier">Erken</string>
+  <string name="earlier">Önceki</string>
   <string name="edit">Düzenle</string>
   <string name="edit_nickname_for_nocontact">Önce bir alıcı eklemeniz gerekiyor</string>
   <string name="edit_nickname_for_nocontact_by_robot">Önce bir alıcı eklemeniz gerekiyor</string>
