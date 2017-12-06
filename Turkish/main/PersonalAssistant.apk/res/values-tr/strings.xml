@@ -798,7 +798,6 @@ Check takip edilemiyor."</string>
   <string name="function_zhihu_title">Zhihu</string>
   <string name="generate_view_failed">Durumu takip et</string>
   <string name="go_to_school">İşyerinde veya okulda</string>
-  <string name="greeting_alarm_desc">Yarın %1$s alarm çalacak.</string>
   <string name="greeting_alarm_desc_with_duration">Yarın %1$s alarm çalacak, uykunu almak için %2$s yatmalısınız.</string>
   <string name="greeting_birth_desc">"Bugün %1$s'nın doğumgünü."</string>
   <string name="greeting_news_morning">Uyurken neler oldu?</string>
