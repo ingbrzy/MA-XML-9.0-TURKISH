@@ -4,9 +4,10 @@
   <string name="action_confirm">Seç</string>
   <string name="action_submit">Gönder</string>
   <string name="announcement">Dikkat</string>
-  <string name="app_empty">"İndirilen uygulamanız yok"</string>
+  <string name="app_empty">"Uygulama bulunamadı"</string>
   <string name="app_label">Geribildirim</string>
   <string name="app_name">Geribildirim</string>
+  <string name="app_search">Uygulamaları ara</string>
   <string name="btn_send">Gönder</string>
   <string name="bugreport_dialog_not_show_again">"Tekrar gösterme"</string>
   <string name="bugreport_dialog_submit_content">Geribildiriminiz kişisel bilginizi içerir.</string>
