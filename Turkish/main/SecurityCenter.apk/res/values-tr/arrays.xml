@@ -94,26 +94,6 @@
     <string-array name="long_add_menu">
         <item>İstisnalara ekle</item>
     </string-array>
-    <string-array name="sort_type">
-        <item>Durum</item>
-        <item>Uygulama Adı</item>
-        <item>Kullanım Sıklığı</item>
-        <item>Depolama Kullanımı</item>
-        <item>Veri Kullanımı</item>
-        <item>Pil Kullanımı</item>
-		<item>Kurulum Zamanı</item>
-        <item>Bu uygulamaları kaldırabilirsiniz</item>
-    </string-array>
-    <string-array name="sort_title">
-        <item>Durumuna göre</item>
-        <item>Uygulama adına göre</item>
-        <item>Kul. sıklığına göre</item>
-        <item>Depolama kul. alanına göre</item>
-        <item>Veri kullanımına göre</item>
-        <item>Pil kullanımına göre</item>
-		<item>Kurulum zamanına göre</item>
-		<item>Show apps that can be uninstalled first</item>
-    </string-array>
     <string-array name="sms_report_type">
         <item>Veri Kullanımı</item>
         <item>Telefon Bakiyesi</item>
