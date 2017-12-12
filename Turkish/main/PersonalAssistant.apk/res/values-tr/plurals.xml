@@ -58,9 +58,9 @@
         <item quantity="other">%1$d gün önce</item>
     </plurals>
     <plurals name="steps">
-        <item quantity="other">%d adım</item>
-        <item quantity="zero">%d adım</item>
-        <item quantity="one">%d adım</item>
+        <item quantity="other">%d|adım</item>
+        <item quantity="zero">%d|adım</item>
+        <item quantity="one">%d|adım</item>
     </plurals>
     <plurals name="assistant_day">
         <item quantity="other">%d gün içinde</item>
