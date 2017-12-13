@@ -126,6 +126,7 @@
   <string name="from">Şurdan: %1$s</string>
   <string name="goon_feedback_main">Devam</string>
   <string name="hint_feedback_main">Problemi açıkla</string>
+  <string name="issue_search">Ara</string>
   <string name="hot_problem">Genel hataları göster</string>
   <string name="loading_apps">Liste yükleniyor…</string>
   <string name="login_system_failed">"Oturum açılamadı, tekrar deneyin"</string>
