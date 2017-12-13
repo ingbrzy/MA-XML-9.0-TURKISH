@@ -941,6 +941,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="firewall_fragment_sys_listempty">Boş</string>
   <string name="firewall_fragment_tab_title_nonsys">Yüklü</string>
   <string name="firewall_fragment_tab_title_sys">Sistem</string>
+  <string name="firewall_mobile">Mobil Veri</string>
   <string name="firewall_mobile_dialog_message">"Yüklü uygulama, bu anahtar kapalı olduğunda mobil veriyi kullanarak internete bağlanamayacaktır."</string>
   <string name="firewall_network_allow">%2$s kullanımı için %1$s bağlantısına izin verildi</string>
   <string name="firewall_network_restrict_notify_message">Ayarları değiştirmek için dokunun.</string>
@@ -956,6 +957,8 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="firewall_rule_group_title_mobile">Mobil</string>
   <string name="firewall_rule_group_title_roaming">Yurtdışı Dolaşım</string>
   <string name="firewall_rule_group_title_wifi">WLAN</string>
+  <string name="firewall_system_title">Sistem Uygulamalarının Veri Kullanımı</string>
+  <string name="firewall_wifi">WLAN</string>
   <string name="firewall_service_network_blocked">%1$s, %2$s ağları sınırlı olarak kullanıyor</string>
   <string name="firewall_wifi_dialog_message">"Yüklü uygulama, bu anahtar kapalıyken WLAN kullanarak internete bağlanamaz."</string>
   <string name="five_percent_total_pkg">%s (%%5 aylık veri)</string>
@@ -1475,6 +1478,7 @@ için bekleniyor"</string>
   <string name="more_game">Diğer Oyunlar</string>
   <string name="month_report_month_report_switch">Aylık rapor göster</string>
   <string name="more_setting_summary">支持红包提醒种类、红包闹钟、勿扰时段等功能</string>
+  <string name="more_settings">Diğer</string>
   <string name="msg_update_error_code_success">Tamam</string>
   <string name="msg_update_up">Gizle</string>
   <string name="name">Adı</string>
@@ -2033,8 +2037,8 @@ Bu faaliyet pil ömrünü kısaltır."</string>
   <string name="pref_key_half_year_package_start">Başlama tarihi</string>
   <string name="pref_key_half_year_package_switch">Yarım yıllık veri paketi</string>
   <string name="pref_key_half_year_package_value">Paket boyutu</string>
-  <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
-  <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
+  <string name="pref_key_tethering_setting">Bir seferlik veri limiti</string>
+  <string name="pref_key_tethering_title">Bir Seferlik Veri Limiti</string>
   <string name="pref_leisure_no_overlay">Açık</string>
   <string name="pref_leisure_not_opened">Kapalı</string>
   <string name="pref_leisure_traffic_limit">Dağınık olmayan veriler tükendiğinde</string>
@@ -2717,6 +2721,14 @@ Eğer MIUI her şekilde değişiklik yapamadıysa, irtibata geçip yardım almak
   <string name="tc_sms_report_upload_success">"Veri kullanım raporu SMS olarak sunuldu. Bunda bizimde hakkımız var!"</string>
   <string name="tc_sms_report_upload_when_net">Görüşleriniz için teşekkür ederiz!</string>
   <string name="ten_percent_total_pkg">%s (%%10 aylık mobil veri)</string>
+  <string name="tether_custom_dialog_title">Mobil Veri Limiti</string>
+  <string name="tether_limit_dialog_title">Mobil Veri Limiti</string>
+  <string name="tether_limit_value_custom">Özel</string>
+  <string name="tether_over_limit_dialog_cancle_btn">"Hotspot'u Sıfırla"</string>
+  <string name="tether_over_limit_dialog_message">Taşınabilir Hotspot veri sınırına ulaştınız.</string>
+  <string name="tether_over_limit_dialog_title">Veri Kullanım Uyarısı</string>
+  <string name="tether_over_limit_warning_notify_message">"Taşınabilir Hotspot'u kapat."</string>
+  <string name="tether_over_limit_warning_notify_title">Hotspot veri limitine ulaştınız</string>
   <string name="text_antivirus">Uygulamanın adı ve ayrıntılarını yükle</string>
   <string name="text_antivirus_oversea">Virüs tanımlarını güncelle</string>
   <string name="text_button">Anladım</string>
