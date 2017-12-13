@@ -196,7 +196,7 @@
   <string name="cloud_antispam_marked">Raporlanan</string>
   <string name="cloud_antispam_title">Bilinmeyen numaraları tespit et</string>
   <string name="cloud_recommend_msg">Kişileri Mi Bulut ile eşitlemek için dokunun</string>
-  <string name="cloud_state_disabled">Eşitleme kapalı</string>
+  <string name="cloud_state_disabled">Mi Bulut eşitlemesini aç</string>
   <string name="cloud_state_loading">Biraz bekleyin…</string>
   <string name="cloud_state_sync_finished">Mi Bulut ile eşitlendi</string>
   <string name="cloud_state_syncing">Mi Bulut ile eşitlendi</string>
