@@ -1,0 +1,19 @@
++<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="subtitle_offset_advance_times">
+        <item quantity="other">Altyazı %.1f saniye ileri alındı</item>
+        <item quantity="one">Altyazı %.1f saniye ileri alındı</item>
+    </plurals>
+    <plurals name="subtitle_offset_delay_times">
+        <item quantity="other">Altyazı %.1f saniye geri alındı</item>
+        <item quantity="one">Altyazı %.1f saniye geri alındı</item>
+    </plurals>
+    <plurals name="subtitle_onlinesub_size_float_kb">
+        <item quantity="other">Boyut: %.2fKB</item>
+        <item quantity="one">Boyut: %.2fKB</item>
+    </plurals>
+    <plurals name="v_video_count">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+</resources>
