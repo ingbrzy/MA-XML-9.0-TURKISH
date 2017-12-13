@@ -50,6 +50,9 @@
   <string name="action_menu_toolbox">Araçlar</string>
   <string name="action_menu_useful_page">Kısayol Ekle</string>
   <string name="action_menu_useful_page_added">Başlangıç Sayfasına eklendi</string>
+  <string name="action_menu_user_center">Kullanıcı Merkezi</string>
+  <string name="action_modify_bookmark">Yerimini değiştir</string>
+  <string name="action_put_in_search_box">Arama kutusuna %s koy</string>
   <string name="actionbar_share">Paylaş</string>
   <string name="actionbar_textselection_title">Metni Seç</string>
   <string name="actionbar_web_search">Ara</string>
