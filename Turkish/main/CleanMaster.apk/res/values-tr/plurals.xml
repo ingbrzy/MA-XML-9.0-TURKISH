@@ -82,8 +82,8 @@
         <item quantity="one">"%d dışa aktarılamadı. Alanı boşaltın ve tekrar deneyin."</item>
     </plurals>
     <plurals name="wechat_empty_files">
-        <item quantity="other">（%1$d boş dosya）%2$s</item>
-        <item quantity="one">（%1$d boş dosya）%2$s</item>
+        <item quantity="other">（%1$d boş dosya）</item>
+        <item quantity="one">（%1$d boş dosya)</item>
     </plurals>
 	<plurals name="app_usage_day">
         <item quantity="other">"%d gündür kullanılmıyor"</item>
