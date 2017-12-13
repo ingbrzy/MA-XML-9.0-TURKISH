@@ -1,0 +1,7 @@
++<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="restoring_file_tile">
+        <item quantity="other">%d dosya geri yükleniyor</item>
+        <item quantity="one">%d dosya geri yükleniyor</item>
+    </plurals>
+</resources>
