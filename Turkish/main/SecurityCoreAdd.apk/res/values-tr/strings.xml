@@ -323,9 +323,9 @@ Güncelleme yapmazsanız, ikili uygulamalar da düzgün çalışmayabilir."</str
   <string name="xspace_default_app_title">Varsayılan Uygulama</string>
   <string name="xspace_default_setting_dialog_title">Varsayılan</string>
   <string name="xspace_default_setting_label">Varsayılan Uygulama</string>
-   <string name="xspace_description">"Klonlu uygulamaların kopyaları farkl ıhesap kullanır.
+   <string name="xspace_description">"Klonlu uygulamaların kopyaları farklı hesap kullanır.
 
-Bazı klonlu uygulamalar Google Hizmet Çerçevesine ihtiyaç duyar. Bu durumda Google Hizmet ÇErçevesi oluşturulur."</string>
+Bazı klonlu uygulamalar Google Hizmet Çerçevesine ihtiyaç duyar. Bu durumda Google Hizmet Çerçevesi oluşturulur."</string>
   <string name="xspace_guide_des">İki hesabı geçiş yapmadan kullan</string>
   <string name="xspace_guide_title">%s için Klonlu uygulama kullan</string>
   <string name="xspace_header">Klonlu Uygulama</string>
