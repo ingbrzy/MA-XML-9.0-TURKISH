@@ -730,6 +730,8 @@
   <string name="dtmf_tone_entries_normal">Normal</string>
   <string name="dtmf_tones_summary">DTMF seslerinin uzunluğunu ayarlayın</string>
   <string name="dtmf_tones_title">Tuş Takımı Dokunma Tonları</string>
+  <string name="dual_4g_switch_summary">Her iki SIM yuvası için 4G bağlantıya izin ver.</string>
+  <string name="dual_4g_switch_title">Çift 4G</string>
   <string name="dual_mic_summary">Çağrı esnasında arkaplanda ki gürültüyü bastır</string>
   <string name="dual_mic_title">Gürültüyü Azalt</string>
   <string name="dualtalk_tip_accept_disconnect_current">Bu çağrıyı kabul ederseniz, geçerli çağrı sonlandırılır.</string>
@@ -789,7 +791,8 @@
   <string name="enable_disable_restaurants">Lokantalar</string>
   <string name="enable_disable_retail_directory">Perakende Zinciri</string>
   <string name="enable_disable_stock_quotes">Hisse Senedi Fiyatları</string>
-  <string name="enable_disable_technology_news">Teknoloji Jaberleri</string>
+  <string name="enable_disable_technology_news">Teknoloji Haberleri</string>
+  <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE, her iki SIM yuvası için 4G bağlantı gerektirir. Şimdi Çift 4G özelliğine geçilsin mi?</string>
   <string name="enable_fdn">Sabit Arama Numarası etkin</string>
   <string name="enable_fdn_ok">Sabit Arama Numarası devre dışı</string>
   <string name="enable_freeform_support">Serbest biçimli pencereleri etkinleştir</string>
@@ -1194,6 +1197,9 @@ Mi Hesabıyla oturup açın"</string>
   <string name="missed_call_notify_times_summary">İstediğiniz sayıda cevapsız aramalar hakkında hatırlatıcı seçin (Hatırlatmalar 5 dakikalık aralıklarla ayrılmış)</string>
   <string name="missed_call_notify_times_title">Cevapsız Çağrı Hatırlatmaları</string>
   <string name="missed_call_notify_twice">2 kez</string>
+  <string name="miui_network_selection_reset_text">Sıfırla</string>
+  <string name="miui_notification_network_selection_title">"SIM kartta şebeke yok"</string>
+  <string name="miui_notification_network_selection_title_by_sim">SIM %s: şebeke yok</string>
   <string name="mmiCancelled">MMI kodu iptal edildi</string>
   <string name="mmiStarted">MMI kodu başladı</string>
   <string name="mo_call_type_title">MO Çağrı Tipi</string>
@@ -2071,6 +2077,8 @@ Sonraki Zamana: %2$d gün (%3$s)"</string>
   <string name="tty_mode_not_allowed_vt_call">Görüntülü görüşme esnasında TTY Moduna geçmeye izin verilmez</string>
   <string name="tty_mode_option_summary">TTY Modunu Ayarla</string>
   <string name="tty_mode_option_title">TTY Modu</string>
+  <string name="turn_off_dual_4g_failed">"Çift 4G özelliği kapatılamadı."</string>
+  <string name="turn_on_dual_4g_failed">"Çift 4G özelliği açılamadı."</string>
   <string name="turnover_mute_summary">Telefon ekranı yukarı bakacak şekilde yatay bir yüzeye çevrildiğinde, telefon zilini susturur.</string>
   <string name="turnover_mute_title">Zil sesini susturmak için çevir</string>
   <string name="unable_dial_livetalk">"Aramayı tamamlanamadı"</string>
