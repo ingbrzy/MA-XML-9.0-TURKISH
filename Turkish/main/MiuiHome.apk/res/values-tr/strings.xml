@@ -83,6 +83,11 @@
   <string name="durationformatshort">%2$2d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="edit_folder_title">Dizin adını düzenle</string>
+  <string name="edit_mode_group">Grup</string>
+  <string name="edit_mode_group_error_full">Yeterli alan yok</string>
+  <string name="edit_mode_group_error_in_folder">Simgelerin gruplanmasından önce klasörü kapatın</string>
+  <string name="edit_mode_group_error_one_folder">"Seçili simgeleri içeren bir klasör çoğaltamıyor"</string>
+  <string name="edit_mode_uninstall">Kaldır</string>
   <string name="editing_add_widget_tips">Araçları düzenle (Widgets)</string>
   <string name="editing_mode_enter_tip_text">Ana ekranı düzenlemek için kıstırın</string>
   <string name="editing_mode_title">%1$d seçildi</string>
@@ -168,7 +173,9 @@
   <string name="lock_screen">Kilit Ekranı</string>
   <string name="lock_screen_failed_message">"Kilit ekranı duvar kağıdı ayarlanamıyor"</string>
   <string name="lock_screen_success_message">Duvar kağıdınız başarıyla ayarlandı</string>
-  <string name="lock_screen_wallpaper">Kilit Ekranı Duvar Kağıdı</string>
+  <string name="lock_screen_wallpaper">Kilit Ekran Duvar Kağıdı</string>
+  <string name="memory_clear_nothing_result">Önbellekte temizlenecek birşey yok</string>
+  <string name="memory_clear_result">%1$sB temizlendi</string>
   <string name="menu_add">Ekle</string>
   <string name="menu_auto_fill">Boş hücreyi doldur</string>
   <string name="menu_back_desktop">Ana Ekrana Dön</string>
