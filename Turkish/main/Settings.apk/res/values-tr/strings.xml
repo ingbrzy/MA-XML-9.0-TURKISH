@@ -5165,6 +5165,8 @@ Google veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye
   <string name="testing_usage_stats">Kullanım İstatistikleri</string>
   <string name="testing_wifi_info">WLAN Bilgisi</string>
   <string name="tether_and_hotspot_title">Paylaşım &amp; Mobil Hotspot</string>
+  <string name="tether_data_usage_limit">Bir Seferlik Veri Limiti</string>
+  <string name="tether_data_usage_limit_summary">Veri sınırı, bir sonraki Hotspot açıldığında uygulanacak</string>
   <string name="tether_devices_management_title">Cihazları yönet</string>
   <string name="tether_devices_max_number">Bağlı cihazların limiti</string>
   <string name="tether_settings_disabled">Mobil Paylaşım kapalı</string>
