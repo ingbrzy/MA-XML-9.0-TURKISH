@@ -25,16 +25,16 @@
         <item>Bugün (veri)</item>
         <item>Bu ay (veri)</item>
         <item>Dün WLAN</item>
-		<item>Bugün WLAN</item>
+	<item>Bugün WLAN</item>
         <item>Bu ay WLAN</item>
     </string-array>
     <string-array name="traffic_type">
         <item>"Mobil Kullanımı "</item>
-		<item>"WLAN Kullanımı "</item>
+	<item>"WLAN Kullanımı "</item>
     </string-array>
     <string-array name="mi_service_traffic_type">
         <item>"Mobil Kullanımı "</item>
-		<item>"WLAN Kullanımı "</item>
+	<item>"WLAN Kullanımı "</item>
     </string-array>
     <string-array name="over_limit_traffic_waring_style">
         <item>Uyarıları göster</item>
@@ -42,7 +42,7 @@
     </string-array>
     <string-array name="roaming_network_type">
         <item>Daima</item>
-		<item>Sadece kabul edilenleri</item>
+	<item>Sadece kabul edilenleri</item>
         <item>Asla</item>
     </string-array>
     <string-array name="lock_mode">
@@ -54,14 +54,14 @@
         <item>Durumu</item>
         <item>Uygulama Adı</item>
         <item>Kullanım Sıklığı</item>
-		<item>Depolama Kullanımı</item>
+	<item>Depolama Kullanımı</item>
         <item>Yükleme Zamanı</item>
         <item>Uygulamayı Kaldırabilirsiniz</item>
     </string-array>
     <string-array name="sort_title">
         <item>Duruma göre</item>
         <item>Adına göre</item>
-    <item>Kullanıma göre</item>
+        <item>Kullanıma göre</item>
         <item>Kullandığı alana göre</item>
         <item>Yükleme zamanına göre</item>
         <item>Uygulamanın öncelikle kaldırılabileceğini göster</item>
@@ -70,7 +70,7 @@
         <item>Yükleme Kaynağı</item>
         <item>Yükleme Zamanı</item>
         <item>Son Güncelleme Kaynağı</item>
-		<item>Son Güncelleme Zamanı</item>
+	<item>Son Güncelleme Zamanı</item>
     </string-array>
     <string-array name="sms_report_type">
         <item>Veri Kullanımı</item>
