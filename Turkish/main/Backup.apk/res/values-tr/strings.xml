@@ -179,7 +179,7 @@ https://appleid.apple.com/#!&amp;page=kapanmak için giriş yap"</string>
   <string name="import_from_xiaomi_account_hint2"> Mevcut bir yedeğiniz varsa, Sonraki tuşuna dokunun.</string>
   <string name="import_from_xiaomi_account_hint_title">Cihazlar arasında kişilerinizi yedeklemek için Mi Talk kullanın.</string>
   <string name="import_tip_summary">"Uyumluluk sorunları nedeniyle, yalnızca kısmi verileri iOS cihazlarından aktarabilirsiniz. Aktarmaya başlamadan önce bir iCloud yedeklemesi oluşturduğunuzdan emin olun."</string>
-  <string name="import_tip_title">İpuçları:</string>
+  <string name="list_footer_tip_title">İpuçları:</string>
   <string name="loading_data">Veri yükleniyor</string>
   <string name="local_app_name">Yedekle</string>
   <string name="local_backup_window_title">Dahili Yedek Verisi</string>
@@ -361,10 +361,30 @@ Lütfen en az %s alan açın"</string>
   <string name="trans_connect_failed_toast">"Bağlanamadı"</string>
   <string name="trans_connecting_toast">Bağlanıyor...</string>
   <string name="trans_connection_failed">Bağlantı kesildi</string>
+  <string name="trans_detail_app_apk_list_title">Yüklü Uygulamalar</string>
+  <string name="trans_detail_app_apk_page_title">Uygulama seçin</string>
+  <string name="trans_detail_app_data_list_title">Uygulama Verisi</string>
+  <string name="trans_detail_app_data_page_title">Uygulama verisi seçin</string>
+  <string name="trans_detail_app_data_useless_tip">Bunları uygulamadan geri yükleyebilirsiniz, aktarmanıza gerek yoktur.</string>
+  <string name="trans_detail_audio_video_doc_list_title">Ses, video ve dosyalar</string>
+  <string name="trans_detail_audio_video_doc_page_title">Ses, video ve dosyaları seçin</string>
   <string name="trans_detail_category_account">Hesaplar ve Kişiler</string>
+  <string name="trans_detail_category_audio_video_doc">Ses, video ve dosyalar</string>
   <string name="trans_detail_category_files">Dosyalar</string>
-  <string name="trans_detail_category_sysdata">Sistem Verisi</string>
+  <string name="trans_detail_category_sysdata">Sistem verileri (mesajlar, kişiler ve arama geçmişi dahil)</string>
+  <string name="trans_detail_category_user_app_data">Uygulama Verisi</string>
   <string name="trans_detail_category_userdata">Uygulamalar</string>
+  <string name="trans_detail_category_wechat_qq">WeChat ve QQ verileri (sohbet geçmişi dahil)</string>
+  <string name="trans_detail_item_app_data_selected_tip">İlgili uygulamalar da seçildi</string>
+  <string name="trans_detail_item_app_data_too_large_tip">Öğe, aktarmak için çok büyük gibi görünüyor.</string>
+  <string name="trans_detail_list_footer">Not: Uygulamaları ayrı ayrı aktarmayı seçebilirsiniz. Bununla birlikte, uygulama verilerini seçerseniz, karşılık gelen uygulamalar da aktarılır.</string>
+  <string name="trans_detail_page_tip">Ne kadar çok öğe seçerseniz, aktarım daha uzun sürer.</string>
+  <string name="trans_detail_qq_data">QQ verileri (sohbet geçmişi dahil)</string>
+  <string name="trans_detail_sys_data_list_title">Sistem Uygulamaları</string>
+  <string name="trans_detail_sys_data_page_title">Sistem uygulamalarını seçin</string>
+  <string name="trans_detail_wechat_data">WeChat verileri (sohbet geçmişi dahil)</string>
+  <string name="trans_detail_wechat_qq_list_title">WeChat ve QQ</string>
+  <string name="trans_detail_wechat_qq_page_title">WeChat, QQ ve uygulama verilerini seçin</string>
   <string name="trans_device_auto_reconnecting">Cihaz bağlantısı kesildi. Otomatik olarak yeniden bağlanıyor...</string>
   <string name="trans_device_disconnected">Bağlantı kesildi</string>
   <string name="trans_device_wait_for_reconnecting">Bağlantı kesildi. Devam etmek için yeniden bağlanın.</string>
@@ -417,6 +437,7 @@ Lütfen en az %s kadar boş alan temizleyin"</string>
 O zaman [Yeniden Bağlan] seçeneğiyle QR kodunu oluşturun."</string>
   <string name="trans_operate_reconnect_old_tips">"Önceki telefonda \"Bağlantı kesildi\" gözükene kadar bekleyin.
 O zaman [Yeniden Bağlan] seçeneğiyle QR kodunu tarayın."</string>
+  <string name="trans_pausing">Durduruluyor...</string>
   <string name="trans_please_waiting">Biraz bekleyin...</string>
   <string name="trans_progress_subdescript_br_receiver"> %1$s geri yükleniyor, %2$s tamamlandı</string>
   <string name="trans_progress_subdescript_br_sender">%1$s yedekleniyor, %2$s tamamlandı</string>
@@ -446,6 +467,8 @@ WLAN Paylaşımı\'nı kapatmayın.
 Dosyaları yeniden seçin veya %s kadar boş alan oluşturun"</string>
   <string name="trans_select_data_tips">"Aktarmak için dosyaları seçin
 Benzer dosyalar, Alıcı cihazınızın üstüne yazılır"</string>
+  <string name="trans_select_data_too_large">"数据量过大，会导致换机时间较长
+建议只迁移对自己重要的数据"</string>
   <string name="trans_select_device_receive">Veri almak için tek bir cihaz seçin.</string>
   <string name="trans_select_device_send">Veri aktarmak için tek bir cihaz seçin.</string>
   <string name="trans_sender">"Göndericiyim"</string>
