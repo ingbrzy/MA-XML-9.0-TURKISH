@@ -30,6 +30,8 @@
   <string name="audio_track">Ses Parçası</string>
   <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
+  <string name="com_permission_desc">"Mi Video, cihazınızdaki videolara erişemiyor. Ayarlar'dan erişime izin ver."</string>
+  <string name="com_permission_title">İzin gerekli</string>
   <string name="do_not_show_this_again">"Yeniden gösterme"</string>
   <string name="lp_advance_sound">Ses Geliştirmesi</string>
   <string name="lp_brightness">Parlaklık</string>
@@ -161,4 +163,4 @@
   <string name="vp_app_name">Video Oynatıcı</string>
   <string name="vp_device_list">Cihazlar</string>
   <string name="vp_device_list_seaching">&lt;Yansıtılacak cihaz yok&gt;</string>
-</resources>
+</resources
