@@ -196,7 +196,7 @@
   <string name="cloud_antispam_marked">Raporlanan</string>
   <string name="cloud_antispam_title">Bilinmeyen numaraları tespit et</string>
   <string name="cloud_recommend_msg">Kişileri Mi Bulut ile eşitlemek için dokunun</string>
-  <string name="cloud_state_disabled">Mi Bulut eşitlemesini aç</string>
+  <string name="cloud_state_disabled">Mi Bulut ile eşitle</string>
   <string name="cloud_state_loading">Biraz bekleyin…</string>
   <string name="cloud_state_sync_finished">Mi Bulut ile eşitlendi</string>
   <string name="cloud_state_syncing">Mi Bulut ile eşitlendi</string>
@@ -1386,8 +1386,8 @@ Favorilerinize bir kişi eklemek için:
   <string name="type_voicemail">Sesli Mesaj</string>
   <string name="unable_get_device_id">IMEI alınamıyor</string>
   <string name="unfold_all">Tümünü Göster</string>
-  <string name="unknow_phone_number_call_failed">"Bilinmeyen numara aranamıyor"</string>
-  <string name="unknow_phone_number_mms_failed">"Bilinmeyen numaraya mesaj gönderilemiyor"</string>
+  <string name="unknow_phone_number_call_failed">"Bilinmeyen numaralar aranamaz"</string>
+  <string name="unknow_phone_number_mms_failed">"Bilinmeyen numaraya mesaj gönderilemez"</string>
   <string name="unknown">Bilinmiyor</string>
   <string name="unknown_contact_name">Bilinmeyen Kişi</string>
   <string name="unknown_details_add_to_contact">Varolan</string>
