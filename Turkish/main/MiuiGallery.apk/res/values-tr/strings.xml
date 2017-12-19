@@ -1,20 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Import">İçeri Aktar</string>
-  <string name="__leak_canary_analysis_failed">Sızıntı analizi başarısız oldu</string>
-  <string name="__leak_canary_class_has_leaked">%s sızdı</string>
-  <string name="__leak_canary_delete">Sil</string>
-  <string name="__leak_canary_delete_all">Tümünü Sil</string>
-  <string name="__leak_canary_display_activity_label">Sızıntılar</string>
-  <string name="__leak_canary_failure_report">"Başarısızlığı buraya rapor edin: http://github.com/square/leakcanary
-"</string>
-  <string name="__leak_canary_leak_list_title">%s sızıntı</string>
-  <string name="__leak_canary_notification_message">Daha fazla ayrıntı için tıklayınız</string>
-  <string name="__leak_canary_share_heap_dump">Yığın dökümünü paylaş</string>
-  <string name="__leak_canary_share_leak">Paylaşma Bilgisi</string>
-  <string name="__leak_canary_share_with">Paylaş…</string>
-  <string name="__leak_canary_toast_heap_dump">Bellek dökümü, uygulama donacak.</string>
-  <string name="abandon">İptal</string>
   <string name="accept">Kabul</string>
   <string name="accept_or_deny">%1$s sizinle %2$s albüm paylaştı.</string>
   <string name="activity_not_found">Bu eylemi gerçekleştirecek uygulama bulunamadı</string>
@@ -136,6 +121,7 @@
   <string name="app_name_view_picture">Resimleri Görüntüle</string>
   <string name="app_name_view_video">Videoları Görüntüle</string>
   <string name="apply">Uygula</string>
+  <string name="assistant_page_label">Yardımcı</string>
   <string name="appwidget_empty_text">Fotoğraf yok</string>
   <string name="appwidget_title">Galeri</string>
   <string name="aspect_ratio_format" formatted="false">%d:%d</string>
@@ -145,6 +131,7 @@
   <string name="associate_face_album">Bir albüm seç</string>
   <string name="auto">Otomatik</string>
   <string name="auto_backup_introduce">Fotoğraf ve videoları otomatik yedekle (Xiaomi hesabı gerekir)</string>
+  <string name="auto_download_media_title">"Mi Bulut'tan fotoğrafları otomatik olarak indir"</string>
   <string name="auto_create_recent_album">Favori albümü otomatik oluştur</string>
   <string name="auto_create_recent_album_confirm">Oluşturulan tüm otomatik favoriler kaldırıldı. Kullanıcı favorileri bundan etkilenmedi.</string>
   <string name="auto_create_recent_album_over_ten_times">Eğer bir albümü 10 kez açarsanız favori olarak işaretlenir</string>
@@ -270,6 +257,7 @@
   <string name="camera_view_none_message">Bu ekrandaki resim ve videolar kamera ile kaydedildi</string>
   <string name="cancel">İptal</string>
   <string name="cancel_baby_lock_wallpaper_confirm_msg">Varsayılan kilit ekran duvar kağıdına geçilsin mi?</string>
+  <string name="cancel_download_btn_text">Durdur</string>
   <string name="cancel_hint">Operasyon iptal edildi</string>
   <string name="cannot_delete_sharer_photo">Diğer kullanıcının eklediği %s öğeyi silemezsiniz</string>
   <string name="cannot_remove_creator">"Oluşturucu kaldırılamıyor"</string>
@@ -468,6 +456,8 @@
   <string name="download">İndir</string>
   <string name="download_canceled">İndirilmesi iptal edildi</string>
   <string name="download_error_format">"%s indirilemedi"</string>
+  <string name="download_error_tip">. İndirilenler kesildi.</string>
+  <string name="download_origin_dialog_message">"Orijinal görüntüler Mi Bulut'tan indirilecek. Yerel fotoğraflar iyileştirilmeyecek."</string>
   <string name="download_fail">İndirme başarısız</string>
   <string name="download_fail_confirm_continue">%s indirmesi başarısız</string>
   <string name="download_refocus_data">Veri indirmesine yeniden odaklanamıyor</string>
@@ -476,8 +466,15 @@
   <string name="download_retry_title">"Dosyalar indirilemedi"</string>
   <string name="download_tip">İndir</string>
   <string name="download_title">Dosyalar hazırlanıyor…</string>
+  <string name="download_type_origin">Orijinal Dosyalar</string>
+  <string name="download_type_origin_desc">Orijinal dosyalar</string>
+  <string name="download_type_thumbnail">Yüksek Kalite</string>
+  <string name="download_type_thumbnail_desc">Yüksek Kalite</string>
+  <string name="download_type_title">İndirme Kalitesi</string>
   <string name="download_without_wifi_msg">"Fotoğraf indirmek için mobil veri kullanmak veri artışına neden olacak. Eğer planlanan veri kullanımını aşarsanız operatörünüz sizden ek ücret talep edebilir."</string>
   <string name="download_without_wifi_title">Veri Kullanım Uyarısı</string>
+  <string name="downloading_dialog_message">"İndirilen resimlerin kalitesini seçebilir veya Ayarlar'dan otomatik indirmeleri kapatabilirsiniz."</string>
+  <string name="downloading_title">Mi Bulut üzerinden resimler indiriliyor</string>
   <string name="duotone">Dubleks</string>
   <string name="duration">Süre</string>
   <string name="early_bird">Earlybird</string>
@@ -1079,6 +1076,26 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="photo_print_menu_loading">Eklenti yükleniyor…</string>
   <string name="photo_print_package_finish">Başarıyla yüklendi</string>
   <string name="photo_print_package_installing">Eklenti yükleniyor…</string>
+  <string name="photomovie_audio_custom">Yerel</string>
+  <string name="photomovie_audio_none">Yok</string>
+  <string name="photomovie_audio_unsupport">Bu ses türünü desteklenmiyor</string>
+  <string name="photomovie_cancel_download">İptal et</string>
+  <string name="photomovie_delete_disable">Bir klibi oluşturmak için en az 3 fotoğrafa ihtiyacınız var.</string>
+  <string name="photomovie_download">İndir</string>
+  <string name="photomovie_download_failed">"İndirilemedi"</string>
+  <string name="photomovie_download_failed_for_notwork">"Ağ bağlantısı indirilemedi. Ağ bağlantısını kontrol et."</string>
+  <string name="photomovie_download_without_wifi_msg">"Dosyaları indirmek için mobil veri bağlantısını kullanmak, veri kullanımınızı artıracaktır. Planınızın veri sınırını aşarsanız, operatörünüz size ek ücret talep edebilir."</string>
+  <string name="photomovie_download_without_wifi_title">Veri kullanımı uyarısı</string>
+  <string name="photomovie_item_name">Kilip</string>
+  <string name="photomovie_return">Geri</string>
+  <string name="photomovie_save">Kaydet</string>
+  <string name="photomovie_save_failed">"Kaydedilemedi"</string>
+  <string name="photomovie_save_successfully">Başarıyla kaydedildi</string>
+  <string name="photomovie_saving">Klip oluşturuluyor...</string>
+  <string name="photomovie_tab_edit">Düzenle</string>
+  <string name="photomovie_tab_music">Müzik</string>
+  <string name="photomovie_tab_template">Şablon</string>
+  <string name="photomovie_template_default">Yavaş</string>
   <string name="photo_save_succeed">Kaydedildi</string>
   <string name="photo_size">Boyut</string>
   <string name="photoeditor_name">Foto Studio</string>
@@ -1136,7 +1153,6 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="qqbrowser_img">QQ-Browser</string>
   <string name="qsbk_save">QSBK</string>
   <string name="quotation">\"%s\"</string>
-  <string name="qzone">QZone</string>
   <string name="recent_album_empty_title">"Önceki yeni fotoğraflar eklenemedi"</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Görüntü tanımlanıyor…</string>
@@ -1249,6 +1265,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="search_feedback_likely_check_title">Denetle</string>
   <string name="search_feedback_likely_title">\"%s\" fotoğraf var</string>
   <string name="search_feedback_task_complete">Tüm görevler tamamlandı</string>
+  <string name="search_feedback_task_progress">Görevler: %2$d/%1$d</string>
   <string name="search_feedback_task_request_award_failed">"Ödül alınamadı. Sonra yeniden deneyin.​"</string>
   <string name="search_feedback_task_requesting_award">Ödül alınıyor…</string>
   <string name="search_feedback_user_notice">"Okudum ve %s kabul ettim."</string>
@@ -1391,7 +1408,8 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="slideshow_interval_value">%1$d saniye</string>
   <string name="slideshow_repeat_mode">Tekrarla</string>
   <string name="slim_after_backuped_summary">Mi Bulut\'ta yedeklendikten sonra yerel fotoğraflar yüksek çözünürlükte en iyi hale getirilir. Tam çözünürlüklü olanlar hala Mi Bulut\'ta saklanır. Böylece depolamada daha çok alan kazanırsınız.</string>
-  <string name="slim_after_backuped_title">Yedeklemeden Sonra Depolamayı İyi Hale Getir</string>
+  <string name="slim_after_backuped_title">Yedeklemeden Sonra Depolamayı İyileştir</string>
+  <string name="slim_dialog_message">İyileştirilmiş HD fotoğraflar orijinal dosyalar yerine Mi Bulut üzerinden indirilecek.</string>
   <string name="slim_introduce">Fotoğraflar ve Videolar yerel yerde en iyi hale getirildikten sonra Mi Bulut\'ta yedeklenir. Yüksek çözünürlükteki resimler Mi Bulut alanında silinmez, muhafaza edilir.</string>
   <string name="slim_introduce_with_specific_size">Fotoğraflar ve Videolar yerel yerde en iyi hale getirildikten sonra Mi Bulut\'ta yedeklenir. Mi Bulut üzerinde bu fotoğraflar yüksek çözünürlükte saklanır. %1$s alan kazanırsınız. (Mi Hesabı gerekli).</string>
   <string name="slim_now">İyi Hale Getir</string>
