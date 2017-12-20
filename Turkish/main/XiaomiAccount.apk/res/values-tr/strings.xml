@@ -311,6 +311,7 @@
 Hesabınızı etkinleştirmek için, aşağıdaki
  gelen kutunuza gönderilen bağlantıyı takip edin."</string>
   <string name="passport_completed">Tamam</string>
+  <string name="passport_confirm_login">Devam et</string>
   <string name="passport_confirm">Tamam</string>
   <string name="passport_confirm_recycle_account">Evet</string>
   <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;%s&lt;/font&gt; \'nin operatör tarafından geri dönüştürülmüş numarası var gibi gözüküyor, bununla alakalı Mi Hesabı var. Bu hesap sizin mi?"</string>
