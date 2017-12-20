@@ -468,6 +468,7 @@ Bir cihazı diğer cihaza dokundurarak (genellikle sırt sırta), istenilen uygu
   <string name="average_used">Yaklaşık kullanılan: (%)</string>
   <string name="avoid_ui">UI önle</string>
   <string name="awake">Uyanık kalma süresi</string>
+  <string name="back_button">Geri</string>
   <string name="back_key">Geri</string>
   <string name="background_check_pref">Arkaplanı denetle</string>
   <string name="background_check_title">Tam arkaplan erişimi</string>
@@ -2966,10 +2967,10 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="music_dirac_mode_piston_color">Renkli Sürüm</string>
   <string name="music_dirac_mode_piston_standard">Standart Sürüm</string>
   <string name="music_dirac_mode_piston_youth">Gençlik Sürümü</string>
-  <string name="music_dirac_mode_reduction_noise">TipC Gürültüyü Azalt</string>
+  <string name="music_dirac_mode_reduction_noise">Gürültüyü Azalt (USB-C)</string>
   <string name="music_dolby_dialogue_enhancer">Diyalog Geliştirici</string>
   <string name="music_dolby_effects">Dolby Efektleri</string>
-  <string name="music_dolby_eq_enter_alert_msg">Yalnızca Dolby Müzik Modunda Ekolayzer kullanabilirsiniz. Şimdi aktifleştirilsin mi?</string>
+  <string name="music_dolby_eq_enter_alert_msg">Yalnızca Dolby Müzik Modunda Ekolayzer kullanabilirsiniz. Şimdi etkinleştirilsin mi?</string>
   <string name="music_dolby_eq_enter_alert_title">Dolby Müziği aç</string>
   <string name="music_dolby_ieq_flat">Kapat</string>
   <string name="music_dolby_ieq_focused">Odaklı</string>
@@ -5467,6 +5468,9 @@ Bu cihazda kayıtlı parmakizleri kaldırılacak ve telefon kilidi açılmayacak
 
 Kaydettiğiniz parmakizleri de bu profilden kaldırılacak ve profilinizin kilidini açamaz, satın alma yetkisi veremez veya onlarla birlikte uygulamalarda oturum açamazsınız."</string>
   <string name="unlock_disable_frp_warning_content_pin_profile">Profil koruma özellikleri PIN olmadan çalışmaz.</string>
+  <string name="unlock_disable_frp_warning_content_profile">"Profil koruma özellikleri şifreniz olmadan çalışmaz.
+
+ Profilinizin kilidini açamaz, satın alma yetkisi veremez veya onlarla birlikte uygulamalarda oturum açamazsınız."</string>
   <string name="unlock_disable_frp_warning_content_unknown">Cihaz koruma özelliği ekran kilidi olmaksızın çalışmaz.</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Cihaz koruma özelliği ekran kilidi olmaksızın çalışmaz.
 
@@ -5503,6 +5507,7 @@ Kaydettiğiniz parmakizleri de bu profilden kaldırılacak ve profilinizin kilid
   <string name="unlock_set_unlock_none_title">Yok</string>
   <string name="unlock_set_unlock_off_summary"/>
   <string name="unlock_set_unlock_off_title">Yok</string>
+  <string name="unlock_set_unlock_password_none">Yok</string>
   <string name="unlock_set_unlock_password_summary">Kilidi açmak için dört veya daha fazla harfli, rakamlı şifre belirleyin</string>
   <string name="unlock_set_unlock_password_title">Şifre</string>
   <string name="unlock_set_unlock_pattern_summary">Kilidi açmak için parmağınızla basit bir desen çizin</string>
