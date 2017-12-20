@@ -64,7 +64,7 @@
     </string-array>
     <string-array name="express_status_all">
         <item>Yolda</item>
-        <item>Sevkiyatta</item>
+        <item>Gönderildi</item>
         <item>Teslim edildi</item>
         <item>Bilinmiyor</item>
         <item>Alındı</item>
