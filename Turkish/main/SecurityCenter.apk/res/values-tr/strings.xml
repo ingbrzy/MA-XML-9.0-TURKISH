@@ -2480,6 +2480,7 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="st_filter_keywords_setting_summary1">Bu listede bulunan kelimeleri içeren; bilinmeyen numaralardan gelen mesajlar engellenecektir.</string>
   <string name="st_filter_keywords_setting_summary2">"
 (Birden çok anahtar kelimeyi ayırmak için virgül kullanın)"</string>
+  <string name="st_filter_keywords_setting_summary3">Bu listede bulunan kelimeleri içeren bilinmeyen numaralardan gelen mesajlara izin verilecek.</string>
   <string name="st_filter_keywords_setting_title">Anahtar kelime filtresini yapılandır</string>
   <string name="st_filter_sms_button">Mesajları filtrele</string>
   <string name="st_group_list_management">Liste Yönetimi</string>
@@ -2494,7 +2495,9 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="st_mute_title">"Zil çalmasın ve titremesin"</string>
   <string name="st_other_setting_group">Diğer Ayarlar</string>
   <string name="st_msg_intercept_contacts">Kişilerden Gelen Mesajları Önle</string>
-  <string name="st_msg_keyword_group">Engelleme Kelimeleri</string>
+  <string name="st_msg_keyword_black">Engellenecek Kelimeler</string>
+  <string name="st_msg_keyword_group">Kelimeler</string>
+  <string name="st_msg_keyword_white">Anahtar Kelime İstisnaları</string>
   <string name="st_msg_other_group">Diğer</string>
   <string name="st_msg_settings">Mesajlari Önle</string>
   <string name="st_msg_stranger_group">Yabancılardan Gelen Mesajlar</string>
@@ -2531,7 +2534,8 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="st_title_call_wait_setting">Çağrı beklemede</string>
   <string name="st_title_editblacklist">Engelleme listesini düzenle</string>
   <string name="st_title_editwhitelist">İstisnaları düzenle</string>
-  <string name="st_title_keywords_blacklist">Filtre Kelimeleri</string>
+  <string name="st_title_keywords_blacklist">Kelime Kara Listesi</string>
+  <string name="st_title_keywords_whitelist">Kelime Beyaz Listesi</string>
   <string name="st_title_man_addblacklist">Engelleme listesine numara ekle</string>
   <string name="st_title_man_addwhitelist">İstisnalara telefon numarası ekle</string>
   <string name="st_title_man_editblacklist">Engellemeye eklemek için bir alan kodu seçin</string>
