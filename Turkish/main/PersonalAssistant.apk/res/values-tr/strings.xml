@@ -174,14 +174,10 @@
   <string name="alipay_msp_bl_bt_shutdown">蓝牙未开启，无法使用智能免密功能</string>
   <string name="alipay_msp_bl_timeout">蓝牙连接异常，无法使用智能设备免密支付</string>
   <string name="alipay_msp_bl_verify_error">智能设备校验失败，请使用支付密码进行支付</string>
-  <string name="alipay_msp_image_loader_view_tag">alipay_msp_image_loader_view_tag</string>
-  <string name="alipay_msp_tag_view_holder">alipay_msp_tag_view_holder</string>
-  <string name="alipay_msp_view_wrapper">alipay_msp_view_wrapper</string>
   <string name="alipay_net_error">不能连接到服务器，是否重试？</string>
   <string name="alipay_newUserRegister">新用户注册</string>
   <string name="alipay_password">密码</string>
   <string name="alipay_password_login">密码登录</string>
-  <string name="alipay_phoneNumber">+86</string>
   <string name="alipay_pre_router_alipay_account">用已登录支付宝账号</string>
   <string name="alipay_pre_router_cancel">取消</string>
   <string name="alipay_pre_router_has_auth_account">用已授权账号</string>
@@ -745,7 +741,6 @@ Check takip edilemiyor."</string>
   <string name="flybird_no_pwd_check_item">系统自动选择</string>
   <string name="flybird_nopwd_check_label">小额免密支付</string>
   <string name="flybird_nopwd_label">免密支付</string>
-  <string name="flybird_nopwd_value_label">免密金额</string>
   <string name="flybird_save_setting">保存当前设置</string>
   <string name="flybird_save_setting_label">请输入支付密码,验证身份信息</string>
   <string name="flybird_save_setting_title">请输入支付密码</string>
@@ -843,15 +838,12 @@ Check takip edilemiyor."</string>
   <string name="hour24_format_en">HH:mm</string>
   <string name="http_stock_error">"Couldn't load info"</string>
   <string name="immediate_recommendation">Tavsiyeler</string>
-  <string name="info_divider">|</string>
   <string name="item_type_custom">Özelleştir</string>
   <string name="item_type_suggestion">Teklifler</string>
   <string name="just_now">Şimdi</string>
   <string name="kakalib_bar_qr_code">条形码·二维码</string>
   <string name="kakalib_ok">确定</string>
   <string name="keyboard_alipay">支付宝安全键盘</string>
-  <string name="keyboard_more_abc">\#+=</string>
-  <string name="keyboard_more_num">123</string>
   <string name="keyboard_ok">完成</string>
   <string name="keyboard_space">空格</string>
   <string name="keyword_recommend">推荐您</string>
@@ -1046,11 +1038,7 @@ Check takip edilemiyor."</string>
   <string name="msp_memo_user_cancel">操作已经取消。</string>
   <string name="msp_mini_card_type_text">卡类型</string>
   <string name="msp_mini_choose_identitify">选择证件类别</string>
-  <string name="msp_mini_layout">mini_layout</string>
-  <string name="msp_mini_layout_parent">mini_layout_parent</string>
-  <string name="msp_mini_linblocksconpent">mini_linBlocksConpent</string>
   <string name="msp_mini_read_protocal_title">选择阅读协议</string>
-  <string name="msp_mini_root">mini_root</string>
   <string name="msp_mini_safty_code_info">安全码是打印在信用卡背面签名区的一组数字，一般是后3位数字</string>
   <string name="msp_mini_safty_code_title">安全码说明</string>
   <string name="msp_phone_num_info">"银行预留的手机号是办理该银行卡时所填写的手机号码。
@@ -1202,7 +1190,6 @@ Check takip edilemiyor."</string>
   <string name="paycode_sdk_parent">Ödeme Kısayolu</string>
   <string name="paycode_sdk_parent_title">Hızlı Öde</string>
   <string name="payment">Ödemelerim</string>
-  <string name="payment_amount_empty">0.00</string>
   <string name="payment_app_name">Ödemelerim</string>
   <string name="payment_card_title">Ödemelerim</string>
   <string name="payment_clear_records_dialog_message">Tüm ödeme geçmişi kayıtları silinsin mi?</string>
@@ -1271,7 +1258,6 @@ Check takip edilemiyor."</string>
   <string name="payment_upload_data_success">Veri başarıyla yüklendi</string>
   <string name="payment_user_notice_bar_text">\"Ödemelerim\" Hakkında</string>
   <string name="personalAssistant_mainpage">Ana Sayfa</string>
-  <string name="personalAssistant_path">com.miui.home.launcher.assistant</string>
   <string name="pie_chart_label_atm">ATM para çekme işlemleri:</string>
   <string name="pie_chart_label_catering">Gıda:</string>
   <string name="pie_chart_label_education">Eğitim:</string>
@@ -1456,7 +1442,6 @@ Check takip edilemiyor."</string>
   <string name="steps_vip_des">Üçüncü taraf uygulamaları yüklemeden adımları sayın.</string>
   <string name="stock_card_add">Şirket ekle</string>
   <string name="stock_card_title">Hisse Senetleri</string>
-  <string name="stock_change_rate_format">%%%.2f</string>
   <string name="stock_color_schema">Renk Şeması</string>
   <string name="stock_list_empty_text">"Hiçbir şirketi takip etmiyorsun."</string>
   <string name="stock_search_empty">"Sonuç bulunamadı."</string>
@@ -1471,7 +1456,6 @@ Check takip edilemiyor."</string>
   <string name="system_favorite_dialog_negative">İptal et</string>
   <string name="system_favorite_dialog_positive">İzin ver</string>
   <string name="system_favorite_dialog_title_confirm">Favoriler</string>
-  <string name="tag_view_nav">tag_view_nav</string>
   <string name="take_off">Havalandı</string>
   <string name="taobao_auth_login">淘宝用户快速登录</string>
   <string name="taobao_protocol">淘宝服务协议</string>
