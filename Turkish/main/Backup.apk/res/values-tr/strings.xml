@@ -467,8 +467,8 @@ WLAN Paylaşımı\'nı kapatmayın.
 Dosyaları yeniden seçin veya %s kadar boş alan oluşturun"</string>
   <string name="trans_select_data_tips">"Aktarmak için dosyaları seçin
 Benzer dosyalar, Alıcı cihazınızın üstüne yazılır"</string>
-  <string name="trans_select_data_too_large">"数据量过大，会导致换机时间较长
-建议只迁移对自己重要的数据"</string>
+  <string name="trans_select_data_too_large">"Aktarmak için çok fazla öğe seçtiniz.
+Aktarımı daha hızlı yapmak için yalnızca önemli öğeleri seçin."</string>
   <string name="trans_select_device_receive">Veri almak için tek bir cihaz seçin.</string>
   <string name="trans_select_device_send">Veri aktarmak için tek bir cihaz seçin.</string>
   <string name="trans_sender">"Göndericiyim"</string>
