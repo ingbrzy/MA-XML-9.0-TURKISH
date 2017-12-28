@@ -563,7 +563,7 @@ Bir cihazı diğer cihaza dokundurarak (genellikle sırt sırta), istenilen uygu
   <string name="battery_info_label">Pil Bilgileri</string>
   <string name="battery_info_level_label">Pil Seviyesi:</string>
   <string name="battery_info_power_ac">AC</string>
-  <string name="battery_info_power_ac_usb">AC+USB</string>
+  <string name="battery_info_power_ac_usb">ACUSB</string>
   <string name="battery_info_power_label">Elektrik Fişi:</string>
   <string name="battery_info_power_unknown">Bilinmiyor</string>
   <string name="battery_info_power_unplugged">Prize takılı değil</string>
@@ -1060,6 +1060,7 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="clear_uri_btn_text">Erişimi temizle</string>
   <string name="clear_user_data_text">Veriyi Temizle</string>
   <string name="close_app">Geçerli uygulamayı kapat</string>
+  <string name="close_demo_mode">İptal et</string>
   <string name="close_dialog">Tamam</string>
   <string name="close_gesture">Kullanılan büyütmeyi kapat</string>
   <string name="close_install_and_connect">Hayır, teşekkürler</string>
@@ -2225,9 +2226,9 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="keep_screen_on">Uyanık Kalsın</string>
   <string name="keep_screen_on_summary">Şarj ederken ekranı asla uykuya geçirme</string>
   <string name="kernel_version">Kernel Sürümü</string>
-  <string name="key_combination_power_back">Güç + Geri</string>
-  <string name="key_combination_power_home">Güç + Ana Ekran</string>
-  <string name="key_combination_power_menu">Güç + Menü</string>
+  <string name="key_combination_power_back">Güç  Geri</string>
+  <string name="key_combination_power_home">Güç  Ana Ekran</string>
+  <string name="key_combination_power_menu">Güç  Menü</string>
   <string name="key_gesture_function_dialog_message">%1$s, %2$s kısayoludur. %3$s ile değiştirilsin mi?</string>
   <string name="key_gesture_function_dialog_negative">İptal</string>
   <string name="key_gesture_function_dialog_positive">Değiştir</string>
@@ -3010,11 +3011,29 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="music_title_dolby_control">Dolby® Digital Plus</string>
   <string name="music_unsupport_effect_summary">Desteklenmeyen USB Kulaklık</string>
   <string name="musicfx_title">Müzik Efekleri</string>
+  <string name="mute_music_stream">Müzik yayınını sessize al</string>
   <string name="mvno_match_data">MVNO Değeri</string>
   <string name="mvno_type">MVNO Türü</string>
   <string name="my_device">Cihazım</string>
   <string name="my_device_disclaimer">Not: İşlemci, pil kapasitesi, ekran boyutu ile çözünürlüğü ve kamera gibi donanım bilgileri, Xiaomi laboratuarları, tasarımcılar ve tedarikçiler tarafından sağlanır.</string>
   <string name="n_cacrts">%d CA sertifikaları</string>
+  <string name="navigation_guide_back_anim_summary">Animasyonlu hareketi göster</string>
+  <string name="navigation_guide_back_anim_title">Animasyonlu Hareket</string>
+  <string name="navigation_guide_back_summary">Ekranın solundan veya sağından kaydırın</string>
+  <string name="navigation_guide_back_title">Son Sayfaya Git</string>
+  <string name="navigation_guide_dialog_dont_show_again">"Yeniden göster"</string>
+  <string name="navigation_guide_dialog_ok">Öğren</string>
+  <string name="navigation_guide_dialog_skip">Atla</string>
+  <string name="navigation_guide_dialog_summary">Sanal anahtar yerine hareket kullanın.</string>
+  <string name="navigation_guide_dialog_title">Hareketi öğren</string>
+  <string name="navigation_guide_home_summary">Ekranın altından yukarı doğru hızlıca kaydırın</string>
+  <string name="navigation_guide_home_title">Ana Sayfaya Dön</string>
+  <string name="navigation_guide_recent_summary">Ekranın altından hızlıca kaydırın ve duraklatın</string>
+  <string name="navigation_guide_recent_title">Sık Kullanılanlara Geç</string>
+  <string name="navigation_guide_settings">Dersler</string>
+  <string name="navigation_type_radio_text_full_screen">Tam Ekran Hareketi</string>
+  <string name="navigation_type_radio_text_virtual_key">Klasik Gezinti Çubuğu</string>
+  <string name="navigation_type_settings">Sistem Gezinti Yolu</string>
   <string name="nearby_wifi">Mevcut Ağlar</string>
   <string name="need_reboot_now">Güncelleştirmeyi yüklemek için yeniden başlatın.</string>
   <string name="netcheck_title">Ağ Teşhisi</string>
@@ -3224,6 +3243,8 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="only_one_home_message">Başka bir Ana Sayfa uygulaması yüklenene kadar Ana Sayfa ayarları gizli olacak.</string>
   <string name="only_when_charging">Sadece şarj esnasında</string>
   <string name="onscreen_keyboard_settings_summary">Ekran Klavyesinin Ayarları</string>
+  <string name="open_demo_mode">Aç</string>
+  <string name="open_demo_mode_warning_message">Demo Modu açık olduğunda, durum çubuğundaki saat duracak, pil ve sinyal simgeleri dolu olarak görüntülenecektir. Bunu değiştirmek için Demo Modunu kapatabilir veya cihazı yeniden başlatabilirsiniz.</string>
   <string name="open_anr_debug">ANR hata ayıklama açık</string>
   <string name="open_miui_optimization_title">"'MIUI\'i iyi hale getir' açık"</string>
   <string name="open_miui_optimization_warning_message">Cihazınız bu değişikliği uygulamak için yeniden başlayacak</string>
@@ -4822,7 +4843,7 @@ Güvenli kimlik doğrulamasının bu cihazda yüklü olduğundan emin olun."</st
   <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Kilit Ekran, Bildirim</string>
   <string name="status_bar_app_enable_on_notificationBar">Göster</string>
   <string name="status_bar_key_position_custom">Tuş Pozisyonlarını Değiştir</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="status_bar_notification_info_overflow">999</string>
   <string name="status_bar_screen_button_force_immersive_desc">Ekran Tuşlarını görebilmek için ekranın altından yukarı doğru kaydırın</string>
   <string name="status_bar_screen_button_desc">Ekran Tuşlarını gizlemek için aşağı kaydırın</string>
   <string name="status_bar_screen_button_key">Ekran Tuşları</string>
@@ -5671,7 +5692,7 @@ Herhangi bir kullanıcı, diğer tüm kullanıcılar için uygulamaları güncel
   <string name="user_dict_settings_context_menu_edit_title">Düzenle</string>
   <string name="user_dict_settings_edit_dialog_title">Kelimeyi düzenle</string>
   <string name="user_dict_settings_empty_text">"Herhangi bir sözlük yok
-Ekle butonunu (+) kullanarak kelime ekleyin."</string>
+Ekle butonunu () kullanarak kelime ekleyin."</string>
   <string name="user_dict_settings_more_languages">Diğer Diller…</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Sözlüğüm</string>
