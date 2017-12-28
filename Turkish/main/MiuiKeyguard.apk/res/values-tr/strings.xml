@@ -23,6 +23,8 @@
   <string name="face_data_input_msg">Yüzünüzü çerçeve içine yerleştirin</string>
   <string name="face_data_input_ok">Tamam</string>
   <string name="face_data_input_ok_msg">Ekranı açmak için yüz verinizi kullanın.</string>
+  <string name="face_data_input_ok_msg_angle">"Ekran açıkken cihazı yüzünüzle açın.
+(Gereken tüm açılarla birlikte yüz verilerinizi kaydedin.)​"</string>
   <string name="face_data_input_ok_title">Başarıyla eklendi</string>
   <string name="face_data_input_title">Yüz verisi ekle</string>
   <string name="face_data_introduction_msg">Yüz verisi cihaz kilidini açmak veya kimliği doğrulamak için kullanılır. Kilit Ekran şifresinden önce yüz verisini ekleyin.</string>
@@ -34,7 +36,9 @@
   <string name="face_data_manage_delete_title">Yüz Verisi</string>
   <string name="face_data_manage_unlock_msg">Yüz verisi kullanarak cihazın kilidini aç</string>
   <string name="face_data_manage_unlock_title">Yüz verisi kullanarak cihazın kilidini aç</string>
-  <string name="face_data_suggesstion_first">Yüz verisini kullanarak kilidi açmak; şifreyi girmekten daha güvenli değildir. Cihazın size benzeyenler tarafından açılabileceğini unutmayın.</string>
+  <string name="face_data_siggesstion_next">İleri</string>
+  <string name="face_data_siggesstion_next_time">İleri(%ds)</string>
+  <string name="face_data_suggesstion_first">Güvenlik Sorunları: Yüzle kilit açma, bir PIN, şifre veya desen daha az güvenlidir. Cihazınız, fotoğrafınızla birlikte kişilerin veya benzer görünümlü nesnelerin kilidini açmış olabilir.</string>
   <string name="face_data_suggesstion_second">"Yüzünüzün herhangi bir obje ile kapalı olmadığından ve görünümün güzel olmasından emin olun. Yüzünüz doğal halinde olmalı."</string>
   <string name="face_unlock_adjust_distance">Yüzünüz ile ekran arasında ideal bir mesafe olmalı.</string>
   <string name="face_unlock_be_on_the_screen">Cihazın ön kamerasını yüzünüze tutun</string>
@@ -53,6 +57,8 @@
   <string name="face_unlock_passwork">Şifre kullan</string>
   <string name="face_unlock_passwork_and_fingerprint">Şifre veya yüz verisi kullan</string>
   <string name="face_unlock_quality">"Yüzünüzü net olarak göremedi"</string>
+  <string name="face_unlock_reenter_content">Yüz kilidini açma algoritması güncelleniyor. Yüz bilgilerini tekrar kaydetmek için dokunun.</string>
+  <string name="face_unlock_reenter_title">Yüz verilerinizi tekrar kaydedin.</string>
   <string name="face_unlock_reveal_eye">Gözleriniz göründüğünden emin olun</string>
   <string name="face_unlock_reveal_mouth">Dudaklarınız gördüğünden emin olun</string>
   <string name="face_unlock_rise">Kafanızı aşağı eğin</string>
