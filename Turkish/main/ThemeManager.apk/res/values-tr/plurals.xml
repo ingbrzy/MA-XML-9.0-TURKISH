@@ -8,4 +8,8 @@
         <item quantity="other">%1$d tema için güncelleme var.</item>
         <item quantity="one">%1$d tema için güncelleme var.</item>
     </plurals>
+	<plurals name="theme_update_local_resource_notifaction">
+        <item quantity="other">%1$d temanın güncellemesi var</item>
+        <item quantity="one">%1$d temanın güncellemesi var</item>
+    </plurals>
 </resources>
