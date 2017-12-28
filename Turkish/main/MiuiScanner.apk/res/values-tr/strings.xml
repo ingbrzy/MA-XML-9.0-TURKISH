@@ -206,8 +206,8 @@
   <string name="web">Website:</string>
   <string name="website_details">Website:</string>
   <string name="weixin_code_tip">Lütfen WeChat için QR kodu kodunu tarayın</string>
-  <string name="wifi_details">WLAN:</string>
-  <string name="wifi_open_fail">"WLAN açılamadı"</string>
+  <string name="wifi_details">Wi-Fi::</string>
+  <string name="wifi_open_fail">"Wi-Fi açılamadı"</string>
   <string name="wifi_pwd">Şifre:</string>
   <string name="wifi_security">Güvenlik:</string>
   <string name="wifi_ssid">SSID:</string>
