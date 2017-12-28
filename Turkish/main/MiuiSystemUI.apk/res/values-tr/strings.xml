@@ -202,6 +202,7 @@
   <string name="chooseUsbActivity">USB cihazı için uygulama seçin</string>
   <string name="choose_profile">Profil seç</string>
   <string name="clear_adb_keys">USB Hata Ayıklama yetkilerini iptal et</string>
+  <string name="click_expand">Genişletmek için dokunun</string>
   <string name="click_to_return_multi_window">Bölünmüş ekrana dönmek için dokunun</string>
   <string name="config_systemUIFactoryComponent">com.android.systemui.SystemUIFactory</string>
   <string name="confirm_enable_oem_unlock_text">UYARI: Bu ayar açıkken, cihaz koruma özellikleri bu cihazda çalışmaz.</string>
@@ -315,6 +316,19 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="force_resizable_activities_summary">Manifest değerler ne olursa olsun, tüm faaliyetleri çoklu pencere için yeniden boyutlandırılabilir yapın.</string>
   <string name="force_rtl_layout_all_locales">RTL düzen yönüne zorla</string>
   <string name="force_rtl_layout_all_locales_summary">"Ekran yerleşim yönünü tüm yerel ayarlar için RTL'ye zorla"</string>
+  <string name="fs_gesture_back_home_summary">Alttan hızlıca kaydırın</string>
+  <string name="fs_gesture_back_ready_title">Son sayfaya nasıl gidilir?</string>
+  <string name="fs_gesture_final_over">Tamam</string>
+  <string name="fs_gesture_final_restart">Tekrar çalıştır</string>
+  <string name="fs_gesture_final_summary">[Ayarlar-Tam Ekran] içinden ayarlayabilirsiniz</string>
+  <string name="fs_gesture_final_title">Çalışmayı bitir</string>
+  <string name="fs_gesture_finish">Güzel!</string>
+  <string name="fs_gesture_left_back_ready_summary">Ekranın solundan hızlıca kaydır</string>
+  <string name="fs_gesture_right_back_ready_summary">Ekranın sağından hızlıca kaydır</string>
+  <string name="fs_gesture_skip">Geri</string>
+  <string name="fs_gesture_switch_recents_summary">Alttan kaydırın ve bir saniye bekleyin.</string>
+  <string name="fsg_demo_back">Geri</string>
+  <string name="fsg_demo_go_on">Devam et</string>
   <string name="gps_notification_found_text">GPS ile konumu belirle</string>
   <string name="gps_notification_searching_text">GPS uyduları aranıyor.</string>
   <string name="hdcp_checking_dialog_title">HDCP kontrol davranışını ayarla</string>
@@ -322,7 +336,10 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="help_feedback_label">Yardım &amp; Geribildirim</string>
   <string name="home">Ayarlar Ana Sayfası</string>
   <string name="hour_minute_time_format">HH:mm</string>
-  <string name="immediately_destroy_activities">Faaliyetleri saklama</string>
+  <string name="how_to_back_home">Ana Ekrana nasıl dönerim?</string>
+  <string name="how_to_switch_recents">Son kullanılanlara nasıl geçerim?</string>
+  <string name="how_to_use_fsg">Tam ekran hareketi nasıl kullanılır?</string>
+  <string name="immediately_destroy_activities">Faaliyetleri saklama!</string>
   <string name="immediately_destroy_activities_summary">Kullanıcı ayrılır ayrılmaz tüm faaliyetler kaldırılır</string>
   <string name="important_desc">Tüm önemli bildirimler, Bildirim Alanında direkt olarak gösterilir.</string>
   <string name="inactive_app_active_summary">Aktif. Geçiş yapmak için hafifçe dokunun.</string>
@@ -384,6 +401,8 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="no_notification_tips">Bildirim yok.</string>
   <string name="no_weather_description">Hava Durumu bilgisini al &gt;</string>
   <string name="not_support_multi_window">"Mevcut uygulama çoklu pencereyi desteklemez"</string>
+  <string name="notification_group_overflow_indicator">+%s</string>
+  <string name="notification_group_title_text">%1$s(%2$s)</string>
   <string name="notification_header_title">Bildirimler</string>
   <string name="notification_hidden_text">Yeni bir bildirim var</string>
   <string name="notification_low_battery_action_btn">Aç</string>
@@ -491,6 +510,7 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="screenshot_dlg_delete_button">Sil</string>
   <string name="screenshot_edit">Düzenle</string>
   <string name="screenshot_failed_text">"Kısıtlı olmasından dolayı depolama alanı ekran görüntüsünü alamıyor veya buna uygulama izin vermiyor olabilir."</string>
+  <string name="screenshot_feedback_txt">Geribildirim</string>
   <string name="screenshot_insert_failed">"Ekran görüntüsü yüklenemiyor. Yeni bir tane çekin veya Galeri içinden görüntüleyin."</string>
   <string name="screenshot_long_screenshot">Genişlet</string>
   <string name="screenshot_saved_text">Ekran görüntüsünü görmek için hafifçe dokunun.</string>
@@ -499,6 +519,7 @@ Daima orjinal aksesuar kullanın."</string>
   <string name="screenshot_saving_ticker">Ekran görüntüsü kaydediliyor...</string>
   <string name="screenshot_saving_title">Ekran görüntüsü kaydediliyor...</string>
   <string name="screenshot_send">Gönder</string>
+  <string name="screenshot_toalbum_txt">Önizle</string>
   <string name="search_hint">Siteleri, uygulamaları, kişileri ve videoları ara...</string>
   <string name="select_application">Uygulamayı seç</string>
   <string name="select_logd_size_dialog_title">Günlük tamponun her boyutunu seç</string>
