@@ -27,6 +27,7 @@
   <string name="acessibility_recurrence_choose_end_date_description">Bitiş tarihini değiştir</string>
   <string name="acessibility_selected_marker_description">Seçili faaliyet</string>
   <string name="action_bar_more_menu_view_description">Diğer</string>
+  <string name="action_bar_return">Geri</string>
   <string name="acessibility_snooze_notification">Bildirimi ertele</string>
   <string name="action_label">Geri</string>
   <string name="action_text_card_manager">Bir kanala abone ol</string>
@@ -51,7 +52,7 @@
   <string name="add_topic_success">\"%s\" başarıyla eklendi</string>
   <string name="add_topic_unsuccess">\"%s\" abone olunamadı</string>
   <string name="adding_calendar">Aboneliklerim</string>
-  <string name="agenda_month_empty_hint">Bugün herhangi bir faaliyet yok</string>
+  <string name="agenda_month_empty_hint">Bugün hiç bir faaliyet yok</string>
   <string name="agenda_today">BUGÜN, %1$s</string>
   <string name="agenda_tomorrow">YARIN, %1$s</string>
   <string name="agenda_view">Faaliyetler</string>
@@ -179,6 +180,7 @@
   <string name="date_calculate_days">Gün sayısını girin</string>
   <string name="date_calculate_description">Tarihe göre önceki veya sonraki zamanı hesaplayın</string>
   <string name="date_calculate_direction">Yön</string>
+  <string name="date_calculate_direction_content_description">Mevcut Yön: %1s.</string>
   <string name="date_calculate_result">Sonuç</string>
   <string name="date_calculate_tab">Tarihi Hesapla</string>
   <string name="date_calculate_today">0 gün</string>
@@ -193,7 +195,7 @@
   <string name="date_pattern_yyyy_mm_dd_kk_mm">dd MM yyy HH:mm</string>
   <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="date_today">" (bugün)"</string>
-  <string name="day_view_new_event_hint">+ Yeni Faaliyet</string>
+  <string name="day_view_new_event_hint"> Yeni Faaliyet</string>
   <string name="default_reminder_mode">Hatırlatıcılar</string>
   <string name="delete_calendar">İptal</string>
   <string name="delete_label">Sil</string>
@@ -403,7 +405,7 @@
   <string name="limit_tomorrow">明天</string>
   <string name="live_text">Canlı</string>
   <string name="living_text">Havada</string>
-  <string name="load_more_hint">Faaliyeti %1$d Zamanda Uygula</string>
+  <string name="load_more_hint">Faaliyeti %1$d zamanda yükle</string>
   <string name="loading">Biraz bekleyin...</string>
   <string name="local_calendar_display_name">Yerel takvim</string>
   <string name="local_owner_account_name">Bu cihazda sakla</string>
@@ -424,7 +426,24 @@
   <string name="menu_select_visible_calendars">Görüntülenecek Takvimler</string>
   <string name="minute_picker_description">Dakika dairesel slayt olarak</string>
   <string name="missing_name">(İsimsiz)</string>
-  <string name="missing_required_permission">İstenilen izini devre dışı bıraktınız.</string>
+  <string name="missing_required_permission">Gerekli izinleri kısıtladınız.</string>
+  <string name="miuishare_account_activate_confirmation">Mi Hesabını Etkinleştir</string>
+  <string name="miuishare_account_activate_ok">Etkinleştir</string>
+  <string name="miuishare_account_login_cancel">İptal et</string>
+  <string name="miuishare_account_login_confirmation">Mi Hesabında Oturum Açın</string>
+  <string name="miuishare_account_login_ok">Oturum Aç</string>
+  <string name="miuishare_account_need_activate">"Weibo'ya paylaşmak, Mi Hesabınızla ilişkili Weibo hesabını gerektirir. Devam etmek için Mi Hesabınızı etkinleştirin."</string>
+  <string name="miuishare_account_need_login">"Weibo'ya paylaşmak, Mi Hesabınızla ilişkili Weibo hesabını gerektirir. Devam etmek için Mi Hesabınızda oturum açın."</string>
+  <string name="miuishare_app_name">MIUI Paylaşımı</string>
+  <string name="miuishare_no_network">"Ağa bağlanılamadı."</string>
+  <string name="miuishare_publish">Gönder</string>
+  <string name="miuishare_qzone_title">Qzone</string>
+  <string name="miuishare_share_done">Başarıyla paylaştırıldı</string>
+  <string name="miuishare_share_editor_title">Paylaş</string>
+  <string name="miuishare_title_more">Diğer</string>
+  <string name="miuishare_title_share">Paylaş</string>
+  <string name="miuishare_wechat_timeline_title">WeChat Anları</string>
+  <string name="miuishare_weibo_title">Weibo</string>
   <string name="miui_chinese_week_range_double"/>
   <string name="miui_chinese_week_range_single"/>
   <string name="miui_menu_create_event">Yeni</string>
@@ -448,7 +467,7 @@
   <string name="monthly_on_day">Aylık (aynı tarih)</string>
   <string name="monthly_on_day_count">Aylık (her ay %1$s %2$s )</string>
   <string name="more_match">Diğer Faaliyetler</string>
-  <string name="more_string">+%1$s</string>
+  <string name="more_string">%1$s</string>
   <string name="movable_list_header_label">Kısa Tanıtım</string>
   <string name="my_subscribe_events">Aboneliklerim</string>
   <string name="network_not_available">"Ağa bağlanamıyor"</string>
@@ -555,7 +574,7 @@
   <string name="recurrence_end_date_label">Tarihe kadar</string>
   <string name="recurrence_month_pattern_by_day">Aylık aynı gün</string>
   <string name="refresh">Yenile</string>
-  <string name="refreshing_hint">Yenileniyor</string>
+  <string name="refreshing_hint">Biraz bekleyin...</string>
   <string name="reminders_label">Hatırlatıcı ekle</string>
   <string name="repeat_activity_label">Tekrarla</string>
   <string name="repeat_custom_activity_label">Özel</string>
@@ -635,6 +654,7 @@
   <string name="setting_title_recommend_card_display">Tavsiye edilen abonelik içeriklerini göster</string>
   <string name="setting_title_yiji_display">显示黄历宜忌</string>
   <string name="setting_toast_dump_mylog_done">生成成功,您的日志在文件管理器\"手机/MIUI/debug_log/com.android.calendar/dump\"文件夹下</string>
+  <string name="share_title">Paylaş</string>
   <string name="setting_wifi_mode">Büyük resimleri WLAN ile eşitle</string>
   <string name="settings_calendar">Takvim</string>
   <string name="show_controls">Kontrolleri göster</string>
@@ -690,6 +710,7 @@ Abonelikten sonra istediğiniz hatırlatıcıyı ekleyebilirsiniz, iyi vakit ge�
   <string name="tab_online">Çevrimiçi</string>
   <string name="taishen">"Allah'ın Kulu"</string>
   <string name="tardis">TARDIS</string>
+  <string name="talk_back_read_date">Mevcut Tarih: %1$s (%2$s ay takvime göre).</string>
   <string name="template_announce_item_index">Etkinlik: %1$s / %2$s.</string>
   <string name="template_week_num">Hafta: %1$s</string>
   <string name="text_year">Yıl</string>
