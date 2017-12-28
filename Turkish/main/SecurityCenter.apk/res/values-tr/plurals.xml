@@ -32,6 +32,14 @@
         <item quantity="other">%d uygulama</item>
         <item quantity="one">%d uygulama</item>
     </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d uygulamaları ağa arkaplanda bağlanabilir</item>
+        <item quantity="one">%d uygulaması ağa arkaplanda bağlanabilir</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">"%d uygulamaları arkaplanda ağa bağlanamıyor"</item>
+        <item quantity="one">"%d uygulaması arkaplanda ağa bağlanamıyor"</item>
+    </plurals>
     <plurals name="daily_sim_over_limit_notify_title">
         <item quantity="other">"Zaten %s günlük veri sınırlarını kullandınız."</item>
         <item quantity="one">"Zaten %s günlük veri sınırını kullandınız."</item>
@@ -79,6 +87,10 @@ Mobil verileri yeniden açarsanız, operatörünüz ek veriler için ücret iste
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">%d uygulama bulundu</item>
         <item quantity="one">%d uygulama bulundu</item>
+    </plurals>
+    <plurals name="network_restrict_count">
+        <item quantity="other">"Ağ erişimi &lt;font color='#ff0000'>%d:&lt;/font> uygulamaları için kısıtlanmıştır"</item>
+        <item quantity="one">"Ağ erişimi &lt;font color='#ff0000'>%d&lt;/font> uygulaması için kısıtlanmıştır"</item>
     </plurals>
     <plurals name="om_ill_proc_multi_app_title">
         <item quantity="other">"%d uygulama düzgün çalışmıyor ve pili boşaltıyor"</item>
