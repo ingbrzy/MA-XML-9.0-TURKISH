@@ -563,7 +563,7 @@ Bir cihazı diğer cihaza dokundurarak (genellikle sırt sırta), istenilen uygu
   <string name="battery_info_label">Pil Bilgileri</string>
   <string name="battery_info_level_label">Pil Seviyesi:</string>
   <string name="battery_info_power_ac">AC</string>
-  <string name="battery_info_power_ac_usb">ACUSB</string>
+  <string name="battery_info_power_ac_usb">AC+USB</string>
   <string name="battery_info_power_label">Elektrik Fişi:</string>
   <string name="battery_info_power_unknown">Bilinmiyor</string>
   <string name="battery_info_power_unplugged">Prize takılı değil</string>
@@ -2226,9 +2226,9 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="keep_screen_on">Uyanık Kalsın</string>
   <string name="keep_screen_on_summary">Şarj ederken ekranı asla uykuya geçirme</string>
   <string name="kernel_version">Kernel Sürümü</string>
-  <string name="key_combination_power_back">Güç  Geri</string>
-  <string name="key_combination_power_home">Güç  Ana Ekran</string>
-  <string name="key_combination_power_menu">Güç  Menü</string>
+  <string name="key_combination_power_back">Güç + Geri</string>
+  <string name="key_combination_power_home">Güç + Ana Ekran</string>
+  <string name="key_combination_power_menu">Güç + Menü</string>
   <string name="key_gesture_function_dialog_message">%1$s, %2$s kısayoludur. %3$s ile değiştirilsin mi?</string>
   <string name="key_gesture_function_dialog_negative">İptal</string>
   <string name="key_gesture_function_dialog_positive">Değiştir</string>
@@ -4843,7 +4843,7 @@ Güvenli kimlik doğrulamasının bu cihazda yüklü olduğundan emin olun."</st
   <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Kilit Ekran, Bildirim</string>
   <string name="status_bar_app_enable_on_notificationBar">Göster</string>
   <string name="status_bar_key_position_custom">Tuş Pozisyonlarını Değiştir</string>
-  <string name="status_bar_notification_info_overflow">999</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_screen_button_force_immersive_desc">Ekran Tuşlarını görebilmek için ekranın altından yukarı doğru kaydırın</string>
   <string name="status_bar_screen_button_desc">Ekran Tuşlarını gizlemek için aşağı kaydırın</string>
   <string name="status_bar_screen_button_key">Ekran Tuşları</string>
@@ -5692,7 +5692,7 @@ Herhangi bir kullanıcı, diğer tüm kullanıcılar için uygulamaları güncel
   <string name="user_dict_settings_context_menu_edit_title">Düzenle</string>
   <string name="user_dict_settings_edit_dialog_title">Kelimeyi düzenle</string>
   <string name="user_dict_settings_empty_text">"Herhangi bir sözlük yok
-Ekle butonunu () kullanarak kelime ekleyin."</string>
+Ekle butonunu (+) kullanarak kelime ekleyin."</string>
   <string name="user_dict_settings_more_languages">Diğer Diller…</string>
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_title">Sözlüğüm</string>
