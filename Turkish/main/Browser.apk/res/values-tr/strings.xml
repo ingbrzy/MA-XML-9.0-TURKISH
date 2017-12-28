@@ -593,6 +593,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="ok">Tamam</string>
   <string name="older">Eski</string>
   <string name="open_app_confirm_message">Bu sayfanın %s açmasına izin verilsin mi?</string>
+  <string name="open_cloud_sync">Bulut eşitlemesini aç</string>
+  <string name="open_cloud_sync_desc">Yerimi eklendi. Bulut eşitlemesini açın ve diğer cihazlarda eklenen yerimleri, bu cihazla eşitlenecek. Şimdi oturum açılsın mı?</string>
   <string name="open_file_explorer_failed">"Dosya Gezgini açılamadı"</string>
   <string name="open_voice_permission">İnternet bağlantısında mikrofona izin ver</string>
   <string name="opening_file_error">Seçilen dosya açılamadı</string>
@@ -845,6 +847,7 @@ Topladığımız verileri böyle kullanırız:
 2. İçerik: Verileriniz, ilgili yerelleştirilmiş haber içeriği sağlamamıza yardımcı oluyor.
 Tarayıcının normal çalışması için internete bağlanması gerekiyor. Bu Tarayıcıyı kullanarak; bizim %2$s ve %1$s içeriklerimizi kabul etmiş olursunuz.​"</string>
   <string name="show_security_tip_dialog_title">Gizlilik Politikası</string>
+  <string name="sign_and_open">Oturumla Aç</string>
   <string name="sign_in_to" formatted="false"> %s1 için oturum aç \"%s2\"</string>
   <string name="skip_button_label">Atla</string>
   <string name="skip_current_version">Bu sürümü atla</string>
@@ -895,6 +898,8 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Bu T
   <string name="switchText">EVET</string>
   <string name="switch_proxy_dialog_msg">"Ağı ele geçirme algılandı. MIUI\'nin yerleşik Güvenlik uygulamasının kullanın veya bunu operatörünüze raporlayın. "</string>
   <string name="switch_proxy_dialog_title">Ağı Ele Geçirme!</string>
+  <string name="sync_and_backup_bookmark">Eşitle ve Yerimlerini Yedekle</string>
+  <string name="sync_and_backup_history">Eşitle ve Geçmişi Yedekle</string>
   <string name="sync_cloud_tabs">Eşitle</string>
   <string name="tab_hotpage">Haber Kaynağı</string>
   <string name="tab_quicklinks">Başlangıç Sayfası</string>
@@ -904,6 +909,7 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Bu T
   <string name="tae_sdk_login_qr_icon_taobao"></string>
   <string name="tae_sdk_qr_login_icon_password"></string>
   <string name="tae_sdk_qr_login_icon_scan"></string>
+  <string name="temp_refuse">Atık</string>
   <string name="time_picker_dialog_am">ÖÖ</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
