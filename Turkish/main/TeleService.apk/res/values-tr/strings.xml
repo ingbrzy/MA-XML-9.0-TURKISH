@@ -282,8 +282,13 @@
   <string name="callFailed_data_limit_reached_description">Hücresel veri limitine ulaşıldığından arama sona erdi.</string>
   <string name="callFailed_destination_out_of_order">Hedef bozuk</string>
   <string name="callFailed_dialToDial">Farklı numara çağrısı ile değiştirildi.</string>
+  <string name="callFailed_dialToDialVideo">Görüntülü çağrı için çağrı isteği değiştirildi.</string>
   <string name="callFailed_dialToSs">Çevirme isteği SS isteği olarak değiştirildi</string>
   <string name="callFailed_dialToUssd">Çevirme isteği USSD isteği ile değiştirildi</string>
+  <string name="callFailed_dialVideoToDial">Çağrı için görüntülü çağrı isteği değiştirildi.</string>
+  <string name="callFailed_dialVideoToDialVideo">Görüntülü çağrı ile farklı numara için görüntülü çağrı desteği değiştirildi.</string>
+  <string name="callFailed_dialVideoToSs">SS isteği için görüntülü çağrı desteği değiştirildi.</string>
+  <string name="callFailed_dialVideoToUssd">USSD isteği için görüntülü çağrı isteği değiştirildi.</string>
   <string name="callFailed_dsac_restricted">Tüm çağrılar erişim denetimi tarafından kısıtlandı.</string>
   <string name="callFailed_dsac_restricted_emergency">Acil çağrılar erişim denetimi tarafından kısıtlandı.</string>
   <string name="callFailed_dsac_restricted_normal">Normal çağrılar erişim denetimi tarafından kısıtlandı.</string>
@@ -656,8 +661,10 @@
   <string name="dialerKeyboardHintText">Aramak için klavyeyi kullan</string>
   <string name="dialog_activate_livetalk">Numarayı Doğrula</string>
   <string name="dialog_alert_title">Dikkat</string>
+  <string name="dialog_cancel">İptal</string>
   <string name="dialog_call_ordinary_telephone">Çağrı(%ds)</string>
   <string name="dialog_network_priority_title">Öncelikli Ağ</string>
+  <string name="dialog_report">Raporla</string>
   <string name="dialog_no">Hayır</string>
   <string name="dialog_purchase">Kontür</string>
   <string name="dialog_yes">Evet</string>
@@ -1213,6 +1220,8 @@ Mi Hesabıyla oturup açın"</string>
   <string name="mock_location_app">Sahte konum uygulaması seçin</string>
   <string name="mock_location_app_not_set">Sahte konum uygulama ayarı yok</string>
   <string name="mock_location_app_set">Sahte konum uygulaması: %1$s</string>
+  <string name="modem_dialog_body">Mobil ağ kararsız, kesintiler veya ağ sorunları yaşıyor. Analiz için Mi firmasına hata raporu gönderilsin mi? Bu raporda Kişisel Tanıtıcı Bilgiler bulunabilir. Raporunuz bu hatayı düzeltmek için kullanılacak ve hiçbir zaman ticari bağlamda paylaşılmayacak.</string>
+  <string name="modem_dialog_title">Mobil Şebeke Kararsız</string>
   <string name="msim_apn_not_set">Ayarlanamadı</string>
   <string name="msim_default_setting">Varsayılan Ayarlar</string>
   <string name="msim_disable_sim_card_btn_text">Tamam</string>
