@@ -16,6 +16,7 @@
   <string name="add_to_album_failed">Albüme ekleme başarısız</string>
   <string name="add_to_album_success">Albüme eklendi</string>
   <string name="add_to_album_tip">Bulut Fotoğrafları</string>
+  <string name="add_to_favorites_failed">"Favorilere eklenemedi"</string>
   <string name="add_to_cloud_album">Bir albüme ekle</string>
   <string name="add_to_cloud_exceeded_the_size_message">Dosya çok büyük</string>
   <string name="add_to_cloud_failed_message_with_count">%2$s öğeleri Bulut Albümüne eklenebilir: %1$s eklenemedi</string>
@@ -38,9 +39,11 @@
   <string name="add_to_secret_successfully_message">Gizli albüme eklendi</string>
   <string name="add_to_secret_unfinished_message_with_count">%1$s dosya gizli albüme eklenemedi</string>
   <string name="add_to_share_album_not_delete">"Paylaşılan Albümden fotoğraf silinemez"</string>
+  <string name="added_to_favorites_tip">\"Favoriler\" albümüne eklendi</string>
   <string name="adding">Ekleniyor...</string>
   <string name="adding_recipients">Alıcılar ekleniyor...</string>
   <string name="adding_to_album">Fotoğraflar ekleniyor ...</string>
+  <string name="adding_to_favorites">Favorilere ekleniyor…</string>
   <string name="adjust">Ayarla</string>
   <string name="adjust_auto">Otomatik</string>
   <string name="adjust_blur">Bulanık</string>
@@ -52,13 +55,18 @@
   <string name="album_already_exists_check">Gözat</string>
   <string name="album_already_exists_msg">\"%s\" albüm zaten var</string>
   <string name="album_already_forced_top">Daima üstte</string>
+  <string name="album_bluetooth">Bluetooth</string>
   <string name="album_camera_name">Kamera</string>
+  <string name="album_creative">Düzenlediğim Fotoğraflar</string>
   <string name="album_detail_clear_local_page_empty">Silmek için videolar ve fotoğraflar yedeklenmedi</string>
   <string name="album_detail_page_empty">Fotoğraf veya video yok</string>
+  <string name="album_download">İndirilenler</string>
   <string name="album_faces_name">Kişi</string>
+  <string name="album_favorites_name">Favoriler</string>
   <string name="album_from_format">Şurdan: %s</string>
   <string name="album_jump_failed">Albümler Mi Bulut ile eşitlenene kadar bekleyin ve tekrar deneyin</string>
   <string name="album_member">Albüm Üyeleri: %s</string>
+  <string name="album_midrop">Mi Drop</string>
   <string name="album_name">Albüm Adı</string>
   <string name="album_name_locations">Konumlar</string>
   <string name="album_name_people">Kişi</string>
@@ -71,6 +79,8 @@
   <string name="album_page_label">Albüm</string>
   <string name="album_pano_name">Panorama</string>
   <string name="album_quota_fulfiled">Çok fazla albüm. Bazı albümleri silin ve tekrar deneyin.</string>
+  <string name="album_scanner">Tarayıcı</string>
+  <string name="album_screen_recorder">Ekran Kaydedici</string>
   <string name="album_screenshot_name">Ekran Görüntüsü</string>
   <string name="album_setting_show_in_photo_tab_success">Bu albüm zaten ana sayfada var</string>
   <string name="album_share_exit_confirm">Albümden çıkılsın mı?</string>
@@ -90,6 +100,7 @@
   <string name="album_type_share">Bebek Albümü</string>
   <string name="album_type_system">Sistem Albümü</string>
   <string name="album_videos_name">Videolar</string>
+  <string name="album_wallpaper">Duvar Kağıdı</string>
   <string name="albums">Albüm</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Dikkat</string>
@@ -205,6 +216,7 @@
   <string name="backup_no_wifi_title">"WLAN'a bağlanmak için dokunun"</string>
   <string name="backup_only_in_wifi">Fotoğraf/Video Yedeklemesinde WLAN Kullan</string>
   <string name="backup_only_in_wifi_summary">Fotoğraf ve videoları yedeklerken asla mobil veri kullanmayıp, sadece WLAN kullanın</string>
+  <string name="backup_only_wifi_dialog_message">Fotoğrafları ve videoları yedeklemek için mobil veri kullanılsın mı?</string>
   <string name="backup_pause">Yedeklemeyi duraklat</string>
   <string name="backup_pause_title">%s Yedekle</string>
   <string name="backup_pending">Otomatik olarak yedeklenecek</string>
@@ -263,6 +275,8 @@
   <string name="cannot_remove_creator">"Oluşturucu kaldırılamıyor"</string>
   <string name="cannot_send_message">"Mesaj gönderilemiyor"</string>
   <string name="cannot_send_message_reason">Geçerli alıcı yok</string>
+  <string name="cast_devices_unavailable_desc">Bu cihazın ve projektörün aynı Wi-Fi şebekesine bağlı olduğundan emin olun</string>
+  <string name="cast_devices_unavailable_title">"Projektör bulamadı"</string>
   <string name="cant_delete_system_album">%s silemezsiniz çünkü Sistem Albümü</string>
   <string name="change_to_face_mode">Sadece yüzü göster</string>
   <string name="change_to_photo_mode">Tam önizlemeleri göster</string>
@@ -955,6 +969,8 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="operation_add_secret">Gizle</string>
   <string name="operation_add_secret_button">Gizle</string>
   <string name="operation_back">Geri</string>
+  <string name="operation_cast_connected_format">Yansıt - %s</string>
+  <string name="operation_cast_connecting_format">"%s'a bağlanıyor"</string>
   <string name="operation_delete">Sil</string>
   <string name="operation_delete_confirm_message_folder">"Tüm klasör silinecek. "</string>
   <string name="operation_detail">Detaylar</string>
@@ -1048,11 +1064,13 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="photo_editor_miui_beauty_menu_eye_large">Büyük Gözler</string>
   <string name="photo_editor_miui_beauty_menu_face_thin">Narin</string>
   <string name="photo_editor_miui_beauty_menu_lip_beauty">Dudaklar</string>
+  <string name="photo_editor_miui_beauty_menu_nose_thin">Burun Şekli</string>
   <string name="photo_editor_miui_beauty_menu_relighting">Işık Doldur</string>
   <string name="photo_editor_miui_beauty_menu_skin_ruddy">Canlı</string>
   <string name="photo_editor_miui_beauty_menu_skin_white">Ton</string>
   <string name="photo_editor_miui_beauty_menu_smart_beauty">Akıllı</string>
   <string name="photo_editor_miui_beauty_menu_smooth">Keskinleştir</string>
+  <string name="photo_editor_miui_beauty_no_face">"Yüzü tespit edemedi"</string>
   <string name="photo_editor_mosaic">Mozaik</string>
   <string name="photo_editor_navigator_cancel">İptal</string>
   <string name="photo_editor_navigator_download_network_metered_msg">%s indirilmesi için 4MB mobil veri kullanmaya ihtiyacı var. Şimdi indirilsin mi?</string>
@@ -1131,6 +1149,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="posterize">Poster</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data">Biraz bekleyin...</string>
+  <string name="projection_cancel">İptal et</string>
   <string name="preparing_data_to_delete">Görüntüler silmek için hazırlanıyor...</string>
   <string name="priority_storage">SD Karta kaydet</string>
   <string name="priority_storage_summary">SD Kart mevcut olduğunda, dosyalar otomatik olarak SD Kartta saklanır</string>
@@ -1143,7 +1162,9 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="projection_single_title">%s için yansıt</string>
   <string name="projection_slide_exit">Slayttan çık</string>
   <string name="projection_slide_fail_cause_loading">Resim yüklendikten sonra slayt gösterisini başlat</string>
-  <string name="projection_slide_playing">Slaty gösterisinin %s oynatılıyor</string>
+  <string name="projection_slide_playing">Slaty gösterisindeki %s oynatılıyor</string>
+  <string name="projection_stop">Yansıtmayı durdur</string>
+  <string name="projection_switch_title">Değiştir: </string>
   <string name="projection_video_quit">Çıkmak için dokunun</string>
   <string name="public_url_descript">Herkes bu URL\'yi kullanarak albümü görüntüleyebilir</string>
   <string name="publish_failed">"Yayınlanamadı"</string>
@@ -1183,6 +1204,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="remove_from_album_message">Bu fotoğraf artık burada gösterilmeyecek</string>
   <string name="remove_from_album_title">Geçerli albümden kaldır</string>
   <string name="remove_from_current_album">Bu albümden kaldır</string>
+  <string name="remove_from_favorites_failed">"Favorilerden kaldırılamadı"</string>
   <string name="remove_from_other_albums_tip">Bu albüm diğer albüme taşınsın mı?</string>
   <string name="remove_from_secret_fail">Gizli Albümden kaldırırken başarısız oldu</string>
   <string name="remove_from_secret_failed_message_with_count">%1$s yerinden %2$s öğe kaldırılamıyor</string>
@@ -1199,6 +1221,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="remover_edit_type_line">Satırlar</string>
   <string name="remover_erase_aera_too_big">Silme alanı çok büyük</string>
   <string name="remover_menu_processing">İşleniyor</string>
+  <string name="removing_from_favorites">Favorilerden kaldırılıyor…</string>
   <string name="rename_album">Albümü değiştir</string>
   <string name="rename_album_failed">"Değiştirilemedi"</string>
   <string name="rename_album_succeeded">Başarıyla değiştirildi</string>
@@ -1270,7 +1293,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="search_feedback_task_requesting_award">Ödül alınıyor…</string>
   <string name="search_feedback_user_notice">"Okudum ve %s kabul ettim."</string>
   <string name="search_feedback_user_policy">MIUI Galeri AI Algoritma Programı Gizlilik Politikası</string>
-  <string name="search_hint">Resimleri ara​</string>
+  <string name="search_hint">Aramak için dokunun​</string>
   <string name="search_image_result_title">Arama sonuçları</string>
   <string name="search_load_complete">Öğe yok</string>
   <string name="search_load_failed">"Bilgi yüklenemedi, tekrar denemek için dokunun"</string>
@@ -1304,6 +1327,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="search_title_recommend">Önerilen</string>
   <string name="search_title_suggestion">Tavsiyeler</string>
   <string name="search_title_tag">Nesneler</string>
+  <string name="searching_cast_devices">Projektör aranıyor…</string>
   <string name="secret_album_card_description">Tüm küçük sırlarınız için en iyi yer</string>
   <string name="secret_album_card_title">Gizli Albümü Dene</string>
   <string name="secret_album_display_name">Gizli Albüm</string>
