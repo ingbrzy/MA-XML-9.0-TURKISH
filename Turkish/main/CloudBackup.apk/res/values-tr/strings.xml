@@ -64,6 +64,7 @@ Not: Yüklediğiniz uygulamaların verileri Mi Bulut'ta yedeklenmeyecek"</string
   <string name="cloud_back_up_share_activity_title">Mi Hesabını Güncelle</string>
   <string name="cloud_back_up_task">Yedekleniyor…</string>
   <string name="cloud_backup">Mi Bulut Yedekleri</string>
+  <string name="cloud_backup_derail_size_summary">Boyut: %s</string>
   <string name="cloud_backup_detail_frequence">Yedekleme Planı</string>
   <string name="cloud_backup_detail_frequence_day">Her %1$s yedekle</string>
   <string name="cloud_backup_detail_manage">Yedekleri Yönet</string>
@@ -131,8 +132,8 @@ Not: Yüklediğiniz uygulamaların verileri Mi Bulut'ta yedeklenmeyecek"</string
   <string name="open_wifi_description">Uygulamayı WLAN bağlandığında geri yükle</string>
   <string name="open_wifi_setting">WLAN Ayarları</string>
   <string name="process_whole_recovery">\"%s\" geri yükleniyor</string>
-  <string name="provision_error_connect_msg">Ağı test edebilir ve tekrar deneyebilirsiniz. Geçerli bir ağ olmadan yedekleme işlevi kullanılamaz.</string>
-  <string name="provision_error_connect_title">Bağlanamıyor</string>
+  <string name="provision_error_connect_msg">Ağı test edin ve tekrar deneyin. Cihazınız çevrimdışı olduğunda yedekleme yapılamaz.</string>
+  <string name="provision_error_connect_title">Bağlanamadı</string>
   <string name="provision_arrow_back">&lt;</string>
   <string name="provision_arrow_next">&gt;</string>
   <string name="query_restore_back_view">Mi Bulut Yedeği</string>
@@ -162,7 +163,7 @@ Not: Yüklediğiniz uygulamaların verileri Mi Bulut'ta yedeklenmeyecek"</string
   <string name="retry">Yeniden Dene</string>
   <string name="self_phone">Bu Telefon</string>
   <string name="settings_backup">Sistem Ayarları</string>
-  <string name="size_unknown">Boyut bilinmiyor</string>
+  <string name="size_unknown">Bilinmeyen boyut</string>
   <string name="start_backup_to_micloud">"Uygulamaları Mi Bulut'a yedekle"</string>
   <string name="start_recover">%s geri yükle</string>
   <string name="success_open_cloudbackup">Ana Ekran uygulamaları için yedeklemeyi aç</string>
