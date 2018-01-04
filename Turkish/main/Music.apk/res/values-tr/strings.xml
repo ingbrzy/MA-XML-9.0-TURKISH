@@ -96,10 +96,10 @@
   <string name="audio_recognition_setting_summary">"Yerel şarkılar çalarken şarkının bilgi, albüm ve şarkı sözlerini otomatik olarak iyileştirin"</string>
   <string name="audio_recognition_setting_title">Albümü ve Şarkı Sözlerini Akıllıca İyileştir</string>
   <string name="auth_activity_title">Xunlei Hesabı</string>
-  <string name="auto_download_in_wifi">WLAN kullanarak sevdiğiniz şarkıları indirin</string>
+  <string name="auto_download_in_wifi">Wi-Fi kullanarak sevdiğiniz şarkıları indirin</string>
   <string name="auto_payment">Otomatik yenile</string>
   <string name="auto_payment_date">Sonraki ödeme: %s</string>
-  <string name="auto_restart_under_wifi">WLAN otomatik olarak bu dosyayı indirir</string>
+  <string name="auto_restart_under_wifi">Wi-Fi otomatik olarak bu dosyayı indirir</string>
   <string name="auto_upgrade">Otomatik Güncelle</string>
   <string name="avail_services">Mevcut</string>
   <string name="available_playlist_name_format">Yeni çalma listesi %d</string>
@@ -152,7 +152,7 @@
   <string name="cloud_space_full_message">"Mi Bulut'ta şarkı eklenecek yer yok. Daha fazla yer almak için, Mi Hesabınızı yükseltin."</string>
   <string name="cloud_state_cloud_space_full">Yetersiz Mi Bulut depolama alanı, yedekleme duraklatıldı</string>
   <string name="cloud_state_low_power">Yedeklemeye devam etmek için şarj cihazını bağlayın</string>
-  <string name="cloud_state_network_data">WLAN ağları bulunamadı, yedekleme duraklatıldı</string>
+  <string name="cloud_state_network_data">Wi-Fi ağları bulunamadı, yedekleme duraklatıldı</string>
   <string name="cloud_state_network_unavailable">Ağa bağlanılamadı, yedekleme duraklatıldı</string>
   <string name="cloud_state_storage_full">Yeterli telefon depolama alanı yok, yedekleme duraklatıldı</string>
   <string name="cloud_welcome_message">Şarkıları Yedekle</string>
@@ -214,8 +214,8 @@
   <string name="dialog_file_missing_title">"Dosya açılamadı"</string>
   <string name="dialog_hint_music_error">Şarkı bulunamadı.</string>
   <string name="dialog_hint_network_error">Ağ bağlantısı yok</string>
-  <string name="dialog_insufficient_space_on_cache">İndirme işlemi bitmedi. Dahili indirme depolama biriminde yeterli alan yok.</string>
-  <string name="dialog_insufficient_space_on_external">İndirme işlemi bitmedi.Harici depolama biriminde yeterli alan yok.</string>
+  <string name="dialog_insufficient_space_on_cache">Dahili indirme depolama biriminde yeterli alan yok.</string>
+  <string name="dialog_insufficient_space_on_external">Harici depolama biriminde yeterli alan yok.</string>
   <string name="dialog_media_not_found">İndirilemiyor. Dış ortam mevcut değildir.</string>
   <string name="dialog_not_show_again">"Tekrar gösterme"</string>
   <string name="dialog_queued_body">Bu dosya, gelecekte indirilmek için kuyruğa eklendi.</string>
@@ -258,12 +258,12 @@
   <string name="download_auto_after_favorite_summary">Otomatik olarak favori şarkılar indirilsin</string>
   <string name="download_auto_after_favorite_title">Favorileri indir</string>
   <string name="download_auto_cancel">Favorileri indirme kapalı</string>
-  <string name="download_auto_message">"WLAN bağlı olduğunuzda favoriler otomatik yüklenecektir. Bunu ayarlardan değiştirebilirsiniz."</string>
+  <string name="download_auto_message">"Wi-Fi ağına bağlı olduğunuzda favoriler otomatik yüklenecektir. Bunu ayarlardan değiştirebilirsiniz."</string>
   <string name="download_auto_quality_alert_sub_title_for_expired">Deneme aboneliğiniz sona erdi. Farklı bir indirme kalitesini seçin.</string>
   <string name="download_auto_quality_alert_sub_title_for_login">Etkinleştirmek için Mi Hesabınızda oturum açın</string>
   <string name="download_auto_quality_alert_title">Müzik İndirme Kalitesi</string>
-  <string name="download_auto_when_all_network">Mobil ağı ve WLAN\'ı kullan</string>
-  <string name="download_auto_when_free_network">Yalnızca WLAN</string>
+  <string name="download_auto_when_all_network">Mobil ağı ve Wi-Fi\'yı kullan</string>
+  <string name="download_auto_when_free_network">Yalnızca Wi-Fi</string>
   <string name="download_auto_when_free_network_summary">Favori şarkılar için ek ayarlar</string>
   <string name="download_cloud_error_not_auth">Bu özelliği etkinleştirmek için Mi Hesabınız ile giriş yapın.</string>
   <string name="download_cloud_error_retryable">Mi Bulut sunucu hatası, daha sonra tekrar deneyin.</string>
@@ -317,7 +317,7 @@
   <string name="download_traffic_dialog_msg_beyond">"Mobil veri limitinizi şimdiye kadar %s aştınız. Şarkıları indirmek için mobil veri kullanılsın mı?"</string>
   <string name="download_traffic_dialog_msg_serious">Sadece %s mobil veri kaldı. Şarkıları indirmek için mobil veri kullanılsın mı?</string>
   <string name="download_traffic_dialog_msg_without_data">"Şarkıları indirmek için mobil veri kullanıyorsunuz. Yine de indirilsin mi?"</string>
-  <string name="download_traffic_dialog_negative_button">WLAN için bekle</string>
+  <string name="download_traffic_dialog_negative_button">Wi-Fi için bekle</string>
   <string name="download_traffic_dialog_position_button">İndir</string>
   <string name="download_traffic_dialog_position_button_serious">Yine de indir</string>
   <string name="download_traffic_dialog_title">Veri Kullanım Uyarısı</string>
@@ -658,7 +658,7 @@
   <string name="notification_headset_custom">Reddet</string>
   <string name="notification_headset_info">Ayarları görüntülemek için dokunun.</string>
   <string name="notification_headset_settings">Kulaklık bağlandı</string>
-  <string name="notification_need_wifi_for_size">İndirme boyutundan dolayı WLAN gerekli.</string>
+  <string name="notification_need_wifi_for_size">İndirme boyutundan dolayı Wi-Fi gerekli.</string>
   <string name="notification_play_summary">Geçerli ve sonraki şarkıyı göster, Ana Ekranda sözleri göster</string>
   <string name="notification_play_title">Bildirim Alanı Aracı</string>
   <string name="notification_recommend_summary">Yeni müzik trendleri ve uygulama promosyonları hakkında bilgi</string>
@@ -737,9 +737,9 @@
   <string name="please_select_song">Lütfen önce bir şarkı seçin</string>
   <string name="power_save_mode_dialog_msg">Cihaz Güç Tasarrufu Modunda bulunmaktadır. Şu anda indirmey başlasın mı?</string>
   <string name="pref_download_settings_title">İndirme Boyutunun Limiti</string>
-  <string name="pref_summary_any_bytes_popup">WLAN bağlantısını dosyaları indirmek için her zaman bekle</string>
+  <string name="pref_summary_any_bytes_popup">Wi-Fi bağlantısını dosyaları indirmek için her zaman bekle</string>
   <string name="pref_summary_enable_max_bytes_popup">İçeriği indirmek için mobil veri bağlantısı kullanırken açılır uyarı göster</string>
-  <string name="pref_summary_max_bytes_limit_format">Dosya boyutu %s aşıyorsa WLAN ağı bekle</string>
+  <string name="pref_summary_max_bytes_limit_format">Dosya boyutu %s aşıyorsa Wi-Fi ağını bekle</string>
   <string name="pref_summary_no_limit_popup">Limitsiz</string>
   <string name="pref_title_enable_max_bytes_popup">Veri kullanım isteğini göster</string>
   <string name="preferences_title">Ayarlar</string>
@@ -913,7 +913,7 @@
   <string name="subed">Açık</string>
   <string name="suggest_text">İnsanlar neyi sevdi</string>
   <string name="support_online_only">Sadece Stream</string>
-  <string name="sync_only_in_wifi">Yanlızca WLAN ile eşitle</string>
+  <string name="sync_only_in_wifi">Yanlızca Wi-Fi ile eşitle</string>
   <string name="sync_only_in_wifi_summary">Mi Bulutu ile tüm cihazlarınızda Müziklerinizi eşitleyin. Müzikleri eşitlemek için mobil veri bağlantısı kullanmak veri kullanımınızı artacaktır. Eğer planlarınız veri sınırı üzerinden çıkarsa, operatörünüz size ek ücret yansıtabilir.</string>
   <string name="tab_album">Albümler</string>
   <string name="tab_album_list">Albümler</string>
@@ -1025,12 +1025,12 @@
   <string name="vip_tomorrow_auto_renew_message">Müzik aboneliğiniz yarın akşam otomatik olarak yenilenecektir. Bu ödemeyi tamamlamak için hesabınızda yeterli miktarda Mi Kredisi bulunduğundan emin olun.</string>
   <string name="vip_tomorrow_renew_message">"Yüksek kaliteli ses akışı sağlayamayacaksınız, ancak bazı şarkılar normal kalitede sunulacak."</string>
   <string name="warning_tip_cancel">İndir</string>
-  <string name="warning_tip_content">"Artık WLAN ağına bağlı kalamazsınız. Mobil veri bağlantısı kullanarak bunu indirmek veri tüketimini artıracaktır. Eğer planladığınız veri sınırının üzerine çıkarsanız operatörünüz sizden ek ücret alabilir."</string>
+  <string name="warning_tip_content">"Artık Wi-Fi ağına bağlı kalamazsınız. Mobil veri bağlantısı kullanarak bunu indirmek veri tüketimini artıracaktır. Eğer planladığınız veri sınırının üzerine çıkarsanız operatörünüz sizden ek ücret alabilir."</string>
   <string name="warning_tip_ok">Durdur</string>
   <string name="warning_tip_title">Veri Kullanım Uyarısı</string>
   <string name="welcome_to_new_music">Mi Müzik yeni sürümüne hoş geldiniz!</string>
-  <string name="wifi_required_body" formatted="false">"WLAN kullanarak %s dosyayı indirin. 
+  <string name="wifi_required_body" formatted="false">"Wi-Fi kullanarak %s dosyayı indirin. 
 
-Daha sonraki bir zamanda WLAN ağına bağlanırsanız %s dokunarak indirebilirsiniz."</string>
+Daha sonraki bir zamanda Wi-Fi ağına bağlanırsanız %s dokunarak indirebilirsiniz."</string>
   <string name="wifi_required_title">Şebeke ağı için çok büyük indirme</string>
 </resources>
