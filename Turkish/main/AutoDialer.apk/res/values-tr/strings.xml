@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="a"/>
+  <string name="action_settings">Ayarlar</string>
+  <string name="app_name">Otomatik arayıcı</string>
+  <string name="cold">cold</string>
+  <string name="delete">Sil</string>
+  <string name="end_call">Çağrı Süresinin Sonu</string>
+  <string name="full">full</string>
+  <string name="hot">hot</string>
+  <string name="loop_1">1</string>
+  <string name="loop_100">100</string>
+  <string name="loop_200">200</string>
+  <string name="loop_50">50</string>
+  <string name="loops">Tur</string>
+  <string name="msg_permission_steps">"İzinleriniz kapalı, lütfen "&lt;b&gt;Ayarlar&lt;/b&gt; -&amp;gt; &lt;b&gt;Uygulamalar&lt;/b&gt; -&amp;gt; &lt;i&gt;Menü&lt;/i&gt; -&amp;gt; &lt;i&gt;Sistemi Göster&lt;/i&gt; -&amp;gt; &lt;b&gt;Otomatik Arayıcı&lt;/b&gt; -&amp;gt; &lt;b&gt;İzinler&lt;/b&gt; altındaki tüm izinleri açın</string>
+  <string name="phone">Telefon</string>
+  <string name="phone_8378911">\#8378911</string>
+  <string name="phone_911">911</string>
+  <string name="phone_call">Telefon Çağrısının Süresi</string>
+  <string name="phone_edit">Düzenle</string>
+  <string name="settings">Ayarlar</string>
+  <string name="start_test_off">Testi Başlat (KAPALI)</string>
+  <string name="start_test_on">Testi Durdur (AÇIK)</string>
+  <string name="warm">warm</string>
+</resources>
