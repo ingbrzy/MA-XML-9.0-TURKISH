@@ -306,6 +306,7 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_main_head_menu_recycle_bin_title">Çöp Kutusu</string>
   <string name="micloud_main_head_menu_state_close">Kapalı</string>
   <string name="micloud_main_head_menu_state_open">Açık</string>
+  <string name="micloud_main_head_menu_state_unavailable">Mevcut değil</string>
   <string name="micloud_main_last_sync_time">Son Eşitleme: %s</string>
   <string name="micloud_main_master_sync_on">Eşitleme açık</string>
   <string name="micloud_main_memory_low_message">"Eşitleme için, bulutta depolanmış bazı öğeleri silin."</string>
@@ -498,6 +499,8 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="pref_title_sync_display_photo_on_wifi_only">Fotoğrafları sadece WLAN kullanarak eşitle</string>
   <string name="pref_title_sync_video_on_wifi_only">Videoları sadece WLAN kullanarak eşitle</string>
   <string name="privacy_policy">Gizlilik Politikası </string>
+  <string name="reading_status">Durum yükleniyor…</string>
+  <string name="reading_status_failure">"Durum yüklenemedi."</string>
   <string name="recommend_open_all_sync">Tüm öğeleri eşitle</string>
   <string name="remind_later">Şimdi değil</string>
   <string name="restoreSync">Şimdi eşitle</string>
