@@ -16,6 +16,7 @@
   <string name="accessibility_time_picker_hour">Saat</string>
   <string name="accessibility_time_picker_milli">Milisaniye</string>
   <string name="accessibility_time_picker_minute">Dakika</string>
+  <string name="accessibility_time_picker_second">Saniye</string>
   <string name="account_prifix">Hesap:</string>
   <string name="action">Oturum Aç</string>
   <string name="action_menu_account_not_login">Oturum açılmadı</string>
@@ -223,7 +224,7 @@
   <string name="contextmenu_manually_block_ad">Reklam olarak etiketle</string>
   <string name="contextmenu_map">Harita</string>
   <string name="contextmenu_openlink">Aç</string>
-  <string name="contextmenu_openlink_in_browser">Tarayıcıda Aç</string>
+  <string name="contextmenu_openlink_in_browser">Tarayıcıda aç</string>
   <string name="contextmenu_openlink_newwindow">Yeni sekmede aç</string>
   <string name="contextmenu_openlink_newwindow_background">Arkaplan sekmesinde aç</string>
   <string name="contextmenu_recognise_qr_code">QR kodunu tara</string>
@@ -489,14 +490,37 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="miuichromium_error_page_problem_access_denied">%s0 erişimedi</string>
   <string name="miuichromium_error_page_problem_cache_miss">Bu sayfanın önbellekte hali yüklenemiyor</string>
   <string name="miuichromium_error_page_problem_cannot_open_page">"Sayfa açılamadı"</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_blocked_by_response">"Sayfa açılamıyor. Erişim  %s0 tarafından engellendi."</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_connection_closed">"Sayfa açılamıyor. %s0 bağlantıyı kesmiş."</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_connection_refused">"Sayfa açılamıyor. %s0 bağlanmayı reddetti."</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_connection_reset">"Sayfa açılamıyor. Bağlantı sıfırlandı."</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_invalid_url">"URL geçersiz olduğu için sayfa açılamıyor."</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_site_unreachable">"Sayfa açılamıyor. %s0 şu anda ulaşılamaz."</string>
+  <string name="miuichromium_error_page_problem_cannot_open_page_reason_unsafe_redirect">"Sayfa açılamıyor. %s0 sizi güvensiz bir bağlantıya yönlendiriyor."</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site_reason_name_collision">"Siteye ulaşılamıyor. Intranet'teki bu site, harici bir web sitesi ile aynı URL'ye sahiptir."</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site_reason_name_not_resolved">"Siteye ulaşılamıyor. %s0 için DNS adresi bulunamadı."</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site_reason_reason_invalid_address">"Siteye ulaşılamıyor. IP adresi veya port numarası geçersiz."</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site_reason_timed_out">"Siteye ulaşılamıyor. %s0 çok uzun süredir cevap vermiyor."</string>
+  <string name="miuichromium_error_page_problem_cannot_reach_site_reason_unsafe_port">"Siteye ulaşılamıyor. %s0 güvensiz bir port numarası kullanıyor."</string>
+  <string name="miuichromium_error_page_problem_connection_interrupted_reason_device_slept">Cihazınız uyku moduna geçtiğinden bağlantı kesildi.</string>
+  <string name="miuichromium_error_page_problem_connection_interrupted_reason_network_changed">Bir ağ değişikliği nedeniyle bağlantı kesildi.</string>
+  <string name="miuichromium_error_page_problem_file_not_found_reason_moved_or_deleted">"Dosya bulunamadı. Taşınmış veya silinmiş olabilir."</string>
   <string name="miuichromium_error_page_problem_cannot_reach_site">"Siteye erişilemiyor"</string>
   <string name="miuichromium_error_page_problem_connection_interrupted">Bağlantı kesintiye uğradı</string>
   <string name="miuichromium_error_page_problem_file_not_found">"Dosya bulunamadı"</string>
   <string name="miuichromium_error_page_problem_gateway_timed_out">%s0 zamandan beri cevap vermesi bekleniyor</string>
   <string name="miuichromium_error_page_problem_network_access_denied">Ağ erişimi kısıtlı</string>
-  <string name="miuichromium_error_page_problem_no_internet_connection">İnternete bağlanamadı</string>
+  <string name="miuichromium_error_page_problem_no_internet_connection_reason_proxy_error">"İnternet'e bağlanılamadı, proxy sunucusunda bir sorun var veya proxy adresi yanlış."</string>
   <string name="miuichromium_error_page_problem_page_moved">Bu sayfadaki %s0 taşınmış veya silnmiş</string>
   <string name="miuichromium_error_page_problem_page_not_found">"Sayfadaki %s0 bulunamadı"</string>
+  <string name="miuichromium_error_page_problem_page_not_working_reason_connection_closed">"Bu sayfa çalışmıyor. %s0 bağlantısı kesildi."</string>
+  <string name="miuichromium_error_page_problem_page_not_working_reason_empty_response">"Bu sayfa çalışmıyor çünkü %s0 hiç veri göndermedi."</string>
+  <string name="miuichromium_error_page_problem_page_not_working_reason_invalid_response">"Bu sayfa çalışmıyor çünkü %s0 geçersiz bir cevap gönderdi."</string>
+  <string name="miuichromium_error_page_problem_page_not_working_reason_too_many_redirects">"Bu sayfa çalışmıyor çünkü %s0 sizi çok fazla yönlendirdi."</string>
+  <string name="miuichromium_error_page_problem_security_error_reason_bad_client_cert">"Bu site güvenli bir bağlantı sağlayamıyor çünkü %s0 sertifikanızı kabul etmedi"</string>
+  <string name="miuichromium_error_page_problem_security_error_reason_bad_server_cert">"Bu site güvenli bir bağlantı sağlayamıyor çünkü %s0 güvenlik standartlarına uymaz."</string>
+  <string name="miuichromium_error_page_problem_security_error_reason_invalid_response">"Bu site güvenli bir bağlantı sağlayamıyor çünkü %s0 geçersiz bir cevap gönderdi."</string>
+  <string name="miuichromium_error_page_problem_security_error_reason_unsupported_protocol">"Bu site güvenli bir bağlantı sağlayamıyor çünkü %s0 esteklenmeyen bir protokol kullanıyor."</string>
   <string name="miuichromium_error_page_problem_page_not_working">"Bu sayfa çalışmıyor"</string>
   <string name="miuichromium_error_page_problem_security_error">Bu site güvenli bağlantıyı sağlayamıyor"</string>
   <string name="miuichromium_error_page_problem_server_fault">%s0 mevcut isteğinizi sağlıyamıyor</string>
@@ -725,7 +749,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="profiler_error_toast">Profiler başlatılamadı</string>
   <string name="profiler_no_storage_toast">"Harici depolama hazır değil, çünkü profiler başlatılamıyor"</string>
   <string name="profiler_started_toast">Profiler başladı</string>
-  <string name="profiler_stopped_toast">Profiler tamamlandı. Sonuç %1$s kadar.</string>
+  <string name="profiler_stopped_toast">Profiler tamamlandı. Sonuç: %1$s</string>
   <string name="progress_dialog_setting_wallpaper">Duvar kağıdı ayarlanıyor...</string>
   <string name="pull_to_refresh_pull_label">Yenilemek için çekin...</string>
   <string name="pull_to_refresh_refreshing_label">Yükleniyor...</string>
@@ -836,8 +860,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="senddesktop">Ana Ekran</string>
   <string name="sendstartpage">Başlangıç Sayfası</string>
   <string name="sequence_bookmark_description">Yerimlerini yeniden düzenlemek için basılı tutun</string>
-  <string name="share_image_text">Bakın, ne buldum!</string>
-  <string name="share_page_text">"%1$s zevk alıyorum | %2$s"</string>
+  <string name="share_image_text">Bakın ne paylaştım! @MIUI</string>
+  <string name="share_page_text">Bakın ne paylaştım: %1$s @MIUI| %2$s</string>
   <string name="show_check_security_url_check_tip_dialog_description">"Hizmetlerimizi kullanmayı seçerseniz kişisel verilerinizi toplayıp kullanacağız.
 İşte topladığımız veriler:
 1. Güvenli URL'ler: Hizmetlerimizi kullanırken ziyaret ettiğiniz web sitelerinin URL'lerini toplayacağız.
@@ -884,14 +908,14 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Bu T
   <string name="suggest_access_item_app_mark">UYGULAMA</string>
   <string name="suggest_access_item_app_size">%.2fMB</string>
   <string name="suggest_access_item_app_update">Güncelleme: %s</string>
-  <string name="suggest_access_item_book_mark">Kitaplar</string>
-  <string name="suggest_access_item_mina_mark">Anında Uygulamalar</string>
-  <string name="suggest_access_item_music_mark">Müzik</string>
+  <string name="suggest_access_item_book_mark">"Kitaplar"</string>
+  <string name="suggest_access_item_mina_mark">"Anlık Uygulamalar"</string>
+  <string name="suggest_access_item_music_mark">"Müzik"</string>
   <string name="suggest_access_item_singer_albums">%d albüm</string>
   <string name="suggest_access_item_singer_pop">%d popüler şarkı</string>
-  <string name="suggest_access_item_site_mark">Siteler</string>
-  <string name="suggest_access_item_video_mark">Video</string>
-  <string name="suggest_access_item_yellow_mark">Sarı Sayfalar</string>
+  <string name="suggest_access_item_site_mark">"Siteler"</string>
+  <string name="suggest_access_item_video_mark">"Video"</string>
+  <string name="suggest_access_item_yellow_mark">"Sarı Sayfalar"</string>
   <string name="suggest_access_music">Mi Müzik</string>
   <string name="suggest_item_delete_text">Sil</string>
   <string name="suggest_open_app_failed">"Bu uygulama açılamadı"</string>
@@ -1027,7 +1051,7 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Bu T
   <string name="voice_title">Komutunuzu söyleyin...</string>
   <string name="voice_title_distinguish">İşleniyor…</string>
   <string name="voice_title_listening">Dinleniyor…</string>
-  <string name="voice_title_please">Konuşma başlatılıyor...</string>
+  <string name="voice_title_please">Konuşmaya başla...</string>
   <string name="voice_title_speech_again">"Seni anlayamadık"</string>
   <string name="weather_location_confirm_message">Bu özelliği kapatmak kullanımınızı etkileyebilir.</string>
   <string name="webpage_bookmark_title">Favoriler</string>
@@ -1035,5 +1059,5 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Bu T
   <string name="webpage_title">Favoriler &amp; Geçmiş</string>
   <string name="webview_find_on_page">Sayfada bul</string>
   <string name="webviewchromium_private_browsing_warning">Bu fonksiyon, Android\'in bu sürümünde desteklenmiyor.</string>
-  <string name="week_picker_dialog_title">Haftayı ayarla</string>
+  <string name="week_picker_dialog_title">Haftayı Ayarla</string>
 </resources>
