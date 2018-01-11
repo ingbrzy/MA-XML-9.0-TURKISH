@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Güncelleyici</string>
-  <string name="battery_islow">&lt;font color=#f37981&gt;Şarj cihazına bağlayın&lt;/font&gt;</string>
+  <string name="battery_islow">&lt;font color=#f37981&gt;Şarj cihazını bağlayın&lt;/font&gt;</string>
   <string name="battery_islow_desc">Pil seviyesi zip dosyasını güvenle yüklemek için çok düşük, şarj cihazınızı takın ve daha sonra tekrar deneyin!</string>
   <string name="btn_changelog">Değişiklikler</string>
   <string name="btn_download">İndir (%1$s)</string>
@@ -14,6 +14,7 @@
   <string name="btn_stop">Duraklat</string>
   <string name="btn_yes">Evet</string>
   <string name="check_new_version">Denetle</string>
+  <string name="chengelog">%1$s</string>
   <string name="dialog_3g_desc">"ROM'ları indirmek için Mobil Verilerin kullanılmasıyla paketinizin önemli miktarda kota harcayacağını unutmayın."</string>
   <string name="dialog_3g_title">Uyarı!</string>
   <string name="dialog_btn_3g">Yinede Devam Et</string>
