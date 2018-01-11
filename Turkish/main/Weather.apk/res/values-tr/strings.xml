@@ -166,7 +166,7 @@
   <string name="international_details_uv_index_title">UV İndeksi</string>
   <string name="international_details_wind_title">Rüzgar</string>
   <string name="it_is_going_to_rain">"Yağmur yağacak"</string>
-  <string name="locate_fail_detail_err">"Cihaz konumu bulunamıyor
+  <string name="locate_fail_detail_err">"Cihaz konumunuzu bulunamıyor
 Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="location_management">Konumlar</string>
   <string name="location_tag">Mekan</string>
