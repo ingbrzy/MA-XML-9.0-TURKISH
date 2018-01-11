@@ -13,7 +13,8 @@
   <string name="add_to_album">Albüme ekle</string>
   <string name="add_to_album_bulk_result">(%d) Başarısız oldu</string>
   <string name="add_to_album_exist">Bu fotoğraf zaten var</string>
-  <string name="add_to_album_failed">Albüme ekleme başarısız</string>
+  <string name="add_to_album_failed">Albüme eklenemedi</string>
+  <string name="add_to_album_failed_with_reason">"Albüme eklenemedi. %1$s."</string>
   <string name="add_to_album_success">Albüme eklendi</string>
   <string name="add_to_album_tip">Bulut Fotoğrafları</string>
   <string name="add_to_favorites_failed">"Favorilere eklenemedi"</string>
@@ -832,6 +833,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="loading_image">Resim indiriliyor...</string>
   <string name="loading_image_thumbnail">Küçük resim indiriliyor…</string>
   <string name="loading_members">Üyeler yükleniyor</string>
+  <string name="loading_processing_tip">Fotoğraf işleniyor…</string>
   <string name="loading_suspend">İndirme durdu. WLAN kullanılabilir olduğunda devam edecek.</string>
   <string name="loading_thumbnail">Küçük resimler yükleniyor...</string>
   <string name="loading_tip">Bekleyiniz…</string>
@@ -962,6 +964,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="open">Açık</string>
   <string name="open_public_message">Arkadaşlarınızla paylaşmak için bir URL oluşturun</string>
   <string name="open_public_title">Paylaş</string>
+  <string name="operate_processing_file_error">Tüm fotoğraflar işlenene kadar bekleyin.</string>
   <string name="open_single_image_failure">Resim yüklenemedi</string>
   <string name="open_sync_title">Eşitlemeye geç</string>
   <string name="operation_add_album">Albüme ekle</string>
@@ -1137,7 +1140,7 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="picker_select_album_title_empty">Albümü seçin</string>
   <string name="picker_skip_unavailable_images"> &lt;item quantity="one"&gt;Cihazda olmayan bir foto&amp;#287;raf atland&amp;#305;.&lt;/item&gt; &lt;item quantity="other"&gt;Cihazda olmayan %d foto&amp;#287;raf atland&amp;#305;.&lt;/item&gt; </string>
   <string name="picker_tab_photo">Fotoğraf</string>
-  <string name="picker_title_format">%d seçebilirsin</string>
+  <string name="picker_title_format">%d öğeyi seçebilirsiniz</string>
   <string name="picker_title_selection_format">%d seçildi</string>
   <string name="picker_title_specify_format">%d resim seç</string>
   <string name="picker_title_specify_format_one">%d resim seç</string>
