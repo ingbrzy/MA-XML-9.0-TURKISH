@@ -16,6 +16,14 @@
         <item quantity="other">%d ay</item>
         <item quantity="one">%d ay</item>
     </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+         <item quantity="other">"%2$d öğe albüme eklenmedi. %1$s."</item>
+         <item quantity="one">"%2$d öğe albüme eklenmedi. %1$s."</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+         <item quantity="other">"%2$d öğe gizli albüme eklenmedi. %1$s."</item>
+         <item quantity="one">"%2$d öğe gizli albüme eklenmedi. %1$s."</item>
+    </plurals>
     <plurals name="age_day">
         <item quantity="other">%d gün</item>
         <item quantity="one">%d gün</item>
@@ -204,6 +212,10 @@
         <item quantity="other">%d öğe seçildi</item>
         <item quantity="one">%d öğe seçildi</item>
     </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">Fotoğraflar işleniyor…</item>
+        <item quantity="one">Fotoğraf işleniyor…</item>
+    </plurals>
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">"%1$d fotoğraf atlandı, resim oluşturulamadı."</item>
         <item quantity="one">"Bir fotoğraf atlanıldı, resmi oluşturulamadı."</item>
@@ -231,5 +243,13 @@
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">\"%2$s\" için %1$d fotoğraf veritabanı için de eklendi.</item>
         <item quantity="one">\"%2$s\" için %1$d fotoğraf veritabanı için de eklendi.</item>
+    </plurals>
+	<plurals name="send_processing_files_error">
+        <item quantity="other">"Paylaşılamadı. %d fotoğraf halen işleniyor..."</item>
+        <item quantity="one">"Paylaşılamadı. %d fotoğraf halen işleniyor..."</item>
+    </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">"%2$d öğe gizli albümden kaldırılamadı. %1$s."</item>
+        <item quantity="one">"%2$d öğe gizli albümden kaldırılamadı. %1$s."</item>
     </plurals>
 </resources>
