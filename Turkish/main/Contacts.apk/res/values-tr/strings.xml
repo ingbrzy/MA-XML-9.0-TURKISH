@@ -367,6 +367,7 @@ Kartvizitler kapalı"</string>
   <string name="description_minus_button">Eksi</string>
   <string name="description_plus_button">Artı</string>
   <string name="description_quick_contact_for">%1$s için hızlı iletişim</string>
+  <string name="description_quick_dial_button">Hızlı Ara</string>
   <string name="description_search_button">Ara</string>
   <string name="description_send_message">%1$s şahsa mesaj gönder </string>
   <string name="description_send_text_message">%1$s şahsa yazılı mesaj gönder </string>
@@ -426,6 +427,7 @@ Kartvizitler kapalı"</string>
   <string name="dialer_empty_text_loading">Biraz bekleyin...</string>
   <string name="dialer_empty_text_no_call_log">Arama kaydı yok</string>
   <string name="dialer_empty_text_no_search_result">Kişi kaydı yok</string>
+  <string name="dialer_firewall_entry_name">Engelli çağrı günlüğü</string>
   <string name="dialer_menu_description">Menüyü göster</string>
   <string name="dialer_menu_title">Menü Seçenekleri</string>
   <string name="dialer_returnToInCallScreen">Çağrıya dön</string>
@@ -1001,6 +1003,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="path_key_rebuild_t9_index_title">Sistem Uygulamaları/Kişiler/Kişileri Düzenle/İçerik Verisini Yenile</string>
   <string name="path_key_sim_manage">Sistem Uygulamaları/Kişiler/Kişileri Düzenle/SIM Kartlar</string>
   <string name="path_preference_contacts_filter">Sistem Uygulamaları/Kişiler/Kişileri Göster/Kişi Listesini Yapılandır</string>
+  <string name="path_quick_dial_setting">Sistem Uygulamaları/Kişiler/Hızlı Ara</string>
   <string name="path_remove_duplicate">Sistem Uygulamaları/Kişiler/Kişileri Düzenle/Tekrarlanan Kişileri Birleştir</string>
   <string name="path_share_visible_contacts">Sistem Uygulamaları/Kişiler/İçe/Dışa Aktar/Görünür Kişileri Paylaş</string>
   <string name="path_sim_capacity">Sistem Uygulamaları/Kişiler/SIM Kart Depolaması</string>
@@ -1124,6 +1127,12 @@ Favorilerinize bir kişi eklemek için:
   <string name="pull_to_refresh_release_label">Yenilemek için bırakın…</string>
   <string name="qr_card_card">QR Kodu</string>
   <string name="qrcode_card_title">QR Kodu</string>
+  <string name="quick_dial_setting_delete_dialog_message">Atanmış hızlı arama numarası silinsin mi?</string>
+  <string name="quick_dial_setting_delete_dialog_option_delete">Sil</string>
+  <string name="quick_dial_setting_hint">Hızlı arama numarası atamak veya kaldırmak için bir düğmeye dokunun. Aramak için atanmış numaralı düğmeyi basılı tutun.</string>
+  <string name="quick_dial_setting_set_dialog_message">Bu düğmeye hızlı arama numarası atamak mı istiyorsunuz?</string>
+  <string name="quick_dial_setting_set_dialog_option_set">Evet</string>
+  <string name="quick_dial_setting_title">Hızlı Ara</string>
   <string name="qrcode_detail_menu_edit">QR Kodunu Düzenle</string>
   <string name="qrcode_detail_menu_scan">Tara</string>
   <string name="qrcode_editor_flash">QR Kodu güncellendi</string>
@@ -1210,6 +1219,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="search_key_rebuild_t9_index_title">Düzenle;Kişiler;t9</string>
   <string name="search_key_sim_manage">Düzenle;Kişiler</string>
   <string name="search_preference_contacts_filter">Kişiler;Görüntüle</string>
+  <string name="search_quick_dial_setting">Kişiler</string>
   <string name="search_remove_duplicate">Düzenle;Kişiler</string>
   <string name="search_results_searching">Aranıyor...</string>
   <string name="search_settings_description">Kişilerin Adları</string>
@@ -1326,6 +1336,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="starred_contacts">Favoriler</string>
   <string name="status_available">Uygun</string>
   <string name="status_away">Dışarıda</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_busy">Meşgul</string>
   <string name="storage_internal_description">Dahili Depolama</string>
   <string name="storage_sd_card">SD Kart</string>
