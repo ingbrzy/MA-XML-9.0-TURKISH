@@ -46,7 +46,7 @@
   <string name="app_upgrade_version">Güncelleme mevcut</string>
   <string name="app_version">Sürüm</string>
   <string name="app_wifi_mode">Otomatik güncelle</string>
-  <string name="app_wifi_mode_summary">WLAn ağına bağlanıp, uygulama başladığında otomatik olarak uygulamayı güncelle</string>
+  <string name="app_wifi_mode_summary">WLAN ağına bağlanıp, uygulama başladığında otomatik olarak uygulamayı güncelle</string>
   <string name="authenticated_failed">"Oturum açılamadı"</string>
   <string name="authenticating">&lt;CDATA&gt;Doğrulanıyor&amp;#8230;&lt;/CDATA&gt;</string>
   <string name="authenticating_manually">"Doğrulanamadı"</string>
@@ -61,7 +61,7 @@
   <string name="buy_vip">VIP satınal</string>
   <string name="cancel">İptal et</string>
   <string name="cancel_favorite_success">Favoriden çıkart</string>
-  <string name="check_app_version">Güncellemeler dentleniyor…</string>
+  <string name="check_app_version">Güncellemeler denetleniyor...</string>
   <string name="check_network">"Ağa bağlanamadı"</string>
   <string name="clarity_high">Yüksek</string>
   <string name="clarity_standard">Standart</string>
