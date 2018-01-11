@@ -47,6 +47,10 @@
   <string name="authorize_detail">%d engellenmiş uygulamalar</string>
   <string name="auto_clean_switch_off">Kapalı</string>
   <string name="auto_clean_switch_on">Açık</string>
+  <string name="auto_clean_time_every_day">Hergün</string>
+  <string name="auto_clean_time_fifteen_day">Her 15 günde</string>
+  <string name="auto_clean_time_seven_day">Her 7 günde</string>
+  <string name="auto_clean_time_three_day">Her 3 günde</string>
   <string name="auto_cleaner_open">Aç</string>
   <string name="back">Geri</string>
   <string name="browser_scan_history_desc">Tarayıcı Geçmişi</string>
