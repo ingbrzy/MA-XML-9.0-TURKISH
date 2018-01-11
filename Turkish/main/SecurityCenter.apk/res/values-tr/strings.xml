@@ -2321,6 +2321,7 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="sc_allow_network_dialog_message">Bu uygulama normal bir şekilde çalışması için internete bağlı olması gerekiyor.</string>
   <string name="sc_allow_network_dialog_tiltle">"Bu özelliği kullanamazsınız"</string>
   <string name="sc_system_risk_fix_info_xspace">Bunu İkinci Alanda çözemezsiniz. İlk Alanda tekrar deneyin.</string>
+  <string name="sc_warning_updater_not_found">Güncelleme uygulaması bulunamadı. Güncelleme yapılamıyor!</string>
   <string name="scan_installed_games">Yüklü oyunlar denetleniyor…</string>
   <string name="scan_status_risk">Riskli</string>
   <string name="scan_status_safe">Güvenli</string>
