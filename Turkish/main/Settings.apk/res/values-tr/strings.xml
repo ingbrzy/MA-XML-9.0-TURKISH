@@ -853,7 +853,7 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="bluetooth_unlock_delete_device">Bu cihazı sil</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Bu cihaz silinsin mi?</string>
   <string name="bluetooth_unlock_device_matched_text">Kilidi açmak için bu cihazı kullan.</string>
-  <string name="bluetooth_unlock_no_matched_device_yet">Cihazlar bulunmadı</string>
+  <string name="bluetooth_unlock_no_matched_device_yet">Cihaz bulunmadı</string>
   <string name="bluetooth_unlock_settings_devices_title">Cihaz</string>
   <string name="bluetooth_unlock_settings_toggle_title">Uygula:</string>
   <string name="bluetooth_unlock_settings_unlock_device">Cihaz kilidini aç</string>
@@ -4864,7 +4864,7 @@ Güvenli kimlik doğrulamasının bu cihazda yüklü olduğundan emin olun."</st
   <string name="status_bar_settings_custom_wifi_name">WLAN adını düzenle</string>
   <string name="status_bar_settings_enable_notification">Bildirimleri göster</string>
   <string name="status_bar_settings_expandable_under_keyguard">Kilit Ekranda Göster</string>
-  <string name="status_bar_settings_long_click_sort">Bir geçiş ayarlamak için basılı tutun</string>
+  <string name="status_bar_settings_long_click_sort">Bir kısayolu ayarlamak için basılı tutun</string>
   <string name="status_bar_settings_manage_notification">Uygulama Bildirimleri</string>
   <string name="status_bar_settings_no_carrier">Yok</string>
   <string name="status_bar_settings_notification_bar">Bildirim Alanı</string>
