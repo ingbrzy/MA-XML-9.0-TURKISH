@@ -14,7 +14,6 @@
   <string name="btn_stop">Duraklat</string>
   <string name="btn_yes">Evet</string>
   <string name="check_new_version">Denetle</string>
-  <string name="chengelog">%1$s</string>
   <string name="dialog_3g_desc">"ROM'ları indirmek için Mobil Verilerin kullanılmasıyla paketinizin önemli miktarda kota harcayacağını unutmayın."</string>
   <string name="dialog_3g_title">Uyarı!</string>
   <string name="dialog_btn_3g">Yinede Devam Et</string>
