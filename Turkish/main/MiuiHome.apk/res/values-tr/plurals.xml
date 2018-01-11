@@ -23,4 +23,8 @@
         <item quantity="other">%1$d duvar kağıdı silinsin mi?</item>
         <item quantity="one">%1$d duvar kağıdı silinsin mi?</item>
     </plurals>
+	<plurals name="announce_for_drag">
+        <item quantity="other">%1$d öğe sürükleniyor</item>
+        <item quantity="one">sürükleniyor</item>
+    </plurals>
 </resources>
