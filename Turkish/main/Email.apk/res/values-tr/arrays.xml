@@ -47,8 +47,8 @@
         <item>Tüm Klasörler</item>
     </string-array>
     <string-array name="prefEntries_autoAdvance">
-        <item>Yeni Postalar</item>
-        <item>Eski Postalar</item>
+        <item>Yeni Posta</item>
+        <item>Eski Posta</item>
         <item>Gelen Kutusu</item>
     </string-array>
     
