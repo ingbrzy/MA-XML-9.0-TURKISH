@@ -166,7 +166,6 @@
   <string name="connecting_apk">Bağlanıyor...</string>
   <string name="continue_backup">Devam</string>
   <string name="cp_info_first">Akış servisi Ultimate A.Ş. tarafından sağlanmaktadır</string>
-  <string name="cp_info_second">service1@ultimobi.com</string>
   <string name="create_order_fail">"Sipariş oluşturulamadı, yeniden deneyin."</string>
   <string name="create_playlist">Oynatma listesi oluştur</string>
   <string name="create_playlist_failure">"Liste oluşturulamadı"</string>

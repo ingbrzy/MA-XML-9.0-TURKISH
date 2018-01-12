@@ -506,7 +506,6 @@
   <string name="cell_broadcast_sms">Hücresel SMS Yayını</string>
   <string name="cellular_only">Sadece Hücresel</string>
   <string name="cellular_preferred">Tercih Edilen Hücresel</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="cf_mobile_date">Lütfen mobil veriyi açın ve WLAN bağlantısının kapalı olduğundan emin olun.</string>
   <string name="cf_setting_mobile_data_alert">"Lütfen mobil veriyi açın ve WLAN'ın kapalı olduğundan emin olun"</string>
   <string name="cf_setting_mobile_data_roaming_alert">Lütfen veri dolaşımını aç</string>
@@ -1853,7 +1852,6 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="setting_duration_other_prompt">Uluslararası arama ücretlerini kontrol et</string>
   <string name="setting_duration_title">Kalan Süre: </string>
   <string name="settings_label">Ağ Ayarları</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="show_all_anrs">"Tüm ANR'leri göster"</string>
   <string name="show_all_anrs_summary">Arkaplandaki uygulamalar için Uygulama Cevap Vermiyor diyaloğunu göster</string>
   <string name="show_cpu_usage">CPU kullanımı göster</string>

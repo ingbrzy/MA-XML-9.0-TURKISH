@@ -197,14 +197,12 @@
   <string name="cancel">İptal</string>
   <string name="category_personal">Kişisel</string>
   <string name="category_work">İş</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="charge_length_format">%1$s önce</string>
   <string name="chooseUsbActivity">USB cihazı için uygulama seçin</string>
   <string name="choose_profile">Profil seç</string>
   <string name="clear_adb_keys">USB Hata Ayıklama yetkilerini iptal et</string>
   <string name="click_expand">Genişletmek için dokunun</string>
   <string name="click_to_return_multi_window">Bölünmüş ekrana dönmek için dokunun</string>
-  <string name="config_systemUIFactoryComponent">com.android.systemui.SystemUIFactory</string>
   <string name="confirm_enable_oem_unlock_text">UYARI: Bu ayar açıkken, cihaz koruma özellikleri bu cihazda çalışmaz.</string>
   <string name="confirm_enable_oem_unlock_title">"OEM'in kilidini açmasına izin verilsin mi?"</string>
   <string name="connected_via_passpoint">%1$s ile bağlandı</string>
@@ -572,7 +570,6 @@ Daha fazla bilgi için, yöneticinize başvurun."</string>
   <string name="select_webview_provider_title">WebView uygulaması</string>
   <string name="select_webview_provider_toast_text">Bu seçim artık geçerli değil. Tekrar dene.</string>
   <string name="settings_custom_notification">Bildirimleri yönet</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="settings_toggle_position">Geçişleri yönet</string>
   <string name="settings_toggle_position_divider_list">Bu çubuğunun üzerindeki geçişler etkin</string>
   <string name="settings_toggle_position_divider_page">Bar üzerine yerleştirilen %1$d geçiş etkin</string>

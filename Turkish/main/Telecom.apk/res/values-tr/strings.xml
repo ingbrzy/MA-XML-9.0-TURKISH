@@ -174,7 +174,6 @@
   <string name="can_not_dial_while_vt_prompt">"Görüntülü çağrıdayken arama yapılamaz"</string>
   <string name="category_personal">Kişisel</string>
   <string name="category_work">İş</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change_default_dialer_dialog_affirmative">Varsayılanı Ayarla</string>
   <string name="change_default_dialer_dialog_negative">İptal</string>
   <string name="change_default_dialer_dialog_title">Varsayılan arayıcı uygulaması değiştirilsin mi?</string>
@@ -453,7 +452,6 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="select_webview_provider_dialog_title">WebView uygulamasını ayarla</string>
   <string name="select_webview_provider_title">WebView uygulaması</string>
   <string name="select_webview_provider_toast_text">Bu seçim artık geçerli değil. Tekrar dene.</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="show_all_anrs">"Tüm ANR'leri göster"</string>
   <string name="show_all_anrs_summary">Arkaplandaki uygulamalar için Uygulama Cevap Vermiyor diyaloğunu göster</string>
   <string name="show_cpu_usage">CPU kullanımı göster</string>

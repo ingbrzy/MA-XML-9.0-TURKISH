@@ -1021,7 +1021,6 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="cellular_to_wlan_hint_title">Hücresel-&gt;WLAN İpucu</string>
   <string name="cellular_to_wlan_hint_toast">Hücresel-&gt;WLAN bağlantısı etkilenebilir</string>
   <string name="cellular_to_wlan_title">Hücresel-&gt;WLAN</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change">Değiştir</string>
   <string name="change_password">Ekran kilidini değiştir</string>
   <string name="change_security_lock">Kilidini açmak için başka yollar deneyin</string>
@@ -4571,7 +4570,6 @@ Not: Parmakiziniz, güçlü bir desen veya PIN'den daha az güvende olabilir. "&
   <string name="settings_license_activity_unavailable">Lisansın yüklenmesinde bir problemle karşılaşıldı.</string>
   <string name="settings_manual_activity_title">Elle</string>
   <string name="settings_manual_activity_unavailable">Yüklemede bir problem oldu.</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="settings_safetylegal_activity_loading">Yükleniyor...</string>
   <string name="settings_safetylegal_activity_title">Güvenlik Bilgisi</string>
   <string name="settings_safetylegal_activity_unreachable">"Bir veri bağlantısı yok. Şimdi bu bilgiyi görüntüle, internet için herhangi bilgisayardan %s gidin."</string>

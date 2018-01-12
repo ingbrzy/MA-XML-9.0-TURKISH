@@ -143,7 +143,6 @@
   <string name="cancel">İptal</string>
   <string name="category_personal">Kişisel</string>
   <string name="category_work">İş</string>
-  <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="charge_length_format">%1$s önce</string>
   <string name="choose_profile">Profil seç</string>
   <string name="clear_adb_keys">USB Hata Ayıklama yetkilerini iptal et</string>
@@ -499,7 +498,6 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="select_webview_provider_title">WebView uygulaması</string>
   <string name="select_webview_provider_toast_text">Bu seçim artık geçerli değil. Tekrar dene.</string>
   <string name="settings">Ayarlar</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="show_all_anrs">"Tüm ANR'leri göster"</string>
   <string name="show_all_anrs_summary">Arkaplandaki uygulamalar için Uygulama Cevap Vermiyor diyaloğunu göster</string>
   <string name="show_cpu_usage">CPU kullanımı göster</string>

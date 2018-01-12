@@ -579,7 +579,6 @@
   <string name="inline_picture_deleted">Eksik resim indiriliyor...</string>
   <string name="input_password_prompt">Şifreni gir</string>
   <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
-  <string name="intent_exchange_package">com.android.exchange</string>
   <string name="interact_with_server_error">"Sunucuya bağlanamadı"</string>
   <string name="invalid_recipient"> %s adresi geçersiz.</string>
   <string name="invalid_recipient_title">Alıcı Hatası</string>

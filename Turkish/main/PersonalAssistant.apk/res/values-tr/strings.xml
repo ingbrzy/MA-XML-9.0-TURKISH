@@ -519,7 +519,6 @@
   <string name="express_goods_detail">Sipariş Detayı</string>
   <string name="express_icon_tip">Hızlı teslimat takibi bilgilerini telefon numaranızı ve sipariş bilgisini kullanarak alın.</string>
   <string name="express_icon_tip_link">Güvenlik &amp; Gizlilik</string>
-  <string name="express_info_divider">" / "</string>
   <string name="express_inqiury_select_logistics">Operatör Hizmeti</string>
   <string name="express_inquiry">Takipte</string>
   <string name="express_inquiry_and_send">Takip et ve Gönder</string>
@@ -583,7 +582,6 @@ Check takip edilemiyor."</string>
   <string name="express_order_failed">Başarısız</string>
   <string name="express_order_ongoing">Sipariş ediliyor…</string>
   <string name="express_order_result">Sonuç</string>
-  <string name="express_order_state">%1$s / %2$s</string>
   <string name="express_order_state_accepted">Kabul edildi</string>
   <string name="express_order_state_allograph">İmzalandı</string>
   <string name="express_order_state_cancelled">İptal edildi</string>
@@ -997,7 +995,6 @@ Check takip edilemiyor."</string>
   <string name="mini_safe_no">安全码</string>
   <string name="mini_safe_no_hint">卡背面末三位数字</string>
   <string name="mini_start_download">开始下载...</string>
-  <string name="mini_str_null">xx</string>
   <string name="mini_temp_support_xiaomi">暂时仅支持小米手环</string>
   <string name="mini_to_open">去开通</string>
   <string name="mini_to_open_error">指纹采集软件启动异常，请检查</string>
@@ -1262,7 +1259,6 @@ Check takip edilemiyor."</string>
   <string name="pie_chart_label_catering">Gıda:</string>
   <string name="pie_chart_label_education">Eğitim:</string>
   <string name="pie_chart_label_entertainment">Eğlence:</string>
-  <string name="pie_chart_label_format">%1$s %2$s%%</string>
   <string name="pie_chart_label_go_dutch">Alman Usulü:</string>
   <string name="pie_chart_label_life">Hayat:</string>
   <string name="pie_chart_label_medical">Sağlık:</string>
@@ -1271,7 +1267,6 @@ Check takip edilemiyor."</string>
   <string name="pie_chart_label_remain">Kalan:</string>
   <string name="pie_chart_label_remittance">Havale:</string>
   <string name="pie_chart_label_shopping">Alışveriş:</string>
-  <string name="pie_chart_label_special">%1$s &lt;0.01%%</string>
   <string name="pie_chart_label_spending">Ödemeler:</string>
   <string name="pie_chart_label_telephone_charge">İletişim:</string>
   <string name="pie_chart_label_tenement">Kira:</string>
