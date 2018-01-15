@@ -1,5 +1,5 @@
 
-# ![logo](https://i.imgur.com/btvipaY.png) (https://xiaomi.eu/)
+[![MIUI8 logo](https://i.imgur.com/btvipaY.png)](https://xiaomi.eu/)
 MIUI V9.3.X Turkish Translation
 
 [![Issue Stats](https://github.com/ingbrzy/MA-XML-9.0-TURKISH/issues)]
