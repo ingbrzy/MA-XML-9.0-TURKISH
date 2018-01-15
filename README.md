@@ -1,6 +1,6 @@
 
-# ![logo](https://camo.githubusercontent.com/3ab748b1e78c6af721aaf4ecbe6443990add4f42/687474703a2f2f692e696d6775722e636f6d2f386d4876514e772e706e67) 
-MIUI V9.XX Turkish Translation
+# ![logo](https://i.imgur.com/btvipaY.png) (https://xiaomi.eu/)
+MIUI V9.3.X Turkish Translation
 
 [![Issue Stats](https://github.com/ingbrzy/MA-XML-9.0-TURKISH/issues)]
 
@@ -14,7 +14,7 @@ Orhan ÇAKMAK (raoc999) :: raocakmak@gmail.com
 
 ## Reporting issues
 
-Use the [Github Issue tracker](https://github.com/ingbrzy/MA-XML-9.0-TURKISH/issues) to report a bug or the following [forum thread](http://xiaomi.eu/community/) and [Turkish Forum] (http://forum.miuiturkiye.net/).
+Use the [Github Issue tracker](https://github.com/ingbrzy/MA-XML-9.0-TURKISH/issues) to report a bug or the following [forum thread](http://xiaomi.eu/community/)
 
 
 ## Current improvements
@@ -24,11 +24,11 @@ Use the [Github Issue tracker](https://github.com/ingbrzy/MA-XML-9.0-TURKISH/iss
 * Spelling errors corrected
 * MiPAD language translation added
 * Some of the problems have been fixed
-* Mi Band, All of Xiaomi phones etc...
+* All of Xiaomi phones etc...
 
 ## Changes will be added
 
-* This is MIUI 9 Turkish Language Project supported all of models...
+* This is MIUI 9.3 Turkish Language Project supported all of models...
 
 Check [Contributing to a project](https://guides.github.com/activities/forking) for further informations.
 
