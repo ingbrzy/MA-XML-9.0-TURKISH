@@ -52,8 +52,8 @@
         <item quantity="one">Klasör değişti.</item>
     </plurals>
     <plurals name="conversation_msg_header_count">
-        <item quantity="other">%1$d kişi</item>
-        <item quantity="one">%1$d kişi</item>
+        <item quantity="other">%1$d diğer kişi</item>
+        <item quantity="one">%1$d diğer kişi</item>
     </plurals>
     <plurals name="conversation_muted">
         <item quantity="other">&lt;b>%1$d&lt;/b> sessizde.</item>
@@ -128,12 +128,8 @@
         <item quantity="many">%d seçildi</item>
     </plurals>
     <plurals name="show_messages_read">
-        <item quantity="other">%1$d eski içerik</item>
-        <item quantity="zero">%1$d eski içerik</item>
-        <item quantity="one">%1$d older message</item>
-        <item quantity="two">%1$d eski içerik</item>
-        <item quantity="few">%1$d eski içerik</item>
-        <item quantity="many">%1$d eski içerik</item>
+        <item quantity="other">%1$d eski posta</item>
+        <item quantity="one">%1$d eski posta</item>
     </plurals>
     <plurals name="actionbar_large_unread_count">
         <item quantity="other">%1$d okunmamış</item>
@@ -148,8 +144,8 @@
         <item quantity="one">Eşitlenmiş posta içinde %s sonuç</item>
     </plurals>
     <plurals name="more_atts_remaining">
-        <item quantity="other">%1$d kaldı</item>
-        <item quantity="one">%1$d kaldı</item>
+        <item quantity="other">%1$d ek kaldı</item>
+        <item quantity="one">%1$d ek kaldı</item>
     </plurals>
     <plurals name="new_messages">
         <item quantity="other">%1$d yeni posta</item>
@@ -160,11 +156,11 @@
         <item quantity="one">%1$d kişi için cevapla</item>
     </plurals>
     <plurals name="remote_search_result">
-        <item quantity="other">Sunucuda %s sonuç</item>
-        <item quantity="one">Sunucuda %s sonuç</item>
+        <item quantity="other">Tüm hesaplarda %s sonuç</item>
+        <item quantity="one">Tüm hesaplarda %s sonuç</item>
     </plurals>
     <plurals name="unsent_messages_in_outbox">
-        <item quantity="other">%2$s içinde %1$s gönderilmedi </item>
-        <item quantity="one">%2$s içinde %1$s gönderilmedi</item>
+        <item quantity="other">%2$s içinde %1$s posta gönderilmedi </item>
+        <item quantity="one">%2$s içinde %1$s posta gönderilmedi</item>
     </plurals>
 </resources>
