@@ -1199,14 +1199,10 @@ Check takip edilemiyor."</string>
   <string name="payment_clear_records_failed">"Ödeme geçmişi temizlenemedi"</string>
   <string name="payment_clear_records_success">Ödeme geçmişi temizlendi</string>
   <string name="payment_date_time_picker_dialog_title">Tarih ve Zamanı ayarla</string>
-  <string name="payment_dialog_chooser_cancel">İptal et</string>
-  <string name="payment_dialog_chooser_message_footer">"Not: Tüm ödeme bilgileri telefonunuzda güvenli bir şekilde saklanır. Mi Bulut ile eşitlenmez veya başka bir şekilde kullanılamaz."</string>
-  <string name="payment_dialog_chooser_message_header"> \"Ödemelerim\" kaynağını seçin</string>
-  <string name="payment_dialog_chooser_ok">Açık</string>
-  <string name="payment_dialog_chooser_title">Ödemelerim</string>
-  <string name="payment_dialog_chooser_toast">En az bir kaynak seç</string>
-  <string name="payment_dialog_notice_ok">Anladım</string>
-  <string name="payment_dialog_notice_title">Uyarı</string>
+  <string name="payment_dialog_notice_message">因微信客户端限制，自动记账功能在微信内将无法使用，您可以手动添加微信的支出信息。其他应用内的自动记账功能仍可继续使用。</string>
+  <string name="payment_dialog_notice_message_inside">因微信客户端限制，自动记账功能在微信内将无法使用，您可以手动添加微信的支出信息。</string>
+  <string name="payment_dialog_notice_ok">我知道了</string>
+  <string name="payment_dialog_notice_title">自动记账说明</string>
   <string name="payment_guide_hint">Mesajlaşma ve diğer uygulamalardan ödeme bilgisi toplayın.</string>
   <string name="payment_guide_hint_link">Güvenlik &amp; Gizlilik</string>
   <string name="payment_method_alipay">Alipay</string>
@@ -1259,7 +1255,7 @@ Check takip edilemiyor."</string>
   <string name="payment_upload_data_fail">Veri yüklenemedi</string>
   <string name="payment_upload_data_no_data">Yüklenecek veri yok</string>
   <string name="payment_upload_data_success">Veri başarıyla yüklendi</string>
-  <string name="payment_user_notice_bar_text">\"Ödemelerim\" Hakkında</string>
+  <string name="payment_user_notice_bar_text">\"Otomatik Ödeme\" Hakkında</string>
   <string name="personalAssistant_mainpage">Ana Sayfa</string>
   <string name="pie_chart_label_atm">ATM para çekme işlemleri:</string>
   <string name="pie_chart_label_catering">Gıda:</string>
