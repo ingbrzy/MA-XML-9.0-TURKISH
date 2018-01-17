@@ -25,6 +25,31 @@
         <item>"Neden sadece A/C açıp/kapatabiliyorum?"</item>
         <item>Mi 3, Mi 2 ve Redmi IR uzaktan kumandasını kullanabilir miyim?</item>
     </string-array>
+    <string-array name="voice_ac_help">
+        <item>"Oturma odasında Haier AC'yi aç"</item>
+        <item>Sıcaklığı 25 dereceye ayarla</item>
+        <item>Rüzgar yönünü \"Yukarı\" ayarla</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>"Gree AC'yi aç"</item>
+        <item>Salınım moduna geç</item>
+        <item>AC darbesini zorla</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Uydu alıcısını aç</item>
+        <item>"Hunan TV'yi izlemek istiyorum"</item>
+        <item>"Kanal 15'e geri dön"</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>"AC'yi aç"</item>
+        <item>"Shenzhen TV'yi izlemek istiyorum"</item>
+        <item>"Kanal 12'ye geri dön"</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>"Yatak odasında ki TV'yi aç"</item>
+        <item>Televizyonu kapat</item>
+        <item>"TV'deki sesi yükselt"</item>
+    </string-array>
     <string-array name="assistant_tab">
         <item>Video</item>
         <item>Ekran Görüntüleri</item>
@@ -45,6 +70,61 @@
         <item>Uydu TV Kanalı</item>
         <item>HD Kanalları</item>
         <item>Geçmişte İzlenen</item>
+    </string-array>
+    <string-array name="epg_channel_tab_actionbar_v53">
+        <item>Tüm Kanallar</item>
+        <item>Önceden izlenen</item>
+        <item>HD Kanallar</item>
+        <item>TV Kanalları</item>
+        <item>CCTV Kanalları</item>
+    </string-array>
+    <string-array name="epg_channel_tab_v53">
+        <item>Tümü</item>
+        <item>TV</item>
+        <item>CCTV</item>
+        <item>HD</item>
+        <item>Geçmiş</item>
+    </string-array>
+    <string-array name="epg_default_hot_channels">
+        <item>Hunan TV</item>
+        <item>CCTV-6</item>
+        <item>Zhejiang TV</item>
+        <item>CCTV-5</item>
+        <item>CCTV-3</item>
+        <item>Dragon TV</item>
+        <item>Anhui TV</item>
+        <item>Beijing TV</item>
+        <item>Guangdong TV</item>
+    </string-array>
+    <string-array name="epg_program_genre">
+        <item></item>
+        <item></item>
+        <item>Eğlence</item>
+        <item></item>
+        <item>Spor</item>
+        <item>Çocuk</item>
+        <item>Haberler</item>
+        <item>Hayat Tarzı</item>
+    </string-array>
+    <string-array name="epg_program_tab">
+        <item>Popüler</item>
+        <item>Filmler</item>
+        <item>Eğlence</item>
+        <item>TV Şovları</item>
+        <item>Spor</item>
+        <item>Çocuk</item>
+        <item>Haberler</item>
+        <item>Hayat Tarzı</item>
+    </string-array>
+    <string-array name="epg_program_tab_actionbar">
+        <item>Popüler Şovlar</item>
+        <item>Filmler</item>
+        <item>Eğlence Programları</item>
+        <item>TV Şovlar</item>
+        <item>Spor</item>
+        <item>Çocuk</item>
+        <item>Haberler</item>
+        <item>Hayat Tarzı</item>
     </string-array>
     <string-array name="passport_alphabet_table">
         <item>\#</item>
@@ -74,5 +154,9 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
+    </string-array>
+    <string-array name="user_notification_tab">
+        <item>\@与我相关</item>
+        <item>系统通知</item>
     </string-array>
 </resources>
