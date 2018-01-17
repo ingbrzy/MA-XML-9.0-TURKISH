@@ -369,7 +369,7 @@ Lütfen, %d saniye sonra tekrar deneyin."</string>
   <string name="wday_month_year_day" formatted="false">%s, %s %s %s</string>
   <string name="wday_year_day_month" formatted="false">%s, %s %s %s</string>
   <string name="wday_year_month_day" formatted="false">%s, %s %s %s</string>
-  <string name="wfc_403_auth_scheme_unsupported">Hata403: authentication scheme unsupported</string>
+  <string name="wfc_403_auth_scheme_unsupported">Hata403: kimlik doğrulama şeması desteklenmiyor</string>
   <string name="wfc_403_handset_blacklisted">Hata403: Engelli Listesinde</string>
   <string name="wfc_403_mismatch_identities">Hata403: Kimlikler eşleştirilemedi</string>
   <string name="wfc_403_roaming_not_allowed">Hata403: Dolaşım izni yok</string>
