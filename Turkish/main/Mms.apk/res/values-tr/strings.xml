@@ -91,7 +91,8 @@
   <string name="confirm_export_dialog_description">Bu kişiyle geçmiş görüşmeler artık gizli olacak.</string>
   <string name="confirm_export_dialog_title">Özel kişilerden kaldır</string>
   <string name="confirm_no_block_positive">Engeli kaldır</string>
-  <string name="confirm_no_block_title">Bu numara Engelli Listesinden kaldırılıp gönderilen tüm mesajlar yeniden geri yüklensin mi?</string>
+  <string name="confirm_no_block_title">Bu numaradan gönderilen tüm mesajların engelleri kaldırılıp, geri yüklensin mi?
+  Numara istisnalara eklenecek.</string>
   <string name="confirm_rate_limit">Çok sayıda MMS gönderilecek. Onaylıyor musunuz.?</string>
   <string name="confirm_restore_all_title">Bu numaranın tüm mesajları geri yüklensin mi?</string>
   <string name="confirm_restore_checkbox">Engellenen mesajları geri yükle</string>
