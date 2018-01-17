@@ -68,6 +68,7 @@ daima görüntüleyebilirsiniz"</string>
   <string name="delete_phone_fingerprint">İkinci Alan parmakizini sil</string>
   <string name="delete_src_file">Dosyaları sil</string>
   <string name="delete_src_photo">Fotoğrafları sil</string>
+  <string name="dialog_title">Dikkat</string>
   <string name="dir_switch_out_all_photos">İkinci Alan Galerisi</string>
   <string name="disable">Kapalı</string>
   <string name="do_not_ask">"Tekrar sorma"</string>
@@ -314,6 +315,7 @@ Güncelleme yapmazsanız, ikili uygulamalar da düzgün çalışmayabilir."</str
   <string name="wating">Biraz bekleyin…</string>
   <string name="weibo_send">Weibo için gönder</string>
   <string name="weixin_pay">WeChat Ödemesi</string>
+  <string name="weixin_share_sign">Oturum aç ve paylaş</string>
   <string name="weixin_share">WeChat Anları</string>
   <string name="xpsace_guide_button">Oluştur</string>
   <string name="xspace_account">Klonlu Uygulama Hesabı</string>
@@ -321,6 +323,9 @@ Güncelleme yapmazsanız, ikili uygulamalar da düzgün çalışmayabilir."</str
   <string name="xspace_creating">Klonlu Uygulama oluşturuluyor…</string>
   <string name="xspace_default_app_summary">Ödemeler, paylaşım, sık kullanılanlar ve daha fazlası için varsayılan uygulamayı ayarlayın.</string>
   <string name="xspace_default_app_title">Varsayılan Uygulama</string>
+  <string name="xspace_default_guide_notification_content">Değiştirmek için dokunun</string>
+  <string name="xspace_default_guide_notification_main_title">Varsayılan uygulamayı kullan</string>
+  <string name="xspace_default_guide_notification_xspace_title">Klonlu uygulamayı kullan</string>
   <string name="xspace_default_setting_dialog_title">Varsayılan</string>
   <string name="xspace_default_setting_label">Varsayılan Uygulama</string>
    <string name="xspace_description">"Klonlu uygulamaların kopyaları farklı hesap kullanır.
