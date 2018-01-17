@@ -30,9 +30,9 @@
   <string name="downloading">İndiriliyor...</string>
   <string name="downloading_in_3g">3G üzerinden indiriliyor…</string>
   <string name="downloading_in_wifi">İndiriliyor…</string>
-  <string name="drive_low_memory_description_content">Cep telefonu depolama alanı yetersiz, daha fazla alan kazanmak için telefondaki çöpleri silin?</string>
-  <string name="drive_low_memory_description_title">Düşük Hafıza Uyarısı</string>
-  <string name="drive_low_memory_description_toast">"Cep telefonu depolama alanı yetersiz, lütfen MiDrive'ı kullandıktan sonra temizleyin"</string>
+  <string name="drive_low_memory_description_content">Yetersiz depolama alanı nedeniyle Mi Drive kullanamıyor.</string>
+  <string name="drive_low_memory_description_title">Yetersiz Depolama</string>
+  <string name="drive_low_memory_description_toast">"Yetersiz depolama alanı nedeniyle Mi Drive kullanamıyor. Alanı boşaltın ve tekrar deneyin."</string>
   <string name="drive_low_memory_positive_content">Temizle</string>
   <string name="empty_file_download">"Boş dosyalar desteklenmiyor."</string>
   <string name="empty_file_upload">"Boş dosyalar desteklenmiyor."</string>
