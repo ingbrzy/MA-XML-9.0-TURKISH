@@ -2325,7 +2325,7 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="launch_recents">Geçmişi başlat</string>
   <string name="launch_voice_assistant">Sesli Yardımcıyı başlat</string>
   <string name="launcher_auto_fill_empty_title">Boş Hücreleri Doldur</string>
-  <string name="launcher_title">Ana Ekran & Geçmiş</string>
+  <string name="launcher_title">Ana Ekran &amp; Geçmiş</string>
   <string name="launching_cit">CIT Başlatılıyor</string>
   <string name="launching_pho">Telefon bilgisi başlatılıyor, lütfen bekleyin...</string>
   <string name="launching_rep">Raporlanıyor…</string>
