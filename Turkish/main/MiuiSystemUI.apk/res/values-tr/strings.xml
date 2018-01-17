@@ -418,7 +418,7 @@ Daha fazla bilgi için, yöneticinize başvurun."</string>
   <string name="monitoring_title_device_owned">Cihaz Yönetimi</string>
   <string name="mount_storage">Evet</string>
   <string name="nav_guide_cancel">Yoksay</string>
-  <string name="nav_guide_message">Ayarlardan sonra ekran düğmelerinin hareketlerini gizleyip/açabilirsiniz.</string>
+  <string name="nav_guide_message">Ekran düğmelerini gizlemek/göstermek için hareketleri kullanın.</string>
   <string name="nav_guide_ok">Ayarlar</string>
   <string name="nav_guide_title">Ekran düğmelerini gizle</string>
   <string name="no_application">Hiçbir şey</string>
