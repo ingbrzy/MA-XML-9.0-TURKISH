@@ -2,6 +2,7 @@
 <resources>
   <string name="app_info">Kayıtı durdurmak için dokunun</string>
   <string name="app_name">Ekran Kaydedici</string>
+  <string name="app_notification_info">Ekran Kaydedici arkaplanda çalışıyor</string>
   <string name="app_notification_title">Ekran Kaydedici</string>
   <string name="auto_stop_title">Video başarıyla kaydedildi</string>
   <string name="battery_not_allowed" formatted="false">"Pil %3'den daha düşük olduğunda kaydedilemiyor. Pilin en az %20 oranında şarj edilmiş olduğundan emin olun."</string>
@@ -37,7 +38,7 @@
   <string name="low_battery">Kayda başlamadan önce telefonunuzu şarj edin</string>
   <string name="low_battery_title">Düşük pil</string>
   <string name="low_battery_warning">Pil çok düşük. Kayıt durduruldu ve video kaydedildi.</string>
-  <string name="low_memory">"200 MB'tan daha az kullanılabilir depolama alanınız var. Şimdi 5 dakikaya kadar kayıt yapabilirsiniz."</string>
+  <string name="low_memory">"1GB'tan daha az kullanılabilir depolama alanınız var. 20 dakikaya kadar kayıt yapabilirsiniz."</string>
   <string name="low_memory_dior">"Depolamada 500MB'tan az yer kaldı. Şimdilik 12 dakikayı kaydedebilirsiniz.</string>
   <string name="low_memory_title">Yeterli depolama alanı yok</string>
   <string name="low_momery_warning">Yeterli depolama alanı yok. Kayıt durduruldu ve video kaydedildi.</string>
@@ -50,7 +51,8 @@
   <string name="operation_send">Gönder</string>
   <string name="quit_recording">Ekran Kaydediciden Çık</string>
   <string name="recording_failure">Kaydedilemedi, yeniden başlayın</string>
-  <string name="recording_max_size">Video limiti aşıldığı için kayıt durduruldu ve video kaydedildi. Kaydiniz bitmemişse kaldığınız yerden kayda başlayabilirsiniz.</string>
+  <string name="recording_max_size">"Video dosyası boyut sınırına ulaştığından kayıt durduruldu ve kaydedildi. Henüz bitirmediyseniz, bıraktığınız yerden kayıdı başlatın."</string>
+  <string name="recording_without_mic">Mikrofon dondu ve mikrofon sesi kaydedilemiyor</string>
   <string name="resolution">Çözünürlük</string>
   <string name="resolution_summary">Daha yüksek çözünürlüklü videolar daha keskin görünür</string>
   <string name="screen_orientation">Döndür</string>
