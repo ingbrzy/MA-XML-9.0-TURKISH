@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="agree">Kabul et</string>
+  <string name="app_label">Ağ Konumu</string>
+  <string name="disagree">Reddet</string>
+  <string name="location_warning_do_not_show_again">"Tekrar gösterme"</string>
+  <string name="location_warning_message">"AutoNavi'nin konum servisinin anonim konum verilerini toplamasına izin verin. Bazı veriler cihazınızda saklanabilir ve hiçbir uygulama çalışmadığında bile koleksiyon oluşabilir."</string>
+  <string name="location_warning_title">Konum Onayı</string>
+  <string name="persmission_close">Kapat</string>
+  <string name="persmission_message">Düzgün çalışması için bu hizmet ek izinler gerektirir. Lütfen istendiğinde izin verin.</string>
+  <string name="persmission_message2">Düzgün çalışması için bu hizmetin deponuza erişmesi gerekir. Lütfen sorulduğunda izin verin.</string>
+  <string name="persmission_message3">Düzgün çalışması için bu hizmetin bulunduğunuz yere erişmesi gerekir. Lütfen sorulduğunda izin verin.</string>
+  <string name="persmission_message4">Düzgün çalışması için bu servisin Telefonunuza erişmesi gerekiyor. Lütfen sorulduğunda izin verin.</string>
+  <string name="persmission_message5">"Düzgün çalışması için bu hizmet ek izinler gerektirir. Ağ Konumu izinlerini Ayarlar'dan yönetebilirsiniz"</string>
+  <string name="persmission_message6">"Düzgün çalışması için, bu hizmetin Konumunuza erişmesi gerekiyor. Ağ Konumları izinlerini Ayarlar'dan yönetebilirsiniz."</string>
+  <string name="persmission_message7">"Düzgün çalışması için bu servisin Telefonunuza erişmesi gerekiyor. Ağ Konumları izinlerini Ayarlar'dan yönetebilirsiniz."</string>
+  <string name="persmission_message8">"Düzgün çalışması için bu hizmetin deponuza erişmesi gerekir. Ağ Konumu izinlerini Ayarlar'dan yönetebilirsiniz."</string>
+  <string name="persmission_notification_text">İzin vermek için dokunun</string>
+  <string name="persmission_notification_title">Ağ Konumu izin gerektiriyor</string>
+  <string name="persmission_ok">Tamam</string>
+  <string name="persmission_settings">Ayarlar</string>
+</resources>
