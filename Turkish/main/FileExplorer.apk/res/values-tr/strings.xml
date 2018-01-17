@@ -21,7 +21,7 @@
   <string name="already_liked">"Zaten bu öğeyi beğenildi"</string>
   <string name="apk_installing">正在安装...</string>
   <string name="already_signin_description">"Bugün zaten kontrol ettiniz."</string>
-  <string name="app_name">Dosyalar</string>
+  <string name="app_name">Mi Dosya Yöneticisi</string>
   <string name="app_name_bluetooth">Bluetooth</string>
   <string name="app_name_camera">Kamera</string>
   <string name="app_name_downloadedrom">Paketler</string>
@@ -173,7 +173,7 @@
   <string name="data_consumption_checkbox_hint">"Tekrar gösterme"</string>
   <string name="data_consumption_confirm">Tamam</string>
   <string name="data_consumption_message">Bu uygulamanın normal bir şekilde çalışması için WLAN kullanarak internete bağlanması gerekiyor.</string>
-  <string name="data_consumption_message1">Popüler etiketleri ve videoları görüntüleyebilmek için cihazın internete bağlanması gerekiyor.</string>
+  <string name="data_consumption_message1">Mi Dosya Yöneticisi, popüler videoları ve etiketleri hazırlamak için internete bağlanmalıdır.</string>
   <string name="data_consumption_title">İnternet Bağlantısı</string>
   <string name="decompress_cancel">İptal</string>
   <string name="decompress_confirm">Ayrıştır</string>
@@ -244,7 +244,7 @@
   <string name="encrypt_error">"Dosyalar gizlenemedi, tekrar deneyin"</string>
   <string name="encrypt_prefix">GİZLİ</string>
   <string name="encrypt_success">Başarıyla gizlendi</string>
-  <string name="encrypt_success_first_five">"Şifrele ve dosyayı gizle. Gezginin başlangıç sayfasından aşağı çekerek gizli dosyaları görebilirsiniz."</string>
+  <string name="encrypt_success_first_five">"Şifrele ve dosyayı gizle. Mi Dosya Yöneticisinin başlangıç sayfasından aşağı çekerek gizli dosyaları görebilirsiniz."</string>
   <string name="encrypting">Şifreleniyor…</string>
   <string name="error_contains_sharer_path">/MIUI/Gallery/cloud/sharer klasöründeki dosyaların şifreleri çözülemiyor. Dosyaları başka bir konuma taşıdıktan sonra yeniden deneyin</string>
   <string name="error_create_dir">"Dizin oluşturulamadı"</string>
@@ -476,7 +476,7 @@ Sunucumuz şu anda çalışmıyor. Rahatsızlıktan dolayı özür dileriz. "</s
   <string name="more_hot_text">更多热门</string>
   <string name="move_failed">"Kesilemiyor"</string>
   <string name="move_failed_retry">"Kesilemiyor, %1$s bekleyin ve yeniden deneyin"</string>
-  <string name="move_icon_to_desktop_hint">Gezginin daha verimli dosyaları yönetmesi için ana ekrana kısayolunu oluşturun.</string>
+  <string name="move_icon_to_desktop_hint">Mi Dosya Yöneticisinin daha verimli dosyaları yönetmesi için ana ekrana kısayolunu oluşturun.</string>
   <string name="move_icon_to_desktop_success">Kısayol Ana Ekrana eklendi.</string>
   <string name="move_to">Taşı:</string>
   <string name="msg_notify_setting">Bildirim Ayarları</string>
@@ -514,7 +514,7 @@ Sunucumuz şu anda çalışmıyor. Rahatsızlıktan dolayı özür dileriz. "</s
   <string name="my_video_desc"/>
   <string name="name_empty">Bir ad girmelisiniz.</string>
   <string name="need_login">Önce oturum açın</string>
-  <string name="need_read_storage_permission">"Çalışmak için tasarlanan gezginin cihazın dahili depolamasına erişimesi gerekiyor"</string>
+  <string name="need_read_storage_permission">"Çalışmak için tasarlanan Mi Dosya Yöneticisinin cihazın dahili depolamasına erişimesi gerekiyor"</string>
   <string name="net_error_text">网络错误</string>
   <string name="net_lose_connected">Bağlantı koptu.</string>
   <string name="networkView_notConnected">"Ağa bağlanamıyor"</string>
@@ -537,7 +537,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="no_apk">Uygulamaları almak için dokunun</string>
   <string name="no_app_tags">Boş</string>
   <string name="no_comment">Yorum yok</string>
-  <string name="no_content">"Popüler videoları görüntülemek için Explorer'ı tekrar açın"</string>
+  <string name="no_content">"Popüler videoları görüntülemek için Mi Dosya Yöneticisini tekrar açın"</string>
   <string name="no_daren_tip">Henüz bir şey yok</string>
   <string name="no_display_file">"%1$s gösterilemiyor!"</string>
   <string name="no_downloaded_sticker_tip">"İndirilen etiketler bulamadı. Mi hayranları tarafından paylaşılan etiketlere göz atın."</string>
@@ -668,8 +668,8 @@ ve yenilerini kaçırmayın!"</string>
   <string name="path_kuai_chuan">Eşler arası dosya aktarımı</string>
   <string name="path_recent_file">Cihazınızdaki dosyaları yönetin</string>
   <string name="paused">Durduruldu</string>
-  <string name="permission_denial">"Dosyalara erişilemedi. Ayarlar içinden Dosyalara erişim izni verin."</string>
-  <string name="permission_required">"Dosyalara erişilemedi. Ayarlar içinden Dosyalara erişim izni verin.​"</string>
+  <string name="permission_denial">"Dosyalara erişilemedi. Ayarlar içinden Mi Dosya Yöneticisine erişim izni verin."</string>
+  <string name="permission_required">"Dosyalara erişilemedi. Ayarlar içinden Mi Dosya Yöneticisine erişim izni verin.​"</string>
   <string name="petabyteShort">PB</string>
   <string name="phone">Dahili Depolama</string>
   <string name="phone_bind_skip">Atla</string>
@@ -698,7 +698,7 @@ ve yenilerini kaçırmayın!"</string>
   <string name="phone_storage_image_title">Resimler: </string>
   <string name="phone_storage_info_str">%2$s/%1$s mevcut</string>
   <string name="phone_storage_other_title">Diğer: </string>
-  <string name="phone_storage_size_tip">Gezginin depolama hesabı, diğer uygulamalardan farklı olabilir.</string>
+  <string name="phone_storage_size_tip">Mi Dosya Yöneticisinin depolama hesabı, diğer uygulamalardan farklı olabilir.</string>
   <string name="phone_storage_total">Toplam</string>
   <string name="phone_storage_video_title">Videolar: </string>
   <string name="phone_storage_zip_title">Arşivler: </string>
