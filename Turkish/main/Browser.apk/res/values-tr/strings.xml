@@ -51,7 +51,7 @@
   <string name="action_menu_toolbox">Araçlar</string>
   <string name="action_menu_useful_page">Kısayol Ekle</string>
   <string name="action_menu_useful_page_added">Başlangıç Sayfasına eklendi</string>
-  <string name="action_menu_user_center">Kullanıcı Merkezi</string>
+  <string name="action_menu_user_center">Profil</string>
   <string name="action_modify_bookmark">Yerimini değiştir</string>
   <string name="action_put_in_search_box">Arama kutusuna %s koy</string>
   <string name="actionbar_share">Paylaş</string>
@@ -416,6 +416,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="keep_queued_download">Koru</string>
   <string name="last_month">Geçen ay</string>
   <string name="license_activity_title">Sistem WebView Lisansları</string>
+  <string name="loading_dialog_title">Taşınıyor...</string>
   <string name="loading_tips">Yenilemek için aşağı doğru çekin </string>
   <string name="local_bookmarks">Mi</string>
   <string name="login_failed_toast">Oturum açılamadı, yenileyin ve tekrar deneyin.</string>
@@ -617,8 +618,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="ok">Tamam</string>
   <string name="older">Eski</string>
   <string name="open_app_confirm_message">Bu sayfanın %s açmasına izin verilsin mi?</string>
-  <string name="open_cloud_sync">Bulut eşitlemesini aç</string>
-  <string name="open_cloud_sync_desc">Yerimi eklendi. Bulut eşitlemesini açın ve diğer cihazlarda eklenen yerimleri, bu cihazla eşitlenecek. Şimdi oturum açılsın mı?</string>
+  <string name="open_cloud_sync">Mi Bulut ile eşitlemeyi aç</string>
+  <string name="open_cloud_sync_desc">Yerimi başarıyla eklendi. Diğer cihazlarda eklenen yerimlerini eşitlemek için Mi Bulut ile eşitlemeyi açın. Oturum şimdi açılsın mı?</string>
   <string name="open_file_explorer_failed">"Dosya Gezgini açılamadı"</string>
   <string name="open_voice_permission">İnternet bağlantısında mikrofona izin ver</string>
   <string name="opening_file_error">Seçilen dosya açılamadı</string>
@@ -879,7 +880,8 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Bu T
   <string name="snapshot_failed">"Çevrimdışı okumak için kaydedilemedi"</string>
   <string name="snapshot_successed">Yerimi &amp; Geçmişi Aç -&gt; Yerelde göster</string>
   <string name="soft_toast_see_view">Gözat</string>
-   <string name="ssl_bad_clock_date_settings">Tarih Ayarları</string>
+  <string name="speech_engine_not_install">Konuşma sentezleyicisi yüklenmedi</string>
+  <string name="ssl_bad_clock_date_settings">Tarih Ayarları</string>
   <string name="ssl_bad_clock_warning" formatted="false">"%s1 özel bağlantısı sağlanamadı çünkü cihazın tarih ve zaman (%s2) doğru değil."</string>
   <string name="ssl_certificate">Güvenlik Sertifikası</string>
   <string name="ssl_certificate_is_valid">Bu sertifika geçerli.</string>
@@ -933,7 +935,7 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Bu T
   <string name="tae_sdk_login_qr_icon_taobao"></string>
   <string name="tae_sdk_qr_login_icon_password"></string>
   <string name="tae_sdk_qr_login_icon_scan"></string>
-  <string name="temp_refuse">Atık</string>
+  <string name="temp_refuse">Hayır, teşekkürler</string>
   <string name="time_picker_dialog_am">ÖÖ</string>
   <string name="time_picker_dialog_hour_minute_separator">:</string>
   <string name="time_picker_dialog_minute_second_separator">:</string>
