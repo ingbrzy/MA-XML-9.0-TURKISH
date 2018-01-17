@@ -144,6 +144,18 @@
         <item quantity="other">%d fotoğraf ve video | Durdu</item>
         <item quantity="one">%d fotoğraf ve video | Durdu</item>
     </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">%d fotoğraf iyileştirildi</item>
+        <item quantity="one">%d fotoğraf iyileştirildi</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">"%d fotoğraf iyileştirilemedi. Şimdi durdurulsun mu?"</item>
+        <item quantity="one">"%d fotoğraf iyileştirilemedi. Şimdi durdurulsun mu?"</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">%d fotoğraf kaldı</item>
+        <item quantity="one">%d fotoğraf kaldı</item>
+    </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">" %d fotoğraf ve video yedeklenemedi"</item>
         <item quantity="one">"%d fotoğraf ve video yedeklenemedi"</item>
