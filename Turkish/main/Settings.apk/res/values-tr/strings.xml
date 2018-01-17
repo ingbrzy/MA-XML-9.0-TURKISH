@@ -1,16 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="APN_NAME_CMMMS">CMMMS</string>
-  <string name="APN_NAME_CMNET">CMNET</string>
-  <string name="APN_NAME_CMWAP">CMWAP</string>
-  <string name="APN_NAME_CTLTE">ctlte</string>
-  <string name="APN_NAME_CTMMS">CTWAP</string>
-  <string name="APN_NAME_CTNET">CTNET</string>
-  <string name="APN_NAME_CTWAP">CTWAP</string>
-  <string name="APN_NAME_CUMMS">China Unicom MMS</string>
-  <string name="APN_NAME_CUNET">China Unicom NET</string>
-  <string name="APN_NAME_CUSUPL">China Unicom AGPS</string>
-  <string name="APN_NAME_CUWAP">China Unicom WAP</string>
   <string name="Accounts_settings_title">Hesaplar</string>
   <string name="aaid_info">"
 Reklam tanımlayıcı, cihazınıza özgü daimi bir kimliktir. Satıcılar, daha kullanışlı olacak reklamcılık içeriğini seçmek için bunu kullanıyor. "</string>
@@ -49,7 +38,7 @@ Reklam tanımlayıcı, cihazınıza özgü daimi bir kimliktir. Satıcılar, dah
   <string name="about_ad_service_instructions">Reklam Hizmetleri ve Gizlilik Hakkında​</string>
   <string name="about_phone_enter_xiaomi_net">Mi ağına gir</string>
   <string name="about_settings">Telefon Hakkında</string>
-  <string name="about_settings_summary">Yasal bilgi, durum ve yazılım sürümünü görüntüle</string>
+  <string name="about_settings_summary">Yasal bilgi, durum ve yazılım sürümünü görüntüler</string>
   <string name="about_summary">Android %1$s</string>
   <string name="ac_enable_summary">Şifre uygulayı açmak için gerekli olacaktır</string>
   <string name="ac_enable_title">Uygulama Kilidi</string>
@@ -867,6 +856,7 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="bluetooth_unlock_turned_on">Açık</string>
   <string name="bluetooth_untether_blank">%1$s internet paylaşımı kesilecek.</string>
   <string name="bluetooth_visibility_timeout">Görünürlük zaman aşımı</string>
+  <string name="bluetooth_wake">Bluetooth sesiyle uyan</string>
   <string name="bootloader">Fastboot Modu</string>
   <string name="bootloader_apply_step_1">Fastboot Modu açılsın mı?</string>
   <string name="bootloader_apply_step_2">Cihazınız Fastboot Modunda ve bilgisayara bağlandığında </string>
@@ -893,6 +883,7 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="bootloader_status_unlocked">Kilitsiz</string>
   <string name="bootloader_status_unlocked_info">Bu cihazın kilidi kaldırılmış</string>
   <string name="bootloader_summary">USB yoluyla cihazınızın yazılımını güncelleyin</string>
+  <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="breathing_light_color_menu_title">Işık Rengi</string>
   <string name="breathing_light_color_summary">Yeni bildirim geldiğinde yanıp-sönme rengi</string>
   <string name="breathing_light_freq_summary">Yeni bildirimler olduğunda yanıp sönme sıklığı</string>
@@ -1686,7 +1677,7 @@ Bu ayar, bu telefondaki tüm kullanıcıları etkiler."</string>
   <string name="drive_mode_title">Araç Modu</string>
   <string name="drive_mode_voice_report">Metini Konuşma Çıkışı</string>
   <string name="dtmf_tone_enable_title">Tuş Takımı Sesleri</string>
-  <string name="edge_mode_back">Geri Dön</string>
+  <string name="edge_mode_back">Geri</string>
   <string name="edge_mode_back_summary">Telefonunuzun kenarına geri dönmek için iki kez hafifçe vurun</string>
   <string name="edge_mode_clean">Sistem Önbelleğini Temizle</string>
   <string name="edge_mode_clean_summary">Aynı anda sistem önbelleği temizlemek için her iki kenardan kaydır</string>
@@ -2102,7 +2093,6 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="help_url_battery"/>
   <string name="help_url_bluetooth"/>
   <string name="help_url_choose_lockscreen"/>
-  <string name="help_url_data_saver"/>
   <string name="help_url_data_usage"/>
   <string name="help_url_dreams"/>
   <string name="help_url_fingerprint"/>
@@ -2113,7 +2103,6 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="help_url_security"/>
   <string name="help_url_sound"/>
   <string name="help_url_tether"/>
-  <string name="help_url_unrestricted_data_access"/>
   <string name="help_url_users"/>
   <string name="help_url_vpn"/>
   <string name="help_url_wifi"/>
@@ -2301,7 +2290,7 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="keywords_quick_ball">Hızlı kısayol; kısayol; kısayollar; geçişler; geçiş</string>
   <string name="keywords_reset_apps">Sıfırlama, tercihler, varsayılan</string>
   <string name="keywords_silent">Sessiz, Sessiz; Sesi kapat</string>
-  <string name="keywords_sounds">Hoparlör bip</string>
+  <string name="keywords_sounds_and_notifications">Hoparlör bip</string>
   <string name="keywords_sounds_and_notifications_interruptions">Rahatsız etmeyin, kesintiye uğratmayın, kesintiye uğratın, kırın</string>
   <string name="keywords_spell_checker">Yazım denetimi, sözlük, yazım denetimi, otomatik düzeltme</string>
   <string name="keywords_storage">Boşluk, disk, sabit disk, aygıt kullanımı</string>
@@ -2337,7 +2326,7 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="launch_recents">Geçmişi başlat</string>
   <string name="launch_voice_assistant">Sesli Yardımcıyı başlat</string>
   <string name="launcher_auto_fill_empty_title">Boş Hücreleri Doldur</string>
-  <string name="launcher_title">Ana Ekran</string>
+  <string name="launcher_title">Ana Ekran & Geçmiş</string>
   <string name="launching_cit">CIT Başlatılıyor</string>
   <string name="launching_pho">Telefon bilgisi başlatılıyor, lütfen bekleyin...</string>
   <string name="launching_rep">Raporlanıyor…</string>
@@ -2580,7 +2569,6 @@ Hem cihazınız hem de iş profiliniz için yeni bir ekran kilidi ayarlayabilirs
   <string name="lockpattern_need_to_unlock">Kaydedilen deseni onaylayın</string>
   <string name="lockpattern_need_to_unlock_footer"/>
   <string name="lockpattern_need_to_unlock_wrong">Tekrar deneyin:</string>
-  <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">Yeni kilit açma deseniniz:</string>
   <string name="lockpattern_pattern_entered_header">Desen kaydedildi!</string>
   <string name="lockpattern_pattern_same_with_others">Diğer alan şifresinden farklı olmalıdır</string>
@@ -2679,7 +2667,7 @@ Hem cihazınız hem de iş profiliniz için yeni bir ekran kilidi ayarlayabilirs
   <string name="master_clear_all">"Telefonunuzun dahili depolama alanındaki tüm veriler silinsin mi? Bu işlemi geri alamazsınız!"</string>
   <string name="master_clear_apply_step_1">&amp;#8220;Fabrika verilerine sıfırlama,&amp;#8221; fotoğraf, şarkı, not ve diğer kişisel veriler de dahil olmak üzere, telefonunuzdaki tüm verileri silecek. Tüm önemli öğeleri bilgisayarınıza yedeklediğinizden emin olun.</string>
   <string name="master_clear_apply_step_2">Tüm önemli öğelerin bilgisayarınıza yedeklendiğinden emin olun. Bu cihaz üzerindeki tüm veriler sıfırlama esnasında silinir. Yedek almadığınız öğeleri geri yükleyemezsiniz.</string>
-  <string name="master_clear_apply_title">Attention</string>
+  <string name="master_clear_apply_title">Dikkat</string>
   <string name="master_clear_button_text">Telefonu sıfırla</string>
   <string name="master_clear_confirm_title">Sıfırlansın mı?</string>
   <string name="master_clear_desc">"Telefonunuzun dahili hafızasındaki "şu veriler silinecek",:
@@ -2771,7 +2759,7 @@ Burada diğer kullanıcılar var.
   <string name="memory_summary">Yaklaşık %2$s/%1$s hafıza kullanıldı</string>
   <string name="memory_title">Kullanabilir: %1$s\u0009\u0009 Toplam: %2$s</string>
   <string name="memory_usage">Hafıza kullanımı</string>
-  <string name="memory_usage_apps">Uygulamaların kullandığı hafıza</string>
+  <string name="memory_usage_apps">Uygu. kullandığı hafıza</string>
   <string name="memory_use_summary">Yaklaşık %1$s, son 3 saatte kullandığı hafıza</string>
   <string name="menu_cancel">Reddet</string>
   <string name="menu_check">Deneyim</string>
@@ -2937,6 +2925,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="multi_select_title">%1$s seçildi</string>
   <string name="multi_touch_points_category_title">Çoklu Dokunma Noktaları</string>
   <string name="multi_touch_points_preference">Cihazınızı yeniden başlattıktan sonra bu ayar yürürlüğe girecek</string>
+  <string name="music_app_unavailable">Müzik uygulamasına güvenin, müzik uygulamasının kullanılabilir olduğundan emin olun</string>
   <string name="multi_user_mode_backup_message">Yedekleme Çoklu-Kullanıcı Modunu desteklemez. Çoklu-Kullanıcı Modunu kapatıp, devam edin.</string>
   <string name="multi_user_mode_dialog_message">Mi Transfer Çoklu-Kullanıcı Modunu desteklemez. Çoklu-Kullanıcı Modunu kapatıp, devam edin.</string>
   <string name="multi_user_mode_dialog_title">Çoklu-Kullanıcı Modundasınız</string>
@@ -3763,7 +3752,7 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="private_sms_need_to_unlock">Şifre gerekli:</string>
   <string name="private_sms_recording_intro_header">Kilit açma deseni çiz:</string>
   <string name="private_sms_reset_by_account">Şifrenizi sıfırlamak için Mi Hesabınızda oturum açın</string>
-  <string name="process_dex2oat_label">Uygulamayı iyi hale getir</string>
+  <string name="process_dex2oat_label">Uygulamayı iyileştir</string>
   <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="process_provider_in_use_description">%1$s sağlayıcı kulanıyor.</string>
@@ -4373,7 +4362,7 @@ Ekran iğnelemeyi kullanmak için:
   <string name="search_silent">Sessiz</string>
   <string name="search_silent_mode_title">Sessiz mod; sessizlik; sessiz; sessiz</string>
   <string name="search_sim_management_title">Sim kartlar &amp; Mobil şebekeler, Mobil veri, Yurtdışı dolaşım, MMS al, Erişim Noktası Adları, Tercih edilen şebeke tipi, Hücresel şebekeler</string>
-  <string name="search_sim_status_title">SIM status;SIM</string>
+  <string name="search_sim_status_title">SIM Durumu;SIM</string>
   <string name="search_slot_status_title">IMEI Bilgisi,IMEI</string>
   <string name="search_sms_delivered_sound_title">Mesaj teslim edildi</string>
   <string name="search_sms_received_sound_title">Mesaj alındı; mesaj sesi; alınan mesaj; mesaj zil sesi</string>
@@ -4568,6 +4557,7 @@ Not: Parmakiziniz, güçlü bir desen veya PIN'den daha az güvende olabilir. "&
   <string name="settings_license_activity_loading">Yükleniyor...</string>
   <string name="settings_license_activity_title">Açık Kaynak Lisans</string>
   <string name="settings_license_activity_unavailable">Lisansın yüklenmesinde bir problemle karşılaşıldı.</string>
+  <string name="settings_notify_need_backup">Telefon numaranızı değiştirdikten sonra onlara erişmek için ayarlarınızı Mi Bulut üzerine yedekleyin.</string>
   <string name="settings_manual_activity_title">Elle</string>
   <string name="settings_manual_activity_unavailable">Yüklemede bir problem oldu.</string>
   <string name="settings_safetylegal_activity_loading">Yükleniyor...</string>
@@ -4896,7 +4886,6 @@ Güvenli kimlik doğrulamasının bu cihazda yüklü olduğundan emin olun."</st
   <string name="status_data_state">Hücresel Ağ Durumu</string>
   <string name="status_failed_to_write">NFC etiketi için veri yazılamıyor. Eğer problem devam ederse, farklı bir etiket deneyin</string>
   <string name="status_icc_id">ICCID</string>
-  <string name="status_iccid">ICCID</string>
   <string name="status_imei">IMEI</string>
   <string name="status_imei_sv">IMEI SV</string>
   <string name="status_invalid_password">Geçersiz şifre, tekrar deneyin.</string>
@@ -5065,6 +5054,7 @@ Devam etmek için; fakat uygulamalar bu konumdan taşınırken ve veri transferi
   <string name="storageuse_settings_title">Depolama Kullanımı</string>
   <string name="strict_mode">Sıkı Mod etkin</string>
   <string name="strict_mode_summary">Uygulamalar uzun işlemleri yaptığında ekranı flaşla</string>
+  <string name="suggestion_for_phone_recycled">Farklı bir telefon numarası ekleyin</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">Bu uygulamalar tam ekran modun da çok iyi çalışır</string>
   <string name="sub_activate_failed">Etkinleştirme başarısız.</string>
   <string name="sub_activate_not_supported">Etkinleştirme desteklenmiyor</string>
@@ -5140,6 +5130,7 @@ Google veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye
   <string name="system_backup_section_title">Yedekle</string>
   <string name="system_default_app">(Sistem varsayılanı)</string>
   <string name="system_package">"Sistem güncellemeleri harici medya yüklenemez."</string>
+  <string name="system_shortcut_wake">Düğme kısayollarıyla uyan</string>
   <string name="system_storage">Sistem Depolaması</string>
   <string name="system_ui_settings">SystemUI Ayarlayıcıyı Göster</string>
   <string name="system_update_settings_list_item_summary"/>
@@ -5232,6 +5223,7 @@ Google veri eşitlemesiyle rehberinize, randevularınıza ve daha pek çok şeye
   <string name="title_font_current2">Yazı Tipi</string>
   <string name="title_font_size">Yazı Boyutu</string>
   <string name="title_hdmi_color_calibration">Renk Düzeltme Hazır Ayarı</string>
+  <string name="title_jeejen">Jeejen Ana Ekranı</string>
   <string name="title_layout_current">Yazı Boyutu</string>
   <string name="title_layout_current2">Yazı Boyutu</string>
   <string name="title_local_resource">Yerel Kaynaklar</string>
@@ -5485,9 +5477,7 @@ Bu cihazda kayıtlı parmakizleri kaldırılacak ve telefon kilidi açılmayacak
 
 Kaydettiğiniz parmakizleri de bu profilden kaldırılacak ve profilinizin kilidini açamaz, satın alma yetkisi veremez veya onlarla birlikte uygulamalarda oturum açamazsınız."</string>
   <string name="unlock_disable_frp_warning_content_pin_profile">Profil koruma özellikleri PIN olmadan çalışmaz.</string>
-  <string name="unlock_disable_frp_warning_content_profile">"Profil koruma özellikleri şifreniz olmadan çalışmaz.
-
- Profilinizin kilidini açamaz, satın alma yetkisi veremez veya onlarla birlikte uygulamalarda oturum açamazsınız."</string>
+  <string name="unlock_disable_frp_warning_content_profile">"Profil koruma özellikleri şifreniz olmadan çalışmaz."</string>
   <string name="unlock_disable_frp_warning_content_unknown">Cihaz koruma özelliği ekran kilidi olmaksızın çalışmaz.</string>
   <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Cihaz koruma özelliği ekran kilidi olmaksızın çalışmaz.
 
