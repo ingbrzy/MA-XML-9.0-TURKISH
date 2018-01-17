@@ -883,6 +883,7 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="bootloader_status_unlocked">Kilitsiz</string>
   <string name="bootloader_status_unlocked_info">Bu cihazın kilidi kaldırılmış</string>
   <string name="bootloader_summary">USB yoluyla cihazınızın yazılımını güncelleyin</string>
+  <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="breathing_light_color_menu_title">Işık Rengi</string>
   <string name="breathing_light_color_summary">Yeni bildirim geldiğinde yanıp-sönme rengi</string>
   <string name="breathing_light_freq_summary">Yeni bildirimler olduğunda yanıp sönme sıklığı</string>
@@ -4794,6 +4795,7 @@ Kalan Girişimler :"</string>
   <string name="spellchecker_security_warning">Bu yazı denetleyicisi; şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere yazdığınız tüm metni toplayabilir. Yazı denetleyici, %1$s uygulamasından gelmektedir. Bu yazı denetleyiciyi kullanmak istiyor musunuz?</string>
   <string name="spellchecker_switch_title">İmlâ Denetleyicisini aç</string>
   <string name="spellcheckers_settings_title">İmlâyı Düzelt</string>
+  <string name="split_screen">Bölünmüş ekranı aç</string>
   <string name="ssid_label">SSID:</string>
   <string name="ssl_ca_cert_dialog_title">Ağın İzlenmesi</string>
   <string name="ssl_ca_cert_info_message">"Bu cihazı yöneten:
@@ -4831,10 +4833,10 @@ Güvenli kimlik doğrulamasının bu cihazda yüklü olduğundan emin olun."</st
   <string name="status_bar_app_enable_on_notificationBar">Göster</string>
   <string name="status_bar_key_position_custom">Tuş Pozisyonlarını Değiştir</string>
   <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="status_bar_screen_button_force_immersive_desc">Ekran Tuşlarını görebilmek için ekranın altından yukarı doğru kaydırın</string>
+  <string name="status_bar_screen_button_force_immersive_desc">Ekran düğmelerini görebilmek için ekranın altından yukarı doğru hızlıca kaydırın</string>
   <string name="status_bar_screen_button_desc">Ekran Tuşlarını gizlemek için aşağı kaydırın</string>
   <string name="status_bar_screen_button_key">Ekran Tuşları</string>
-  <string name="status_bar_screen_button_key_force_immersive">Ekran Tuşlarını gizle</string>
+  <string name="status_bar_screen_button_key_force_immersive">Ekran düğmelerini gizle</string>
   <string name="status_bar_screen_button_key_can_hide">Ekran Tuşları gizlenebilir</string>
   <string name="status_bar_screen_key_back">Geri Tuşu</string>
   <string name="status_bar_screen_key_home">Ana Sayfa Tuşu</string>
@@ -5974,6 +5976,7 @@ Tanıtımı"</string>
   <string name="wifi_calling_suggestion_title">WLAN Aramasını Aç</string>
   <string name="wifi_cancel">İptal</string>
   <string name="wifi_certificate">Sertifika</string>
+  <string name="wifi_click_login_wlan">Giriş/yetkilendirme gerektirir</string>
   <string name="wifi_click_share_wlan">Şifreyi paylaşmak için dokunun</string>
   <string name="wifi_config_info">WLAN yapılandırması</string>
   <string name="wifi_configure_titlebar">"Wi-Fi'yi Yapılandır"</string>
