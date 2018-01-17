@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_enabled">Erişilebilirlik etkinleştirildi.</string>
   <string name="agree">Kabul</string>
   <string name="agree_terms">"Hizmet Koşulları ve Gizlilik politikasını okudum ve kabul ettim."</string>
   <string name="app_name">Hüküm</string>
@@ -8,16 +9,19 @@
   <string name="cm_terms_content">"Size verilen hizmetleri iyileştirmek için, seçtiğiniz mobil şebeke operatörü, kişisel verilerinizi ve bu cihazla ilgili bilgileri, WLAN şebekeleri veya mobil veri bağlantısı kullanarak kendi sunucularına yükleyebilir. Bu bilgiler, yalnızca hizmetlerin kalitesini artırmak ve daha kişiselleştirilmiş bir içerik sağlamak için istatistiksel amaçlar için kullanılacaktır. Bu bilgiler kişisel olarak sizi tanımlamak için kullanılamaz ve üçüncü taraflara açıklanmaz."</string>
   <string name="cm_terms_title">Mobil Şebekenin Operatör Anlaşması</string>
   <string name="congratulation_label">"Artık hazırsınız!​"</string>
+  <string name="congratulation_swipe">Sisteme girmek için hızlıca kaydırın</string>
   <string name="congratulation_title">Kurulum tamamlandı</string>
   <string name="content_description_complete">Tamam</string>
   <string name="content_description_language_picker">Dili Seçin</string>
   <string name="content_description_miui_version">MIUI 9</string>
   <string name="content_description_start">Başlat</string>
+  <string name="continue_to_enable_accessibility">Erişilebilirliği; etkinleştirmek için iki parmağınızı basılı tutmaya devam edin.</string>
   <string name="desc_extra_fingerprint"/>
   <string name="desc_extra_international_fingerprint"/>
   <string name="desc_fingerprint">Cihaz kilidini açmak için parmakizini kullanın, Mi Ödeme işlemlerinde veya uygulama ve hizmetlere oturum açıp onaylayın.</string>
   <string name="desc_international_fingerprint">Parmakizinizi kullanarak cihazın kilidi açabilir veya uygulamalara ve hizmetlere oturum açabilirsiniz.</string>
   <string name="disagree">İptal</string>
+  <string name="enable_accessibility_canceled">Erişilebilirlik iptal edildi.</string>
   <string name="enable_accessibility_dialog_message">Ekrana 2 parmak ile 10 saniyeden fazla basarak TalkBack\'i açtınız. TalkBack, görme engelli kişiler için sesli geribildirim sağlar. Kazayla açtıysanız, İptal düğmesine dokunun ve ekrana iki kez dokunun.</string>
   <string name="enable_accessibility_dialog_negative_btn">İptal</string>
   <string name="enable_accessibility_dialog_positive_btn">Tamam</string>
@@ -37,7 +41,10 @@
   <string name="miui_terms_no_network">"Ağ bağlantısı yok. Hizmet Şartlarını görüntülemek için: %s"</string>
   <string name="multisim_settings_category">SIM kart ayarları</string>
   <string name="multisim_settings_title">2 SIM kart algılandı</string>
-  <string name="network_access_warning">My hizmetlerini etkinleştirmek ve cihazı bulmak için internete bağlanmak gerekir.</string>
+  <string name="navigation_picker_gesture_guide">Hareket Kılavuzu</string>
+  <string name="navigation_picker_radio_text_full_screen">Tam Ekran Modu</string>
+  <string name="navigation_picker_radio_text_virtual_key">Sanal Tuş Modu</string>
+  <string name="network_access_warning">Ağ hizmetlerini etkinleştirmek ve cihazı bulmak için internete bağlanmak gerekir.</string>
   <string name="next">Sonraki</string>
   <string name="next_fingerprint">Sonraki</string>
   <string name="other_settings">Ek Ayarlar</string>
@@ -65,6 +72,7 @@ Seçilen klavyeler Gizlilik Politikası\'nı görüntüleyin."</string>
   <string name="setting_locale">Konum ayarlanıyor...</string>
   <string name="shut_down">Kapatın</string>
   <string name="sim_card_detecting">SIM kart kontrol ediliyor...</string>
+  <string name="sim_card_detecting_check">"SIM kartı bulunamadı. SIM kartın düzgün takıldığından ve bakiyenizde yeterli para olduğundan emin olun."</string>
   <string name="sim_card_detecting_title">SIM kartı kontrol et</string>
   <string name="sim_card_detection">SIM kartı takın</string>
   <string name="sim_card_detection_info">SIM kartı takmak için, cihazınızla birlikte verilen talimatları okuyun.</string>
@@ -72,16 +80,22 @@ Seçilen klavyeler Gizlilik Politikası\'nı görüntüleyin."</string>
   <string name="sim_redetection">Tekrar kontrol et</string>
   <string name="skip_underline">Bu adımı atla</string>
   <string name="summary_not_set">Ayarlanmadı</string>
+  <string name="system_navigation_mode">Sistem Gezinme Modu</string>
   <string name="summary_sim_card">Kart %1$d</string>
   <string name="summary_sim_card_with_operator">Kart %1$d: %2$s</string>
   <string name="terms_of_use">Hükümler ve Koşullar</string>
   <string name="terms_of_use_label">"Gizliliğiniz bizim için çok önemlidir. Hizmet Şartları ve Gizlilik Politikasını okuyarak topladığımız bilgileri, nasıl kullandığımızı anlayın.
 
 MIUI'yı kullanabilmeniz için önce Hizmet Şartlarımızı ve Gizlilik Politikamızı kabul etmeniz gerekir. Mi Hizmetleri, Telefonu Bul, sistem bileşenlerinden MSA ve istatistik bileşenleri internete bağlanarak konumunuzu tespit eder."</string>
+  <string name="terms_of_use_label_gms">"Gizliliğiniz bizim için çok önemlidir. Hangi bilgileri topladığımızı, nasıl kullandığımızı ve hangi seçenekleri kullanabileceğinizi anlamak için Hizmet Şartlarımızı ve Gizlilik Politikamızı okuyun.
+
+MIUI'yi kullanabilmeniz için önce Hizmet Şartlarımızı ve Gizlilik Politikamızı kabul etmeniz gerekir. Mi hizmetleri, Mi SIM etkinleştirme hizmetleri, Mi Bulutu, Telefonu Bulma, Giriş Ekranı, Oyun Merkezi, MAB, MiuiDaemon ve MSA sistem bileşenleri, web uygulamaları, hızlı kartlar, istatistikler, akıllı kartlar, Mi Bağlantısı, Mi Hesabı ve Google Play hizmetleri bileşenleri internete bağlanacak ve bulunduğunuz konumu tespit edecektir."</string>
   <string name="title_congratulation">"Şimdi herşeye hazırsın!"</string>
-  <string name="title_fingerprint">Parmakizinizi ekleyin</string>
+  <string name="title_fingerprint">Şifreyi ayarla</string>
   <string name="two_dimensional_code_scan">QR kodunu tara</string>
   <string name="user_agreement">Hizmet Şartları</string>
+  <string name="voice_assist_desp">Telefonunuza \"Mi AI\" deyin. Mi AI sesinizi tanıyacak ve cihazınızı kontrol edebilecek.</string>
+  <string name="voice_assist_title">Sesle Uyandır</string>
   <string name="user_strayed_warning">Bu sayfa fabrika testi için dizayn edildi. \"Geri\" tuşuna dokunarak çıkabilirsiniz.</string>
   <string name="welcome">Hoşgeldiniz!</string>
 </resources>
