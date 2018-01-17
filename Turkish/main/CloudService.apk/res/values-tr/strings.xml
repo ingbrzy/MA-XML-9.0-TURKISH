@@ -141,9 +141,9 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="ks_download_success">Sertifika başarıyla indirildi</string>
   <string name="ks_fingerprint_payment">Parmakizi ile Ödeme</string>
   <string name="ks_fingerprint_status">Ödeme Durumu</string>
-  <string name="ks_name_alipay">IFAA</string>
+  <string name="ks_name_alipay">Alipay</string>
   <string name="ks_name_fido">FIDO</string>
-  <string name="ks_name_soter">Soter</string>
+  <string name="ks_name_soter">WeChat Ödemesi</string>
   <string name="ks_status_available">Mevcut</string>
   <string name="ks_status_unavailable">Mevcut değil</string>
   <string name="ks_update_certificate">Sertifika</string>
@@ -170,7 +170,7 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="micloud_battery_low_notification_message">Eşitleme için şarj cihazını takın</string>
   <string name="micloud_battery_low_notification_title">Düşük Pil Seviyesi</string>
   <string name="micloud_buy_member">Mi Bulut üyeliği satın al</string>
-  <string name="micloud_buy_member_safe">Mi Bulut alanını genişlet</string>
+  <string name="micloud_buy_member_safe">Mi Bulut alanını satınal</string>
   <string name="micloud_check_sim_notify_text">"SIM kartınız değişmiş gibi görünüyor. 
   Mi Hesabınızla oturum açarak Mi Bulut hizmetini tekrar etkinleştirin."</string>
   <string name="micloud_check_sim_notify_title">Mi Bulutu\'nu tekrar etkinleştir</string>
@@ -301,11 +301,11 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_main_error_activated_fail">SIM kartınızı etkinleştirin.</string>
   <string name="micloud_main_error_network_disallowed">İnternet erişimine izin verdiğinizden emin olun.</string>
   <string name="micloud_main_error_permission_limit">"Mi Bulut'un depolama alanına erişmesine izin verin."</string>
-  <string name="micloud_main_head_menu_cloud_backup">Bulut Yedeği</string>
-  <string name="micloud_main_head_menu_recycle_bin_summary">Kişiler ve Fotoğrafları yeniden yedekle</string>
-  <string name="micloud_main_head_menu_recycle_bin_title">Çöp Kutusu</string>
-  <string name="micloud_main_head_menu_state_close">Kapalı</string>
-  <string name="micloud_main_head_menu_state_open">Açık</string>
+  <string name="micloud_main_head_menu_cloud_backup">Ana Ekran Yedeği</string>
+  <string name="micloud_main_head_menu_recycle_bin_summary">Silinen öğeleri geri yükler</string>
+  <string name="micloud_main_head_menu_recycle_bin_title">Silinen Öğeler</string>
+  <string name="micloud_main_head_menu_state_close">Kapat</string>
+  <string name="micloud_main_head_menu_state_open">Aç</string>
   <string name="micloud_main_head_menu_state_unavailable">Mevcut değil</string>
   <string name="micloud_main_last_sync_time">Son Eşitleme: %s</string>
   <string name="micloud_main_master_sync_on">Eşitleme açık</string>
