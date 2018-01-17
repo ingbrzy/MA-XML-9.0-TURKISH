@@ -1204,8 +1204,8 @@ Mi Hesabıyla oturup açın"</string>
   <string name="missed_call_notify_times_title">Cevapsız Çağrı Hatırlatmaları</string>
   <string name="missed_call_notify_twice">2 kez</string>
   <string name="miui_network_selection_reset_text">Sıfırla</string>
-  <string name="miui_notification_network_selection_title">"SIM kartta şebeke yok"</string>
-  <string name="miui_notification_network_selection_title_by_sim">SIM %s: şebeke yok</string>
+  <string name="miui_notification_network_selection_title">"SIM: Şebeke yok"</string>
+  <string name="miui_notification_network_selection_title_by_sim">SIM %s: Şebeke yok</string>
   <string name="mmiCancelled">MMI kodu iptal edildi</string>
   <string name="mmiStarted">MMI kodu başladı</string>
   <string name="mo_call_type_title">MO Çağrı Tipi</string>
@@ -1219,7 +1219,7 @@ Mi Hesabıyla oturup açın"</string>
   <string name="mock_location_app">Sahte konum uygulaması seçin</string>
   <string name="mock_location_app_not_set">Sahte konum uygulama ayarı yok</string>
   <string name="mock_location_app_set">Sahte konum uygulaması: %1$s</string>
-  <string name="modem_dialog_body">Mobil ağ kararsız, kesintiler veya ağ sorunları yaşıyor. Analiz için Mi firmasına hata raporu gönderilsin mi? Bu raporda Kişisel Tanıtıcı Bilgiler bulunabilir. Raporunuz bu hatayı düzeltmek için kullanılacak ve hiçbir zaman ticari bağlamda paylaşılmayacak.</string>
+  <string name="modem_dialog_body">"Mobil şebeke kararsız olduğundan kesintiye ve şebeke problemlerine neden olur. Analiz için Mi'ye geribildirim gönderilsin mi? Bu raporda kişisel olarak tanımlanabilir bilgiler bulunabilir. Raporunuz bu hatayı düzeltmemize yardımcı olmak için kullanılacak ve hiçbir zaman ticari bağlamda paylaşılmayacak."</string>
   <string name="modem_dialog_title">Mobil Şebeke Kararsız</string>
   <string name="msim_apn_not_set">Ayarlanamadı</string>
   <string name="msim_default_setting">Varsayılan Ayarlar</string>
