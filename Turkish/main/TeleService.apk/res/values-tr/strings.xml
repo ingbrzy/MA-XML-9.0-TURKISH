@@ -1694,6 +1694,7 @@ SIM kartınız başka bir başarısız girişiminden sonra silinecek."</string>
   <string name="puk_unlock_failed">PUK kilidi açılamadı.</string>
   <string name="puk_unlock_success">PUK kilidi başarıyla açıldı.</string>
   <string name="puk_unlocked">SIM kartınız kilitlendi. Telefonunuz kilidi açılıyor ...</string>
+  <string name="quick_dial_setting_title">Hızlı Ara</string>
   <string name="purchase">Satın Al</string>
   <string name="purchase_description_summary">"-  Dünyanın herhangi bir telefonu aramak için hiçbir operatör kısıtlaması yok.
 - Mevcut planla çatışmaz.
