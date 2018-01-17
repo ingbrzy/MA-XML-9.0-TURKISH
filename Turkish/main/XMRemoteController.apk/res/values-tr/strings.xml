@@ -25,8 +25,10 @@
   <string name="ac_mode_dry">Nem Alma</string>
   <string name="ac_mode_fan">Yön</string>
   <string name="ac_mode_hot">Isıtma</string>
+  <string name="ac_power_off">Kapalı</string>
+  <string name="ac_power_on">Açık</string>
   <string name="ac_set_timer_title_text">Klima Zamanlayıcı düğmesine basarak seçin</string>
-  <string name="action_settings">Ayarlar</string>
+  <string name="accept">Kabul et</string>
   <string name="activity_stb_list_title">Uydu Alıcısını Seçin</string>
   <string name="actor_intro_title_text">Oyuncular</string>
   <string name="add">Ekle</string>
@@ -40,6 +42,7 @@
   <string name="add_fav_channel">Sık Kullanılanlara ekle</string>
   <string name="add_fav_channel_hint">Sevdiğiniz programları, favori kanallara ekleyebilirsiniz.</string>
   <string name="add_more">Daha fazla IR cihazları ekle</string>
+  <string name="add_new_box">Uydu alıcısı ekle</string>
   <string name="add_new_control">Uzaktan kumanda ekle</string>
   <string name="add_new_stb">Yeni uydu alıcısı ekle...</string>
   <string name="add_new_tv">TV Ekle…</string>
@@ -140,6 +143,32 @@
   <string name="cannot_be_used_in_current_mode">&lt;%1$s&gt;Geçerli modda kullanılamaz</string>
   <string name="carrier_data">Şebeke bilgisi</string>
   <string name="cast_screen">Mi Tv</string>
+  <string name="catalyst_debugjs">"Chrome'da hata ayıkla"</string>
+  <string name="catalyst_debugjs_off">Chrome Hata Ayıklamasını Durdur</string>
+  <string name="catalyst_element_inspector">Müfettişi Göster</string>
+  <string name="catalyst_element_inspector_off">Müfettişi Gizle</string>
+  <string name="catalyst_hot_module_replacement">Sıcak Modül Değiştirmeyi Etkinleştir</string>
+  <string name="catalyst_hot_module_replacement_off">Sıcak Modül Değiştirmeyi Pasifleştir</string>
+  <string name="catalyst_jsload_error">"JS paketini geliştirme sunucusundan indirmek mümkün değil.
+
+Sorunu çözmek için aşağıdakileri deneyin:
+• Paketleyici sunucusunun çalıştığından emin olun
+• Cihazınızın / emülatörünüzün makinenize bağlı olduğundan ve USB hata ayıklamanın etkin olduğundan emin olun - bağlı aygıtların listesini görmek için 'adb cihazları'nı çalıştırın
+• Aynı makineye bağlı fiziksel bir cihazdaysanız, cihazınızdan gelen istekleri iletmek için 'adb reverse tcp:8081 tcp:8081' komutunu çalıştırın
+• Cihazınız aynı Kablosuz ağdaysa, 'Sunucu barındırma sunucusunu ve/veya sunucusunu hata ayıklama' ayarını yapın. makinenin IP adresine ve yerel dev sunucusunun portuna - 'Dev ayarları' bölümündeki 'cihazın portu' 10.0.1.1:8081"</string>
+  <string name="catalyst_jsload_message">JS paketini getir</string>
+  <string name="catalyst_jsload_title">Lütfen bekleyin...</string>
+  <string name="catalyst_live_reload">Canlı Yeniden Yükleme Etkin</string>
+  <string name="catalyst_live_reload_off">Canlı Yeniden Yükleme Pasif</string>
+  <string name="catalyst_perf_monitor">Performans Monitörü etkin</string>
+  <string name="catalyst_perf_monitor_off">Performans Monitörü pasif</string>
+  <string name="catalyst_reloadjs">JSyi yeniden yükle</string>
+  <string name="catalyst_remotedbg_error">Uzaktan hata ayıklayıcıyla bağlanılamadı</string>
+  <string name="catalyst_remotedbg_message">Uzaktan hata ayıklayıcıya bağlanıyor</string>
+  <string name="catalyst_settings">Geliştirici Ayarları</string>
+  <string name="catalyst_settings_title">Catalyst Geliştirici Ayarları</string>
+  <string name="catalyst_start_profile">Profili başlat</string>
+  <string name="catalyst_stop_profile">Profili durdur</string>
   <string name="change_channel">Kanal Değiştir</string>
   <string name="change_to_channel">Kanalı Değiştir [%1$s] %2$s</string>
   <string name="channel">Kanal</string>
@@ -176,7 +205,9 @@
   <string name="create_shortcut">Masaüstüne kısayolu ekle</string>
   <string name="create_shortcut_cancel">Hayır</string>
   <string name="create_shortcut_confirm">Oluştur</string>
-  <string name="create_shortcut_done">Başarıyla oluşturuldu</string>
+  <string name="create_shortcut_done">Başarıyla eklendi</string>
+  <string name="create_shortcut_failed">"Kısayol eklenemedi. Mi U. Kumandanın gerekli izinlere sahip olduğundan emin olun."</string>
+  <string name="ctrl_mode_setting">Modu seçin</string>
   <string name="current_place">"Mevcut konum: "</string>
   <string name="current_play">Şimdi oynatılan:</string>
   <string name="current_stb">"Mevcut: "</string>
@@ -193,6 +224,7 @@
   <string name="delete_frame">\"%1$s\" silinsin mi?</string>
   <string name="delete_navigate_view_cancel_button_text">İptal</string>
   <string name="delete_navigate_view_delete_button_text">Sil</string>
+  <string name="deny">"Silme"</string>
   <string name="device_bluetoothi">Bluetooth uzaktan kumanda</string>
   <string name="device_brand">Marka</string>
   <string name="device_model">Model</string>
