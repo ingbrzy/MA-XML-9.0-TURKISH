@@ -883,7 +883,6 @@ Yayın düşük güçte Bluetooth sinyalleri kullanır."</string>
   <string name="bootloader_status_unlocked">Kilitsiz</string>
   <string name="bootloader_status_unlocked_info">Bu cihazın kilidi kaldırılmış</string>
   <string name="bootloader_summary">USB yoluyla cihazınızın yazılımını güncelleyin</string>
-  <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
   <string name="breathing_light_color_menu_title">Işık Rengi</string>
   <string name="breathing_light_color_summary">Yeni bildirim geldiğinde yanıp-sönme rengi</string>
   <string name="breathing_light_freq_summary">Yeni bildirimler olduğunda yanıp sönme sıklığı</string>
