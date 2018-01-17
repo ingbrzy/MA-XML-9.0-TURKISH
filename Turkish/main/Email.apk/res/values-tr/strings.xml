@@ -218,8 +218,8 @@
   <string name="auto_advance_help_title">Postayı sildikten sonra, görüntüle </string>
   <string name="auto_advance_label">Sildikten sonra devam et</string>
   <string name="auto_advance_summary">Posta silindikten sonra ilerlemek için bir posta seçin</string>
-  <string name="auto_login_fail">Otomatik giriş başarısız oldu</string>
-  <string name="auto_login_fail_to_retry">Otomatik giriş başarısız oldu, tekrar deneyin.</string>
+  <string name="auto_login_fail">Otomatik olarak oturum açılamadı</string>
+  <string name="auto_login_fail_to_retry">Otomatik olarak oturum açılamadı, tekrar deneyin.</string>
   <string name="auto_mail_describe">139 E-posta Hizmeti Otomatik Yapılandırma, oturum açma bilgilerini posta kutusuna girmenize yardımcı olabilir. Bu özelliği etkinleştirmek istiyor musunuz?</string>
   <string name="auto_mail_disable_txt">Pasif</string>
   <string name="auto_mail_enable_txt">Başlatma Ayarları</string>
@@ -865,9 +865,9 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="push_wps_confirm_message">WPS Office kullanarak bu eki açmayı deneyin.</string>
   <string name="push_wps_confirm_title">WPS Office\'i Dene</string>
   <string name="push_wps_no_response_app">Bu eylemi işlemek için uygulama bulunamadı</string>
-  <string name="qq_auto_login_failed_cpy_pass_success">Başarılı bir şekilde kopyalandı; lütfen giriş sayfasına geri dönün ve şifre alanını doldurmak için yapıştırın</string>
-  <string name="qq_auto_login_failed_dialog_message">Lütfen yetkilendirme kodunu kopyalayıp oturum açma sayfasına geri dönün ve \"Giriş yapmak için kullanıcı adı ve parola giriniz\" seçeneğini tıklayın; el ile giriş yapmak için şifre alanını doldurmak için yapıştırın</string>
-  <string name="qq_auto_login_failed_dialog_positive_label">Yetkilendirme kodunu kopyala</string>
+  <string name="qq_auto_login_failed_cpy_pass_success">Başarıyla kopyalandı. Oturum sayfasına geri dönün ve kodu şifre formuna yapıştırın.</string>
+  <string name="qq_auto_login_failed_dialog_message">"Doğrulama kodunu kopyalayın, oturum açma sayfasında \"Oturum açmak için kullanıcı adı ve parola girin\" e dokunun ve kodu şifre formuna yapıştırın."</string>
+  <string name="qq_auto_login_failed_dialog_positive_label">Kodu kopyala</string>
   <string name="qq_bar_open_imap">Yardım</string>
   <string name="qq_bar_send_message">SMS Gönder</string>
   <string name="qq_login_basecode">"Web'de QQ Mail'te oturum açıp, bağımsız şifreyi girin.</string>
@@ -971,7 +971,7 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="request_entity_large">Bu dosya çok büyük</string>
   <string name="request_permission_activity">Yetki İsteği</string>
   <string name="respond_inline">"  Satıriçi Cevapla"</string>
-  <string name="retry_login">Lütfen yeniden oturum açın</string>
+  <string name="retry_login">Yeniden oturum açın</string>
   <string name="save_action">Kaydet</string>
   <string name="save_attachment">Kaydet</string>
   <string name="save_draft_failed">Taslak kaydedilemedi!</string>
