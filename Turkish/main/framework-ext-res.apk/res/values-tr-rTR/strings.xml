@@ -143,11 +143,11 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="sim_added_reboot_confirm">Yeniden Başlat</string>
   <string name="sim_added_reboot_title">Cihazınızı yeniden başlattıktan sonra SIM kart aktif hale getirecektir.</string>
   <string name="softap_notifif_summary">%d bağlandı</string>
-  <string name="softap_notifif_title">İnternet Paylaşımı \"%s\" açık</string>
+  <string name="softap_notifif_title">Hotspot \"%s\" açık</string>
   <string name="standard">Sessiz</string>
   <string name="standard_description">[Sessiz] Gelen çağrılar ve bildirim sesleri çalmaz</string>
   <string name="standard_title">Sessiz..</string>
-  <string name="start_security_permission_verify_text">Mi Hesabıyla izinleri doğrula</string>
+  <string name="start_security_permission_verify_text">Mi Hesabı ile izinleri doğrula</string>
   <string name="status_bar_toggle_auto_brightness">Parlaklık</string>
   <string name="status_bar_toggle_battery_saver">Pil Tasarrufu</string>
   <string name="status_bar_toggle_battery_saver_action">com.miui.securitycenter/com.miui.powercenter.savemode.PowerSaveActivity</string>
@@ -190,7 +190,7 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="status_bar_toggle_wifi_ap">Hotspot</string>
   <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
   <string name="subinfo_default_name">SIM %d</string>
-  <string name="switch_brand_desc_tv">Güvenlik hizmetleri Graphite tarafından sağlandı</string>
+  <string name="switch_brand_desc_tv">Güvenlik hizmetleri Spaces Mobile tarafından sağlanıyor</string>
   <string name="switch_desc_tv">İki alan. Tek cihaz.</string>
   <string name="switching_tv">Değiştiriliyor…</string>
   <string name="total">Rahatsız Etme</string>
@@ -199,7 +199,7 @@ Bu özelliği etkinleştirmek için Ayarlar &gt; Sistem &gt; Düğmeler bölüm�
   <string name="translation_more">Diğer</string>
   <string name="translation_query_error">"Sonuç bulunamadı"</string>
   <string name="translation_query_error_network">"Ağa bağlanamadı. Ayarları kontrol edin ve tekrar edin"</string>
-  <string name="turn_off">Kapalı</string>
+  <string name="turn_off">Kapat</string>
   <string name="twohours">1 saat</string>
   <string name="unknown_caller">Bilinmeyen Numara</string>
   <string name="user_switching_dialog_text">Geçiliyor…</string>
