@@ -20,6 +20,14 @@
   <string name="agree_to_turn_on">Kabul</string>
   <string name="all_services">Tümü</string>
   <string name="allow">İzin Ver</string>
+  <string name="antispam_curr_version">Geçerli sürüm: %d</string>
+  <string name="antispam_data_downloading">Arayanın Kimliğinin Bilgisi indiriliyor. Bu 3-5 saniye sürebilir.</string>
+  <string name="antispam_data_downloading_error">"Ağa bağlanılamadı"</string>
+  <string name="antispam_local_newest">Mevcut sürüm güncel.</string>
+  <string name="antispam_network_remind_summary">Mobil veri kullanarak güncellemeler indirilsin mi?</string>
+  <string name="antispam_network_remind_title">Veri Kulllanım Uyarısı</string>
+  <string name="antispam_pull_newest">%d sürüme başarıyla güncellendi</string>
+  <string name="antispam_update_version">Güncellemeleri denetle</string>
   <string name="app_label">Sarı Sayfalar</string>
   <string name="app_recommendation_install">Yükle</string>
   <string name="average_price">Yaklaşık %d Yuan</string>
@@ -390,6 +398,7 @@ Takip numarasını kontrol edin."</string>
   <string name="quick_yellow_page_tab_phones">Telefon</string>
   <string name="recharge_actual_price">Ücret:</string>
   <string name="recharge_charge_range">Ücret: %1$s-%2$s Yuan</string>
+  <string name="recharge_charge_value">Ücret: RMB %s</string>
   <string name="recharge_follow_name">Kontör</string>
   <string name="recharge_history">Kontör geçmişi</string>
   <string name="recharge_history_empty">Boş</string>
@@ -407,7 +416,7 @@ Takip numarasını kontrol edin."</string>
   <string name="recharge_payment_result_ok_summary">Bu tutarın bakiyeye yansıtıldığından emin olun.</string>
   <string name="recharge_payment_result_ok_title">%s Yuan eklendi</string>
   <string name="recharge_payment_result_progress_summary">Ödeme sonucu denetleniyor....</string>
-  <string name="recharge_phone">Kontör numarası:</string>
+  <string name="recharge_phone">Hedef telefon numarası:</string>
   <string name="recharge_phone_number_empty">"Telefon numarası boş olamaz"</string>
   <string name="recharge_phone_number_error">Girdiğiniz telefon numarası geçersiz</string>
   <string name="recharge_select_money_title">Kontör miktarını seçin</string>
