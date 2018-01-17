@@ -219,7 +219,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="app_manager_default_open">Varsayılan olarak aç</string>
   <string name="app_manager_default_open_summary">Bazı işlemler için bu uygulamayı varsayılan olarak başlatmayı seçtiniz.</string>
   <string name="app_manager_default_open_title">Varsayılanı temizle</string>
-  <string name="app_manager_defaults_setting">Varsayılanlar</string>
+  <string name="app_manager_defaults_setting">Varsayılanlar Uygulamalar</string>
   <string name="app_manager_details_electric_title">Pil</string>
   <string name="app_manager_details_storage_title">Depolama</string>
   <string name="app_manager_details_traffic_title">Veri Kullanımı:</string>
@@ -260,7 +260,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="app_manager_net_mobile">Mobil Veri</string>
   <string name="app_manager_net_wifi">WLAN</string>
   <string name="app_manager_not_allow">Hayır</string>
-  <string name="app_manager_not_support_uninstall">"Bu uygulama kaldırılamadı"</string>
+  <string name="app_manager_not_support_uninstall">"Bu uygulamalar kaldırılamadı"</string>
   <string name="app_manager_notify_bar">Bildirimler</string>
   <string name="app_manager_notify_floating">Kayar Bildirimler</string>
   <string name="app_manager_notify_keyguard">Kilit Ekran</string>
@@ -1074,7 +1074,7 @@ Daha fazla bilgi için operatörden gelen mesaja bakın"</string>
   <string name="gs_game_net_priority">Bağlantı Önceliği</string>
   <string name="gs_game_net_priority_detail">Oyundayken yeterli ban genişliği için indirme hızını limitle</string>
   <string name="gs_game_performance">Performans</string>
-  <string name="gs_game_shortcut">Daha akıcı oyun deneyiminin keyfine varın</string>
+  <string name="gs_game_shortcut">Oyun deneyiminizi geliştirin</string>
   <string name="gs_only_self_start_for_list">Oyundayken pil tasarrufu için arkaplan işlemleri kısıtlar</string>
   <string name="gs_open_game_booster">Hızı Arttır</string>
   <string name="gs_performance_mode">Performans Modu</string>
@@ -1863,7 +1863,7 @@ Bu faaliyet pil ömrünü kısaltır."</string>
   <string name="power_button_delete">Sil</string>
   <string name="power_cell">Şebeke Beklemedeyken</string>
   <string name="power_center_auto_shutdown">Açma/Kapatma Zamanlaması</string>
-  <string name="power_center_back">Geri</string>
+  <string name="power_center_back">Güce geri dön</string>
   <string name="power_center_auto_shutdown_summary">Kapama veya yeniden açmak için zamanlama</string>
   <string name="power_center_battery_full">Pil tamamen şarj oldu</string>
   <string name="power_center_charge_time">Tam Doluma: %1$s</string>
@@ -3068,7 +3068,7 @@ Kalan veri içeriği önceki aydan artakalanlardan yuvarlatılmış"</string>
   <string name="uninstall_danagerous_btn">Kaldır</string>
   <string name="uninstall_danagerous_desc">\"%s\" cihaza zarar verebilir</string>
   <string name="uninstall_danagerous_msg">\"%s\" cihaza zarar verebilir, düşük performans veya cihazın yeniden başlatılmasına sebep olabilir.</string>
-  <string name="uninstall_danagerous_title">Tehlikeli uygulamayı kaldır</string>
+  <string name="uninstall_danagerous_title">Tehlikeli uygulamaları kaldır</string>
   <string name="unlike">Hayır, teşekkürler</string>
   <string name="unlock_pattern">&lt;u&gt;Desen&lt;/u&gt;</string>
   <string name="unlock_pattern_to_bind_fingerprint">Parmakizini etkinleştirmek için şifreyi girin</string>
