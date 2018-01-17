@@ -66,4 +66,12 @@
         <item quantity="other">%d gün içinde</item>
         <item quantity="one">%d gün içinde</item>
     </plurals>
+	<plurals name="express_history_dialog_delete_message">
+        <item quantity="other">Expresten %s öğe silinsin mi?</item>
+        <item quantity="one">Expresten %s öğe silinsin mi?</item>
+    </plurals>
+    <plurals name="express_history_menu_select_num">
+        <item quantity="other">%s öğe seçildi</item>
+        <item quantity="one">%s öğe seçildi</item>
+    </plurals>
 </resources>
