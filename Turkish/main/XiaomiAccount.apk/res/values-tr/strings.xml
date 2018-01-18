@@ -476,7 +476,7 @@ Hesabınızı etkinleştirmek için, aşağıdaki
   <string name="passport_skip_setup_account_msg">Mi Hesabınızı daha sonra Ayarlardan değiştirebilirsiniz.</string>
   <string name="passport_skip_setup_account_title">Kurulumu Atla</string>
   <string name="passport_sms_send_success">Gönder</string>
-  <string name="passport_sms_verification_code_login">SMS doğrulama koduyla giriş</string>
+  <string name="passport_sms_verification_code_login">SMS kullanarak oturum aç</string>
   <string name="passport_sync_account_data">Hesap bilgisi eşitleniyor…</string>
   <string name="passport_sync_account_data_failed_warning">Hesabınız şimdi eşitlenecek, Mi Hesap Kimliğini kullanarak oturum açabilirsiniz. Eğer isterseniz kullanılan telefon veya e-posta kulanarak oturum açabilirsiniz fakat bunun için tamamen eşitlenmenin bitmesini beklemelisiniz.</string>
   <string name="passport_title_reg">Hesap oluştur</string>
