@@ -22,6 +22,7 @@
   <string name="send_sms">Mesaj Gönder</string>
   <string name="sharedUserLabel">Android Sistem Uygulamaları</string>
   <string name="third_party_delete_contact_info">"\"%s\" kişilerinizi silmeye çalışıyor. Bu eylem üçüncü parti uygulamalar tarafından yürütülür. Kişileri silmek için MUIU\'nin Kişiler uygulamasını kullanabilirsiniz."</string>
+  <string name="update_accounts_changed">Hesaplar değişti</string>
   <string name="upgrade_msg">Kişiler veritabanı yükseltiliyor...</string>
   <string name="upgrade_out_of_memory_notification_text">Yükseltmeyi tamamlamak için dokunun.</string>
   <string name="upgrade_out_of_memory_notification_ticker">Kişi güncellemesi için daha fazla boş alan gerekiyor</string>
