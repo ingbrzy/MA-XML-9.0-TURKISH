@@ -3,13 +3,14 @@
   <string name="app_label">Kişiler Deposu</string>
   <string name="call_log_provider_label">Arama Geçmişi</string>
   <string name="create_contact">Yeni Kişi</string>
-  <string name="debug_dump_database_message">Öncelikle 1) Tüm kişilerin bilgi ve çağrı geçmişini içeren tam bir kopyalama yapın 2) Bunu mail atın. Yaptığınız kopyalamayı mail adresinden aldıktan sonra kopyanızı silmeyi unutmayın.</string>
+  <string name="debug_dump_database_message">1) Tüm kayıtları ve ilgili tüm bilgileri içeren veritabanının bir kopyasını dahili belleğe kaydedin. 2) E-posta ile gönderin. Kopyalamayı cihazdan başarılı bir şekilde yaptıktan sonra silinmeyi unutmayın veya posta ile aldıktan sonra.</string>
   <string name="debug_dump_delete_button">Şimdi Sil</string>
   <string name="debug_dump_email_body">Tüm irtibat bilgilerimi, irtibat bilgisi veri tabanıma iliştir. Dikkatli kullanın.</string>
   <string name="debug_dump_email_sender_picker">Dosyanızı göndermek için bir program seçin</string>
   <string name="debug_dump_email_subject">Kişiler Veritabanı eklendi</string>
   <string name="debug_dump_start_button">Başlat</string>
   <string name="debug_dump_title">Kişiler veritabanını kopyala</string>
+  <string name="default_directory">Kişiler</string>
   <string name="edit_contact">Kişilere Ekle</string>
   <string name="local_invisible_directory">Diğer</string>
   <string name="low_memory_toast">"Düşük bellek nedeniyle kullanmaya devam edilemiyor."</string>
