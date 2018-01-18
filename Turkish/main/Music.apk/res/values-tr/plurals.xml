@@ -110,6 +110,18 @@
         <item quantity="other">%d yorum</item>
         <item quantity="one">%d yorum</item>
     </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">%1$d şarkı indiriliyor</item>
+        <item quantity="one">%1$d şarkı indiriliyor</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">"%1$d şarkı indirilemedi"</item>
+        <item quantity="one">"%1$d şarkı indirilemedi"</item>
+    </plurals>
+    <plurals name="notification_download_success_more">
+        <item quantity="other">%1$d şarkı</item>
+        <item quantity="one">%1$d şarkı</item>
+    </plurals>
     <plurals name="reader_count">
         <item quantity="other">%d takipçi</item>
         <item quantity="one">%d takipçi</item>
