@@ -2934,6 +2934,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="music_audio_effect_optimize_summary_with_hifi">Dirac, Hi-Fi, kulaklık ve diğer ses ayarları</string>
   <string name="music_audio_effect_settings">Efekt Ayarları</string>
   <string name="music_dirac_control">Ses kalitesini iyileştir</string>
+  <string name="music_dirac_mode_cancelling">Mi Gürültü Engelleme (3.5mm)</string>
   <string name="music_dirac_mode_capsule">Mi Kapsül</string>
   <string name="music_dirac_mode_earbuds">Mi Kulakiçi Kulaklık</string>
   <string name="music_dirac_mode_general">Genel</string>
@@ -2953,7 +2954,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="music_dirac_mode_piston_color">Renkli Sürüm</string>
   <string name="music_dirac_mode_piston_standard">Standart Sürüm</string>
   <string name="music_dirac_mode_piston_youth">Gençlik Sürümü</string>
-  <string name="music_dirac_mode_reduction_noise">Gürültüyü Azalt (USB-C)</string>
+  <string name="music_dirac_mode_reduction_noise">Mi Gürültü Önleme (TypeC)</string>
   <string name="music_dolby_dialogue_enhancer">Diyalog Geliştirici</string>
   <string name="music_dolby_effects">Dolby Efektleri</string>
   <string name="music_dolby_eq_enter_alert_msg">Yalnızca Dolby Müzik Modunda Ekolayzer kullanabilirsiniz. Şimdi etkinleştirilsin mi?</string>
@@ -3004,6 +3005,8 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="my_device">Cihazım</string>
   <string name="my_device_disclaimer">Not: İşlemci, pil kapasitesi, ekran boyutu ile çözünürlüğü ve kamera gibi donanım bilgileri, Xiaomi laboratuarları, tasarımcılar ve tedarikçiler tarafından sağlanır.</string>
   <string name="n_cacrts">%d CA sertifikaları</string>
+  <string name="navigation_guide_app_summary">Üstteki alandaki ekranın kenarından sola veya sağa kaydırın</string>
+  <string name="navigation_guide_app_title">"Uygulamanın Faaliyetini Tetikle"</string>
   <string name="navigation_guide_back_anim_summary">Animasyonlu hareketi göster</string>
   <string name="navigation_guide_back_anim_title">Animasyonlu Hareket</string>
   <string name="navigation_guide_back_summary">Ekranın solundan veya sağından kaydırın</string>
@@ -5975,7 +5978,7 @@ Tanıtımı"</string>
   <string name="wifi_calling_suggestion_title">WLAN Aramasını Aç</string>
   <string name="wifi_cancel">İptal</string>
   <string name="wifi_certificate">Sertifika</string>
-  <string name="wifi_click_login_wlan">Giriş/yetkilendirme gerektirir</string>
+  <string name="wifi_click_login_wlan">Bağlandı. Doğrulama gerekiyor.</string>
   <string name="wifi_click_share_wlan">Şifreyi paylaşmak için dokunun</string>
   <string name="wifi_config_info">WLAN yapılandırması</string>
   <string name="wifi_configure_titlebar">"Wi-Fi'yi Yapılandır"</string>
