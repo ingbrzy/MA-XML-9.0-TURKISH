@@ -460,7 +460,7 @@
   <string name="i_know">Tamam</string>
   <string name="i_know_it">Tamam</string>
   <string name="impunity_declaration">Uygulama çevrimiçi içerik ve akışı görüntülemek için bir internet bağlantısı gerektirir.</string>
-  <string name="impunity_declaration_content1">"Dokunarak bizim şu hizmet şartlarımızı kabul etmiş olursunuz "</string>
+  <string name="impunity_declaration_content1">"Dokunarak bizim şu hizmet şartlarımızı \"Kabul Et\"'miş olursunuz "</string>
   <string name="impunity_declaration_content2">Kullanıcı Sözleşmesi </string>
   <string name="impunity_declaration_content3">" ve "</string>
   <string name="impunity_declaration_content4">Gizlilik Politikası </string>
@@ -469,13 +469,13 @@
   <string name="impunity_declaration_negative_text">Çık</string>
   <string name="impunity_declaration_positive_text">Kabul</string>
   <string name="impunity_declaration_settings">Hizmet Şartlarını Göster</string>
-  <string name="impunity_declaration_summary">Müzik uygulaması her açılışında Baidu Online Müzik Servisi uygulamasının kullanım şartlarını göster</string>
+  <string name="impunity_declaration_summary">Müzik uygulaması her başlatıldığında Hizmet Şartlarını göster</string>
   <string name="impunity_declaration_title">Hizmet Şartları</string>
   <string name="in_searching_please_wait">Aranıyor…</string>
   <string name="individuation_recommend_message">Kişiselleştirilmiş önerileri açtığınızdan emin olun, Xiaomi müzik kişisel hizmet sunar</string>
   <string name="individuation_recommend_switch_message">Bu servisi kapattığınızda, kişisel radyo ve önerileri etkileyecektir. Yine de kapatılsın mı?</string>
   <string name="individuation_recommend_title">Bireyselleştirilmiş Tavsiye</string>
-  <string name="input_hint_prefix">Lütfen %1$s girin</string>
+  <string name="input_hint_prefix">%1$s girin</string>
   <string name="installing_apk">Yükleniyor...</string>
   <string name="insufficient_space">"Cihazınızın dahili depolama alanında yeterli alan yok"</string>
   <string name="intelligent_recognize">Albüm ve şarkı sözlerini akıllıca düzenle</string>
@@ -505,7 +505,7 @@
   <string name="local_music">Çevrimdışı</string>
   <string name="local_music_empty">Yerel çalma listesi boş</string>
   <string name="local_music_empty_goto_online">Şarkı bulunamadı</string>
-  <string name="local_music_is_not_available">Yerel müzik mevcut değil.</string>
+  <string name="local_music_is_not_available">Cihazınızda şarkı yok.</string>
   <string name="local_page_album_more">Tümünü göster</string>
   <string name="local_page_artist">Takipteki Sanatçılar</string>
   <string name="local_page_artist_more">Diğer %s çalışır</string>
@@ -664,7 +664,7 @@
   <string name="notification_recommend_title">Önemli Bildirimleri</string>
   <string name="notification_setting">Bildirim Ayarları</string>
   <string name="notification_title_no_song">"Herkesin ne dinlediğini göz atın!"</string>
-  <string name="nowplaying_circle_style">Döngü Stilini Oynat</string>
+  <string name="nowplaying_circle_style">Düğme Stilini Oynat</string>
   <string name="nowplaying_circle_style_rainbow">Gökkuşağı</string>
   <string name="nowplaying_circle_style_wave">Dalga</string>
   <string name="nowplaying_dialog_title_delete_tracks">Listeden kaldırılsın mı?</string>
@@ -693,8 +693,8 @@
   <string name="open_download">Aç</string>
   <string name="open_online_service">Bu özelliği kullanarak çevrimiçi hizmetleri açabilirsiniz. Şimdi açılsın mı?</string>
   <string name="open_service">Aç</string>
-  <string name="optimize_all_until_optimized">Albüm, şarkı bilgisi ve şarkı sözünü düzenle</string>
-  <string name="optimize_all_until_scanned">Yerel şarkıyı tarıyor, lütfen daha sonra tekrar deneyin.</string>
+  <string name="optimize_all_until_optimized">Yeni kapak ve şarkı sözleri uygulanıyor...</string>
+  <string name="optimize_all_until_scanned">Müziğin; şarkıların depolanmasını kontrol etmesini bitirinceye kadar bekleyin.</string>
   <string name="order_pending">Onay bekleniyor</string>
   <string name="order_process_fail">"Hesabınız yetkilendirilemiyor. Birkaç dakika bekleyip tekrar deneyiniz."</string>
   <string name="other_filter">Diğer</string>
@@ -710,7 +710,7 @@
   <string name="paused_waiting_to_retry">Tekrar denemek için bekliyor</string>
   <string name="pay">Ödeme:</string>
   <string name="pay_now">Şimdi öde</string>
-  <string name="payment_fail">Ödeme başarısız</string>
+  <string name="payment_fail">Ödeme tamamlanamadı</string>
   <string name="payment_success">Ödeme tamamlandı</string>
   <string name="pending_apk">Ödeniyor...</string>
   <string name="period_format">%1$s-%2$s</string>
@@ -730,7 +730,7 @@
   <string name="playlist_type_fm">FM</string>
   <string name="playlist_type_my">Oynatma Listem</string>
   <string name="playlist_type_recommend">Özellikli Oynatma Listesi</string>
-  <string name="playlist_unavailable">"Maalesef, çalma listesi mevcut değildir. Basın ve basılı tutun, sonra silmek için seçin. "</string>
+  <string name="playlist_unavailable">"Çalma listesi mevcut değil. Silmek için tuşa basılı tutup \"Sil\" seçeneğini seçin."</string>
   <string name="please_download_first">Bu şarkıyı zil sesi yapmandan önce indirmeniz gerekir.</string>
   <string name="please_search_or_select">Arayın veya bir alan seçin</string>
   <string name="please_select_song">Lütfen önce bir şarkı seçin</string>
@@ -835,7 +835,7 @@
   <string name="selected_count">%2$d %1$d seçildi</string>
   <string name="send_to">Paylaş</string>
   <string name="send_to_title">(%1$s) Gönder</string>
-  <string name="server_error">Sunucu hatası . Lütfen daha sonra tekrar deneyin</string>
+  <string name="server_error">Bir hata oluştu, bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="service_and_settings">Servis ve Hizmetler</string>
   <string name="service_stop">Hizmet devam etmiyor</string>
   <string name="set_album_successful">Albüm kaydedildi</string>
@@ -886,7 +886,7 @@
   <string name="song_is_empty">Şarkı ismi boş olamaz</string>
   <string name="song_name">Şarkı</string>
   <string name="song_not_find">"Bu şarkı mevcut değildir."</string>
-  <string name="song_offline">Maalesef, bu şarkı artık mevcut değil.</string>
+  <string name="song_offline">Bu şarkı artık mevcut değil.</string>
   <string name="song_unit">öğe</string>
   <string name="sort_by_language">Dil</string>
   <string name="sort_by_name">Ad</string>
@@ -928,10 +928,15 @@
   <string name="tab_track_list">Şarkılar</string>
   <string name="take_effect_afater_restart">Bu ayarın etkili olması için Müzik uygulamasını yeniden başlatmanız gerekir.</string>
   <string name="talkback_back">Geri dön</string>
+  <string name="talkback_cloud_setting">Ayarlar</string>
   <string name="talkback_device">Diğer cihazlarda oynat</string>
   <string name="talkback_download">İndir</string>
   <string name="talkback_favorite">Bu şarkıyı beğen</string>
+   <string name="talkback_follow">Takip et</string>
+  <string name="talkback_followed">Takip etme</string>
+  <string name="talkback_header_search">"Ara "</string>
   <string name="talkback_karaoke">"Karaoke'yi Aç"</string>
+  <string name="talkback_like">Sevdim</string>
   <string name="talkback_mode">Listeyi tekrarla</string>
   <string name="talkback_more">Diğer Menüler</string>
   <string name="talkback_next">Sonraki şarkı</string>
@@ -941,6 +946,7 @@
   <string name="talkback_radar">Müzik tanımlaması</string>
   <string name="talkback_search">Ara</string>
   <string name="talkback_share">Paylaş</string>
+  <string name="talkback_unlike">Sevmedim</string>
   <string name="task_already_exist">Görev zaten var</string>
   <string name="text_separator">|</string>
   <string name="ticket_summary">Gösteriler, konserler, tiyatro ve diğer etkinlikler için bilet satınal</string>
