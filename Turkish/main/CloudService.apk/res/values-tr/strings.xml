@@ -141,9 +141,9 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="ks_download_success">Sertifika başarıyla indirildi</string>
   <string name="ks_fingerprint_payment">Parmakizi ile Ödeme</string>
   <string name="ks_fingerprint_status">Ödeme Durumu</string>
-  <string name="ks_name_alipay">Alipay</string>
+  <string name="ks_name_alipay">IFAA</string>
   <string name="ks_name_fido">FIDO</string>
-  <string name="ks_name_soter">WeChat Ödemesi</string>
+  <string name="ks_name_soter">Soter</string>
   <string name="ks_status_available">Mevcut</string>
   <string name="ks_status_unavailable">Mevcut değil</string>
   <string name="ks_update_certificate">Sertifika</string>
@@ -432,8 +432,7 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_sync_alert_dialog_title">Mi Bulut kullan</string>
   <string name="micloud_sync_off">Mi Bulut ile eşitleme kapalı</string>
   <string name="micloud_sync_prompt_for_no_gallery_sync">"Sadece Kişiler, Takvim ve Notlar'i eşitler, daha fazla öğeyi eşitlemek için Mi Bulut ayarına gidin."</string>
-  <string name="micloud_title_dspt" formatted="false">"Toplam: %s
- %s kullanıldı | %s kaldı"</string>
+  <string name="micloud_title_dspt" formatted="false">Kullanılan: %s/Toplam Alan: %s,</string>
   <string name="micloud_title_dspt_remain">Kalan: %s</string>
   <string name="micloud_title_full_dspt">"Depolama limiti aşıldı"</string>
   <string name="micloud_unlogin_for_time_summary"/>
@@ -543,7 +542,7 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="sub_sync_item_sms_title_wifi_only">MMS eşitlemesini sadece WLAN kullanarak yap</string>
   <string name="success_upgraded_space">%s eklendi</string>
   <string name="sync_dspt">Eşitle</string>
-  <string name="sync_dspt_entrance_provision">"Mi Bulut, cihazlardaki fotoğrafları, kişileri ve diğer öğeleri eşitlemenize yardımcı olur. Eşitlenmiş öğelerdeki %s herhangi bir yerden erişebilirsiniz."</string>
+  <string name="sync_dspt_entrance_provision">"Fotoğraflarınızı, rehberinizi, arama geçmişinizi ve mesajlarınızı tüm cihazlarınızda eşitleyin. Eşitlediklerinize %s adresinden herhangi bir tarayıcıyla erişin."</string>
   <string name="sync_dspt_entrance_provision_2">Diğer</string>
   <string name="sync_dspt_entrance_provision_confirm_close">"Kullanma!"</string>
   <string name="sync_dspt_entrance_provision_confirm_content">"MIUI'nin yerleşik uygulamalarının fotoğrafları, şahısları, notları ve daha fazlasını yedekleyebilmesi için Mi Bulut\'a ihtiyacı var. Mi Bulut ücretsiz ve kullanıma hazır halde gelir."</string>
@@ -595,10 +594,10 @@ Bu özellik şifreleri ve Mi\'nin sunucularına cihazınızın kimliğini gönde
   <string name="virtual_sim_desc">SIM kart olmadan cihazı bulmak için Mi SIM özelliğini açın</string>
   <string name="voip_choose_sim">Mi Voice uygulamasını etkinleştirmek için telefon numarasını seçin</string>
   <string name="wipe_data_dialog_button_check_sync">Eşitlenmeyi denetle</string>
-  <string name="wipe_data_dialog_msg">"%s eşitlenemedi ve telefonunuzda kalacak."</string>
+  <string name="wipe_data_dialog_msg">"Bazı %s öğeler eşitlenemedi. Cihazınıza kaydedilir ve silinmezler."</string>
   <string name="wipe_data_dialog_msg_and_on">, ve diğer öğeler</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
-  <string name="wipe_data_dialog_title">"Bazı öğeler eşitlenemedi"</string>
+  <string name="wipe_data_dialog_title">"Öğeler eşitlenemedi"</string>
   <string name="wipe_secret_photo_dialog_title">"Gizli fotoğraflar eşitlenemedi"</string>
   <string name="xiaomi_cloud_service">Mi Bulut</string>
   <string name="xiaomi_cloud_service_subtitle">Tüm önemli öğeler bir yerde</string>
