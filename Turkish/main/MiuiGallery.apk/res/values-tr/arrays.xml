@@ -35,4 +35,12 @@
         <item>Kas</item>
         <item>Ara</item>
     </string-array>
+    <string-array name="sharer_relation_addressive">
+	<item>Baba</item>
+	<item>Anne</item>
+	<item>Büyükbaba</item>
+	<item>Babaanne</item>
+	<item>Dede</item>
+	<item>Nine</item>
+    </string-array>
 </resources>
