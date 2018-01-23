@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about_to_recover">Biraz bekleyin...</string>
+  <string name="account_error">Hesap Hatası</string>
   <string name="app_is_running">Uygulama çalışıyor…</string>
   <string name="app_name">Mi Bulut Yedeklemesi</string>
   <string name="arrange_restore_order">Uygulamalar yeniden yerleştiriliyor…</string>
@@ -99,11 +100,15 @@ Not: Yüklediğiniz uygulamaların verileri Mi Bulut'ta yedeklenmeyecek"</string
   <string name="device_corrupt">Mi Telefon (Veri bozulmuş)</string>
   <string name="device_delete_prompt">%s yedek silinsin mi?</string>
   <string name="device_xiaomi">Mi Telefon</string>
+  <string name="dialog_btn_next">İleri</string>
+  <string name="dialog_btn_restore_skip">Sonra geri yükle</string>
   <string name="dialog_cancel_backup_cancel">İptal</string>
   <string name="dialog_cancel_backup_confirm">Tamam</string>
   <string name="dialog_cancel_backup_msg">Düğmeyi değiştirdiğinizde devam eden yedeklemeler sona erer.</string>
   <string name="dialog_cancel_backup_title">Yedeklemenin yüklenmesi iptal edilsin mi?</string>
-  <string name="dir_date_format">HHmmss_MMddyyyy</string>
+  <string name="dialog_msg_restore_require_wlan">Yedek dosyalarının geri yüklenmesi için WLAN gerekiyor.</string>
+  <string name="dialog_title_require_wlan">WLAN Gerekiyor</string>
+  <string name="dir_date_format">HHmmss_ddMMyyyy</string>
   <string name="doing_restore_home">Ana Ekran ve Ayarlar geri yükleniyor…</string>
   <string name="done_remove">Başarıyla kaldırıldı</string>
   <string name="download_home_data">Ana Ekran şablonu yükleniyor…</string>
@@ -158,7 +163,9 @@ Not: Yüklediğiniz uygulamaların verileri Mi Bulut'ta yedeklenmeyecek"</string
   <string name="restore_home_screen_apps">Mi Bulut yedeğinden geri yükle</string>
   <string name="restore_task_cancelling">İptal ediliyor...</string>
   <string name="restore_task_in_process">Geri yükleniyor...</string>
-  <string name="restore_unfinished">Geri yükleniyor, sonra yeniden deneyin</string>
+  <string name="restore_task_unfinished">Uygulamaları geri yüklemeyi daha sonra deneyin</string>
+  <string name="restore_unfinished">Uygulamaları geri yüklemeyi daha sonra deneyin</string>
+  <string name="restoreing_file_tile">%d dosyayı geri yükle</string>
   <string name="restoring_file_tile">%d dosyalar geri yükleniyor...</string>
   <string name="retry">Yeniden Dene</string>
   <string name="self_phone">Bu Telefon</string>
