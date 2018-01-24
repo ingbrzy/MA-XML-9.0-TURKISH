@@ -4843,7 +4843,6 @@ Güvenli kimlik doğrulamasının bu cihazda yüklü olduğundan emin olun."</st
   <string name="status_bar_screen_button_key">Ekran Tuşlarını göster</string>
   <string name="status_bar_screen_button_key_can_hide">Ekran tuşları gizlenebilir</string>
   <string name="status_bar_screen_button_key_force_immersive">Ekran düğmelerini gizle</string>
-  <string name="status_bar_screen_button_force_immersive_desc">Ekrandaki düğmeleri görüntülemek için alttan üste doğru hızlıca kaydırın.</string>
   <string name="status_bar_screen_key_home">Ana Sayfa Tuşu</string>
   <string name="status_bar_screen_key_menu">Menü Tuşu</string>
   <string name="status_bar_screen_key_recent_apps">Son Uygulamalar Tuşu</string>
@@ -5071,7 +5070,6 @@ Devam etmek için; fakat uygulamalar bu konumdan taşınırken ve veri transferi
   <string name="sub_deactivate_success">Başarıyla etkinleştirme geri alındı.</string>
   <string name="subs_settings">SUBS Durumu</string>
   <string name="succeed">Tamamlandı</string>
-  <string name="suggest_unrestrict_max_aspect_ratio_title">Bu uygulamalar Tam Ekran Modunda daha iyi çalışır</string>
   <string name="suggested_fingerprint_lock_settings_summary">Parmakiziyle kilidi aç</string>
   <string name="suggested_lock_settings_title">Ekran Kilidi</string>
   <string name="suggestion_additional_fingerprints">Başka parmakizi ekle</string>
