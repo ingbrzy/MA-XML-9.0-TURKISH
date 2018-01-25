@@ -7,6 +7,7 @@
   <string name="custom_lock_wallpaper_enter">Gir</string>
   <string name="default_lockscreen_unlock_hint_text">Kilidi açmak için yukarı kaydırın</string>
   <string name="delete">Sil</string>
+  <string name="digital_clock_dot">:</string>
   <string name="do_disclosure_generic">Bu cihaz kuruluşunuz tarafından yönetilir</string>
   <string name="do_disclosure_with_name">Bu cihaz %s tarafından yönetilir</string>
   <string name="doze_pickup_subtype_performs_proximity_check"/>
@@ -132,6 +133,7 @@
   <string name="keyguard_left_buscard">Notlar</string>
   <string name="keyguard_left_remotecentral">Takvim</string>
   <string name="keyguard_left_smarthome">Kişiler</string>
+  <string name="keyguard_left_view_lock_wallpaper">Duvar Kağıdı Döngüsü</string>
   <string name="keyguard_quick_charging_info_click_to_detail">Hızlı şarj ediliyor. Detayları görüntülemek için dokunun.</string>
   <string name="keyguard_quickly_charging_info_charging_text">Hızlı şarj ediliyor...</string>
   <string name="keyguard_torch_cover_text">Feneri açık tutmak için güç düğmesine basılı tutun</string>
