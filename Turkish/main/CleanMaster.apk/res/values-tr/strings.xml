@@ -34,7 +34,7 @@
   <string name="apk_status_installed_old">Eski Sürüm</string>
   <string name="apk_status_uninstalled">Yüklenmedi</string>
   <string name="apk_title_alipay_plugin">Alipay Eklentisi</string>
-  <string name="app_description_content">Temizleyici, cihazınızda çöpleri bulur ve depolama alanını boşaltır. Uygulamayı kaldırmadan önce bu özelliklere sahip olmadığınızdan emin olun.</string>
+  <string name="app_description_content">Temizleyici, cihazınızda çöpleri bulur ve depolama alanını boşaltır. Uygulamayı kaldırmadan önce bu özelliklere sahip olup-olmadığınızdan emin olun.</string>
   <string name="app_description_title">Temizleyici Hakkında</string>
   <string name="app_install_tips_go_to">Aç</string>
   <string name="app_install_tips_install_success">%1$s başarıyla yüklendi</string>
@@ -90,7 +90,7 @@
   <string name="button_text_unselect_pic">Vazgeç</string>
   <string name="button_text_view_detail">Detaylar</string>
   <string name="button_text_view_file">Dosya</string>
-  <string name="buy_a_new_phone">Daha fazla alan satınal</string>
+  <string name="buy_a_new_phone">Fazla alan satınal</string>
   <string name="buy_immediately">Satınal</string>
   <string name="buy_traffic_pack">Fazla Veri Satınal</string>
   <string name="byteShort">B</string>
@@ -99,7 +99,16 @@
   <string name="cache_title_system_cache">Sistem Önbelleği</string>
   <string name="cached_garbage">Önbellek</string>
   <string name="call_log">Çağrı Günlüğü</string>
-  <string name="cancel">İptal</string>
+  <string name="cancel">İptal et</string>
+  <string name="cd_back">Geri</string>
+  <string name="cd_check_box_checked">denetlendi</string>
+  <string name="cd_check_box_middle">kısmi seçim</string>
+  <string name="cd_check_box_unchecked">denetlenmedi</string>
+  <string name="cd_list_item_collapse">daraltıldı</string>
+  <string name="cd_list_item_expanded">genişletildi</string>
+  <string name="cd_percent">yüzde</string>
+  <string name="cd_settings">ayarlar</string>
+  <string name="cd_sort_type">sıralama tipi</string>
   <string name="clean_content_all">Tümü</string>
   <string name="clean_content_one">1 öğe</string>
   <string name="clean_content_three">3 öğe</string>
@@ -156,7 +165,7 @@
   <string name="default_cache_type">Veri Dosyaları</string>
   <string name="delete_confirm">Sil</string>
   <string name="delete_confirm_msg">Seçilen tüm dosyalar kalıcı olarak silinsin mi?</string>
-  <string name="dialog_content_checkbox_delete_cloud_image">Ayrıca Mi Bulut fotoğrafları sil</string>
+  <string name="dialog_content_checkbox_delete_cloud_image">Ayrıca Mi Bulut fotoğraflarını sil</string>
   <string name="dialog_content_delete_image_confirm"> %d fotoğrafları silinsin mi?</string>
   <string name="dialog_content_select_all_confirm">Bu fotoğrafın bir kopyası saklansın mı?</string>
   <string name="dialog_msg_add_white_list_error">"Dosya istisnalara eklenemedi"</string>
@@ -229,13 +238,13 @@
   <string name="hints_garbage_handle_item_content">%1$d öğe, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Boş</string>
   <string name="hints_header_left">%d</string>
-  <string name="hints_install_apps_else"> %s kullanıldı</string>
-  <string name="hints_install_apps_interval"> %d gün önce kullanıldı</string>
+  <string name="hints_install_apps_else">%s kullanılmış</string>
+  <string name="hints_install_apps_interval">%d gün önce kullanıldı</string>
   <string name="hints_install_apps_new">Hiç kullanılmadı</string>
-  <string name="hints_install_apps_risk">Risk bulundu</string>
-  <string name="hints_install_apps_today">Bugün kullanıldı</string>
-  <string name="hints_install_apps_virus">Virüs bulundu</string>
-  <string name="hints_installed_app_fewer">Nadiren kullanılmış</string>
+  <string name="hints_install_apps_risk">Risk algılandı</string>
+  <string name="hints_install_apps_today">Bugün kullandı</string>
+  <string name="hints_install_apps_virus">Virüs tespit edildi</string>
+  <string name="hints_installed_app_fewer">Nadiren kullanıldı</string>
   <string name="hints_installed_app_near">Son kullanılan</string>
   <string name="hints_installed_app_never">Hiç kullanılmadı</string>
   <string name="hints_installed_apps_header_left">Kurulu Uygulama: %d</string>
@@ -261,10 +270,10 @@
   <string name="hints_quick_scanning">Taranıyor…</string>
   <string name="hints_residual_header_left">Artıklar</string>
   <string name="hints_scan_has_finish">Bitmiş Temizlik</string>
-  <string name="hints_scanfinish">Çöp yok</string>
+  <string name="hints_scanfinish">Hiçbir şey bulunamadı. Tamamen temizlemeyi deneyin.</string>
   <string name="hints_storage_clean_size"> %s dahili depolamadan kurtarıldı</string>
   <string name="hints_storage_free">Boş</string>
-  <string name="hints_storage_free_size">Toplam %1$s, %2$s kullanılabilir</string>
+  <string name="hints_storage_free_size">Toplam: %1$s | Boş: %2$s</string>
   <string name="hints_storage_news">Güvenlik Yenilikleri</string>
   <string name="hints_title_garbage">Çöp</string>
   <string name="hints_video_camera">Kayıtlı Videolar</string>
@@ -373,7 +382,7 @@
   <string name="menu_clear">Temizle</string>
   <string name="menu_install">Bu uygulamayı yükle</string>
   <string name="menu_view">Dizini göster</string>
-  <string name="month_day_format">dd MMM</string>
+  <string name="month_day_format">dd. MMM</string>
   <string name="msg_cleanup_db_update_checking">Güncellemeler kontrol ediliyor…</string>
   <string name="msg_cleanup_db_update_time_unknown">Son güncelleme bilinmiyor</string>
   <string name="msg_update_error_code_already_running">Güncelleniyor…</string>
@@ -392,9 +401,9 @@
   <string name="no_network_btn">Tekrar Dene</string>
   <string name="notification_summary_after_auto_cleanup"> %s temizlendi.</string>
   <string name="notification_summary_of_apps_cleanup">Kullanılmayan uygulamalar depolamanın %s yerini işgal ediyor</string>
+  <string name="notification_title_of_garbage_cleanup">%s çöp dosya</string>
   <string name="notification_summary_of_garbage_cleanup">Alanı boşaltmak için dokunun.</string>
   <string name="notification_title_of_apps_cleanup">Kullanılmayan Uygulamalar</string>
-  <string name="notification_title_of_garbage_cleanup">%s çöp dosya</string>
   <string name="notify_when">Çöp boyutu 100 MB ulaştığında bildirim ver</string>
   <string name="ok">Tamam</string>
   <string name="open">Aç</string>
@@ -448,16 +457,6 @@
   <string name="pref_title_manual_check_cleanup_db_update">Güncellemeleri kontrol et</string>
   <string name="pref_title_open_optimizer_cloud_scan">Dosya adlarını yükle</string>
   <string name="pref_title_open_optimizer_memory_scan">Uygulama Hafızasını Tara</string>
-  <string name="preference_key_auto_update_cleanup_db">key_auto_update_cleanup_db</string>
-  <string name="preference_key_cleanup_white_list">key_cleanup_white_list</string>
-  <string name="preference_key_default_expand_cache_group">key_default_expand_cache_group</string>
-  <string name="preference_key_garbage_clean_alert">key_garbage_clean_alert</string>
-  <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
-  <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
-  <string name="preference_key_manual_update_cleanup_db">key_manual_update_cleanup_db</string>
-  <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>
-  <string name="preference_key_open_optimizer_memory_scan">key_open_memory_scan</string>
-  <string name="preference_key_scan_engine">key_scan_engine</string>
   <string name="privacy_app_desc">Hesap ve Şifre</string>
   <string name="privacy_app_desc_message">Hesap, Şifre ve Mesajlar</string>
   <string name="privacy_app_desc_search">Hesap, Şifre ve Arama Geçmişi</string>
@@ -489,11 +488,12 @@
   <string name="recommend_news">Tavsiyeleri al</string>
   <string name="recommend_the_following">Cihazınızı en iyi hale getirmek için aşağıdaki faaliyetleri de uygulayabilirsiniz.</string>
   <string name="recommended">Tavsiyeler</string>
-  <string name="remain_item_name_n7p"/>
-  <string name="remain_item_name_pamp"/>
-  <string name="resutl_function_deep_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; diğer dosyaları temizlenebilir. Boşaltıp daha fazla alan kazanılır.&lt;/Data&gt;" "</string>
-  <string name="resutl_function_qq_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; tarafından oluşturulan önbelleği temizleyebilirsiniz. generated by QQ&lt;/Data&gt;" "</string>
-  <string name="resutl_function_wechat_clean_summary">" "&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; WeChat önbelleğinde. Boşaltıp daha fazla alan kazanın.&lt;/Data&gt;" "</string>
+  <string name="resutl_function_deep_clean_summary">    " "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> daha fazla dosya silinebilir. Silerek yer açın!</Data>" "
+  </string>
+  <string name="resutl_function_qq_clean_summary">    " "<Data>QQ  &lt;font color=#ff0000 >%1$s&lt;/font> yüzünden oluşan önbelleği temizleyebilirsiniz</Data>" "
+  </string>
+  <string name="resutl_function_wechat_clean_summary">    " "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> WeChat Önbelleği. Silerek yer açın!</Data>" "
+  </string>
   <string name="safety_check_detail">%1$d zaman, %2$d puan kazanıldı</string>
   <string name="safety_rank">Güvenlik açısından %%%d MIUI kullanıcısından önde</string>
   <string name="sc_allow_network_dialog_button">İzinli</string>
@@ -515,9 +515,9 @@
   <string name="summary_auto_cleaner">Her 3 günde bir otomatik temizlensin mi?</string>
   <string name="summary_delete_apk">Seçilen APKlar silinsin mi?</string>
   <string name="summary_delete_cache">Seçili uygulamaların önbelleği temizlensin mi?</string>
-  <string name="summary_delete_large_file">Seçili uygulamaların nadiren kullanılanları silinsin mi?</string>
+  <string name="summary_delete_large_file">İnternet bağlantınız yoksa bazı büyük dosyalar yararlı olabilir (örneğin haritalar, zamanlama programları vb.). Bu dosyalara ihtiyacınız olmadığından emin olun.</string>
   <string name="summary_delete_video">Seçili videoların nadiren kullanılanları silinsin mi?</string>
-  <string name="summary_optimizer">"Bu özellik, Cheetah Mobile çevrimiçi veritabanını güncellemek için klasör isimlerini yükler ve cihazınızın kimliğine ihtiyaç duyar"</string>
+  <string name="summary_optimizer">"Bu özellik, Cheetah Mobile'ın çevrimiçi veritabanına klasör adlarını yükler ve cihazınızın kimliğini gerektirir."</string>
   <string name="sys_cache_on_sdcard_item_name">Önbelleğe Al</string>
   <string name="terabyteShort">TB</string>
   <string name="text_optimizer">Dosya isimlerini yükle</string>
@@ -573,14 +573,16 @@
   <string name="total_clean_text">Temizle</string>
   <string name="traffic_top">Fazla veri tüketen 5 uygulama</string>
   <string name="unlike">Hayır, Teşekkürler</string>
-  <string name="update_date_format">dd/MM/yyyy</string>
+  <string name="update_date_format">dd.MM.yyyy</string>
   <string name="virus_scan">Güvenliği Tara</string>
-  <string name="vungle_ad_name">Vungle广告</string>
   <string name="wechat_add_to_cleanlist">Başarıyla temizlendi</string>
   <string name="wechat_cache_files">WeChat Önbelleği</string>
+  <string name="wechat_clean_canceled_empty_summary">Temizlik bitmedi, baştan başlayacak</string>
+  <string name="wechat_clean_finish_empty_summary">Her şey iyi görünüyor</string>
+  <string name="wechat_clean_finish_summary">Seçilen dosyalar başarıyla silindi</string>  
   <string name="wechat_chat_clean_done">Her şey iyi görünüyor</string>
   <string name="wechat_chat_data_type_cache">WeChat Önbelleği</string>
-  <string name="wechat_chat_data_type_cache_desc">"İnternet'e bağlandıktan sonra bu dosyaları geri yükleyebileceksiniz."</string>
+  <string name="wechat_chat_data_type_cache_desc">Bir İnternet bağlantısı oluşturulduktan sonra bu dosyalar kurtarılabilir</string>
   <string name="wechat_chat_data_type_chat">Sohbet geçmişi</string>
   <string name="wechat_chat_data_type_chat_desc">"Sohbet geçmişini geri yükleyemezsiniz."</string>
   <string name="wechat_chat_data_type_normal">Çöp</string>
@@ -609,28 +611,31 @@
   <string name="wechat_copying_video_dialog_title">Galeriye aktar</string>
   <string name="wechat_copying_video_empty">Aktarılacak video yok</string>
   <string name="wechat_copying_video_success">Başarıyla aktarıldı</string>
+  <string name="wechat_normal_files">Çöp Kutusu</string>
+  <string name="wechat_qq_activity_title">Derin Temizlik</string>  
+  <string name="wechat_qq_chat_files">Sohbet Geçmişi</string>
   <string name="wechat_qq_celan_tab_file">Dosya</string>
   <string name="wechat_qq_celan_tab_image">Resim</string>
   <string name="wechat_qq_celan_tab_video">Video</string>
   <string name="wechat_qq_celan_tab_voice">Ses</string>
   <string name="wechat_qq_chat_files">Sohbet Geçmişi</string>
   <string name="wechat_qq_deep_clean_button_text">Derin Temizlik</string>
-  <string name="wechat_qq_normal_files">Çöp</string>
-  <string name="white_list_ad_header">Eski Dosyalar: %d</string>
-  <string name="white_list_apk_header">Yükleme Paketleri: %d</string>
-  <string name="white_list_cache_header">Önbellek Dosyaları: %d</string>
-  <string name="white_list_large_file_header">Büyük Dosyalar ve Videolar: %d</string>
-  <string name="white_list_residual_header">Artıklar: %d</string>
-  <string name="white_list_title">İstisnalar</string>
   <string name="wq_deep_clean_filter_all">Tümü</string>
   <string name="wq_deep_clean_filter_month_ago">Bir ay önce</string>
   <string name="wq_deep_clean_filter_three_month_ago">Üç ay önce</string>
   <string name="wq_deep_clean_filter_week_ago">Bir hafta önce</string>
   <string name="wq_deep_clean_filter_years_ago">Altı ay önce</string>
-  <string name="wqfile_group_chat_file">Diğer dosyalar</string>
-  <string name="wqfile_group_chat_pic">Görüntülü sohbet</string>
-  <string name="wqfile_group_chat_video">Videolu sohbet</string>
-  <string name="wqfile_group_chat_voice">Sesli sohbet</string>
-  <string name="year_month_day_format">dd/MMM/yyyy</string>
+  <string name="wqfile_group_chat_file">Diğer dosya</string>
+  <string name="wqfile_group_chat_pic">Resimli Sohbet</string>
+  <string name="wqfile_group_chat_video">Görüntülü Sohbet</string>
+  <string name="wqfile_group_chat_voice">Sesli Sohbet</string>   
+  <string name="wechat_qq_normal_files">Çöp</string>
+  <string name="white_list_ad_header">Reklâm: %d</string>
+  <string name="white_list_apk_header">Kurulum Paketleri: %d</string>
+  <string name="white_list_cache_header">Önbellek Dosyaları: %d</string>
+  <string name="white_list_large_file_header">Büyük Dosyalar: %d</string>
+  <string name="white_list_residual_header">Artıklar: %d</string>
+  <string name="white_list_title">İstisnalar</string>
+  <string name="year_month_day_format">dd. MMM yyyy</string>
   <string name="yesterday">Dün</string>
 </resources>
