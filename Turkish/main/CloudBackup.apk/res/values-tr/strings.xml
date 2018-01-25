@@ -108,7 +108,7 @@ Not: Yüklediğiniz uygulamaların verileri Mi Bulut'ta yedeklenmeyecek"</string
   <string name="dialog_cancel_backup_title">Yedeklemenin yüklenmesi iptal edilsin mi?</string>
   <string name="dialog_msg_restore_require_wlan">Yedek dosyalarının geri yüklenmesi için WLAN gerekiyor.</string>
   <string name="dialog_title_require_wlan">WLAN Gerekiyor</string>
-  <string name="dir_date_format">HHmmss_ddMMyyyy</string>
+  <string name="dir_date_format">HHmmss_MMddyyyy</string>
   <string name="doing_restore_home">Ana Ekran ve Ayarlar geri yükleniyor…</string>
   <string name="done_remove">Başarıyla kaldırıldı</string>
   <string name="download_home_data">Ana Ekran şablonu yükleniyor…</string>
