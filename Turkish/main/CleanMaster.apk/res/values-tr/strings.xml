@@ -592,13 +592,10 @@
   <string name="wechat_chat_data_type_other_desc">Dikkatli olun, dosyaları sildikten sonra geri yükleyemeyebilirsiniz.</string>
   <string name="wechat_chat_files">Sohbet geçmişi</string>
   <string name="wechat_clean">WeChat Temizleyicisi</string>
-  <string name="wechat_clean_canceled_empty_summary">"Temizleme bitmedi, baştan başla."</string>
   <string name="wechat_clean_downloads">Alınan dosyalar</string>
   <string name="wechat_clean_downloads_desc">"WeChat'ta alınan dosyalar"</string>
   <string name="wechat_clean_exit_confirm">Çıkılsın mı?</string>
   <string name="wechat_clean_exit_confirm_msg">Tarama durdurulup, çıkılsın mı?</string>
-  <string name="wechat_clean_finish_empty_summary">Herşey güzel gözüküyor</string>
-  <string name="wechat_clean_finish_summary">Seçilen dosyalar başarıyla silindi</string>
   <string name="wechat_clean_stop_confirm">Tarama durdurulsun mu?</string>
   <string name="wechat_clean_stop_confirm_msg">Şimdi tarama durdurulsun mu?</string>
   <string name="wechat_content_bad_pic_file">Dosya bozuk</string>
@@ -618,7 +615,6 @@
   <string name="wechat_qq_celan_tab_image">Resim</string>
   <string name="wechat_qq_celan_tab_video">Video</string>
   <string name="wechat_qq_celan_tab_voice">Ses</string>
-  <string name="wechat_qq_chat_files">Sohbet Geçmişi</string>
   <string name="wechat_qq_deep_clean_button_text">Derin Temizlik</string>
   <string name="wq_deep_clean_filter_all">Tümü</string>
   <string name="wq_deep_clean_filter_month_ago">Bir ay önce</string>
