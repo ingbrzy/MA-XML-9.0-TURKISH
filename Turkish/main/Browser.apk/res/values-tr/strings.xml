@@ -470,7 +470,6 @@ görüntülemek için Mi Hesabınızda oturum açın."</string>
   <string name="mw_color_picker_dialog_title">Rengi seç</string>
   <string name="mw_color_picker_hue">Ton</string>
   <string name="mw_color_picker_saturation">Doygunluk</string>
-  <string name="mw_color_picker_value">Değer</string>
   <string name="mw_common_google_play_services_enable_button">Aktif</string>
   <string name="mw_common_google_play_services_enable_text">"Google Play hizmetlerini etkinleştirmediğiniz sürece %1$s çalışmıyor."</string>
   <string name="mw_common_google_play_services_enable_title">Google Play hizmetlerini etkinleştirin</string>
