@@ -792,7 +792,6 @@
   <string name="recognize_switch_off_alert_not_now">Şimdi değil</string>
   <string name="recognize_switch_off_alert_revert">Sil</string>
   <string name="recognize_switch_off_alert_title">Albüm ve şarkı sözünü akıllıca düzenle</string>
-  <string name="recognized_alert_message">Mi Müzik, bu şarkı için albüm kapağı ve şarkı sözlerini buldu. Bilgileri düzenlemek için \"... \"'ye dokunun.</string>
   <string name="recognized_alert_title">Albüm kapağı ve şarkı sözü bulundu</string>
   <string name="recommend_fragment_title">Öne Çıkanlar</string>
   <string name="recommended_file_size_download_in_mobile">Bu dosyayı indirirken mobil veri %s  kullanılsın mı?</string>
