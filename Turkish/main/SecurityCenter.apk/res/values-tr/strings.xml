@@ -624,7 +624,7 @@ Uygulama Kilidinin şifresini girin"</string>
   <string name="cancel_button">İptal</string>
   <string name="cancle">İptal</string>
   <string name="card_main_applock_action">Aç</string>
-  <string name="card_main_applock_summary">Seçilen uygulamaları bir şifreyle koruyun. Mesajları, fotoğrafları, notları ve daha fazlasını gizleyin.</string>
+  <string name="card_main_applock_summary">Seçilen uygulamaları bir şifreyle koruyun.</string>
   <string name="card_main_applock_title">Uygulama Kilidi</string>
   <string name="card_main_datasave_action">Aç</string>
   <string name="card_main_datasave_summary">Kaydetmek için %20 veriyi sıkıştır</string>
@@ -1504,7 +1504,7 @@ için bekleniyor"</string>
   <string name="menu_text_power_percent_title">Pil: %s</string>
   <string name="menu_text_power_percent_title_default">Pil</string>
   <string name="menu_wh_remove">İstisnalardan kaldır</string>
-  <string name="menu_white">Hariç</string>
+  <string name="menu_white">İstisnalara ekle</string>
   <string name="mi_pay_lucky">小米钱包</string>
   <string name="mi_service_app_detail">Veri kullanım ayrıntıları</string>
   <string name="mi_service_framework">Mi Hizmet Çerçevesi</string>
@@ -1548,6 +1548,8 @@ için bekleniyor"</string>
   <string name="network_blocked_connected_open_wifi">Halka açık ağa bağlandı</string>
   <string name="network_blocked_notification_summary">Ağı Test Et</string>
   <string name="network_blocked_switch_wifi">Ağı Değiştir</string>
+  <string name="network_changed_noti_summary">Mobil veri kullanımı</string>
+  <string name="network_changed_noti_title">WLAN bağlantısını kes</string>
   <string name="network_connected_exception_title">Ağı Test Et</string>
   <string name="network_control">Uygulama Ayarlarına Gözat</string>
   <string name="network_diagnostics">Ağı Test Et</string>
