@@ -22,6 +22,7 @@
   <string name="search_the_yellowpage">Sarı Sayfalarda Ara</string>
   <string name="send_sms">Mesaj Gönder</string>
   <string name="sharedUserLabel">Android Sistem Uygulamaları</string>
+  <string name="sim_state_changed">Telefon Kartı değişti</string>
   <string name="third_party_delete_contact_info">"\"%s\" kişilerinizi silmeye çalışıyor. Bu eylem üçüncü parti uygulamalar tarafından yürütülür. Kişileri silmek için MUIU\'nin Kişiler uygulamasını kullanabilirsiniz."</string>
   <string name="update_accounts_changed">Hesaplar değişti</string>
   <string name="upgrade_msg">Kişiler veritabanı yükseltiliyor...</string>
@@ -29,5 +30,6 @@
   <string name="upgrade_out_of_memory_notification_ticker">Kişi güncellemesi için daha fazla boş alan gerekiyor</string>
   <string name="upgrade_out_of_memory_notification_title">Kişiler için depolama yükseltiliyor</string>
   <string name="video_call">Görüntülü Ara</string>
+  <string name="voicemail_cleanup">Sesli mesajları temizle</string>
   <string name="voicemail_from_column">"Şurdan Sesli Posta: "</string>
 </resources>
