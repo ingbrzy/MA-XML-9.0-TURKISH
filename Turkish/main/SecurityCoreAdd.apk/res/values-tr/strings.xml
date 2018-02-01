@@ -180,7 +180,7 @@ Kilit Ekranında İkinci Alana giriş yapılamaz."</string>
   <string name="private_sms_show_title">İkinci Alanda özel mesajlar gösterilir</string>
   <string name="private_space_setting">Yönet</string>
   <string name="public_app">İki Alan</string>
-  <string name="qq_send">QQ arkadaşlarına/cihazlarına gönder</string>
+  <string name="qq_send">QQ arkadaşlarına/bilgisayarlara gönder</string>
   <string name="removeSuccess">Başarıyla silindi</string>
   <string name="remove_second_space_msg">İkinci Alan silindiğinde tüm İkinci Alan uygulama veriside silinir. İkinci Alan silinsin mi?</string>
   <string name="remove_user_click_message">"*İkinci alanda önemli bir öğeniz yoksa, %s"</string>
@@ -332,7 +332,7 @@ Güncelleme yapmazsanız, ikili uygulamalar da düzgün çalışmayabilir."</str
 
 Bazı klonlu uygulamalar Google Hizmet Çerçevesine ihtiyaç duyar. Bu durumda Google Hizmet Çerçevesi oluşturulur."</string>
   <string name="xspace_guide_des">İki hesabı geçiş yapmadan kullan</string>
-  <string name="xspace_guide_title">%s için Klonlu uygulama kullan</string>
+  <string name="xspace_guide_title">Klonlu uygulama oluştur</string>
   <string name="xspace_header">Klonlu Uygulama</string>
   <string name="xspace_install_completed">Simge Ana Ekrana eklendi.</string>
   <string name="xspace_install_failed">"Oluşturulamadı!"</string>
