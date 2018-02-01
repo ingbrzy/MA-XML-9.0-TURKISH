@@ -276,6 +276,7 @@
   <string name="submit_dialog_cancel">İptal</string>
   <string name="submit_dialog_confirm">Gönder</string>
   <string name="submit_dialog_content">"Görüşleriniz, ekler ve günlüklerle birlikte MIUI sunucularına gönderilecek. Kişisel bilgiler içerebilir."</string>
+  <string name="submit_dialog_content_global">"Görüşleriniz, ekler ve günlüklerle birlikte MIUI sunucularına gönderilecek. Kayıtlar kişisel bilgi ve konum verilerinizi içerebilir. Karşılık gelen kutunun işaretini kaldırarak günlük göndermemeyi seçebilirsiniz."</string>
   <string name="submit_dialog_not_wifi_content">"Görüşleriniz, bir Wi-Fi bağlantısı sağlandığında Xiaomi sunucularına hata raporları ve görüntüleri ile birlikte gönderilir."</string>
   <string name="submit_dialog_title">Raporu gönder</string>
   <string name="submit_feedback_info_failed">"Rapor gönderilemedi"</string>
