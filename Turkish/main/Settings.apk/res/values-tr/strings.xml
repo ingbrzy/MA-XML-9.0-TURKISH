@@ -2920,7 +2920,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="multi_select_title">%1$s seçildi</string>
   <string name="multi_touch_points_category_title">Çoklu Dokunma Noktaları</string>
   <string name="multi_touch_points_preference">Cihazınızı yeniden başlattıktan sonra bu ayar yürürlüğe girecek</string>
-  <string name="music_app_unavailable">Müzik uygulamasına güvenin, müzik uygulamasının kullanılabilir olduğundan emin olun</string>
+  <string name="music_app_unavailable">Mi Müzik uygulamasının kullanılabilir olduğundan emin olun.</string>
   <string name="multi_user_mode_backup_message">Yedekleme Çoklu-Kullanıcı Modunu desteklemez. Çoklu-Kullanıcı Modunu kapatıp, devam edin.</string>
   <string name="multi_user_mode_dialog_message">Mi Transfer Çoklu-Kullanıcı Modunu desteklemez. Çoklu-Kullanıcı Modunu kapatıp, devam edin.</string>
   <string name="multi_user_mode_dialog_title">Çoklu-Kullanıcı Modundasınız</string>
@@ -2949,7 +2949,7 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="music_dirac_mode_piston_color">Renkli Sürüm</string>
   <string name="music_dirac_mode_piston_standard">Standart Sürüm</string>
   <string name="music_dirac_mode_piston_youth">Gençlik Sürümü</string>
-  <string name="music_dirac_mode_reduction_noise">Mi Gürültü Önleme (TypeC)</string>
+  <string name="music_dirac_mode_reduction_noise">Mi Gürültü Önleme (Tip-C)</string>
   <string name="music_dolby_dialogue_enhancer">Diyalog Geliştirici</string>
   <string name="music_dolby_effects">Dolby Efektleri</string>
   <string name="music_dolby_eq_enter_alert_msg">Yalnızca Dolby Müzik Modunda Ekolayzer kullanabilirsiniz. Şimdi etkinleştirilsin mi?</string>
@@ -3072,6 +3072,10 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="nfc_quick_toggle_title">NFC (Kablosuz Transferi)</string>
   <string name="nfc_se_route_title">Güvenli eleman pozisyonu</string>
   <string name="nfc_se_wallet_title">Varsayılan Cüzdan</string>
+  <string name="night_light">Gece Aydınlatması</string>
+  <string name="night_light_brightness">Gece Aydınlatmasının Parlaklığı</string>
+  <string name="night_light_color">Gece Aydınlatmasının Rengi</string>
+  <string name="night_light_summary">Gece Aydınlatması Moduna girmek için düşük ışık koşullarında arkaplan aydınlatmasını en aza indirin</string>
   <string name="night_mode_auto">Otomatik</string>
   <string name="night_mode_no">Açık</string>
   <string name="night_mode_title">Tema</string>
@@ -3328,6 +3332,7 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="paper_mode_get_location_dlg_negative_btn_text">İptal</string>
   <string name="paper_mode_get_location_dlg_positive_btn_text">Ayarlar</string>
   <string name="paper_mode_get_location_dlg_title">Konumu Ayarla</string>
+  <string name="paper_mode_side_effect_hint">Yüksek yoğunluk, içeriğin görüntülenme biçimini etkileyebilir.</string>
   <string name="paper_mode_start_time_title">Başlama Zamanı</string>
   <string name="passpoint_content">%1$s sicili</string>
   <string name="passpoint_label">Kaydeden:</string>
