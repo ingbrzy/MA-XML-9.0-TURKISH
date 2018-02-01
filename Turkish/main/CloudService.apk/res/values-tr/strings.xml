@@ -161,6 +161,8 @@ SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için 
   <string name="master_alert_notif_dspt_no">Eşitlendi</string>
   <string name="master_alert_notif_title">Mi Bulut ile eşitlemeyi aç</string>
   <string name="member_due_date">%s kadar geçerli</string>
+  <string name="micloud_alert_dialog_negative">İptal</string>
+  <string name="micloud_alert_dialog_positive">Tamam</string>
   <string name="micloud_all_sub_1_intl_sms">Uluslararası SMS gönderilerek SIM kartınız etkinleştirilecektir. Ücret operatörünüz tarafından tahsil edilecek.</string>
   <string name="micloud_all_sub_1_sms">Normal SMS gönderilerek SIM kartınız etkinleştirilecek. Ücret operatörünüz tarafından tahsil edilecek.</string>
   <string name="micloud_all_sub_1_sms_1_intl_sms">2 metin mesajı (normal ve uluslararası) gönderilerek SIM kartınız etkinleştirilecek. Ücret operatörünüz tarafından tahsil edilecek.</string>
@@ -302,6 +304,7 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_main_error_network_disallowed">İnternet erişimine izin verdiğinizden emin olun.</string>
   <string name="micloud_main_error_permission_limit">"Mi Bulut'un depolama alanına erişmesine izin verin."</string>
   <string name="micloud_main_head_menu_cloud_backup">Ana Ekran Yedeği</string>
+  <string name="micloud_main_head_menu_finddevice_unavailable">İkinci Alanda cihazı bulmak mümkün değil, İlk Alanda kullanabilirsiniz.</string>
   <string name="micloud_main_head_menu_recycle_bin_summary">Silinen öğeleri geri yükler</string>
   <string name="micloud_main_head_menu_recycle_bin_title">Silinen Öğeler</string>
   <string name="micloud_main_head_menu_state_close">Kapat</string>
