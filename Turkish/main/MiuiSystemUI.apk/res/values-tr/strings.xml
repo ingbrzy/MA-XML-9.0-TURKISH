@@ -298,7 +298,7 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="ext_media_badremoval_notification_title">USB Depolama beklenmedik bir şekilde çıkartıldı</string>
   <string name="ext_media_checking_notification_message">Hatalar kontrol ediliyor.</string>
   <string name="ext_media_checking_notification_title">USB Depolama hazırlanıyor...</string>
-  <string name="ext_media_mountable_notification_message">Gezgin\'de açmak için dokunun.</string>
+  <string name="ext_media_mountable_notification_message">"Mi Dosya Yöneticisi'nde açmak için dokunun."</string>
   <string name="ext_media_mountable_notification_title">USB Depolama cihazı bağlandı</string>
   <string name="ext_media_nofs_notification_message">SD Kart boş veya dosya sistemi desteklenmiyor</string>
   <string name="ext_media_nofs_notification_title">SD Kart boş</string>
@@ -511,7 +511,7 @@ Daha fazla bilgi için, yöneticinize başvurun."</string>
   <string name="overlay_display_devices_title">İkinci ekranı taklit et</string>
   <string name="picture_color_mode">Renkli Resim Modu</string>
   <string name="picture_color_mode_desc">sRGB kullan</string>
-  <string name="please_slide_agian">Lütfen tekrar kaydırın</string>
+  <string name="please_slide_agian">Tekrar kaydırın</string>
   <string name="pointer_location">İşaretleyici Konumu</string>
   <string name="pointer_location_summary">Geçerli dokunmatik verileri gösteren ekranın yer paylaşımı</string>
   <string name="power_charging_duration">Doluma: %1$s - %2$s</string>
