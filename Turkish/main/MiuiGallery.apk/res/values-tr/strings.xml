@@ -652,7 +652,18 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="fancy_color_tip">Değiştirilecek noktaya hafifçe dokunun</string>
   <string name="fancycolor_title">Arkaplan Efekti</string>
   <string name="fast_share_auto_render">Güzelleştir</string>
-  <string name="fast_share_auto_render_finish">Güzellik filtre uygulandı</string>
+  <string name="fast_share_auto_render_finish">Güzelleştirildi</string>
+  <string name="filter_bi_memory">Hafıza</string>
+  <string name="filter_bi_mono">Gri</string>
+  <string name="filter_bi_pink">Pembe</string>
+  <string name="filter_bi_portrait">Portre</string>
+  <string name="filter_bi_retro">Retro</string>
+  <string name="filter_bi_romantic">Romantik</string>
+  <string name="filter_bi_strong">Güçlü</string>
+  <string name="filter_bi_sunny">Açık</string>
+  <string name="filter_bi_sweet">Tatlı</string>
+  <string name="filter_bi_warm">Sıcak</string>
+  <string name="filter_bi_young">Genç</string>
   <string name="file_not_exist_message">Dosya bulunamadı</string>
   <string name="file_size">Boyut</string>
   <string name="filllight">Aydınlat</string>
@@ -890,6 +901,14 @@ Arkadaşlarınız için  daha çok fotoğraf çekin!"</string>
   <string name="main_discard_negative_btn">Reddet</string>
   <string name="main_discard_positive_btn">Kaydet &amp; Çık</string>
   <string name="main_save_error_msg">"Değişiklikler kaydedilirken bir hata oluştu"</string>
+  <string name="mark_myself_default_name">Me</string>
+  <string name="mark_myself_suggestion_load_more">"Ben değilim"</string>
+  <string name="mark_myself_suggestion_title">"Kişiselleştirmek için yüzünüzle birlikte
+fotoğrafları Galeri'den seçin"</string>
+  <string name="mark_operation_failed">"Eklenemedi"</string>
+  <string name="mark_operation_processing">İşleniyor...</string>
+  <string name="mark_operation_succeeded">Başarıyla eklendi</string>
+  <string name="mark_people_ignore_info_message">Kişilerin fotoğraflarını gruplara eklemek için basılı tutun</string>
   <string name="make_download_dir_fail">Dosyaları saklamak için klasör oluşturulamadı</string>
   <string name="maker">Üretici</string>
   <string name="manual">Elle</string>
