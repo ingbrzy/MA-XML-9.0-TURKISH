@@ -509,6 +509,8 @@ herkesin en iyi görünmesini sağlayan bir çekim yapıyor"</string>
   <string name="pref_camera_whitebalance_entry_measure">Ölçü</string>
   <string name="pref_camera_whitebalance_k_value_title">Beyaz Dengesi K-Değeri</string>
   <string name="pref_camera_whitebalance_title">Beyaz Dengesi</string>
+  <string name="pref_camera_zoom_mode_entry_high_pixel">Yüksek Pixel</string>
+  <string name="pref_camera_zoom_mode_entry_standard">Standart</string>
   <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
   <string name="pref_camera_zoom_mode_entry_wide">Uzak</string>
   <string name="pref_camera_zoom_mode_title">Yakın</string>
