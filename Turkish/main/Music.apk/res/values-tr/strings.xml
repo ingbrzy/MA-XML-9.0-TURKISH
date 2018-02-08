@@ -209,7 +209,6 @@
   <string name="data_usage_warning">Veri kullanımı</string>
   <string name="data_usage_warning_summary">Mobil veri bağlantınızı yüksek kaliteli müzik yayını için kullanmak veri kullanım ücretlerinizi artırabilir.</string>
   <string name="date_format_str">dd-MM-yyyy</string>
-  <string name="default_web_client_id">948829309969-vb4502m250c1iu8aqblkhmhrei9o83ib.apps.googleusercontent.com</string>
   <string name="delete">Sil</string>
   <string name="delete_download">Sil</string>
   <string name="delete_downloads_records">İndirilenleri Sil</string>
@@ -396,7 +395,6 @@
   <string name="error_unauthorized">Eşitleme nedeniyle çok sayıda oturum açma girişimleri için devre dışı bırakıldı.</string>
   <string name="expired">Süresi bitti</string>
   <string name="expires">Bu ay sona eriyor:</string>
-  <string name="facebook_app_id">1310336955745219</string>
   <string name="fail_to_fetch_payment_page_url">"Ödeme bilgisi alınamadı"</string>
   <string name="fail_to_play">"Şarkı oynatılamıyor!"</string>
   <string name="fav_login_msg">Şarkıları indirmek için Mi Hesabınızda oturum açın</string>
@@ -756,7 +754,6 @@
   <string name="privacy_notif_content">Detayları görüntülemek için dokunun.</string>
   <string name="privacy_notif_title">Xunlei İndirme Hızlandırıcısı açık</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
-  <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
   <string name="privacy_tip_cancel">İptal</string>
   <string name="privacy_tip_content">"İndirmeyi hızlandırmak için Xunlei Hızlandırıcı kullanılsın mı? İndirme adresindeki dosya önce Xunlei\'nin sunucuları aktarılır. Mi Hesap detayları da bu servise herhangi bir aktif abonelik olup olmadığını kontrol etmek yüklenir."</string>
   <string name="privacy_tip_ok">Tamam</string>
@@ -912,7 +909,6 @@
   <string name="start_to_play">Oynat</string>
   <string name="start_to_use">Uygulamayı Aç</string>
   <string name="start_update">Müzik uygulamasını son sürüme güncelleyin.</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stop">Durdur</string>
   <string name="stop_backup">Durdur</string>
   <string name="storage_internal">Dahili Depolama</string>
@@ -1010,7 +1006,6 @@
   <string name="upgrade_to">Yükselt</string>
   <string name="upgrade_waringing">"Sadece cihazınızda depolanan müzikleri çevrimdışı dinlemeniz mümkün olacaktır."</string>
   <string name="user_agreement">Kullanıcı Sözleşmesi</string>
-  <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
   <string name="valid_period">Geçerli: %s</string>
   <string name="version_info">Sürüm</string>
   <string name="vip_after_tomorrow_auto_renew_message">Müzik aboneliğiniz yarından sonra otomatik olarak yenilenecektir. Bu ödemeyi tamamlamak için hesabınızda yeterli miktarda Mi Kredisi bulunduğundan emin olun.</string>

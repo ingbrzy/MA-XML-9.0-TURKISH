@@ -4842,7 +4842,6 @@ Güvenli kimlik doğrulamasının bu cihazda yüklü olduğundan emin olun."</st
   <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Kilit Ekran, Bildirim</string>
   <string name="status_bar_app_enable_on_notificationBar">Göster</string>
   <string name="status_bar_key_position_custom">Tuş Pozisyonlarını Değiştir</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_screen_button_desc">Ekran Tuşlarını gizlemek için aşağı kaydırın</string>
   <string name="status_bar_screen_button_force_immersive_desc">Ekran düğmelerini görebilmek için ekranın altından yukarı doğru hızlıca kaydırın</string>
   <string name="status_bar_screen_button_key">Ekran Tuşlarını göster</string>

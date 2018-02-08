@@ -1336,7 +1336,6 @@ Favorilerinize bir kişi eklemek için:
   <string name="starred_contacts">Favoriler</string>
   <string name="status_available">Uygun</string>
   <string name="status_away">Dışarıda</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_busy">Meşgul</string>
   <string name="storage_internal_description">Dahili Depolama</string>
   <string name="storage_sd_card">SD Kart</string>

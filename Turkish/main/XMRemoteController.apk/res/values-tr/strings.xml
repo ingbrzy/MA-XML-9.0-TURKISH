@@ -1021,7 +1021,6 @@ Hesabınızı etkinleştirmek için,
   <string name="start_auto_tune">Açıldığında kanalı otomatik ayarla</string>
   <string name="start_diagnosis">Test</string>
   <string name="start_match">Eşle</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stb">Uydu Alıcısı</string>
   <string name="stb_power">Uydu Alıcısını Aç/Kapa</string>
   <string name="steps">Teşebbüs #%d</string>

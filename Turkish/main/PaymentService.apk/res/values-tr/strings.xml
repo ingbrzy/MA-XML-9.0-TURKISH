@@ -33,7 +33,6 @@
   <string name="mibi_button_cancel">İptal et</string>
   <string name="mibi_button_confirm">Onayla</string>
   <string name="mibi_button_count_down_finish">Tamam(%1$s)</string>
-  <string name="mibi_button_count_down_reget">%1$s</string>
   <string name="mibi_button_custom_service_phone">Anladım</string>
   <string name="mibi_button_next">Sonraki</string>
   <string name="mibi_button_pay">Onayla</string>
@@ -43,7 +42,6 @@
   <string name="mibi_change_security_lock">Diğer ekran kilitleri</string>
   <string name="mibi_check_giftcard">Kuponları göster</string>
   <string name="mibi_click_retry">%1$s, devam etmek için tıkla</string>
-  <string name="mibi_colon">": "</string>
   <string name="mibi_deduct_goods_name">Ürün</string>
   <string name="mibi_deduct_open_prompt">"%1$s doğrulamadan %2$s'yi kullanarak otomatik olarak sizden ücret alabilecektir. %1$s içerisinden bu özelliği kapatabilirsiniz.</string>
   <string name="mibi_deduct_order_price">Ücret</string>
@@ -87,7 +85,6 @@ Please check your local date and try again."</string>
   <string name="mibi_error_common_summary">System error. Please try again later.</string>
   <string name="mibi_error_deduct">"Couldn't activate automatic payment protocol"</string>
   <string name="mibi_error_expired_summary">Your order has expired</string>
-  <string name="mibi_error_frozen_service_num">400-100-3399</string>
   <string name="mibi_error_frozen_service_time">Monday to Sunday</string>
   <string name="mibi_error_frozen_summary">"Your account is frozen. 
 Lütfen Xiaomi müşteri hizmetleriyle irtibata geçin."</string>
