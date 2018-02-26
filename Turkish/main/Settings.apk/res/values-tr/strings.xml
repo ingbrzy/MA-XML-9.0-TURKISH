@@ -4464,7 +4464,6 @@ Bu ayar telefondaki tüm kullanıcıları etkiler."</string>
   <string name="security_encryption_attention_3">"Yeni bir kilit ekran şifreniz olacak."</string>
   <string name="security_encryption_attention_4">"Kilit ekran şifrenizi unutmayın, aksi halde tam sıfırlama yapmak zorunda kalırsınız ve tüm verileri kaybedebilirsiniz."</string>
   <string name="security_encryption_attention_info">Hesapları, ayarları, indirilen uygulamaları/ verilerini, medya ve diğer dosyaları şifreleyin.</string>
-  <string name="security_encryption_attention_symbol">•</string>
   <string name="security_encryption_attention_title">Önemli</string>
   <string name="security_encryption_close_dialog_info">Google Hizmetleri mevcut olmadığında cihazın kilit ekran şifrsiniz seçemeyebilirsiniz.</string>
   <string name="security_encryption_close_dialog_title">Varsayılan şifre korumasına geri dön</string>
