@@ -107,7 +107,6 @@
   <string name="app_uninstall">Kaldır</string>
   <string name="app_update">Güncelle</string>
   <string name="app_version">Sürüm: %1$s</string>
-  <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
   <string name="append_ok_key_after_num">Sayı tuşlarına bastıktan sonra Tamam diyerek değiştirebilirsiniz.</string>
   <string name="application">Uygulama</string>
   <string name="auto_tune">Otomatik Ayarla</string>
@@ -123,7 +122,6 @@
   <string name="bind_stb_dlg">Uydu kanallarını eşleştir</string>
   <string name="bind_stb_dlg_2">Bağlamak için uydu alıcısını ayarla</string>
   <string name="bind_stb_dlg_agree">Eşleştir</string>
-  <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
   <string name="brand_search_box_hint">Üreticiyi seçin</string>
   <string name="brand_title_all">Tümü</string>
   <string name="brand_title_hot">Popüler</string>
