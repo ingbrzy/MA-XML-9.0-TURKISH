@@ -10,7 +10,7 @@
   <string name="app_search">Uygulamaları ara</string>
   <string name="btn_send">Gönder</string>
   <string name="bugreport_dialog_not_show_again">"Tekrar gösterme"</string>
-  <string name="bugreport_dialog_submit_content">Geribildiriminiz kişisel bilginizi içerir.</string>
+  <string name="bugreport_dialog_submit_content">"Artık yazılım günlüklerini bu cihaza kaydediyorsunuz. Kayıtlar kişisel bilgi ve konum verilerinizi içerebilir. Bu bilgilerin açığa çıkmasını istemiyorsanız, günlükleri başkasıyla paylaşmayın."</string>
   <string name="bugreport_dump_complete_notification_summary">Görüntülemek için dokunun</string>
   <string name="bugreport_dump_complete_notification_title">Hata raporu oluşturuldu.</string>
   <string name="bugreport_dump_start_notification_summary">Bu işlem birkaç dakika sürebilir.</string>
@@ -85,9 +85,17 @@
   <string name="feedback_retest_label">İşlemin Adımları</string>
   <string name="feedback_select_images">Resim Ekle</string>
   <string name="feedback_select_modem_log">Modem günlüğü ekle</string>
+  <string name="feedback_select_modem_log_not_select_desc">"Seçili \"Modem günlüğü ekle\" yok"</string>
+  <string name="feedback_select_modem_log_select_desc">\"Modem günlüğü ekle\" seçildi</string>
   <string name="feedback_select_problem">Problemler</string>
+  <string name="feedback_select_problem_not_select_desc">"Seçili \"Problemler\" yok"</string>
+  <string name="feedback_select_problem_select_desc">\"Problemler\" seçildi</string>
   <string name="feedback_select_suggestion">Öneriler</string>
+  <string name="feedback_select_suggestion_not_select_desc">"Seçili \"Öneriler\" yok"</string>
+  <string name="feedback_select_suggestion_select_desc">\"Öneriler\" seçildi</string>
   <string name="feedback_select_upload_log">Günlük Ekle</string>
+  <string name="feedback_select_upload_log_not_select_desc">"Seçili \"Günlük Ekle\" yok"</string>
+  <string name="feedback_select_upload_log_select_desc">\"Günlük Ekle\" seçildi</string>
   <string name="feedback_status_answered">Cevaplanmış</string>
   <string name="feedback_status_change_notification_title">"Raporunuzun durumu güncellendi"</string>
   <string name="feedback_status_commit_failed_title">Rapor gönderilemedi</string>
@@ -276,7 +284,7 @@
   <string name="submit_dialog_cancel">İptal</string>
   <string name="submit_dialog_confirm">Gönder</string>
   <string name="submit_dialog_content">"Görüşleriniz, ekler ve günlüklerle birlikte MIUI sunucularına gönderilecek. Kişisel bilgiler içerebilir."</string>
-  <string name="submit_dialog_content_global">"Görüşleriniz, ekler ve günlüklerle birlikte MIUI sunucularına gönderilecek. Kayıtlar kişisel bilgi ve konum verilerinizi içerebilir. Karşılık gelen kutunun işaretini kaldırarak günlük göndermemeyi seçebilirsiniz."</string>
+  <string name="submit_dialog_content_global">"Yüklemeler (varsa) ve günlükler (yüklemek istemediğiniz öğelerin karşılık gelen kutularını işaretleyemezsiniz) ile birlikte görüşleriniz analiz için geliştirici MIUI sunucularına ve sınırlı bir MIUI Forumu bölümüne gönderilecektir. Kayıtlar kişisel bilgi ve konum verilerinizi içerebilir. "</string>
   <string name="submit_dialog_not_wifi_content">"Görüşleriniz, bir Wi-Fi bağlantısı sağlandığında Xiaomi sunucularına hata raporları ve görüntüleri ile birlikte gönderilir."</string>
   <string name="submit_dialog_title">Raporu gönder</string>
   <string name="submit_feedback_info_failed">"Rapor gönderilemedi"</string>
