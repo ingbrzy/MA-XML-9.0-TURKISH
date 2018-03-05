@@ -233,6 +233,8 @@
   <string name="contact_detail_calllog_call_note_tips">Notlar</string>
   <string name="contact_detail_calllog_call_record_tips">Kayıtlı Çağrı</string>
   <string name="contact_detail_calllog_empty">Geçmiş yok</string>
+  <string name="contact_detail_entry_pay">Öde</string>
+  <string name="contact_detail_entry_pay_dialog_title">Telefon numarasını seç</string>
   <string name="contact_detail_menu_delete_miprofile">Kartı sil</string>
   <string name="contact_detail_miprofile_accept">Kartvizitleri değiştir</string>
   <string name="contact_detail_miprofile_accept_fail_toast">"Kartvizitler değiştirilemedi"</string>
@@ -1003,7 +1005,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="path_key_rebuild_t9_index_title">Sistem Uygulamaları/Kişiler/Kişileri Düzenle/İçerik Verisini Yenile</string>
   <string name="path_key_sim_manage">Sistem Uygulamaları/Kişiler/Kişileri Düzenle/SIM Kartlar</string>
   <string name="path_preference_contacts_filter">Sistem Uygulamaları/Kişiler/Kişileri Göster/Kişi Listesini Yapılandır</string>
-  <string name="path_quick_dial_setting">Sistem Uygulamaları/Kişiler/Hızlı Ara</string>
+  <string name="path_quick_dial_setting">Sistem Uygulamaları/Telefon/Gelişmiş Ayarlar/Hızlı Ara</string>
   <string name="path_remove_duplicate">Sistem Uygulamaları/Kişiler/Kişileri Düzenle/Tekrarlanan Kişileri Birleştir</string>
   <string name="path_share_visible_contacts">Sistem Uygulamaları/Kişiler/İçe/Dışa Aktar/Görünür Kişileri Paylaş</string>
   <string name="path_sim_capacity">Sistem Uygulamaları/Kişiler/SIM Kart Depolaması</string>
@@ -1073,6 +1075,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="preference_contacts_display">Görüntüleme Tercihleri</string>
   <string name="preference_contacts_filter">Rehber Listelerini Yapılandır</string>
   <string name="preference_contacts_more">Kişileri Düzenle</string>
+  <string name="preference_contacts_moresetting">Diğer</string>
   <string name="preference_contacts_recovery_introduction">Kişileri Kurtar</string>
   <string name="preference_dial_pad_touch_tone_default">Varsayılan</string>
   <string name="preference_dial_pad_touch_tone_human">Ses</string>
@@ -1081,6 +1084,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="preference_dial_pad_touch_tone_title">Tuşa Dokunma Sesleri</string>
   <string name="preference_display">Görünüm</string>
   <string name="preference_displayOptions">Görünüm Seçenekleri</string>
+  <string name="preference_display_contact">Görünüm Seçenekleri</string>
   <string name="preference_export">Dışa Aktar</string>
   <string name="preference_import">İçe Aktar</string>
   <string name="preference_import_export">İçe/Dışa Aktar</string>
@@ -1219,7 +1223,7 @@ Favorilerinize bir kişi eklemek için:
   <string name="search_key_rebuild_t9_index_title">Düzenle;Kişiler;t9</string>
   <string name="search_key_sim_manage">Düzenle;Kişiler</string>
   <string name="search_preference_contacts_filter">Kişiler;Görüntüle</string>
-  <string name="search_quick_dial_setting">Kişiler</string>
+  <string name="search_quick_dial_setting">Telefon</string>
   <string name="search_remove_duplicate">Düzenle;Kişiler</string>
   <string name="search_results_searching">Aranıyor...</string>
   <string name="search_settings_description">Kişilerin Adları</string>
