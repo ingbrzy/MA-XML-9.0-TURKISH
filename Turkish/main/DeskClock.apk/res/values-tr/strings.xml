@@ -141,7 +141,6 @@
   <string name="stat_repeat_weekends">Haftasonu</string>
   <string name="stopwatch_lap_empty_text">Tur yok</string>
   <string name="stopwatch_title">Kronometre</string>
-  <string name="symbol_colon">:</string>
   <string name="system_time_setting">Ayarlar</string>
   <string name="system_time_settings_category_title">Zaman Ayarları</string>
   <string name="temperature_unit">%1$s°</string>

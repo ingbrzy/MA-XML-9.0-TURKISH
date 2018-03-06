@@ -2034,7 +2034,6 @@ Sonraki Zamana: %2$d gün (%3$s)"</string>
   <string name="time_end_minute">dakika</string>
   <string name="time_formate_am">ÖÖ</string>
   <string name="time_formate_pm">ÖS</string>
-  <string name="time_interval_char">:</string>
   <string name="time_next_day">" sonraki gün "</string>
   <string name="time_start">Şurdan:</string>
   <string name="time_start_hour">saat</string>

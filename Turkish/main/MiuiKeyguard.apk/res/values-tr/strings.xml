@@ -7,7 +7,6 @@
   <string name="custom_lock_wallpaper_enter">Gir</string>
   <string name="default_lockscreen_unlock_hint_text">Kilidi açmak için yukarı kaydırın</string>
   <string name="delete">Sil</string>
-  <string name="digital_clock_dot">:</string>
   <string name="do_disclosure_generic">Bu cihaz kuruluşunuz tarafından yönetilir</string>
   <string name="do_disclosure_with_name">Bu cihaz %s tarafından yönetilir</string>
   <string name="doze_pickup_subtype_performs_proximity_check"/>

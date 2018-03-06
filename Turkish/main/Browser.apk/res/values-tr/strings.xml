@@ -761,8 +761,6 @@ Bu sayfadan uzaklaşmak istediğinizden emin misiniz?"</string>
   <string name="mw_snippets_disabled_generic_prompt">Kişiselleştirilmiş içerik edinin</string>
   <string name="mw_snippets_disabled_signed_out_instructions">"Google tarafından önerilen kişiselleştirilmiş içeriği almak için Chrome'da oturum açın."</string>
   <string name="mw_time_picker_dialog_am">ÖÖ</string>
-  <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-  <string name="mw_time_picker_dialog_minute_second_separator">:</string>
   <string name="mw_time_picker_dialog_pm">ÖS</string>
   <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
   <string name="mw_time_picker_dialog_title">Zamanı Ayarla</string>
