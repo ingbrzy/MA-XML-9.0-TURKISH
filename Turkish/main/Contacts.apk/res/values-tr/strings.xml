@@ -684,7 +684,6 @@ Sık sorulan soruları önlemek için, bakiye bilgisini günde bir kez güncelli
   <string name="keep_local">"Eşitlenemedi"</string>
   <string name="keep_local_btn">Tabletin dahili depolama alanını kullan</string>
   <string name="label_custom_type">Özel</string>
-  <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Tekrarlanmış kişi yok</string>
   <string name="label_notes">Notlar</string>
   <string name="label_sip_address">İnternetten Ara</string>
@@ -1018,7 +1017,6 @@ Favorilerinize bir kişi eklemek için:
   <string name="phoneLabelsGroup">Telefon</string>
   <string name="phone_call_type_livetalk">LiveTalk</string>
   <string name="phone_call_type_voip">Mi Voice</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="phone_number_too_long_toast">Numara çok uzun</string>
   <string name="phone_primary">Birinci</string>
   <string name="photoPickerNotFoundText">Tablette uygun resim yok</string>

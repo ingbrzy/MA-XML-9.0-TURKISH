@@ -467,7 +467,6 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="power_remaining_duration_only_short">%1$s kaldı</string>
   <string name="privacyPerms">Gizlilik</string>
   <string name="privacy_relative">Gizlilik</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="reboot_time">Yeniden başlatmaya hazırlanıyor... (%1$s)</string>
   <string name="remaining_length_format">%1$s kaldı</string>
   <string name="review_button_cancel">İptal</string>

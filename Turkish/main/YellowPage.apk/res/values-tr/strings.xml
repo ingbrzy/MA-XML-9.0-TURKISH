@@ -389,7 +389,6 @@ Takip numarasını kontrol edin."</string>
   <string name="payment_unknown_status_title">"Ödeme durumu teyit edilemedi"</string>
   <string name="phone_event_setting_notice_text">"Bu özelliği kullanarak %1$s ve %2$s kabul etmiş olursunuz."</string>
   <string name="phone_event_setting_notice_text_with_contacts_permission">"Bu özelliği kullanarak %1$s ve %2$s içeriğini kabul ederseniz. Gerekli durumlarda irtibata geçin."</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="photo_count">Toplam: %d</string>
   <string name="pull_to_refresh_pull_label">Yenilemek için çekin...</string>
   <string name="pull_to_refresh_refreshing_label">Biraz bekleyin...</string>

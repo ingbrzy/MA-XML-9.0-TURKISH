@@ -410,7 +410,6 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="power_discharging_duration_short">%1$s - %2$s kaldı</string>
   <string name="power_remaining_duration_only">Yaklaşık %1$s kaldı</string>
   <string name="power_remaining_duration_only_short">%1$s kaldı</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="pull_to_call_back">Tap to pull</string>
   <string name="remaining_length_format">%1$s kaldı</string>
   <string name="reminder">Hatırlatıcı</string>

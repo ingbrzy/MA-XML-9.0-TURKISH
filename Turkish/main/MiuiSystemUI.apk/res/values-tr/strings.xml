@@ -522,7 +522,6 @@ Daha fazla bilgi için, yöneticinize başvurun."</string>
   <string name="power_discharging_duration_short">%1$s - %2$s kaldı</string>
   <string name="power_remaining_duration_only">Yaklaşık %1$s kaldı</string>
   <string name="power_remaining_duration_only_short">%1$s kaldı</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="quick_settings_bluetooth_detail_empty_text">Mevcut cihazlarla eşlenmedi</string>
   <string name="quick_settings_bluetooth_label">Bluetooth</string>
   <string name="quick_settings_connect_success">Bağlandı</string>

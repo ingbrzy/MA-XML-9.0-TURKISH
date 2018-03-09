@@ -968,7 +968,6 @@ Depolama için %1$s boş alan eklendi."</string>
   <string name="top_videos">Paylaşım Sıralaması</string>
   <string name="topic_follow">Takip</string>
   <string name="topic_followed">Takipte:</string>
-  <string name="topic_message">&lt;font color=#fc7050&gt;%1$s: &lt;/font&gt;%2$s</string>
   <string name="topic_title">Konular</string>
   <string name="topic_winners">Önceki kazananlar</string>
   <string name="trans_mobile_network_message">Mobil veri kullanarak dosya transfer etmek ek ücrete tabidir.</string>

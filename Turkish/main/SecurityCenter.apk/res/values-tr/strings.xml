@@ -2218,7 +2218,6 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="privacy_prompt_traffic_purchase_message">"Veri satın alma seçenekleri hakkında daha fazla bilgi edinmek için telefon numaranız 
         ve operatör bilgileriniz Şifrelenecek ve Mi sunucularına yüklenecektir."</string>
   <string name="privacy_prompt_upload">Yükle</string>
-  <string name="process_kernel_label">Android</string>
   <string name="process_mediaserver_label">Medya Sunucusu</string>
   <string name="promotion">Reklam</string>
   <string name="prompt_all">Tümünü sor</string>

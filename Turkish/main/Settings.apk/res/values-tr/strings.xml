@@ -3756,7 +3756,6 @@ Bu aynı zamanda, uygulamaya Rahatsız Etme özelliğini açıp kapatmayı ve il
   <string name="private_sms_recording_intro_header">Kilit açma deseni çiz:</string>
   <string name="private_sms_reset_by_account">Şifrenizi sıfırlamak için Mi Hesabınızda oturum açın</string>
   <string name="process_dex2oat_label">Uygulamayı iyileştir</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="process_provider_in_use_description">%1$s sağlayıcı kulanıyor.</string>
   <string name="process_service_in_use_description">%1$s hizmeti kullanıyor.</string>

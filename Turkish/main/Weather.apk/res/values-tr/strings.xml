@@ -113,7 +113,6 @@
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">Uyarıları Yönet</string>
   <string name="edit_city">Şehri düzenle</string>
-  <string name="empty">" "</string>
   <string name="feedback_heavy_rain">Şiddetli Yağmurlu</string>
   <string name="feedback_heavy_snow">Karlı</string>
   <string name="feedback_light_rain">Hafif Yağmurlu</string>

@@ -22,7 +22,6 @@
   <string name="dont_bore">"Bildirim ve ışıklar rahatsız etmesin"</string>
   <string name="dont_bore_text">Oyun esnasında rahatsız edilmemek için mesaj hatırlatıcıları ve düğmelerin işlevlerinden kurtulun</string>
   <string name="dont_bore_title">Rahatsız Etme Modu</string>
-  <string name="empty">" "</string>
   <string name="fastboot_locked_answer_1">"Fastboot, Mi cihazlarını flaşlamak için geleneksel yöntemdir. Cihaz Fastboot modundayken, üzerinde depolanan tüm verilere ulaşılabilir ve bunları doğrudan silinebilir. Fastboot'u kilitleyerek, cihazınızı kaybettiğinizde ve cihaz bulma özelliklerinin güvenilirliğini garanti altına almanız için verilerinizin güvende kalmasını sağlarız."</string>
   <string name="fastboot_locked_answer_2">"Cihazınızı kaybederseniz, Fastboot; içinde depolanan ürünlerin güvenliğini garanti eder. Fastboot'un kilidini açarsanız, artık cihazınızı uzaktan kilitleyemez veya Bul cihazı kullanarak verileri siler. Bu nedenle cihazınızda Fastboot'un kilidini açmanızı önermiyoruz."</string>
   <string name="fastboot_locked_answer_3">"MIUI web sitesindeki kilidini açma aracını kullanmalısınız. Cihazın kilidini açmak için cihazın size ait olduğundan emin olmamız gerekir. Bu nedenle Mi Hesabınızla oturum açıp Telefonu Bul özelliğini açın."</string>

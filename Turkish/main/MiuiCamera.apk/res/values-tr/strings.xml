@@ -142,7 +142,6 @@ ve bir an için uzaklaşın"</string>
   <string name="edit_skin_smooth">Pürüzsüz</string>
   <string name="edit_skin_white">Ton</string>
   <string name="effect_setting_top_text">Filtreler</string>
-  <string name="empty">" "</string>
   <string name="error_fail_to_start_audio_capture">Ses kaydı başlatılamadı</string>
   <string name="face_age_info">Yaş: %d</string>
   <string name="face_analyze_info">Yaş: %2$s (%1$s)</string>

@@ -732,7 +732,6 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın."<
   <string name="phone_entered_ecm_text">Acil Durum Çağrı Moduna giriş yapıldı</string>
   <string name="phone_in_ecm_call_notification_text">Veri bağlantısı devre dışı</string>
   <string name="phone_in_ecm_notification_title">Acil Geri Arama Modu</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="picking_participant">İletişim bilgileri alınıyor...</string>
   <string name="pin2_changed">PIN2 başarıyla değiştirildi.</string>
   <string name="pin2_invalid">"Yanlış bir PIN girdiğiniz için FDN güncellenmedi."</string>

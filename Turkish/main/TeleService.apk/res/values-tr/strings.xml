@@ -1665,7 +1665,6 @@ Telefonunuz başka bir başarısız girişiminden sonra otomatik olarak kilitlen
   <string name="primary_account_summary_with">Birincil Hesap. %s</string>
   <string name="private_num">Özel Numara</string>
   <string name="proceed">İlerle</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="product_reflash_button">Yenile…</string>
   <string name="progress_dialog_exiting_ecm">Acil Geri Arama Modundan çıkılıyor</string>
   <string name="proximity_mode_title">Yakınlık sensörünü aç</string>
