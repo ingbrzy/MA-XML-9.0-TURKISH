@@ -389,7 +389,6 @@
   <string name="no_network_btn">Tekrar Dene</string>
   <string name="notification_summary_after_auto_cleanup"> %s temizlendi.</string>
   <string name="notification_summary_of_apps_cleanup">Kullanılmayan uygulamalar depolamanın %s yerini işgal ediyor</string>
-  <string name="notification_title_of_garbage_cleanup">%s çöp dosya</string>
   <string name="notification_summary_of_garbage_cleanup">Alanı boşaltmak için dokunun.</string>
   <string name="notification_title_of_garbage_cleanup">Çöp dosyaları %s</string>
   <string name="notify_when">Çöp boyutu 100 MB ulaştığında bildirim ver</string>
