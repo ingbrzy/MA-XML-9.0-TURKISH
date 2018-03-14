@@ -159,7 +159,6 @@
   <string name="information_manager_information">Hava Durumu Bilgisi</string>
   <string name="information_views"/>
   <string name="install">Yükle</string>
-  <string name="install_progress">%%%1$s</string>
   <string name="international_detail_menu_title">Detaylar</string>
   <string name="international_details_pressure_title">Basınç</string>
   <string name="international_details_real_feel_title">"Hissedilen®"</string>
