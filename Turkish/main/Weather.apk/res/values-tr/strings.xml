@@ -14,7 +14,6 @@
   <string name="act_weather_find_city_no_result">Sonuç yok</string>
   <string name="act_weather_find_city_searching">Aranıyor…</string>
   <string name="activity_alert_detail_title"/>
-  <string name="activity_detail_time_format">E</string>
   <string name="activity_find_city_dialog_cancel">İptal</string>
   <string name="activity_find_city_dialog_message">Konumunuzun Hava Durumunu görüntüleyelim</string>
   <string name="activity_find_city_dialog_set">Ayarlar</string>
@@ -22,8 +21,7 @@
   <string name="activity_main_alert"/>
   <string name="activity_main_clickable">&gt;</string>
   <string name="activity_main_one_alert"/>
-  <string name="activity_main_refresh_fail">"Ağa bağlanamadı"</string>
-  <string name="activity_main_time_format">dd.MM</string>
+  <string name="activity_main_time_format">E</string>
   <string name="activity_main_update_time">Güncelleme: %1$s</string>
   <string name="activity_main_update_time_expire">Veri güncellemesinin süresi geçti</string>
   <string name="activity_main_update_time_right_now">Şimdi</string>
@@ -39,7 +37,6 @@
   <string name="already_voted">Oylandı</string>
   <string name="already_voted_toast">Bugün zaten oy kullandın</string>
   <string name="app_name">Hava Durumu</string>
-  <string name="app_version">Sürüm: %s</string>
   <string name="aqi_data_source">Colorful Clouds tarafından güçlendirildi</string>
   <string name="aqi_desc">Hava Kalite İndeksi</string>
   <string name="aqi_detail_24_hours">%1$s-Saatlik Tahmin</string>
@@ -53,8 +50,7 @@
   <string name="aqi_detail_sub_title">HKE Detayları</string>
   <string name="aqi_detail_subtitle">HKE %1$s</string>
   <string name="aqi_detail_title">Hava Kalite Endeksi</string>
-  <string name="aqi_detail_unit">Birim: µg/m³ (CO: mg/m³)</string>
-  <string name="aqi_display_exp">exp_%1$s</string>
+  <string name="aqi_detail_unit">Birim: µg/m³</string>
   <string name="aqi_fifteen_dates_time_format">d/M</string>
   <string name="aqi_publish_source">%1$s CNEMC tarafından güncellendi</string>
   <string name="aqi_publish_time">Güncelleme: %1$s</string>
@@ -81,11 +77,15 @@
   <string name="button_confirm">İzin Ver</string>
   <string name="button_exit">Çık</string>
   <string name="button_not_allow">İptal</string>
+  <string name="button_settings_cancel">İptal</string>
+  <string name="button_settings_confirm">Gerial</string>
+  <string name="button_settings_confirm_to_revoke_msg">"Yetkilendirmeyi iptal ettikten sonra Hava Durumunu kullanamazsınız."</string>
+  <string name="button_settings_confirm_to_revoke_title">Yetkilendirmeyi iptal et!</string>
   <string name="button_sure_abandon">Değişikliklerden vazgeçilsin mi?</string>
   <string name="card_vote_item_vs">VS</string>
   <string name="change_alert">Ağ bağlantısını kontrol edip, yeniden deneyin.</string>
+  <string name="china_version_first_start_network_msg">"Bu ürünü kullanarak, Xiaomi'nin %1$s ve %2$s'lerini kabul edersiniz. Bu uygulamanın internete bağlanması ve konumunuza normal olarak erişmek için erişmesi gerekir."</string>
   <string name="city_exceeded_warning">10 şehir ekleyebilirsiniz</string>
-  <string name="close">Kapat</string>
   <string name="commercial">Ticari</string>
   <string name="common_loading_text">Biraz bekleyin…</string>
   <string name="connect_fail">Ağ bağlantısı anormal. Lütfen daha sonra tekrar deneyiniz.</string>
@@ -96,7 +96,6 @@
   <string name="content_desc_close_button">Kapat</string>
   <string name="content_desc_edit_city_manage">Şehirleri yönet</string>
   <string name="daily_forcast_drawer_on_bottom">Gizle</string>
-  <string name="daily_forcast_drawer_on_top">%1$s günlük tahmin</string>
   <string name="daily_forcast_no_stable_direction">Meltem</string>
   <string name="daily_forcast_no_wind">0</string>
   <string name="daily_forcast_no_wind_miles">&lt;19.3mps</string>
@@ -113,12 +112,12 @@
   <string name="data_source_timezone">GMT%1$s</string>
   <string name="edit_alert_city_title">Uyarıları Yönet</string>
   <string name="edit_city">Şehri düzenle</string>
+  <string name="eu_region_version_first_start_network_msg">"Bu ürünü kullanarak, Xiaomi'nin aradığınız şehirlerin koordinatları ve Gizlilik Politikamızda belirtilen diğer veri türleri de dahil olmak üzere kişisel bilgilerinizi toplayacağını, işleyeceğini ve kullanacağını kabul edersiniz. Bilgileri nasıl topladığımızı ve işlediğimizi öğrenmek için Gizlilik Politikamıza bakın. \"Kabul et\" öğesine dokunarak Xiaomi'nin %1$s ve %2$s'lerini kabul edersiniz."</string>
   <string name="feedback_heavy_rain">Şiddetli Yağmurlu</string>
   <string name="feedback_heavy_snow">Karlı</string>
   <string name="feedback_light_rain">Hafif Yağmurlu</string>
   <string name="feedback_overcast">Bulutlu</string>
   <string name="feedback_result_fail_no_choice">Lütfen gördüğünüz hava durumunu seçin</string>
-  <string name="feedback_result_interval_time_too_short">%1$s saniye sonra geribildirim yapılacak</string>
   <string name="feedback_result_success">Başarıyla gönderildi, geribildiriminiz için teşekkürler</string>
   <string name="feedback_sand">Kumlu</string>
   <string name="feedback_sunny">Güneşli</string>
@@ -142,7 +141,7 @@
   <string name="indices_desc_feel_without_pic">%1$s C°</string>
   <string name="indices_desc_humidity">Nem: %%%1$s</string>
   <string name="indices_desc_pressure">%1$smb</string>
-  <string name="indices_desc_pressure_mm">%1$s mmHg</string>
+  <string name="indices_desc_pressure">%1$smb</string>
   <string name="indices_desc_visibility">%1$s Km</string>
   <string name="indices_no_restriction">Yok</string>
   <string name="indices_title">Önerilen Etkinlikler</string>
@@ -155,15 +154,12 @@
   <string name="indices_title_sport">Spor</string>
   <string name="indices_title_uv">UV İndeksi</string>
   <string name="indices_title_visibility">Görüş Mesafesi</string>
-  <string name="information_manager">WLAN ağına bağlanınca değiştir</string>
-  <string name="information_manager_default_weather_bg">Varsayılan Hava Durumu Arkaplanı</string>
   <string name="information_manager_extension">Hava Durumu Eklentisi</string>
+  <string name="information_settings_title">Hava Durumu Bilgisi</string>
   <string name="information_manager_information">Hava Durumu Bilgisi</string>
-  <string name="information_manager_wlan">WLAN bağlandığında göster</string>
-  <string name="information_menu_title"/>
-  <string name="information_set">Diğer Ayarlar</string>
   <string name="information_views"/>
   <string name="install">Yükle</string>
+  <string name="install_progress">%%%1$s</string>
   <string name="international_detail_menu_title">Detaylar</string>
   <string name="international_details_pressure_title">Basınç</string>
   <string name="international_details_real_feel_title">"Hissedilen®"</string>
@@ -178,7 +174,7 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="lunar_calendar"/>
   <string name="menu_add_city">Konum Ekle</string>
   <string name="menu_location">Konumlar</string>
-  <string name="menu_speeker">Sesli Yayın</string>
+  <string name="menu_speaker">Sesli Yayın</string>
   <string name="mi_pad2">latte</string>
   <string name="minute_rain">Dakikalık Tahmin</string>
   <string name="minute_rain_after_an_hour">Bir saat sonra</string>
@@ -206,16 +202,24 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="open_browser">Tarayıcıda Aç</string>
   <string name="open_now">Aç</string>
   <string name="other">Diğer</string>
+  <string name="other_settings">Diğer Ayarlar</string>
   <string name="other_warning_settings">Diğer Alarmlar</string>
   <string name="particulate_matter_exceeded">Yüksek</string>
   <string name="particulate_matter_not_exceeded">Normal</string>
   <string name="particulate_matter_serious_exceeded">Çok Yüksek</string>
+  <string name="policy_settings">Şartlar ve Koşullar</string>
   <string name="precipitation_degree_five">Fırtınalı</string>
   <string name="precipitation_degree_four">Şiddetli</string>
   <string name="precipitation_degree_one">Yağmurlu</string>
   <string name="precipitation_degree_three">Orta</string>
   <string name="precipitation_degree_two">Hafif</string>
   <string name="pressure_connect">%1$s mb</string>
+  <string name="privacy_grant_failed">"Yetkilendirme yapılamadı. Bir veya iki dakika bekleyin ve tekrar deneyin."</string>
+  <string name="privacy_grant_or_revoke_settings">İzin Ve ve Yetkilendirmeyi İptal Et</string>
+  <string name="privacy_grant_success">Başarıyla yetki verildi</string>
+  <string name="privacy_revoke_failed">"Yetkilendirme iptal edilemedi. Bir veya iki dakika bekleyin ve tekrar deneyin."</string>
+  <string name="privacy_revoke_success">İptal edilen yetkilendirme başarıyla tamamlandı</string>
+  <string name="privacy_settings">Gizlilik Politikası</string>
   <string name="pull_fresh_updated">Başarıyla güncellendi</string>
   <string name="pull_fresh_updating">Güncelleniyor…</string>
   <string name="radar_cloud_image_title">Radar Haritası</string>
@@ -223,7 +227,6 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="rainfall_settings_title">Sağanak</string>
   <string name="real_time_sunrise">Gündoğumu: %1$s</string>
   <string name="real_time_sunset">Günbatımı: %1$s</string>
-  <string name="realtime_aqi_connection">%1$s</string>
   <string name="realtime_aqi_title">Hava Kalite İndeksi</string>
   <string name="realtime_humidity_title">Bağıl Nem</string>
   <string name="realtime_temperature_no_data">Yok</string>
@@ -261,7 +264,6 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="top_pollution_pm10">PM10</string>
   <string name="top_pollution_pm25">PM2.5</string>
   <string name="top_pollution_so2">SO2</string>
-  <string name="total_voted_num_text">"&lt;font color='#20a7ff'&gt;%1$s&lt;/font&gt; kişi oyladı"</string>
   <string name="traffic_control_daty_after_tomorrow_numbers">Yarından itibaren: %1$s</string>
   <string name="traffic_control_today_numbers">Bugün: %1$s</string>
   <string name="traffic_control_tomorrow_numbers">Yarın: %1$s</string>
@@ -298,9 +300,8 @@ Elle eklemek veya  yeniden konumlandırmak için ekrana dokunun"</string>
   <string name="wind_miles_unit">%1$s m/s</string>
   <string name="wind_power_unit_default">0</string>
   <string name="wind_unit">%1$skm/s</string>
-  <string name="xiaomi_weather_description_content">"Hava Durumu size doğru hava durumu tahmini sağlar. Bu uygulama olmadan, durum çubuğu, Ana Ekran ve Hava Durumu Aracı düzgün çalışmaz. Uygulamayı kaldırmadan önce bu özelliklere sahip olup-olmadığınızından emin olun."</string>
+  <string name="xiaomi_weather_description_content">"Hava Durumu size doğru hava durumu tahmini sağlar. Bu uygulama olmadan, durum çubuğu, Ana Ekran ve Hava Durumu Aracı düzgün çalışmaz. Uygulamayı kaldırmadan önce bu özelliklere sahip olup-olmadığınızdan emin olun."</string>
   <string name="xiaomi_weather_description_title">Hava Durumu Hakkında</string>
-  <string name="yes_vote_num"> | %1$s kişi</string>
   <string name="yes_vote_ratio">%%%1$s</string>
   <string name="your_location">Konumunuz</string>
 </resources>
