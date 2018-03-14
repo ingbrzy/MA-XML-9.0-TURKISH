@@ -141,7 +141,6 @@
   <string name="indices_desc_feel_without_pic">%1$s C°</string>
   <string name="indices_desc_humidity">Nem: %%%1$s</string>
   <string name="indices_desc_pressure">%1$smb</string>
-  <string name="indices_desc_pressure">%1$smb</string>
   <string name="indices_desc_visibility">%1$s Km</string>
   <string name="indices_no_restriction">Yok</string>
   <string name="indices_title">Önerilen Etkinlikler</string>
