@@ -1981,7 +1981,7 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="saving_conflict_dialog_ok">Tamam</string>
   <string name="saving_conflict_dialog_title">Dikkat</string>
   <string name="saving_conflict_restrictbackground_msg">"Arkaplan verileri kısıtlı olduğunda veri koruyucusunu kullanamazsınız. Veri koruyucuyu açıp arkaplan verilerine izin verilsin mi?"</string>
-  <string name="sc_allow_network_dialog_message">Ağ bağlantısını ve Güvenlik için konumunuza erişimi kısıtladınız. Bu özelliği kullanmak için Güvenlik'e gerekli izinleri verin.</string>
+  <string name="sc_allow_network_dialog_message">"Ağ bağlantısını ve Güvenlik için konumunuza erişimi kısıtladınız. Bu özelliği kullanmak için Güvenlik'e gerekli izinleri verin."</string>
   <string name="sc_allow_network_dialog_tiltle">"Bu özelliği kullanamazsınız"</string>
   <string name="sc_system_risk_fix_info_xspace">Bunu İkinci Alanda çözemezsiniz. İlk Alanda tekrar deneyin.</string>
   <string name="sc_warning_updater_not_found">Güncelleyici uygulaması bulunamadı.</string>
