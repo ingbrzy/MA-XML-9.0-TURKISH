@@ -744,7 +744,6 @@ Yayın, düşük güçlü Bluetooth sinyallerini kullanır. "</string>
   <string name="calendar_sound_title">Takvim Sesi</string>
   <string name="call_manager_enable_summary">Çağrılarınızı yönetmek için bu servise izin verir</string>
   <string name="call_manager_enable_title">Çağrı Yöneticisi Etkin</string>
-  <string name="call_manager_summary">%1$s</string>
   <string name="call_manager_title">Çağrı Ayarları</string>
   <string name="call_settings_primary_user_only">İlk Alanın arama ayarlarını değiştir</string>
   <string name="call_settings_summary">Sesli postayı, çağrı yönlendirme, çağrı bekletme, arayan kimliği ayarlama</string>
@@ -1825,7 +1824,6 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="lift_to_wake_title">Uyandırmak için kaldır</string>
   <string name="line_breaking_summary">Paragrafın satır kırılmasını iyileştir</string>
   <string name="line_breaking_title">Metini iyi hale getir</string>
-  <string name="link_speed">%1$d Mbps</string>
   <string name="link_speed_label">Bağlantı Hızı:</string>
   <string name="loading_notification_apps">Uygulamalar yükleniyor...</string>
   <string name="local_auto_backup_off">Kapat</string>
@@ -2131,7 +2129,6 @@ Burada diğer kullanıcılar var.
   <string name="memory_title">Kullanabilir: %1$s\u0009\u0009 Toplam: %2$s</string>
   <string name="memory_usage">Hafıza kullanımı</string>
   <string name="memory_usage_apps">Uygu. kullandığı hafıza</string>
-  <string name="memory_use_running_format">%1$s / %2$s</string>
   <string name="memory_use_summary">Yaklaşık %1$s, son 3 saatte kullandığı hafıza</string>
   <string name="menu_cancel">Reddet</string>
   <string name="menu_check">Deneyim</string>
@@ -2322,7 +2319,6 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="nfc_how_it_works_got_it">Anladım</string>
   <string name="nfc_how_it_works_title">Terminale ödeniyor</string>
   <string name="nfc_more_title">Fazlası...</string>
-  <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
   <string name="nfc_payment_default">Ödeme Varsayılanı</string>
   <string name="nfc_payment_default_not_set">Ayarlanmadı</string>
   <string name="nfc_payment_favor_default">Daima</string>
@@ -2341,7 +2337,6 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="nfc_se_wallet_title">Varsayılan Cüzdan</string>
   <string name="night_mode_auto">Otomatik</string>
   <string name="night_mode_no">Açık</string>
-  <string name="night_mode_summary">%s</string>
   <string name="night_mode_title">Tema</string>
   <string name="night_mode_yes">Koyu</string>
   <string name="no">Hayır</string>
@@ -2397,8 +2392,6 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="notifications_no_peeking">Bakılamaz</string>
   <string name="notifications_priority">Öncelik</string>
   <string name="notifications_sensitive">Hassas içerik gizlendi</string>
-  <string name="notifications_three_items">%1$s / %2$s / %3$s</string>
-  <string name="notifications_two_items">%1$s / %2$s</string>
   <string name="now">Şimdi Başlat</string>
   <string name="nsd_quick_toggle_summary">Bu cihazdaki uygulamaları diğer cihazlardaki uygulamaların bulmasına izin verin</string>
   <string name="nsd_quick_toggle_title">Ağ hizmetini bul</string>
@@ -2434,7 +2427,6 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="overlay_display_devices_title">İkinci ekranı taklit et</string>
   <string name="overlay_settings">Diğer uygulamaların aşımını yönet</string>
   <string name="owner_info_settings_edit_text_hint">Kilit ekranında görüntülenecek metni yazın</string>
-  <string name="owner_info_settings_status">%1$d / %2$d</string>
   <string name="owner_info_settings_summary">Yok</string>
   <string name="owner_info_settings_title">Ekran sahibi bilgilerini kilitle</string>
   <string name="owner_space">İlk Alan</string>
@@ -2718,8 +2710,6 @@ bilgisayara bağlı iken %1$s USB depolama aygıtı olarak görünecektir."</str
   <string name="private_sms_recording_intro_header">Bir kilit açma deseni çizin:</string>
   <string name="private_sms_reset_by_account">Şifrenizi sıfırlamak için Mi Hesabınızda oturum açın.</string>
   <string name="process_dex2oat_label">Uygulama İyileştirici</string>
-  <string name="process_format">%1$s (%2$d)</string>
-  <string name="process_kernel_label">Android OS</string>
   <string name="process_mediaserver_label">Mediaserver</string>
   <string name="process_provider_in_use_description">%1$s sağlayıcı kulanıyor.</string>
   <string name="process_service_in_use_description">%1$s hizmeti kullanıyor.</string>
@@ -3324,11 +3314,9 @@ Bu ayar telefondaki tüm kullanıcıları etkiler."</string>
   <string name="selinux_status_enforcing">Uygulanıyor</string>
   <string name="selinux_status_permissive">Müsamahâkar</string>
   <string name="service_background_processes">Boş: %1$s</string>
-  <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s kullanılıyor</string>
   <string name="service_manage">Kur</string>
   <string name="service_manage_description">"%1$s: şu anda kullanımda. Kontrol etmek için Ayarlar'a dokunun."</string>
-  <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Başlatılıyor</string>
   <string name="service_started_by_app">Uygulama tarafından başlatıldı.</string>
   <string name="service_stop">Durdur</string>
@@ -3348,7 +3336,6 @@ Bu ayar telefondaki tüm kullanıcıları etkiler."</string>
   <string name="settings_license_activity_unavailable">Lisansın yüklenmesinde bir problemle karşılaşıldı.</string>
   <string name="settings_notify_need_backup">"Telefon değiştirdikten sonra ayarlarınıza erişmek için ayarlarınızı Mi Bulut'a yedekleyin."</string>
   <string name="settings_notify_phone_recycled">Telefon numaranız geri dönüştürüldü. Farklı bir telefon numarası eklemek için dokunun.</string>
-  <string name="settings_package">com.android.settings</string>
   <string name="settings_safetylegal_activity_loading">Yükleniyor...</string>
   <string name="settings_safetylegal_activity_title">Güvenlik Bilgisi</string>
   <string name="settings_safetylegal_activity_unreachable">"Bir veri bağlantısı yok. Şimdi bu bilgiyi görüntüle, internet için herhangi bilgisayardan %s gidin."</string>
