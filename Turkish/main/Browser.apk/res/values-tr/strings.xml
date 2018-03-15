@@ -319,6 +319,7 @@ görüntülemek için Mi Hesabınızda oturum açın."</string>
   <string name="go_supermarket_title">Uygulama Mağazası daha hızlı, pekçok uygulama ve daha az veri kullanımı içerir.</string>
   <string name="gold_medals">Altın Madalyalar</string>
   <string name="google_bookmarks">Google</string>
+  <string name="green_kid_block_request">Web sitesi, ebeveynlerin tarafından men edildi.</string>
   <string name="have_sent_bookmark_to_home_screen">Ana Ekrana yerleştirildi</string>
   <string name="hint">İpucu</string>
   <string name="history">Geçmiş</string>
@@ -907,7 +908,7 @@ Bu sayfadan uzaklaşmak istediğinizden emin misiniz?"</string>
   <string name="pref_privacy_formdata_title">Form Verileri</string>
   <string name="pref_privacy_location_title">Konum Erişimi</string>
   <string name="pref_privacy_security_title">Güvenlik &amp; Gizlilik</string>
-  <string name="pref_save_bandwidth_mode_title">Veri kullanımını azalt</string>
+  <string name="pref_save_bandwidth_mode_title">Veriyi Azalt</string>
   <string name="pref_security_accept_cookies">Çerezleri Kabul Et</string>
   <string name="pref_security_accept_cookies_summary">Sitelere; çerez verilerini kaydetme ve okuma izni verir</string>
   <string name="pref_security_passwords_title">Şifreler</string>
@@ -1135,7 +1136,7 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Bu T
   <string name="url_suggest_indicator_hoturl">Popüler</string>
   <string name="url_suggest_indicator_mostvisited">Sık Kullanılanlar</string>
   <string name="use_cellular_network_alert_message">"WLAN mevcut değil. Yerine mobil veri bağlantısı kullanılsın mı?"</string>
-  <string name="use_cellular_network_alert_title">Veri kullanımı</string>
+  <string name="use_cellular_network_alert_title">Veri Kullanımı</string>
   <string name="user_defined_webpage">Başlangıç Sayfasına Ekle</string>
   <string name="user_defined_webpage_title">Başlangıç Sayfasına Ekle</string>
   <string name="username">Adı</string>
@@ -1207,6 +1208,9 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Bu T
   <string name="voice_connect_network">"Ağa bağlanamadı."</string>
   <string name="voice_description">Sesli Arama</string>
   <string name="voice_network_connection">Sesli aramanın normal çalışabilmesi için internet bağlantısı gerekir.</string>
+  <string name="voice_open_permission_baidu">"Lütfen, Konuşma Tanıma Ayarları için Ses Ayarları'nı açın."</string>
+  <string name="voice_open_permission_xiaoai">"Lütfen Xiaoai Voice Engine'in ses izinlerini açmak için Ayarlar'a gidin."</string>
+  <string name="voice_open_permission_xunfei">"Lütfen Ayarlar bölümünden Ses Ayarları için ses izinlerini etkinleştirin"</string>
   <string name="voice_search_permission">Sesli aramanın normal çalışabilmesi için mikrofona erişmesi gerekir.</string>
   <string name="voice_semantic_analysis">Tarayıcı bağlantı izninden sonra ses analizi gerçekleştirir.</string>
   <string name="voice_start_description">Başlat</string>
