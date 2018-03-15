@@ -240,6 +240,7 @@
   <string name="app_manager_system_mobile_disable">Veriyi Kapat</string>
   <string name="app_manager_title">Uygulamayı Yönet</string>
   <string name="app_manager_total_size">Toplam</string>
+  <string name="app_manager_uninstall">Kaldır</string>
   <string name="app_manager_uninstall_protected_dlg_msg">Kaldırılacak sistem uygulaması MIUI bileşenlerinin düzgün çalışmasını engelleyebilir. Yine de devam edilsin mi?</string>
   <string name="app_manager_uninstall_protected_dlg_title">Sistem Uygulamasını Kaldır</string>
   <string name="app_manager_uninstall_with_xspace_app_dlg_msg">Karşılık gelen ikili uygulamalar, uygulama verileri ile birlikte kaldırılacaktır.</string>
@@ -824,7 +825,20 @@ Mobil verileri tekrar açtığınızda operatörünüz sizeden ek ücretler tale
   <string name="gb_description_image_button_answer">Cevapla</string>
   <string name="gb_description_image_button_reject">Reddet</string>
   <string name="gb_description_image_button_video_answer">Görüntülü Çağrı</string>
+  <string name="gb_get_gift_right_now">Şimdi denetle</string>
+  <string name="gb_have_signed">Bugün denetlendi</string>
+  <string name="gb_network_status_bad">Bir bağlantı hatası oluştu.</string>
   <string name="gb_new_feature">Yeni Özellik</string>
+  <string name="gb_sign_gift">Ödüller almak için giriş yapın</string>
+  <string name="gb_sign_gift_button_text">Al</string>
+  <string name="gb_sign_notification_summary">Xunyou hızlandırıcısı için günlük olarak kontrol edin</string>
+  <string name="gb_sign_notification_title">Oyunlar için ağ hızını artırın</string>
+  <string name="gb_signed_gift_loading_fail">"Yüklenemedi"</string>
+  <string name="gb_signed_gift_loading_summary">Biraz bekleyin…</string>
+  <string name="gb_signed_title">Bu ay kontrol edildi</string>
+  <string name="gb_xunyou_gift_type_one">Xunyou 1 günlük hızlandırıcı</string>
+  <string name="gb_xunyou_gift_type_three">Xunyou 3 günlük hızlandırıcı</string>
+  <string name="gb_xunyou_gift_type_two">Xunyou 2 günlük hızlandırıcı</string>
   <string name="gdpr_msg">&lt;Data&gt;"Güvenlik'in temel özelliklerini kullanabilmek için, Xiaomi'nin kişisel verilerinizi toplayacağını, işlediğini ve kullanacağını kabul etmelisiniz. Güvenlik özellikleri (Mobil veri kullanım istatistikleri, kötü amaçlı yazılım hakkında bilgi gibi) &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Gizlilik Politika&amp;lt;/a&amp;gt;'mızın içeriğinde mevcuttur."&lt;/Data&gt;</string>
   <string name="ge">个</string>
   <string name="get_sys_info">Bilgi alınıyor…</string>
@@ -856,8 +870,10 @@ Mobil verileri tekrar açtığınızda operatörünüz sizeden ek ücretler tale
   <string name="gs_game_shortcut">Oyun deneyiminizi geliştirin</string>
   <string name="gs_only_self_start_for_list">Oyundayken pil tasarrufu için arkaplan işlemleri kısıtlar</string>
   <string name="gs_open_game_booster">Hızı Arttır</string>
+  <string name="gs_open_game_booster_summary">Oyunlar için ağ hızını artırın</string>
   <string name="gs_performance_mode">Performans Modu</string>
   <string name="gs_performance_mode_detail">CPU hızını daha üst seviyeye çıkartıp, performansı arttır</string>
+  <string name="gs_sign_notification">"Her gün saat 8'de kontrol etmeyi hatırlat"</string>
   <string name="guide_get_operator_error">"Yanlış operatör mü?"</string>
   <string name="guide_operator_text">"Mevcut Operatörünüz: "</string>
   <string name="guide_quck_open">Aç</string>
@@ -1796,6 +1812,10 @@ Kalibre ederken MIUI, kalibrasyon şablonunu almak için operatörünüze bir k�
   <string name="shutdown_cancel_reminder_detail2">"Görünüşe göre bir oyun oynuyorsun. Planlanmış güç iptal edildi."</string>
   <string name="signal_exception_summary">"Bu bölgede ağa bağlanamıyor!"</string>
   <string name="signal_exception_title">Sinyal gücü testi</string>
+  <string name="signed_rule">Kurallar</string>
+  <string name="signed_rule_one">1. Sırasıyla 1, 2 veya 3 gün boyunca Xunyou hızlandırıcısı almak için her ay 10, 20 veya 28 gün içinde kontrol edin.</string>
+  <string name="signed_rule_three">"3. Denetleme yaptığınızda, her ayın başında iptal edilir. Kalan günler devredilmez."</string>
+  <string name="signed_rule_two">2.Ayda sadece 1 defa Xunyou hızlandırıcısı alabilirsiniz.</string>
   <string name="sim_location_diagnostic">Konum teşhisi</string>
   <string name="sim_location_error_dialog_message">"Kullanmakta olduğunuz SIM: %1$s. Bu elle ayarladığınızdan farklı
         bir konumda (%2$s). %3$s SIM konumunu değiştirmek istiyor musunuz?"</string>
