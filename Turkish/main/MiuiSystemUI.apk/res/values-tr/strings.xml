@@ -342,7 +342,6 @@ Veriyi yeniden etkinleştirirseniz, operatörünüz tarafından ücret talep edi
   <string name="external_source_trusted">İzin verildi</string>
   <string name="external_source_untrusted">İzin verilmedi</string>
   <string name="failed_to_open_app_settings_toast">%1$s için ayarlar açılamadı</string>
-  <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="float_incall_ignore">Yoksay</string>
   <string name="float_incall_message">Mesaj</string>
   <string name="force_allow_on_external">Uygulamaların harici depolama alanına yazmasına izin vermeye zorla</string>
@@ -729,7 +728,6 @@ Kilitlemek için aşağı kaydırın "</string>
   <string name="status_bar_safepay_scanning">Ödeme ortamı denetleniyor…</string>
   <string name="status_bar_safepay_unknown">"Ödeme ortamı denetlenemiyor"</string>
   <string name="status_bar_settings_airplane">Uçak Modu</string>
-  <string name="status_bar_settings_battery_meter_format">%%%d</string>
   <string name="status_bar_settings_signal_meter_disconnected">İnternet bağlantısı yok!</string>
   <string name="status_bar_settings_signal_meter_wifi_nossid">WLAN bağlandı</string>
   <string name="status_bar_style_settings">Bildirimler</string>
