@@ -99,6 +99,8 @@ Son yedekleme: %2$s"</string>
   <string name="find_device_error_password_changed">Hesap şifresi değiştirildi.</string>
   <string name="find_device_error_server">Sunucu hatası</string>
   <string name="find_device_error_unknown">Bilinmeyen hata.</string>
+  <string name="find_device_gdpr_prompt">"Telefonu Bul'u açarak \"Gizlilik Politikası\" seçeneğini kabul etmiş olursunuz. Gizlilik izninizi iptal etmeniz gerekiyorsa, lütfen bu özelliği kapatın."</string>
+  <string name="find_device_gdpr_prompt_policy_doc_name">\"Gizlilik Politikası\"</string>
   <string name="find_device_notice_p1">Git</string>
   <string name="find_device_notice_p3">" telefonunuzu bulmak, kilitlemek ve yeniden yüklemek için.
 SIM kartınızı değiştirirseniz, bu özelliği yeniden etkinleştirmek için otomatik olarak bir SMS gönderilecektir."</string>
@@ -461,7 +463,7 @@ Bunu düzeltmek için ya bazı eski dosyaları silip yer açınız veya fazladan
   <string name="micloud_web_discription">i.mi.com adresini ziyaret et</string>
   <string name="micloud_web_discription_01">i.mi.com sitesine giriş yap</string>
   <string name="micloud_web_discription_02">Her yerden alışveriş yap ve dosyalarına eriş</string>
-  <string name="micloud_web_discription_international">www.mi.com/micloud adresini ziyaret edin</string>
+  <string name="micloud_web_discription_place_holder">%1$s adresini ziyaret edin</string>
   <string name="micloud_website">Mi Bulut Bileşenleri</string>
   <string name="micloud_wipe_data_confirm_label">Mi Bulut üzerinden veriyi kaldır</string>
   <string name="micloud_wipe_data_confirm_title">Telefonda oturum kapatıldığında Mi Bulut ile eşitlenmiş öğeler kaldırılsın mı?</string>
