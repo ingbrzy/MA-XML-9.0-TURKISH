@@ -37,6 +37,7 @@ SIM kartları geçerseniz, başka bir SMS bu özelliği etkinleştirmek için ot
   <string name="lock_msg_phone">İletişim Bilgileri: %s</string>
   <string name="login_extra_steps">Oturum açma doğrulaması</string>
   <string name="login_failed">"Oturum açılamadı"</string>
+  <string name="open_wifi_settings">WLAN Ayarlarını aç</string>
   <string name="passport_checking_vcode">Şifre kontrol ediliyor...</string>
   <string name="passport_error_empty_vcode">Doğrulama kodunu girin</string>
   <string name="passport_notification_need_unlock_again">Yeniden kilit açmayı deneyin</string>
