@@ -46,8 +46,6 @@
   <string name="backup_hint">Telefonunuzu kapatmayınız</string>
   <string name="backup_hint_onpad">Telefonunuzu açık tutun</string>
   <string name="backup_is_running">Cihaz yedekleniyor</string>
-  <string name="backup_items_app_tailer">" uygulama veri dosyaları "</string>
-  <string name="backup_items_sysdata_tailer">" sistem veri dosyaları, "</string>
   <string name="backup_new">Yeni:</string>
   <string name="backup_progress">Yedekleniyor…</string>
   <string name="backup_report">Detayları gör</string>
@@ -128,7 +126,9 @@ https://appleid.apple.com/#!&amp;page=kapatmak için giriş yap"</string>
   <string name="err_authentication_failed">Kimlik doğrulama hatası</string>
   <string name="err_bakfile_broken">"Bu yedek kullanılamaz."</string>
   <string name="err_filesystem_mount">"Yönlendirici depolanmasına erişilemiyor"</string>
-  <string name="err_low_storage">Yeterli boş alan yok</string>
+  <string name="err_low_storage">
+Yeterli alan yok</string>
+  <string name="err_not_allow">Desteklenmiyor</string>
   <string name="err_router_disconnected">"Yönlendiricinizin bağlantısını kontrol edin ve tekrar deneyin."</string>
   <string name="err_router_files_delete">"Yönlendiricideki yedekleme dosyaları silinemedi"</string>
   <string name="err_unknown">Bilinmeyen hata</string>
@@ -159,8 +159,9 @@ https://appleid.apple.com/#!&amp;page=kapatmak için giriş yap"</string>
   <string name="hsa_send_again_countdown">(%ds) yeniden gönder</string>
   <string name="hsa_send_failed">Doğrulama kodu gönderilemedi. Bir iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="hsa_sending">Gönderiliyor...</string>
-  <string name="hsa_tip_message">"1.Apple ID'nizle ilişkili cihaza doğrulama koduyla ilgili bir mesaj gönderilmiştir.
-2.Doğrulamada başarısız olursa, iki faktörlü kimlik doğrulamayı kapatın."</string>
+  <string name="hsa_tip_message">
+"1. Apple ID'nizle ilişkili cihaza doğrulama kodu içeren bir mesaj gönderildi.
+2. Doğrulama kodu çalışmazsa iki faktörlü kimlik doğrulamayı kapatın."</string>
   <string name="hsa_tip_message_shutdown_hsa">İki faktörlü doğrulama kodu nasıl kapatılır?</string>
   <string name="hsa_tip_message_with_device">"1.ICloud için %s telefona doğrulama kodunu içeren bir mesaj gönderilecek.
 2.Doğrulamada başarısız olursa, iki faktörlü kimlik doğrulamayı kapatın."</string>
@@ -177,7 +178,9 @@ https://appleid.apple.com/#!&amp;page=kapatmak için giriş yap"</string>
   <string name="icloud_how_to_backup_tip_summary">"IOS'tan veri aktarmak için eski cihazlarda iCloud'a veri yüklemeniz gerekir."</string>
   <string name="icloud_how_to_backup_tip_title">İpuçları:</string>
   <string name="icloud_login_title">"iCloud'a oturum aç"</string>
-  <string name="icloud_need_sync">"IOS'tan veri aktarmak için eski cihazlarda iCloud'a veri yüklemeniz gerekir"</string>
+  <string name="icloud_need_sync">
+"iOS'tan veri almak için
+İlk önce bir iCloud yedeği oluşturmalısınız."</string>
   <string name="icloud_need_wifi_message">"WLAN şu anda bağlı değil. ICloud'dan veri aktarmak için, giriş yapmak ve veri indirmek için WLAN gereklidir."</string>
   <string name="icloud_need_wifi_title">WLAN ağına bağlan</string>
   <string name="import_again">Yeniden aktar</string>
@@ -236,6 +239,7 @@ https://appleid.apple.com/#!&amp;page=kapatmak için giriş yap"</string>
   <string name="notif_icloud_need_wifi_summary">WLAN ağı bekleniyor</string>
   <string name="notif_icloud_saved_summary">Aktarma tamamlandı</string>
   <string name="notif_icloud_saving_summary">Veri geri yükleniyor</string>
+  <string name="notif_miasist_try_to_connect">Mi PC Suite cihazınıza bağlanmaya çalışıyor</string>
   <string name="notif_parse_select_descript_error">"Yedeklenen öğelerin listesi eşitlenemedi."</string>
   <string name="notif_receiving_transingsd">%1$s alınıyor (%2$s)…</string>
   <string name="notif_restore_complete_title">Başarıyla geri yüklendi</string>
@@ -284,7 +288,7 @@ https://appleid.apple.com/#!&amp;page=kapatmak için giriş yap"</string>
   <string name="router_backup_hint">Cihazınızı açık tutun</string>
   <string name="save_finish_with_failing_items">"İçe aktarma kesildi. Bazı veriler içe aktarıldı
 Verilerin kaldığı yerden tekrar aktarılması gerekiyor"</string>
-  <string name="saving_data">"ICloud'dan veri içe aktarılıyor
+  <string name="saving_data">"iCloud'dan veri içe aktarılıyor
 Lütfen WLAN'ı kapatmayın veya WLAN'ı değiştirmeyin."</string>
   <string name="saving_data_no_time">Veri geri yükleniyor</string>
   <string name="saving_data_space_low">"Yeterli alan yok
@@ -360,8 +364,8 @@ Lütfen en az %s alan açın"</string>
   <string name="task_running_restore_dialog">Geri yükleme çalışıyor. Görüntülemek için Tamam\'a dokunun.</string>
   <string name="task_running_restore_hint">Görev halihazırda arkaplanda yürütülüyor</string>
   <string name="task_service_not_launched">"İşlem henüz başlatılamadı"</string>
-  <string name="task_stopped_exception">Geri yükleme iptal edildi</string>
-  <string name="total_num">%d öğe,</string>
+  <string name="task_stopped_exception">
+Geri yükleme iptal edildi</string>
   <string name="total_size">, %s</string>
   <string name="trans_backingup">Yedekleniyor...</string>
   <string name="trans_backingup_no_items">Eşitleniyor...</string>
@@ -500,6 +504,7 @@ Cihazlarınızı birbirine yakın tutun."</string>
   <string name="trans_show_qr_code_tips">Gönderenin cihazını kullanarak QR kodunu tarayın</string>
   <string name="trans_start_failed_message">Başlatılamadı, lütfen yeniden deneyin veya cihazı yeniden başlatın</string>
   <string name="trans_start_failed_title">Başlatılamadı</string>
+  <string name="trans_switching_5g">"5GHz WLAN'a geçiliyor…"</string>
   <string name="trans_time_format_second">Bir dakikadan daha az</string>
   <string name="trans_time_spent">"
 Geçen Zaman: %s"</string>
