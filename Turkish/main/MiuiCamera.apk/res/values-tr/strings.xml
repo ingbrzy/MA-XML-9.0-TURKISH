@@ -1,21 +1,46 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Import">Aktar</string>
-  <string name="access_sd_fail">"SD Karta erişilemiyor."</string>
-  <string name="accessibilit_camera_video_switch_picker_and_state">Kamerave Videoyu değiştir (%s)</string>
+  <string name="access_sd_fail">"USB depolamaya erişilemiyor."</string>
   <string name="accessibility_audio_shutter_bg">Arkaplan Deklanşör Sesi</string>
+  <string name="accessibility_back_preview_status">Arka Kamera Önizlemesi</string>
+  <string name="accessibility_beauty_panel_closed">Güzellik menüsü gizlendi</string>
+  <string name="accessibility_beauty_panel_open">Güzellik menüsü açıldı</string>
+  <string name="accessibility_beauty_switch_closed">Güzellik kapalı</string>
+  <string name="accessibility_beauty_switch_open">Güzellik açık</string>
+  <string name="accessibility_bokeh_normal">Ön kamera arkaplan bulanıklığı kapalı</string>
+  <string name="accessibility_bokeh_on">Ön kamera arkaplan bulanıklığı açık</string>
   <string name="accessibility_camera_auto_flashmode">Otomatik Flaş</string>
   <string name="accessibility_camera_flash_closemode">Flaş yok</string>
   <string name="accessibility_camera_flashmode">Daima Flaş</string>
   <string name="accessibility_camera_module_picker">CameraModulePicker</string>
   <string name="accessibility_camera_picker">Ön ve Arka Kamera Geçişi</string>
+  <string name="accessibility_camera_shutter_finish">Fotoğraf başarıyla çekildi</string>
+  <string name="accessibility_closed">Kapatıldı</string>
   <string name="accessibility_close_more_ptions">Diğer Seçenekleri Kapat</string>
   <string name="accessibility_effect_mode_button">Efekt Düğmesi</string>
+  <string name="accessibility_filter_close_panel">Filtre menüsü kapatıldı</string>
+  <string name="accessibility_filter_open_panel">Filtre menüsü açıldı</string>
+  <string name="accessibility_filter_pad_close">Filtre menüsü gizlendi</string>
+  <string name="accessibility_flash_auto">Otomatik flaş açık</string>
   <string name="accessibility_ev_control">Pozlama Dengesi</string>
   <string name="accessibility_flash_mode_button">Flaş Düğmesi</string>
+  <string name="accessibility_flash_off">Flaş kapalı</string>
+  <string name="accessibility_flash_on">Flaş açık</string>
+  <string name="accessibility_flash_torch">Flaş açık, el feneri modunda</string>
+  <string name="accessibility_focus_status">%1$sX yakınlaştır</string>
+  <string name="accessibility_foucs_peak">Üst Değer</string>
+  <string name="accessibility_front_preview_status">Ön Kamera Önizlemesi</string>
   <string name="accessibility_hdr">HDR Geçiş Düğmesi</string>
+  <string name="accessibility_hdr_auto">Oto. HDR açık</string>
+  <string name="accessibility_hdr_live">HDR Live açık</string>
+  <string name="accessibility_hdr_normal">HDR Pro açık</string>
+  <string name="accessibility_hdr_off">HDR kapalı</string>
+  <string name="accessibility_hdr_on">HDR açık</string>
+  <string name="accessibility_intent_done_apply">Tamam</string>
   <string name="accessibility_mode">Çekim Modu</string>
   <string name="accessibility_mode_dismiss_button">Mod seçim düğmesini kapat</string>
+  <string name="accessibility_more">Diğer</string>
+  <string name="accessibility_open">Açık</string>
   <string name="accessibility_module_picker">Modulpicker</string>
   <string name="accessibility_more_ptions_closed">Diğer Seçenekler Kapalı</string>
   <string name="accessibility_more_ptions_opened">Diğer Seçenekler Açık</string>
@@ -24,8 +49,11 @@
   <string name="accessibility_peak">Odak Tepesi Düğmesi</string>
   <string name="accessibility_photo_style_button">Foto Stili Düğmesi</string>
   <string name="accessibility_portrait_button">Potre Modu</string>
+  <string name="accessibility_protrait">Potre</string>
   <string name="accessibility_review_thumbnail">En Son Fotoğraf</string>
   <string name="accessibility_seek_bar_line">SeekBarLine</string>
+  <string name="accessibility_selected">Seçili öğeler</string>
+  <string name="accessibility_setting">Ayarlar</string>
   <string name="accessibility_setting_button">Ek Ayar Düğmesi</string>
   <string name="accessibility_shutter_button">Deklanşör Düğmesi</string>
   <string name="accessibility_skin_beautify_button">Cildi Güzelleştir</string>
@@ -36,6 +64,8 @@
   <string name="accessibility_video_module_picker">Video Modunu Seç</string>
   <string name="accessibility_video_pause_button">Video Durdurma Düğmesi</string>
   <string name="accessibility_zoom_button">Yakınlaştırma Modu</string>
+  <string name="ai_scene_mode_use_hint_text">"Akıllı Ekran Kamera'sını açın, sizin için resim sahnesini tanımlayın ve
+ sahneyi temel alarak resmi iyileştirin"</string>
   <string name="accessibility_zoom_control">Yakınlaştırma Kontrolu</string>
   <string name="albums">Albümler</string>
   <string name="aperture">Kapak</string>
@@ -44,6 +74,7 @@
   <string name="auto">Otomatik</string>
   <string name="beauty_fragment_tab_name_beauty">Güzellik</string>
   <string name="beauty_fragment_tab_name_makeup">Gelişmiş</string>
+  <string name="bokeh_use_hint">Derinlik Efekti</string>
   <string name="bg_replacement_message">"Cihazınızı dengeli bir yüzeye yerleştirin 
 ve bir an için uzaklaşın"</string>
   <string name="burst_shoot_exit_button_text">Seri Çekimi Kapat</string>
@@ -63,7 +94,7 @@ ve bir an için uzaklaşın"</string>
   <string name="cancel">İptal et</string>
   <string name="cannot_connect_camera_once">"Kameraya bağlanamıyor"</string>
   <string name="cannot_connect_camera_twice">"Halen kameraya bağlanamıyor. Cihazı yeniden başlatın."</string>
-  <string name="cannot_connect_camera_volte_call">Görüntülü çağrı devam ediyor, lütfen daha sonra deneyin.</string>
+  <string name="cannot_connect_camera_volte_call">Görüntülü çağrı devam ediyor, daha sonra deneyin.</string>
   <string name="cannot_move_warning_message">Fotoğraf alınıyor, cihazı oynatmayın!</string>
   <string name="clear_effects">Efektleri Temizle</string>
   <string name="close">Kapat</string>
@@ -88,6 +119,7 @@ ve bir an için uzaklaşın"</string>
   <string name="config_name_setting">Ayarlar</string>
   <string name="config_name_sound">Ses</string>
   <string name="config_name_straighten">Düzelt</string>
+  <string name="config_name_super_resolution">Süper Çözünürlük</string>
   <string name="config_name_tilt">Eğim-Yön</string>
   <string name="config_name_timer">Zamanlayıcı</string>
   <string name="confirm_change_mode_title">Modu Değiştir</string>
@@ -185,6 +217,7 @@ ve daha sonra minimum bozuk bir fotoğraf alınır"</string>
   <string name="hint_fast_motion">Video normal oynatım hızından daha hızlı oynatılacak.</string>
   <string name="hint_groupshot">"Kamera birkaç fotoğraf çekiyor ve ardından 
 herkesin en iyi görünmesini sağlayan bir çekim yapıyor"</string>
+  <string name="hint_groupshot_beauty">"Güzelliği grup çekimlerinde kullanamazsınız"</string>
   <string name="hint_slow_motion">Video normal oynatım hızından daha yavaş gösterilecek.</string>
   <string name="hunt_dual_water_mark">Resimlere \"Çift Kamera\" filigranı otomatik olarak eklenecek</string>
   <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
@@ -216,7 +249,7 @@ herkesin en iyi görünmesini sağlayan bir çekim yapıyor"</string>
  deklanşör düğmesine dokunun"</string>
   <string name="pano_how_to_use_prompt_align_reference_line">Referans çizgisi ile oku hizalayın</string>
   <string name="pano_how_to_use_prompt_go_on_moving">Devam ediyor…</string>
-  <string name="pano_how_to_use_prompt_slow_down">Lütfen biraz yavaşlayın</string>
+  <string name="pano_how_to_use_prompt_slow_down">Biraz yavaşlayın</string>
   <string name="pano_how_to_use_prompt_start">Çekim yönünü değiştirmek ve telefonu eşit şekilde döndürmek için oku tıklayın</string>
   <string name="pano_how_to_use_prompt_to_move">Yavaşça çevirmeye başla</string>
   <string name="pano_review_saving_indication_str">Saklanıyor...</string>
@@ -242,6 +275,7 @@ herkesin en iyi görünmesini sağlayan bir çekim yapıyor"</string>
   <string name="portrait_mode_use_hint">"Portre Modunda arkaplan flu hale gelir ve kişi ön plana alınır."</string>
   <string name="portrait_with_facebeauty_hint">Güzellik Modu artık Portre Modunun içinde</string>
   <string name="pref_advance_settings">Ek Ayarlar</string>
+  <string name="pref_ai_detect">Akıllı Algılama</string>
   <string name="pref_advanced_functions">Gelişmiş Ayarlar</string>
   <string name="pref_advanced_settings">Genişletilmiş</string>
   <string name="pref_audio_focus_entry_front">Ön</string>
@@ -253,7 +287,9 @@ herkesin en iyi görünmesini sağlayan bir çekim yapıyor"</string>
   <string name="pref_burst_shoot_title">Seri Çekim</string>
   <string name="pref_camcorder_settings">Video</string>
   <string name="pref_camcorder_settings_category">Kamera Ayarları</string>
-  <string name="pref_camera2_cameramode_title">Kamera2 Modu</string>
+  <string 
+name="pref_camera_ai_scene_title">
+Akıllı Kamera</string>
   <string name="pref_camera2_clearsight_title">Net Görüntü</string>
   <string name="pref_camera2_mpo_title">MPO Biçimi</string>
   <string name="pref_camera_antibanding_entry_0">Kapalı</string>
@@ -278,6 +314,11 @@ herkesin en iyi görünmesini sağlayan bir çekim yapıyor"</string>
   <string name="pref_camera_beautify_entry_high">Yüksek</string>
   <string name="pref_camera_beautify_entry_low">Düşük</string>
   <string name="pref_camera_beautify_entry_normal">Orta</string>
+  <string 
+name="pref_camera_beauty">Güzellik</string>
+  <string name="pref_camera_beauty_deep">Güzellik Pro</string>
+  <string name="pref_camera_bokeh_title">Portre</string>
+  <string name="pref_camera_coloreffect_entry_aqua"/>
   <string name="pref_camera_coloreffect_entry_big_face">Holizon</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">S&amp;B</string>
   <string name="pref_camera_coloreffect_entry_brannan">Şafak</string>
@@ -314,10 +355,11 @@ herkesin en iyi görünmesini sağlayan bir çekim yapıyor"</string>
   <string name="pref_camera_delay_capture_entry_5s">5s</string>
   <string name="pref_camera_delay_capture_entry_audio">Ses</string>
   <string name="pref_camera_delay_capture_entry_off">Kapalı</string>
-  <string name="pref_camera_delay_capture_title">Oto. Zamanlayıcı</string>
+  <string name="pref_camera_delay_capture_title">Zamanlayıcı</string>
   <string name="pref_camera_denoise_title">Gürültüsüz Mod</string>
   <string name="pref_camera_device_watermark_title">Cihazın Filigranı</string>
-  <string name="pref_camera_exposuretime_entry_0.5">2s</string>
+  <string name="pref_camera_dual_enable_title">Çift kamerayı aç</string>
+  <string name="pref_camera_dual_sat_enable_title">Çift SAT kamerayı aç</string>
   <string name="pref_camera_exposuretime_entry_0_5">2s</string>
   <string name="pref_camera_exposuretime_entry_1">1s</string>
   <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
@@ -357,6 +399,11 @@ herkesin en iyi görünmesini sağlayan bir çekim yapıyor"</string>
   <string name="pref_camera_focusmode_entry_manual">Elle Ayarla</string>
   <string name="pref_camera_focusmode_entry_normal">Standart</string>
   <string name="pref_camera_focusmode_title">Odaklanma Modu</string>
+  <string name="pref_camera_front_ai_scene_entry_off">Akıllı Kamera kapalı</string>
+  <string name="pref_camera_front_ai_scene_entry_on">
+Akıllı Kamera açık</string>
+  <string name="pref_camera_front_bokeh_entry_off">Kapalı</string>
+  <string name="pref_camera_front_bokeh_entry_on">Açık</string>
   <string name="pref_camera_gradienter_title">Düzelt</string>
   <string name="pref_camera_groupshot_mode_title">Grup Resmi</string>
   <string name="pref_camera_hand_night_title">Gece Modu</string>
@@ -407,10 +454,12 @@ herkesin en iyi görünmesini sağlayan bir çekim yapıyor"</string>
   <string name="pref_camera_multilevel_entry_lowest">En Düşük</string>
   <string name="pref_camera_multilevel_entry_middle">Orta (Varsayılan)</string>
   <string name="pref_camera_multilevel_entry_normal">Normal</string>
+  <string name="pref_camera_optimized_flash_enable_title">İyileştirilmiş flaş</string>
   <string name="pref_camera_multiple_face_beauty_entry_off">1 Kişi</string>
   <string name="pref_camera_multiple_face_beauty_entry_on">2 Kişi</string>
   <string name="pref_camera_multiple_face_beauty_title">Cilt Rengini Vurgula</string>
   <string name="pref_camera_panoramamode_title">Panorama</string>
+  <string name="pref_camera_parallel_process_enable_title">Paralel işlemi aç</string>
   <string name="pref_camera_peak_entry_off">Kapalı</string>
   <string name="pref_camera_peak_entry_on">Açık</string>
   <string name="pref_camera_peak_title">Odaklan</string>
@@ -472,14 +521,18 @@ herkesin en iyi görünmesini sağlayan bir çekim yapıyor"</string>
   <string name="pref_camera_skinToneEnhancement_title">Cilt Rengini Vurgula</string>
   <string name="pref_camera_snap_enable_title">Hızlı Geçiş Modu</string>
   <string name="pref_camera_snap_entry_off">Kapalı</string>
-  <string name="pref_camera_snap_entry_take_movie">Ekran kapalıyken kaydı başlatmak için ses kısma tuşuna basın. Durdurmak içinde aynı işlem yapılır.</string>
-  <string name="pref_camera_snap_entry_take_picture">Ekran kapalıyken seri çekim kaydı başlatmak için ses kısma tuşunu basılı tutun. Durdurmak içinde aynı işlem yapılır.</string>
+  <string name="pref_camera_snap_entry_take_movie">Seri Çekim Modu (Video)</string>
+  <string name="pref_camera_snap_entry_take_picture">Seri Çekim Modu (Fotoğraf)</string>
   <string name="pref_camera_snap_label_take_movie">Video</string>
   <string name="pref_camera_snap_label_take_picture">Fotoğraf</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"\"Ses Düğmeleriyle Uyan\" açıkken Seri Çekim Moduna geçilemiyor."</string>
+  <string 
+name="pref_camera_snap_value_off">Kapalı</string>
+  <string name="pref_camera_snap_value_take_movie">Film</string>
+  <string name="pref_camera_snap_value_take_picture">Resim</string>
   <string name="pref_camera_sound_title">Kamera Sesleri</string>
   <string name="pref_camera_square_mode_title">Kare</string>
-  <string name="pref_camera_stereo_mode_title">Stereo</string>
+  <string name="pref_camera_stereo_mode_title">Odaklanma Ayarı</string>
   <string name="pref_camera_tilt_shift_default">Daire</string>
   <string name="pref_camera_tilt_shift_entry_circle">Çember</string>
   <string name="pref_camera_tilt_shift_entry_parallel">Paralel</string>
@@ -496,7 +549,7 @@ herkesin en iyi görünmesini sağlayan bir çekim yapıyor"</string>
   <string name="pref_camera_volumekey_function_entry_exposure">Pozlama</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Deklanşör</string>
   <string name="pref_camera_volumekey_function_entry_volume">Ses</string>
-  <string name="pref_camera_volumekey_function_entry_zoom">Büyült</string>
+  <string name="pref_camera_volumekey_function_entry_zoom">Yakınlaştır</string>
   <string name="pref_camera_volumekey_function_title">Ses Düğmelerinin Faaliyetleri</string>
   <string name="pref_camera_watermark_title">Fotoğrafa Zaman Damgası Ekle</string>
   <string name="pref_camera_whitebalance_entry_auto">Otomatik</string>
@@ -507,12 +560,13 @@ herkesin en iyi görünmesini sağlayan bir çekim yapıyor"</string>
   <string name="pref_camera_whitebalance_entry_manual">Elle Ayar</string>
   <string name="pref_camera_whitebalance_entry_measure">Ölçü</string>
   <string name="pref_camera_whitebalance_k_value_title">Beyaz Dengesi K-Değeri</string>
-  <string name="pref_camera_whitebalance_title">Beyaz Dengesi</string>
-  <string name="pref_camera_zoom_mode_entry_high_pixel">Yüksek Pixel</string>
-  <string name="pref_camera_zoom_mode_entry_standard">Standart</string>
+  <string name="pref_camera_whitebalance_title">Siyah/Beyaz</string>
+  <string name="pref_camera_zoom_mode_entry_high_pixel">Düşük Işık</string>
+  <string name="pref_camera_zoom_mode_entry_standard">Düzenli</string>
   <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
   <string name="pref_camera_zoom_mode_entry_wide">Uzak</string>
   <string name="pref_camera_zoom_mode_title">Yakın</string>
+  <string name="pref_camera_zoom_value_title">Yakınlaştır</string>
   <string name="pref_camera_zsl_entry_off">Kapalı</string>
   <string name="pref_camera_zsl_entry_on">Açık</string>
   <string name="pref_camera_zsl_title">ZSL</string>
@@ -553,6 +607,8 @@ herkesin en iyi görünmesini sağlayan bir çekim yapıyor"</string>
   <string name="pref_video_focusmode_entry_auto">Dokun</string>
   <string name="pref_video_focusmode_entry_continuous">CAF</string>
   <string name="pref_video_focusmode_title">Odaklanma Modu</string>
+  <string 
+name="pref_video_hfr_title">Video HFR</string>
   <string name="pref_video_quality_entry_1080p">FULL HD</string>
   <string name="pref_video_quality_entry_480p">SD</string>
   <string name="pref_video_quality_entry_4kuhd">4K</string>
@@ -663,6 +719,8 @@ herkesin en iyi görünmesini sağlayan bir çekim yapıyor"</string>
   <string name="tags">Etiketler</string>
   <string name="tap_to_exposure">El ile pozlamayı ayarlamak için dokunun</string>
   <string name="tap_to_focus">Odaklanmak için dokunun</string>
+  <string name="text_ai_scene_selector_text_off">Ters Işık</string>
+  <string name="text_ai_scene_selector_text_on">Siluet</string>
   <string name="time">Zaman</string>
   <string name="time_lapse_error">"Zaman aralıklı kayıt için bu video boyutu kullanılamıyor"</string>
   <string name="times">Zaman</string>
@@ -687,6 +745,8 @@ herkesin en iyi görünmesini sağlayan bir çekim yapıyor"</string>
   <string name="user_notice_title">Koşullar ve Şartlar</string>
   <string name="video_camera_label">Video Kamera</string>
   <string name="video_effect_entry_blackwhite">S&amp;B</string>
+  <string 
+name="video_effect_entry_bygone">Eski</string>
   <string name="video_effect_entry_film">Film</string>
   <string name="video_effect_entry_forest">Ağaçlık</string>
   <string name="video_effect_entry_holiday">Yansımalar</string>
@@ -694,24 +754,5 @@ herkesin en iyi görünmesini sağlayan bir çekim yapıyor"</string>
   <string name="video_err">Video oynatımı başarısız oldu</string>
   <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
   <string name="video_reach_size_limit">Boyut sınırına ulaşıldı.</string>
-  <string name="video_snapshot_hint">Video kaydı yaparken ekrana dokunarak resim çekin</string>
-  <string name="videocamera_settings_label">Video Ayarları</string>
-  <string name="visit_cloud_album">Bulut Albümünü ziyaret et</string>
   <string name="wait">Biraz bekleyin…</string>
-  <string name="web_url_apk_warning">Bu uygulama bilinmeyen bir kaynaktan geliyor ve bir güvenlik riski oluşturabilir. Uygulamaları yalnızca güvenilir kaynaklardan yükleyin.</string>
-  <string name="web_url_warning">Bağlantısı verilen internet sitesi bilinmeyen bir kaynağa sahip ve bir güvenlik riski oluşturabilir</string>
-  <string name="website_details">Site Detayları:</string>
-  <string name="wechat_details">WeChat Detayları:</string>
-  <string name="white_balance">Beyazlık Dengesi</string>
-  <string name="width">Genişlik</string>
-  <string name="wifi_connect_current_connetion">WLAN ağına bağlandı</string>
-  <string name="wifi_connect_fail">Bağlantı zaman aşımına uğradı</string>
-  <string name="wifi_connect_not_found">Kablosuz bağlantısı başarısız oldu</string>
-  <string name="wifi_connect_success">Bağlı</string>
-  <string name="wifi_connecting">Bağlanıyor...</string>
-  <string name="wifi_details">WLAN Detayları:</string>
-  <string name="wifi_open_fail">WLAN etkinleştirme başarısız oldu</string>
-  <string name="wifi_pwd">Şifre:</string>
-  <string name="wifi_security">Güvenlik:</string>
-  <string name="wifi_warning">Bağlamadan önce ağın güvenli olduğundan emin olun</string>
 </resources>
