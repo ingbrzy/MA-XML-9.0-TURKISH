@@ -8,10 +8,6 @@
   <string name="account_duplicate_dlg_message_fmt">"\"%s\" hesabı için zaten bu kullanıcı adını kullanıyorsunuz."</string>
   <string name="account_duplicate_dlg_title">Tekrarlanan Hesap</string>
   <string name="account_failure">Hesap başarısız</string>
-  <string name="account_manager_type_exchange">com.android.exchange</string>
-  <string name="account_manager_type_imap">com.android.email</string>
-  <string name="account_manager_type_legacy_imap">com.android.email</string>
-  <string name="account_manager_type_pop3">com.android.email</string>
   <string name="account_name_toast">Aynı isimde bir hesap zaten var</string>
   <string name="account_options_sync_title">Eşitle</string>
   <string name="account_password_spaces_error">"Bu parola bir veya birden fazla boşluk karakteri ile başlar veya biter. Birçok sunucu boşluk şifrelerini desteklemez."</string>
@@ -214,7 +210,6 @@
   <string name="attachment_unknown">%s dosya</string>
   <string name="attachment_video">Video</string>
   <string name="attachments_header">Ekler</string>
-  <string name="authority_email_provider">com.android.email.provider</string>
   <string name="auto_advance_help_title">Postayı sildikten sonra, görüntüle </string>
   <string name="auto_advance_label">Sildikten sonra devam et</string>
   <string name="auto_advance_summary">Posta silindikten sonra ilerlemek için bir posta seçin</string>
@@ -429,13 +424,11 @@
   <string name="email_address">E-Posta Adresi</string>
   <string name="email_feedback_uri"/>
   <string name="email_netease">NetEase Posta</string>
-  <string name="email_package_name">com.android.email</string>
   <string name="email_qq">QQ Posta</string>
   <string name="email_setting">Posta</string>
   <string name="email_setting_keywords">Hesaplar;Hesap Ekle; Posta hesabı ekle; silmeyi onayla;göndermeyi onayla;direkt sil; postayı görüntüle;pil tasarrufu; geribildirim gönder; günlüğü gönder</string>
   <string name="email_sina">Sina Posta</string>
   <string name="eml_parse_message">eml dosyalarını yavaş yavaş çözüyoruz, lütfen bekleyin...</string>
-  <string name="email_suggestions_authority">com.android.email.provider</string>
   <string name="empty_account_tip">"Hesap bulunamadı"</string>
   <string name="empty_email_tip">"Boş E-Posta gönderilemez"</string>
   <string name="empty_spam">İstenmeyenleri temizle</string>
@@ -577,7 +570,6 @@
   <string name="information_subscribe_first_intro">「Abone Ol」 ilk kez kullanılacak ,Lütfen ilgilendiğiniz etiketleri seçin. Size çeşitli içerikler önereceğiz~</string>
   <string name="inline_picture_deleted">Eksik resim indiriliyor...</string>
   <string name="input_password_prompt">Şifreni gir</string>
-  <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
   <string name="interact_with_server_error">"Sunucuya bağlanamadı"</string>
   <string name="invalid_recipient"> %s adresi geçersiz.</string>
   <string name="invalid_recipient_title">Alıcı Hatası</string>
@@ -1055,7 +1047,6 @@ E-Postanızdaki faturaları ve seyahat bilgilerini analiz edin"</string>
   <string name="str_select_none">Vazgeç</string>
   <string name="subject_and_snippet" formatted="false">%s — %s</string>
   <string name="subject_hint">Konu</string>
-  <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
   <string name="sync_contacts_fail_per_content">Kişilere erişime izin vermek için dokunun</string>
   <string name="sync_contacts_fail_per_title">Kişiler eşitlenemedi</string>
   <string name="sync_contacts_fail_permission">"Kişiler eşitlenemedi, Postanın Ayarlar'ından kişilerinize erişmesine izin verildi"</string>
