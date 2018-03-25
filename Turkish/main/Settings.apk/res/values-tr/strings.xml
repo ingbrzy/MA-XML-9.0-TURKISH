@@ -1655,12 +1655,8 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="input_method">Klavye</string>
   <string name="input_method_selector">Giriş usülünü seç</string>
   <string name="input_method_selector_always_hide_title">Daima gizle</string>
-  <string name="input_method_selector_always_hide_value">2</string>
   <string name="input_method_selector_always_show_title">Always show</string>
-  <string name="input_method_selector_always_show_value">1</string>
   <string name="input_method_selector_show_automatically_title">Otomatik</string>
-  <string name="input_method_selector_show_automatically_value">0</string>
-  <string name="input_method_selector_visibility_default_value">0</string>
   <string name="input_method_settings">Ayarlar</string>
   <string name="input_method_settings_button">Ayarlar</string>
   <string name="input_methods_and_subtype_enabler_title">Etkin giriş yöntemlerini seçin</string>
