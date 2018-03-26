@@ -9,8 +9,6 @@
   <string 
 name="ad_txt">
 广告</string>
-  <string name="add_one">
-+1</string>
   <string name="add_private">Dosyaları şimdi gizle</string>
   <string name="add_private_files">Dosyaları ekle</string>
   <string name="album_creator">%s tarafından oluşturuldu</string>
@@ -886,9 +884,7 @@ Başlat</string>
   <string name="video_retry_btn">点击重试</string>
   <string name="video_status_reject">Çıkıldı</string>
   <string name="video_status_review">Önizleniyor</string>
-  <string name="video_tag">\# %s #</string>
   <string name="video_tag_search_hint">Kişisel Başlık</string>
-  <string name="video_tag_search_lead">\#</string>
   <string name="video_tag_search_title">Başlık Seçin</string>
   <string name="video_topic_hint">Ara</string>
   <string name="video_upload_btn">Sonraki</string>
