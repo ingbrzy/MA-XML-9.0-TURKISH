@@ -528,8 +528,6 @@ Akıllı Kamera açık</string>
   <string name="pref_camera_snap_toast_when_volume_can_wake_screen">"\"Ses Düğmeleriyle Uyan\" açıkken Seri Çekim Moduna geçilemiyor."</string>
   <string 
 name="pref_camera_snap_value_off">Kapalı</string>
-  <string name="pref_camera_snap_value_take_movie">Film</string>
-  <string name="pref_camera_snap_value_take_picture">Resim</string>
   <string name="pref_camera_sound_title">Kamera Sesleri</string>
   <string name="pref_camera_square_mode_title">Kare</string>
   <string name="pref_camera_stereo_mode_title">Odaklanma Ayarı</string>
@@ -566,7 +564,6 @@ name="pref_camera_snap_value_off">Kapalı</string>
   <string name="pref_camera_zoom_mode_entry_tele">Tele</string>
   <string name="pref_camera_zoom_mode_entry_wide">Uzak</string>
   <string name="pref_camera_zoom_mode_title">Yakın</string>
-  <string name="pref_camera_zoom_value_title">Yakınlaştır</string>
   <string name="pref_camera_zsl_entry_off">Kapalı</string>
   <string name="pref_camera_zsl_entry_on">Açık</string>
   <string name="pref_camera_zsl_title">ZSL</string>
