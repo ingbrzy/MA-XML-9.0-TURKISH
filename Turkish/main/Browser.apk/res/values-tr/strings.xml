@@ -12,7 +12,9 @@
   <string name="action_menu_account_not_login">Oturum açılmadı</string>
   <string name="action_menu_account_not_login_hint">Mi Bulut ile eşitlemek için oturum açın</string>
   <string name="action_menu_bookshelf">Kitaplık</string>
-  <string name="action_menu_current_version">Güncel Sürüm</string>
+  <string name="action_menu_current_version">
+Güncel Sürüm</string>
+  <string name="action_menu_download">İndir</string>
   <string name="action_menu_request_desktop_site">Site Erişimi</string>
   <string name="action_menu_request_desktop_site_off">Site Erişimi kapalı</string>
   <string name="action_menu_request_desktop_site_on">Site Erişimi açık</string>
@@ -33,6 +35,8 @@
   <string name="action_menu_text_nightmode">Gece Modu</string>
   <string name="action_menu_text_nightmode_off">Gece Modu</string>
   <string name="action_menu_text_nightmode_on">Gece Modu</string>
+  <string 
+name="action_menu_text_readmode">Okuma Modu</string>
   <string name="action_menu_text_refresh">Yenile</string>
   <string name="action_menu_text_setting">Ayarlar</string>
   <string name="action_menu_text_share">Paylaş</string>
@@ -130,6 +134,8 @@
   <string name="cancel">İptal et</string>
   <string name="cancle_sync_cloud_tabs">Eşitlemeyi iptal et</string>
   <string name="cannot_download">Sadece \"http\" veya \"https\" adreslerinden indirilebilir</string>
+  <string 
+name="cast_video">Videoyu Yansıt</string>
   <string name="check_security_tip_privacy_policy">Gizlilik Politikası</string>
   <string name="check_security_tip_user_agreement">Kullanıcı Sözleşmesi</string>
   <string name="choosertitle_sharevia">Paylaş:</string>
@@ -138,6 +144,8 @@
   <string name="clear_search_history">Geçmişi temizle</string>
   <string name="clear_video_download">Videoları temizle</string>
   <string name="clip_dialog_title">Kopyalanan URL açılsın mı?</string>
+  <string 
+name="close">Kapat</string>
   <string name="close_ads_choice_no">İzin Ver</string>
   <string name="close_ads_choice_yes">Engelle</string>
   <string name="close_ads_message">"Bu sitenin içeriği engellenecek. Engellenen Site; Ayarlar &gt; Gelişmiş &gt; Engelli Siteler\'de görülebilir."</string>
@@ -152,11 +160,44 @@
   <string name="cloud_tab">Bulut sekmeleri</string>
   <string name="cloud_tabs_sync_off">Eşitleme kapalı</string>
   <string name="cloud_time_tips">Son Eşitleme: </string>
-  <string name="cloud_up_to_loading_tips">Eşitlemeyi başlatın</string>
+  <string name="cloud_up_to_loading_tips">Eşitlemek için bırakın</string>
+  <string 
+name="collect_video">Videoyu sakla</string>
+  <string name="com_taobao_tae_sdk_alert_message">您离开太久了，请重新操作</string>
+  <string name="com_taobao_tae_sdk_authorize_title">登录授权</string>
+  <string name="com_taobao_tae_sdk_back_message">返回</string>
+  <string name="com_taobao_tae_sdk_cart_title">购物车</string>
+  <string name="com_taobao_tae_sdk_close_message">关闭</string>
+  <string name="com_taobao_tae_sdk_loading_progress_message">加载中</string>
+  <string name="com_taobao_tae_sdk_login_progress_message">登录中</string>
+  <string name="com_taobao_tae_sdk_logout_fail_message">登出失败</string>
+  <string name="com_taobao_tae_sdk_more_message">更多</string>
+  <string name="com_taobao_tae_sdk_network_not_available_message">网络无法连接</string>
+  <string name="com_taobao_tae_sdk_qr_login_title_bar_text">淘宝账号登录</string>
+  <string name="com_taobao_tae_sdk_system_exception">系统异常</string>
+  <string name="com_taobao_tae_sdk_trade_confirm_progress_message">交易确认中</string>
+  <string name="com_taobao_tae_sdk_trade_title">确认下单</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_basewebviewactivity_strings_menulist_copy">已复制到剪贴板</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_feedback_strings_delete">删除</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_feedback_strings_titlebar_title">报告问题</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_add_picture">添加图片</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_email_edit">请输入您的邮件地址或者手机号......</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_edit">在这里输入您的反馈......</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_feedbackcomplete">感谢您的反馈，我们会尽快处理</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_invalidcontact">您输入的邮箱或手机格式不对</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_invalidcontent">反馈内容长度应大于3</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_maximages">最多上传5张图片</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_nocontact">请输入您的邮件地址或者手机号</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_nocontent">请输入您的反馈内容</string>
+  <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_nowifi">为了您的流量考虑，请连接Wifi网络后再进行反馈</string>
   <string name="comment_app_menu">Yorum</string>
   <string name="comment_description">Yorum</string>
   <string name="comment_hint">Yorum</string>
+  <string 
+name="comment_max_length">Yorumunuz çok uzun.</string>
   <string name="comment_menu">Yorum</string>
+  <string 
+name="comment_num_description">Yorum numarası</string>
   <string name="common_use_phrase_bottom_bar_cn_txt">.tr</string>
   <string name="common_use_phrase_bottom_bar_text_next">Sonraki</string>
   <string name="common_use_phrase_bottom_bar_text_previous">Önceki</string>
@@ -261,6 +302,8 @@
   <string name="download_status_pending">Bekleniyor...</string>
   <string name="download_success">Tamamlandı</string>
   <string name="download_title">İndirmeler</string>
+  <string 
+name="download_video">Videoyu İndir</string>
   <string name="download_wait_connect">Bağlantı bekleniyor</string>
   <string name="edit">Düzenle</string>
   <string name="edit_bookmark">Favoriyi Düzenle</string>
@@ -275,6 +318,10 @@ görüntülemek için Mi Hesabınızda oturum açın."</string>
   <string name="enable_geolocation_confirm_message">Bu özelliği kapatmak bazı web sitelerinin hatalı davranmasına neden olabilir.</string>
   <string name="enter_developer_mode">Geliştirici Moduna Gir</string>
   <string name="enter_incongnito_mode">Gizli Moda Gir</string>
+  <string 
+name="enter_the_group_name">Grup adını girin</string>
+  <string name="enter_the_password">Şifreyi girin</string>
+  <string name="enter_the_user_name">Kullanıcı adını girin</string>
   <string name="error_console_eval_button_text">Değerlendir</string>
   <string name="error_console_eval_text_hint">JavaScript\'i değerlendir</string>
   <string name="error_console_header_text_maximized">JavaScript Konsolu</string>
@@ -285,6 +332,9 @@ görüntülemek için Mi Hesabınızda oturum açın."</string>
   <string name="error_unauthorized">Mi hesabınızla eşitleme çok fazla oturum açma girişimleri nedeniyle devre dışı bırakıldı.</string>
   <string name="exit">Çık</string>
   <string name="exit_browser_warning">Tarayıcıdan çıkılsın mı?</string>
+  <string 
+name="exit_fullscreen">Tam Ekrandan çık</string>
+  <string name="favorite">Favorilere ekle</string>
   <string name="file_dir">Dizin</string>
   <string name="file_name">Adı</string>
   <string name="file_picker">Yolu seç</string>
@@ -645,6 +695,17 @@ Bu sayfadan uzaklaşmak istediğinizden emin misiniz?"</string>
           &lt;li&gt;İnternet servis sağlayıcınız
         &lt;/ul&gt;"</string>
   <string name="mw_no_matches">Eşleşme yok</string>
+  <string 
+name="mw_notification_category_browser">Tarayıcı</string>
+  <string name="mw_notification_category_content_suggestions">İçerik Tavsiyeleri</string>
+  <string name="mw_notification_category_downloads">İndirmeler</string>
+  <string name="mw_notification_category_fullscreen_controls">Tam ekran site kontrolleri</string>
+  <string name="mw_notification_category_group_general">Genel</string>
+  <string name="mw_notification_category_incognito">Gizli</string>
+  <string name="mw_notification_category_media">Medya</string>
+  <string name="mw_notification_category_screen_capture">Ekran Kaydı</string>
+  <string name="mw_notification_category_sites">Siteler</string>
+  <string name="mw_notification_hidden_text">Gizli İçerikler</string>
   <string name="mw_ntp_title_no_suggestions">Şimdilik bu kadar</string>
   <string name="mw_older">Eski</string>
   <string name="mw_opening_file_error">Seçili dosya açılamadı</string>
@@ -818,10 +879,20 @@ Bu sayfadan uzaklaşmak istediğinizden emin misiniz?"</string>
   <string name="pay_success_toast">Ödeme başarıyla tamamlandı</string>
   <string name="permission_notification">Bildirimleri gönder</string>
   <string name="permissions_prompt_message">"%s şunu istiyor: "</string>
-  <string name="popup_window_attempt">Bu sitenin açılır pencere açmasına izin verilsin mi?</string>
-  <string name="positive_confirm_message">Yine de kapat</string>
-  <string name="pref_accept_quicklink_push">Haber Akışı</string>
-  <string name="pref_accessibility">Erişebilirlik</string>
+  <string 
+name="play_pause_video">
+Videoyu oynat veya durdur</string>
+  <string 
+name="play_video">
+Videoyu oynat</string>
+  <string 
+name="popup_video">Pencerede Video</string>
+  <string name="popup_window_attempt">
+Bu sitenin bir açılır pencere açmasına izin verilsin mi?</string>
+  <string 
+name="positive_confirm_message">Yine de kapat</string>
+  <string name="pref_accept_quicklink_push">
+Haber Akışı</string>
   <string name="pref_accessibility_title">Erişebilirlik</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Ortak harf kombinasyonları adres çubuğunda tek dokunuşla girilebilir</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Hızlı URL girişi</string>
@@ -989,6 +1060,8 @@ Bu sayfadan uzaklaşmak istediğinizden emin misiniz?"</string>
   <string name="save_image_success">Görüntü kaydedildi</string>
   <string name="save_page_capture_tip"> Ekran görüntüsünü bildirim alanından aç</string>
   <string name="save_page_capture_to_camera">Ekran görüntüsü kaydedildi</string>
+  <string 
+name="save_to_bookmark">Yerimlerine ekle</string>
   <string name="save_to_camera">Galeriye kaydet</string>
   <string name="save_to_camera_failed">"Resim kaydedilemiyor"</string>
   <string name="save_to_camera_success">Galeriye kaydedildi</string>
@@ -1031,7 +1104,9 @@ Bu sayfadan uzaklaşmak istediğinizden emin misiniz?"</string>
   <string name="sequence_bookmark_description">Yerimlerini yeniden düzenlemek için basılı tutun</string>
   <string name="share_by_yidianzixun">【一点资讯】</string>
   <string name="share_image_text">Bakın ne paylaştım! @MIUI</string>
-  <string name="share_page_text">Bakın ne paylaştım: %1$s @MIUI| %2$s</string>
+  <string name="share_page_text">
+Bakın ne paylaştım: %1$s @MIUI| %2$s</string>
+  <string name="share_video">Videoyu Paylaş</string>
   <string name="show_check_security_url_check_tip_dialog_description">"Hizmetlerimizi kullanmayı seçerseniz kişisel verilerinizi toplayıp kullanacağız.
 İşte topladığımız veriler:
 1. Güvenli URL'ler: Hizmetlerimizi kullanırken ziyaret ettiğiniz web sitelerinin URL'lerini toplayacağız.
@@ -1068,7 +1143,11 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Bu T
   <string name="ssl_untrusted">"Bu sertifika güvenilir bir yetkiliden değil."</string>
   <string name="ssl_warnings_header">Bu sitenin güvenlik sertifikası ile ilgili sorunları vardır.</string>
   <string name="start_save_page_capture">Ekran görüntüsü kaydediliyor...</string>
+  <string 
+name="storage_close">Kapat</string>
   <string name="storage_internal">Dahili Hafıza</string>
+  <string 
+name="storage_open">Aç</string>
   <string name="storage_permission_request_toast">"İndirmeler cihazın depolamasına erişmek ister"</string>
   <string name="storage_sd_card">SD Kart</string>
   <string name="storage_usb">USB Depolama</string>
@@ -1093,6 +1172,16 @@ Tarayıcının normal çalışması için internete bağlanması gerekiyor. Bu T
   <string name="suggest_access_music">Mi Müzik</string>
   <string name="suggest_item_delete_text">Sil</string>
   <string name="suggest_open_app_failed">"Bu uygulama açılamadı"</string>
+  <string 
+name="suggestion_express_button_query_more">DİĞER</string>
+  <string name="suggestion_express_button_text_query">DENETLE</string>
+  <string name="suggestion_express_exception_net">"Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin."</string>
+  <string name="suggestion_express_exception_number">Numara yanlış. Numaranızı kontrol edip tekrar deneyin.</string>
+  <string name="suggestion_express_exception_server">Bir sunucu hatası oluştu. Bir ya da iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="suggestion_express_input_empty">"Takip numarası boş bırakılamaz."</string>
+  <string name="suggestion_express_input_hint_inside">Takip numarasını girin</string>
+  <string name="suggestion_express_input_hint_out">Takip numarası:</string>
+  <string name="suggestion_express_title">Paketini takip et</string>
   <string name="suggestion_lottery_detail_pour">%s NOT</string>
   <string name="suggestion_lottery_detail_price">HER NOT %s YUAN</string>
   <string name="suggestion_lottery_detail_text">BU YUVARLAK %s</string>
